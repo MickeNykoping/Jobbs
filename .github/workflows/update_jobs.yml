@@ -1,8 +1,6 @@
 name: Uppdatera IT-jobb dagligen
 
 on:
-  schedule:
-    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,10 +11,13 @@ jobs:
       - name: Checka ut repo
         uses: actions/checkout@v3
 
-      - name: Installera Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: "24"
+      # Actions kör på Node 24, men runnern kör fortfarande Node 18.
+      # Detta steg byter Node-version för själva runnern.
+      - name: Force Node 24 for runner
+        run: |
+          sudo npm install -g n
+          sudo n 24
+          node -v
 
       - name: Installera beroenden
         run: npm install node-fetch@3
@@ -27,7 +28,7 @@ jobs:
       - name: Commit & push
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.email "github-actions@github.com"
           git add jobs.json
-          git commit -m "Daglig jobbuppdatering"
+          git commit -m "Uppdaterade jobb"
           git push
