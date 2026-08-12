@@ -12,13 +12,19 @@ async function updateJobs() {
         console.log("Statuskod:", res.status);
 
         const text = await res.text();
-        console.log("Raw API-svar:", text);
+        console.log("Raw API-svar:", text.slice(0, 500)); // visa bara första 500 tecken
+
+        if (!res.ok) {
+            throw new Error(`API-svarade med felkod: ${res.status}`);
+        }
 
         let data;
         try {
             data = JSON.parse(text);
         } catch (e) {
-            throw new Error("Kunde inte parsa JSON från API.");
+            console.error("Kunde inte parsa JSON. API-svar var inte JSON.");
+            fs.writeFileSync("jobs.json", JSON.stringify({ error: "API returned non-JSON", raw: text }));
+            return;
         }
 
         console.log("API-nycklar:", Object.keys(data));
@@ -30,16 +36,13 @@ async function updateJobs() {
             data.data ||
             [];
 
-        if (!Array.isArray(jobs)) {
-            throw new Error("API-svar innehåller inga jobb i listform.");
-        }
+        console.log(`Antal jobb hittade: ${jobs.length}`);
 
         fs.writeFileSync("jobs.json", JSON.stringify(jobs, null, 2));
-
-        console.log("Jobb uppdaterade:", new Date().toISOString());
+        console.log("jobs.json uppdaterad!");
     } catch (err) {
-        console.error("Fel vid hämtning av jobb:", err);
-        process.exit(1);
+        console.error("Fel i updateJobs:", err);
+        fs.writeFileSync("jobs.json", JSON.stringify({ error: err.message }));
     }
 }
 
