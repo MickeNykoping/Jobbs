@@ -9,16 +9,20 @@ async function updateJobs() {
 
         const res = await fetch(url);
 
-        if (!res.ok) {
-            throw new Error(`API-fel: ${res.status} ${res.statusText}`);
+        console.log("Statuskod:", res.status);
+
+        const text = await res.text();
+        console.log("Raw API-svar:", text);
+
+        let data;
+        try {
+            data = JSON.parse(text);
+        } catch (e) {
+            throw new Error("Kunde inte parsa JSON från API.");
         }
 
-        const data = await res.json();
+        console.log("API-nycklar:", Object.keys(data));
 
-        // Logga för säkerhets skull
-        console.log("API-svar nycklar:", Object.keys(data));
-
-        // JobTech API kan returnera jobben under olika nycklar:
         const jobs =
             data.hits ||
             data.results ||
