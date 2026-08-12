@@ -19,7 +19,7 @@ jobs:
       - name: Ställ in Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Kör jobbhämtaren
         run: node fetch_jobs.js
@@ -31,4 +31,3 @@ jobs:
           git add jobs.json
           git diff --staged --quiet || git commit -m "Uppdaterade jobb [skip ci]"
           git push
-          
