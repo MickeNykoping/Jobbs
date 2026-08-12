@@ -2,46 +2,68 @@ import fs from "fs";
 
 async function updateJobs() {
     try {
-        const url = "https://jobsearch.api.jobtechdev.se/search?q=IT&limit=200";
+        const MAX_TOTAL_JOBS = 500; // Sätt hur många jobb du maximalt vill hämta totalt
+        const LIMIT_PER_PAGE = 100; // JobTech maxgräns per anrop
+        let allJobs = [];
+        let offset = 0;
 
-        console.log("Hämtar jobb från JobTech API…");
+        console.log("Startar hämtning av IT-jobb från JobTech API…");
 
-        // Inbyggd fetch i Node 18+
-        const res = await fetch(url, {
-            headers: {
-                "accept": "application/json"
+        while (allJobs.length < MAX_TOTAL_JOBS) {
+            // apaJ_22U_12F är yrkesområdeskoden för Data/IT
+            const url = `https://jobsearch.api.jobtechdev.se/search?occupational-field=apaJ_22U_12F&limit=${LIMIT_PER_PAGE}&offset=${offset}`;
+
+            console.log(`Hämtar sida (offset ${offset})…`);
+
+            const res = await fetch(url, {
+                headers: {
+                    "accept": "application/json"
+                }
+            });
+
+            console.log("Statuskod:", res.status);
+
+            if (!res.ok) {
+                throw new Error(`API svarade med felkod: ${res.status}`);
             }
-        });
 
-        console.log("Statuskod:", res.status);
+            const text = await res.text();
+            let data;
+            
+            try {
+                data = JSON.parse(text);
+            } catch (e) {
+                console.error("Kunde inte parsa JSON.");
+                fs.writeFileSync(
+                    "jobs.json",
+                    JSON.stringify({ error: "API returned non-JSON", raw: text }, null, 2)
+                );
+                return;
+            }
 
-        const text = await res.text();
-        console.log("Raw API-svar (första 500 tecken):", text.slice(0, 500));
+            const hits = data?.hits || [];
+            console.log(`Hämtade ${hits.length} jobb på denna sida.`);
 
-        if (!res.ok) {
-            throw new Error(`API svarade med felkod: ${res.status}`);
+            if (hits.length === 0) {
+                // Inga fler jobb finns att hämta
+                break;
+            }
+
+            allJobs = allJobs.concat(hits);
+            offset += LIMIT_PER_PAGE;
+
+            // Om det finns färre jobb än limit på denna sida nådde vi slutet
+            if (hits.length < LIMIT_PER_PAGE) {
+                break;
+            }
         }
 
-        let data;
-        try {
-            data = JSON.parse(text);
-        } catch (e) {
-            console.error("Kunde inte parsa JSON.");
-            fs.writeFileSync(
-                "jobs.json", 
-                JSON.stringify({ error: "API returned non-JSON", raw: text }, null, 2)
-            );
-            return;
-        }
+        console.log(`Totalt antal IT-jobb hämtade: ${allJobs.length}`);
 
-        // JobTech API returnerar träffarna under .hits
-        const jobs = data?.hits || data?.results || data?.documents || data?.data || [];
+        // Spara alla jobb till jobs.json
+        fs.writeFileSync("jobs.json", JSON.stringify(allJobs, null, 2));
+        console.log("jobs.json uppdaterades framgångsrikt!");
 
-        console.log(`Antal jobb hittade: ${jobs.length}`);
-
-        // Garanterar att jobs är en array/objekt innan stringify
-        fs.writeFileSync("jobs.json", JSON.stringify(jobs, null, 2));
-        console.log("jobs.json uppdaterad!");
     } catch (err) {
         console.error("Fel i updateJobs:", err);
         const errorMessage = err?.message || String(err);
