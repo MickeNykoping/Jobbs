@@ -2,16 +2,15 @@ name: Uppdatera IT-jobb dagligen
 
 on:
   schedule:
-    # Körs automatiskt varje dag kl 06:00 UTC
     - cron: '0 6 * * *'
-  workflow_dispatch: # Tillåter även manuell start via GitHubs gränssnitt
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # Ger workflowet rättighet att pusha ändringar till repot
+      contents: write
 
     steps:
       - name: Checka ut repo
@@ -20,7 +19,7 @@ jobs:
       - name: Ställ in Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # Rekommenderad stabil LTS-version
+          node-version: '20'
 
       - name: Kör jobbhämtaren
         run: node fetch_jobs.js
