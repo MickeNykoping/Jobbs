@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<title>IT-jobb Dashboard</title>
+<style>
+body { font-family: Arial; margin: 20px; background: #f4f4f4; }
+#filters { background: white; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+.job { background: white; padding: 15px; margin-bottom: 10px; border-radius: 8px; }
+.job h3 { margin: 0; }
+</style>
+</head>
+<body>
+
+<h1>IT-jobb Dashboard</h1>
+
+<div id="filters">
+    <label>Län:</label>
+    <select id="filterLan">
+        <option value="">Alla</option>
+        <option value="Södermanlands län">Södermanlands län</option>
+        <option value="Östergötlands län">Östergötlands län</option>
+    </select>
+
+    <label>Roll:</label>
+    <input type="text" id="filterRoll" placeholder="t.ex. supporttekniker">
+
+    <label>Minimilön (kr):</label>
+    <input type="number" id="filterLon" placeholder="30000">
+
+    <button onclick="loadJobs()">Filtrera</button>
+</div>
+
+<div id="jobs"></div>
+
+<script>
+async function loadJobs() {
+    const lan = document.getElementById("filterLan").value;
+    const roll = document.getElementById("filterRoll").value;
+    const lon = document.getElementById("filterLon").value;
+
+    const res = await fetch("jobs.json");
+    const data = await res.json();
+
+    let html = "";
+
+    data.forEach(job => {
+        const municipality = job.workplace_address?.municipality || "";
+        const region = job.workplace_address?.region || "";
+        const salary = job.salary_description || "";
+
+        if (lan && region !== lan) return;
+        if (roll && !job.headline.toLowerCase().includes(roll.toLowerCase())) return;
+        if (lon && !salary.match(/\d+/)) return;
+
+        html += `
+            <div class="job">
+                <h3>${job.headline}</h3>
+                <p><strong>Företag:</strong> ${job.employer?.name || "Okänt"}</p>
+                <p><strong>Ort:</strong> ${municipality}</p>
+                <p><strong>Län:</strong> ${region}</p>
+                <p><strong>Lön:</strong> ${salary}</p>
+                <p><a href="${job.weburl}" target="_blank">Visa annons</a></p>
+            </div>
+        `;
+    });
+
+    document.getElementById("jobs").innerHTML = html || "<p>Inga jobb hittades.</p>";
+}
+
+loadJobs();
+</script>
+
+</body>
+</html>
