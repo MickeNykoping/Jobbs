@@ -1,5 +1,4 @@
 import fs from "fs";
-import fetch from "node-fetch";
 
 async function updateJobs() {
     try {
@@ -7,42 +6,46 @@ async function updateJobs() {
 
         console.log("Hämtar jobb från JobTech API…");
 
-        const res = await fetch(url);
+        // Inbyggd fetch i Node 18+
+        const res = await fetch(url, {
+            headers: {
+                "accept": "application/json"
+            }
+        });
 
         console.log("Statuskod:", res.status);
 
         const text = await res.text();
-        console.log("Raw API-svar:", text.slice(0, 500)); // visa bara första 500 tecken
+        console.log("Raw API-svar (första 500 tecken):", text.slice(0, 500));
 
         if (!res.ok) {
-            throw new Error(`API-svarade med felkod: ${res.status}`);
+            throw new Error(`API svarade med felkod: ${res.status}`);
         }
 
         let data;
         try {
             data = JSON.parse(text);
         } catch (e) {
-            console.error("Kunde inte parsa JSON. API-svar var inte JSON.");
-            fs.writeFileSync("jobs.json", JSON.stringify({ error: "API returned non-JSON", raw: text }));
+            console.error("Kunde inte parsa JSON.");
+            fs.writeFileSync(
+                "jobs.json", 
+                JSON.stringify({ error: "API returned non-JSON", raw: text }, null, 2)
+            );
             return;
         }
 
-        console.log("API-nycklar:", Object.keys(data));
-
-        const jobs =
-            data.hits ||
-            data.results ||
-            data.documents ||
-            data.data ||
-            [];
+        // JobTech API returnerar träffarna under .hits
+        const jobs = data?.hits || data?.results || data?.documents || data?.data || [];
 
         console.log(`Antal jobb hittade: ${jobs.length}`);
 
+        // Garanterar att jobs är en array/objekt innan stringify
         fs.writeFileSync("jobs.json", JSON.stringify(jobs, null, 2));
         console.log("jobs.json uppdaterad!");
     } catch (err) {
         console.error("Fel i updateJobs:", err);
-        fs.writeFileSync("jobs.json", JSON.stringify({ error: err.message }));
+        const errorMessage = err?.message || String(err);
+        fs.writeFileSync("jobs.json", JSON.stringify({ error: errorMessage }, null, 2));
     }
 }
 
