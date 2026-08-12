@@ -1,74 +1,140 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
-<meta charset="UTF-8">
-<title>IT-jobb Dashboard</title>
-<style>
-body { font-family: Arial; margin: 20px; background: #f4f4f4; }
-#filters { background: white; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
-.job { background: white; padding: 15px; margin-bottom: 10px; border-radius: 8px; }
-.job h3 { margin: 0; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT-jobb Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #f4f4f4; color: #333; }
+        #filters { background: white; padding: 15px; border-radius: 8px; margin-bottom: 20px; display: flex; gap: 15px; flex-wrap: wrap; align-items: center; }
+        .job { background: white; padding: 20px; margin-bottom: 12px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .job h3 { margin-top: 0; color: #0056b3; }
+        .job-link { display: inline-block; margin-top: 10px; background: #0056b3; color: white; padding: 8px 12px; text-decoration: none; border-radius: 4px; }
+        .job-link:hover { background: #003d80; }
+        .error { color: #d9534f; background: #fdf7f7; padding: 15px; border-radius: 8px; border: 1px solid #d9534f; }
+    </style>
 </head>
 <body>
 
 <h1>IT-jobb Dashboard</h1>
 
 <div id="filters">
-    <label>Län:</label>
-    <select id="filterLan">
-        <option value="">Alla</option>
-        <option value="Södermanlands län">Södermanlands län</option>
-        <option value="Östergötlands län">Östergötlands län</option>
-    </select>
+    <div>
+        <label for="filterLan">Län:</label>
+        <select id="filterLan">
+            <option value="">Alla län</option>
+        </select>
+    </div>
 
-    <label>Roll:</label>
-    <input type="text" id="filterRoll" placeholder="t.ex. supporttekniker">
+    <div>
+        <label for="filterRoll">Sök roll/titel:</label>
+        <input type="text" id="filterRoll" placeholder="t.ex. supporttekniker">
+    </div>
 
-    <label>Minimilön (kr):</label>
-    <input type="number" id="filterLon" placeholder="30000">
+    <div>
+        <label for="filterLon">Minimilön (kr):</label>
+        <input type="number" id="filterLon" placeholder="30000">
+    </div>
 
-    <button onclick="loadJobs()">Filtrera</button>
+    <button onclick="renderJobs()">Filtrera</button>
 </div>
 
-<div id="jobs"></div>
+<div id="jobs">Laddar jobb...</div>
 
 <script>
-async function loadJobs() {
-    const lan = document.getElementById("filterLan").value;
-    const roll = document.getElementById("filterRoll").value;
-    const lon = document.getElementById("filterLon").value;
+let allJobs = [];
 
-    const res = await fetch("jobs.json");
-    const data = await res.json();
+async function init() {
+    try {
+        const res = await fetch("jobs.json");
+        const data = await res.json();
+
+        // Skydd om jobs.json innehåller ett felobjekt
+        if (!Array.isArray(data)) {
+            document.getElementById("jobs").innerHTML = `
+                <div class="error">
+                    <strong>Kunde inte ladda jobb:</strong> ${data.error || "Okänt fel i jobs.json"}
+                </div>`;
+            return;
+        }
+
+        allJobs = data;
+        populateRegionDropdown(allJobs);
+        renderJobs();
+    } catch (err) {
+        document.getElementById("jobs").innerHTML = `<div class="error">Kunde inte hämta jobs.json. Kontrollera att filen finns.</div>`;
+    }
+}
+
+function populateRegionDropdown(jobs) {
+    const select = document.getElementById("filterLan");
+    // Extrahera alla unika län som finns i datan
+    const regions = [...new Set(jobs.map(j => j.workplace_address?.region).filter(Boolean))].sort();
+
+    regions.forEach(region => {
+        const option = document.createElement("option");
+        option.value = region;
+        option.textContent = region;
+        select.appendChild(option);
+    });
+}
+
+function renderJobs() {
+    const lan = document.getElementById("filterLan").value;
+    const roll = document.getElementById("filterRoll").value.toLowerCase();
+    const minLon = parseInt(document.getElementById("filterLon").value, 10);
+
+    const filtered = allJobs.filter(job => {
+        const region = job.workplace_address?.region || "";
+        const headline = (job.headline || "").toLowerCase();
+        const salaryText = job.salary_description || "";
+
+        // Filter: Län
+        if (lan && region !== lan) return false;
+
+        // Filter: Roll/Titel
+        if (roll && !headline.includes(roll)) return false;
+
+        // Filter: Lön (jämför siffror om det finns angivet i annonsen)
+        if (!isNaN(minLon)) {
+            const numbersFound = salaryText.match(/\d+/g);
+            if (!numbersFound) return false;
+            // Kollar om någon siffra i lönefältet är minst lika stor som minimilön
+            const hasHighEnoughSalary = numbersFound.some(n => parseInt(n, 10) >= minLon);
+            if (!hasHighEnoughSalary) return false;
+        }
+
+        return true;
+    });
+
+    if (filtered.length === 0) {
+        document.getElementById("jobs").innerHTML = "<p>Inga jobb matchade din sökning.</p>";
+        return;
+    }
 
     let html = "";
-
-    data.forEach(job => {
-        const municipality = job.workplace_address?.municipality || "";
-        const region = job.workplace_address?.region || "";
-        const salary = job.salary_description || "";
-
-        if (lan && region !== lan) return;
-        if (roll && !job.headline.toLowerCase().includes(roll.toLowerCase())) return;
-        if (lon && !salary.match(/\d+/)) return;
+    filtered.forEach(job => {
+        const municipality = job.workplace_address?.municipality || "Okänd ort";
+        const region = job.workplace_address?.region || "Okänt län";
+        const salary = job.salary_description || "Ej angivet";
+        const link = job.webpage_url || job.application_details?.url || job.weburl || "#";
 
         html += `
             <div class="job">
                 <h3>${job.headline}</h3>
-                <p><strong>Företag:</strong> ${job.employer?.name || "Okänt"}</p>
-                <p><strong>Ort:</strong> ${municipality}</p>
-                <p><strong>Län:</strong> ${region}</p>
+                <p><strong>Företag:</strong> ${job.employer?.name || "Okänt företag"}</p>
+                <p><strong>Plats:</strong> ${municipality}, ${region}</p>
                 <p><strong>Lön:</strong> ${salary}</p>
-                <p><a href="${job.weburl}" target="_blank">Visa annons</a></p>
+                <a href="${link}" class="job-link" target="_blank" rel="noopener">Visa annons ↗</a>
             </div>
         `;
     });
 
-    document.getElementById("jobs").innerHTML = html || "<p>Inga jobb hittades.</p>";
+    document.getElementById("jobs").innerHTML = html;
 }
 
-loadJobs();
+// Ladda jobben när sidan öppnas
+init();
 </script>
 
 </body>
