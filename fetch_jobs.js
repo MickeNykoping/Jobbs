@@ -1,6 +1,5 @@
-// fetch_jobs.js
-const fs = require("fs");
-const fetch = require("node-fetch");
+import fs from "fs";
+import fetch from "node-fetch";
 
 async function updateJobs() {
     const url = "https://jobsearch.api.jobtechdev.se/search?q=IT&limit=200";
@@ -12,4 +11,3 @@ async function updateJobs() {
 }
 
 updateJobs();
-
