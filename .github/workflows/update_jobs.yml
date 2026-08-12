@@ -10,24 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checka ut repo
-      uses: actions/checkout@v3
+      - name: Checka ut repo
+        uses: actions/checkout@v3
 
-    - name: Installera Node
-      uses: actions/setup-node@v3
-      with:
-        node-version: "18"
+      - name: Installera Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "24"
 
-    - name: Installera beroenden
-      run: npm install node-fetch@2
+      - name: Installera beroenden
+        run: npm install node-fetch@3
 
-    - name: Kör jobbhämtaren
-      run: node fetch_jobs.js
+      - name: Kör jobbhämtaren
+        run: node fetch_jobs.js
 
-    - name: Commit & push
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "actions@github.com"
-        git add jobs.json
-        git commit -m "Daglig jobbuppdatering"
-        git push
+      - name: Commit & push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add jobs.json
+          git commit -m "Daglig jobbuppdatering"
+          git push
