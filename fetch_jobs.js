@@ -15,9 +15,7 @@ async function updateJobs() {
             console.log(`Hämtar sida (offset ${offset})…`);
 
             const res = await fetch(url, {
-                headers: {
-                    "accept": "application/json"
-                }
+                headers: { "accept": "application/json" }
             });
 
             if (!res.ok) {
@@ -31,10 +29,9 @@ async function updateJobs() {
                 data = JSON.parse(text);
             } catch (e) {
                 console.error("Kunde inte parsa JSON.");
-                fs.writeFileSync(
-                    "jobs.json",
-                    JSON.stringify({ error: "API returned non-JSON", raw: text }, null, 2)
-                );
+                // Säkra upp så att det som skrivs alltid är en giltig sträng!
+                const errorPayload = JSON.stringify({ error: "API returned non-JSON", raw: text }, null, 2);
+                fs.writeFileSync("jobs.json", errorPayload || "{}");
                 return;
             }
 
@@ -50,13 +47,20 @@ async function updateJobs() {
         }
 
         console.log(`Totalt antal IT-jobb hämtade: ${allJobs.length}`);
-        fs.writeFileSync("jobs.json", JSON.stringify(allJobs, null, 2));
+        
+        // VÄSENTLIG FIX: Om allJobs av någon anledning skulle vara undefined/tom, skriv "[]"
+        const outputData = JSON.stringify(allJobs || [], null, 2);
+        fs.writeFileSync("jobs.json", outputData);
+        
         console.log("jobs.json uppdaterades framgångsrikt!");
 
     } catch (err) {
         console.error("Fel i updateJobs:", err);
         const errorMessage = err?.message || String(err);
-        fs.writeFileSync("jobs.json", JSON.stringify({ error: errorMessage }, null, 2));
+        
+        // VÄSENTLIG FIX: Säkerställ att felobjektet konverteras korrekt
+        const errorJson = JSON.stringify({ error: errorMessage }, null, 2);
+        fs.writeFileSync("jobs.json", errorJson || '{"error": "Unknown error"}');
     }
 }
 
