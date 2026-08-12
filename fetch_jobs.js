@@ -15,13 +15,27 @@ async function updateJobs() {
 
         const data = await res.json();
 
-        // Skriv resultatet till jobs.json
-        fs.writeFileSync("jobs.json", JSON.stringify(data.hits, null, 2));
+        // Logga för säkerhets skull
+        console.log("API-svar nycklar:", Object.keys(data));
+
+        // JobTech API kan returnera jobben under olika nycklar:
+        const jobs =
+            data.hits ||
+            data.results ||
+            data.documents ||
+            data.data ||
+            [];
+
+        if (!Array.isArray(jobs)) {
+            throw new Error("API-svar innehåller inga jobb i listform.");
+        }
+
+        fs.writeFileSync("jobs.json", JSON.stringify(jobs, null, 2));
 
         console.log("Jobb uppdaterade:", new Date().toISOString());
     } catch (err) {
         console.error("Fel vid hämtning av jobb:", err);
-        process.exit(1); // Viktigt: ger tydlig exit code om något går fel
+        process.exit(1);
     }
 }
 
