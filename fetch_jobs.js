@@ -7,10 +7,18 @@ async function updateJobs() {
         let allJobs = [];
         let offset = 0;
 
-        console.log("Startar hämtning av IT-jobb från JobTech API…");
+        // Länskoder från JobTech API:
+        // Södermanlands län: xS38_386_2L2
+        // Östergötlands län: 4395_173_ngM
+        const sodermanland = "xS38_386_2L2";
+        const ostergotland = "4395_173_ngM";
+        const itField = "apaJ_22U_12F";
+
+        console.log("Startar hämtning av IT-jobb i Södermanland och Östergötland…");
 
         while (allJobs.length < MAX_TOTAL_JOBS) {
-            const url = `https://jobsearch.api.jobtechdev.se/search?occupational-field=apaJ_22U_12F&limit=${LIMIT_PER_PAGE}&offset=${offset}`;
+            // Söker IT-jobb i båda länen samtidigt
+            const url = `https://jobsearch.api.jobtechdev.se/search?occupational-field=${itField}&region=${sodermanland}&region=${ostergotland}&limit=${LIMIT_PER_PAGE}&offset=${offset}`;
 
             console.log(`Hämtar sida (offset ${offset})…`);
 
@@ -29,14 +37,13 @@ async function updateJobs() {
                 data = JSON.parse(text);
             } catch (e) {
                 console.error("Kunde inte parsa JSON.");
-                // Säkra upp så att det som skrivs alltid är en giltig sträng!
                 const errorPayload = JSON.stringify({ error: "API returned non-JSON", raw: text }, null, 2);
                 fs.writeFileSync("jobs.json", errorPayload || "{}");
                 return;
             }
 
             const hits = data?.hits || [];
-            console.log(`Hämtade ${hits.length} jobb på denna sida.`);
+            console.log(`Hämtade ${hits.length} IT-jobb på denna sida.`);
 
             if (hits.length === 0) break;
 
@@ -46,9 +53,8 @@ async function updateJobs() {
             if (hits.length < LIMIT_PER_PAGE) break;
         }
 
-        console.log(`Totalt antal IT-jobb hämtade: ${allJobs.length}`);
+        console.log(`Totalt antal IT-jobb hämtade i Södermanland & Östergötland: ${allJobs.length}`);
         
-        // VÄSENTLIG FIX: Om allJobs av någon anledning skulle vara undefined/tom, skriv "[]"
         const outputData = JSON.stringify(allJobs || [], null, 2);
         fs.writeFileSync("jobs.json", outputData);
         
@@ -57,8 +63,6 @@ async function updateJobs() {
     } catch (err) {
         console.error("Fel i updateJobs:", err);
         const errorMessage = err?.message || String(err);
-        
-        // VÄSENTLIG FIX: Säkerställ att felobjektet konverteras korrekt
         const errorJson = JSON.stringify({ error: errorMessage }, null, 2);
         fs.writeFileSync("jobs.json", errorJson || '{"error": "Unknown error"}');
     }
