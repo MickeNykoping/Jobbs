@@ -6,54 +6,64 @@
     <title>IT-jobb i Södermanland & Östergötland</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: system-ui, -apple-system, sans-serif;
             max-width: 900px;
-            margin: 20px auto;
-            padding: 0 15px;
-            background-color: #f4f6f9;
-            color: #333;
+            margin: 30px auto;
+            padding: 0 20px;
+            background-color: #f8fafc;
+            color: #1e293b;
         }
         h1 {
-            color: #1a365d;
+            color: #0f172a;
+            margin-bottom: 20px;
         }
         .controls {
-            margin-bottom: 20px;
+            margin-bottom: 25px;
             display: flex;
-            gap: 10px;
+            gap: 12px;
+            flex-wrap: wrap;
         }
         select, input {
-            padding: 8px 12px;
-            font-size: 16px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
+            padding: 10px 14px;
+            font-size: 15px;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            outline: none;
+        }
+        input {
+            flex-grow: 1;
+            min-width: 200px;
         }
         .job-card {
             background: white;
-            padding: 15px 20px;
-            margin-bottom: 12px;
-            border-radius: 6px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-bottom: 14px;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
         }
         .job-title {
-            margin: 0 0 5px 0;
-            color: #2b6cb0;
+            margin: 0 0 8px 0;
+            color: #2563eb;
+            font-size: 18px;
         }
         .job-meta {
             font-size: 14px;
-            color: #666;
-            margin-bottom: 10px;
+            color: #64748b;
+            margin-bottom: 14px;
         }
         .job-link {
             display: inline-block;
-            background-color: #2b6cb0;
+            background-color: #2563eb;
             color: white;
-            padding: 6px 12px;
+            padding: 8px 16px;
             text-decoration: none;
-            border-radius: 4px;
+            border-radius: 6px;
             font-size: 14px;
+            font-weight: 500;
         }
         .job-link:hover {
-            background-color: #2c5282;
+            background-color: #1d4ed8;
         }
     </style>
 </head>
@@ -64,14 +74,14 @@
     <div class="controls">
         <select id="regionFilter" onchange="renderJobs()">
             <option value="all">Alla län (Södermanland & Östergötland)</option>
-            <option value="Södermanlands län">Södermanlands län</option>
-            <option value="Östergötlands län">Östergötlands län</option>
+            <option value="Södermanland">Södermanlands län</option>
+            <option value="Östergötland">Östergötlands län</option>
         </select>
 
-        <input type="text" id="searchInput" placeholder="Sök på titel eller kommun..." onkeyup="renderJobs()">
+        <input type="text" id="searchInput" placeholder="Sök på titel, företag eller ort..." onkeyup="renderJobs()">
     </div>
 
-    <div id="jobCount" style="margin-bottom: 15px; font-weight: bold;"></div>
+    <div id="jobCount" style="margin-bottom: 15px; font-weight: 600; color: #475569;"></div>
     <div id="jobList">Laddar jobb…</div>
 
     <script>
@@ -79,37 +89,45 @@
 
         async function loadJobs() {
             try {
-                // Läser in filen som uppdaterats via GitHub Actions
-                const response = await fetch('./jobs.json');
+                const response = await fetch('./jobs.json?v=' + new Date().getTime());
                 if (!response.ok) throw new Error("Kunde inte hämta jobs.json");
                 
                 allJobs = await response.json();
+                
+                if (!Array.isArray(allJobs)) {
+                    document.getElementById('jobList').innerHTML = '<p>Inga jobb hittades i databasen ännu.</p>';
+                    return;
+                }
+                
                 renderJobs();
             } catch (err) {
                 console.error(err);
-                document.getElementById('jobList').innerHTML = '<p>Kunde inte ladda jobben. Kontrollera att jobs.json finns.</p>';
+                document.getElementById('jobList').innerHTML = '<p>Kunde inte ladda jobben. Kontrollera att jobs.json genererats.</p>';
             }
         }
 
         function renderJobs() {
-            const region = document.getElementById('regionFilter').value;
-            const search = document.getElementById('searchInput').value.toLowerCase();
+            const regionSelect = document.getElementById('regionFilter').value;
+            const search = document.getElementById('searchInput').value.toLowerCase().trim();
 
             const filtered = allJobs.filter(job => {
-                const jobRegion = job.workplace_address?.region || '';
+                const regionName = job.workplace_address?.region || '';
                 const title = job.headline || '';
+                const employer = job.employer?.name || '';
                 const municipality = job.workplace_address?.municipality || '';
 
-                const matchesRegion = (region === 'all') || jobRegion.includes(region);
-                const matchesSearch = title.toLowerCase().includes(search) || municipality.toLowerCase().includes(search);
+                const matchesRegion = (regionSelect === 'all') || regionName.toLowerCase().includes(regionSelect.toLowerCase());
+                
+                const fullSearchText = `${title} ${employer} ${municipality}`.toLowerCase();
+                const matchesSearch = !search || fullSearchText.includes(search);
 
                 return matchesRegion && matchesSearch;
             });
 
-            document.getElementById('jobCount').innerText = `Visar ${filtered.length} av ${allJobs.length} jobb`;
+            document.getElementById('jobCount').innerText = `Visar ${filtered.length} av totalt ${allJobs.length} IT-jobb`;
 
             if (filtered.length === 0) {
-                document.getElementById('jobList').innerHTML = '<p>Inga jobb hittades för din sökning.</p>';
+                document.getElementById('jobList').innerHTML = '<p>Inga jobb matchade din sökning.</p>';
                 return;
             }
 
