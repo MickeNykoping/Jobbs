@@ -1,7 +1,7 @@
 import fs from "fs";
 
 async function fetchJobsForRegion(regionId, regionName) {
-    const itField = "apaJ_2ja_LuF"; // Data/IT
+    const itField = "apaJ_2ja_LuF"; // Data/IT taxonomy ID
     const LIMIT = 100;
     let regionJobs = [];
     let offset = 0;
@@ -10,11 +10,13 @@ async function fetchJobsForRegion(regionId, regionName) {
 
     while (offset < 500) {
         const url = `https://jobsearch.api.jobtechdev.se/search?occupation-field=${itField}&region=${regionId}&limit=${LIMIT}&offset=${offset}`;
-        console.log(`Anropar: ${url}`);
         
         try {
-            const res = await fetch(url, {
-                headers: { "accept": "application/json" }
+            let res = await fetch(url, {
+                headers: { 
+                    "accept": "application/json",
+                    "User-Agent": "ITJobbPortal/1.0 (GitHub Actions Runner)"
+                }
             });
 
             if (!res.ok) {
@@ -22,10 +24,26 @@ async function fetchJobsForRegion(regionId, regionName) {
                 break;
             }
 
-            const data = await res.json();
-            const hits = data?.hits || [];
+            let data = await res.json();
+            let hits = data?.hits || [];
 
-            console.log(`Hittade ${hits.length} jobb på denna sida för ${regionName}.`);
+            // Om yrkesområdeskoden ger 0 träffar, gör en reservsökning på fritext "IT"
+            if (offset === 0 && hits.length === 0) {
+                console.log(`Inga träffar med yrkesområde. Provar reservsökning på 'IT' i ${regionName}…`);
+                const fallbackUrl = `https://jobsearch.api.jobtechdev.se/search?q=IT&region=${regionId}&limit=${LIMIT}&offset=${offset}`;
+                const fallbackRes = await fetch(fallbackUrl, {
+                    headers: { 
+                        "accept": "application/json",
+                        "User-Agent": "ITJobbPortal/1.0 (GitHub Actions Runner)"
+                    }
+                });
+                if (fallbackRes.ok) {
+                    const fallbackData = await fallbackRes.json();
+                    hits = fallbackData?.hits || [];
+                }
+            }
+
+            console.log(`Hittade ${hits.length} jobb för ${regionName} (offset ${offset}).`);
 
             if (hits.length === 0) break;
 
