@@ -767,133 +767,6 @@
   },
   {
     "relevance": 1,
-    "id": "31313173",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31313173",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591754279/logotyper/logo.png",
-    "headline": "Projektledare för implementering av ekonomisystem",
-    "application_deadline": "2026-08-13T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Om företaget\nHos Avaron får du tryggheten i en fast anställning kombinerat med variationen av att arbeta ute hos olika kunder. Vi tillsätter specialister inom allt från teknik, IT och industri till projektledning och affärsstöd – och oavsett uppdrag har du en konsultchef som finns där för dig och din utveckling.\nOm rollen\nDu kliver in i ett viktigt förändringsarbete hos en etablerad aktör inom fastighetsförvaltning och samhällsfastigheter. Verksamheten står inför införandet av ett nytt ekonomisystem som ska ge stöd för redovisning, budget, uppföljning och rapportering i en modern och integrerad lösning.\nRollen är bred och verksamhetsnära. Du ansvarar för att hålla ihop införandet från planering till överlämning, med fokus på att lösningen fungerar tillsammans med andra centrala system som lön, fastighetssystem, underhållsplanering och beslutsstöd. Det finns också särskilda behov inom moms, automatisk leverantörsfakturahantering och anläggningsregister.\nDet här är en spännande möjlighet för dig som vill driva ett affärskritiskt systemskifte och påverka både arbetssätt, integrationer och kvalitet i en komplex systemmiljö.\nArbetsuppgifterDu planerar, leder och följer upp införandet av ett nytt ekonomisystem med ansvar för omfattning, mål, framdrift och kvalitet.\nDu tar fram och förvaltar projektplan med milstolpar, resurser och prioriteringar.\nDu samordnar interna och externa resurser och skapar tydlighet mellan verksamhet, IT och systemleverantör.\nDu rapporterar status, risker och avvikelser till styrgrupp och driver projektet framåt utifrån beslutad målbild.\nDu arbetar nära systemleverantören i utformning och implementation av lösningen, med fokus på att använda standardfunktionalitet där det är möjligt.\nDu identifierar integrationsbehov, driver kravdialog och säkerställer planering och kvalitet i datamigrering.\nDu leder testarbete inom system-, integrations- och användartester och säkerställer att verksamhetskritiska processer fungerar end-to-end.\nDu planerar driftsättning, stöttar en kontrollerad övergång till nytt system och ser till att lösningen fungerar stabilt efter införandet.\nDu ansvarar för överlämning till förvaltningsorganisationen och följer upp att projektet levererar avsedd nytta.\nKravErfarenhet av att planera, leda och följa upp införande av ekonomisystem.\nGod kunskap om ekonomisystem som finns på marknaden och hur dessa kan integrera med andra system, exempelvis fastighetssystem, lönesystem och beslutsstöd.\nGod förståelse för grundläggande IT-terminologi, till exempel integrationer, datamodeller och API:er, samt förmåga att föra en kravdialog med systemleverantörer och IT-resurser.\nFörmåga att sätta dig in i och arbeta i olika projektmodeller.\nDu arbetar strukturerat och har förmåga att skapa ordning i ett komplext införandeprojekt.\nMeriterandeErfarenhet av projektledning vid införande av ekonomisystem inom fastighetsbranschen.\nErfarenhet av ekonomisystem som Unit4, Visma Control, Microsoft Dynamics eller liknande.\nVi erbjuderFast anställning hos Avaron AB\nTjänstepension\nFriskvårdsbidrag på 5 000 kr per år\nAnsökan\nVi tillsätter löpande – sök gärna så snart du kan.",
-      "text_formatted": "<strong>Om företaget</strong><p>Hos Avaron får du tryggheten i en fast anställning kombinerat med variationen av att arbeta ute hos olika kunder. Vi tillsätter specialister inom allt från teknik, IT och industri till projektledning och affärsstöd – och oavsett uppdrag har du en konsultchef som finns där för dig och din utveckling.</p><strong>Om rollen</strong><p>Du kliver in i ett viktigt förändringsarbete hos en etablerad aktör inom fastighetsförvaltning och samhällsfastigheter. Verksamheten står inför införandet av ett nytt ekonomisystem som ska ge stöd för redovisning, budget, uppföljning och rapportering i en modern och integrerad lösning.</p><p>Rollen är bred och verksamhetsnära. Du ansvarar för att hålla ihop införandet från planering till överlämning, med fokus på att lösningen fungerar tillsammans med andra centrala system som lön, fastighetssystem, underhållsplanering och beslutsstöd. Det finns också särskilda behov inom moms, automatisk leverantörsfakturahantering och anläggningsregister.</p><p>Det här är en spännande möjlighet för dig som vill driva ett affärskritiskt systemskifte och påverka både arbetssätt, integrationer och kvalitet i en komplex systemmiljö.</p><strong>Arbetsuppgifter</strong><ul><li>Du planerar, leder och följer upp införandet av ett nytt ekonomisystem med ansvar för omfattning, mål, framdrift och kvalitet.</li><li>Du tar fram och förvaltar projektplan med milstolpar, resurser och prioriteringar.</li><li>Du samordnar interna och externa resurser och skapar tydlighet mellan verksamhet, IT och systemleverantör.</li><li>Du rapporterar status, risker och avvikelser till styrgrupp och driver projektet framåt utifrån beslutad målbild.</li><li>Du arbetar nära systemleverantören i utformning och implementation av lösningen, med fokus på att använda standardfunktionalitet där det är möjligt.</li><li>Du identifierar integrationsbehov, driver kravdialog och säkerställer planering och kvalitet i datamigrering.</li><li>Du leder testarbete inom system-, integrations- och användartester och säkerställer att verksamhetskritiska processer fungerar end-to-end.</li><li>Du planerar driftsättning, stöttar en kontrollerad övergång till nytt system och ser till att lösningen fungerar stabilt efter införandet.</li><li>Du ansvarar för överlämning till förvaltningsorganisationen och följer upp att projektet levererar avsedd nytta.</li></ul><strong>Krav</strong><ul><li>Erfarenhet av att planera, leda och följa upp införande av ekonomisystem.</li><li>God kunskap om ekonomisystem som finns på marknaden och hur dessa kan integrera med andra system, exempelvis fastighetssystem, lönesystem och beslutsstöd.</li><li>God förståelse för grundläggande IT-terminologi, till exempel integrationer, datamodeller och API:er, samt förmåga att föra en kravdialog med systemleverantörer och IT-resurser.</li><li>Förmåga att sätta dig in i och arbeta i olika projektmodeller.</li><li>Du arbetar strukturerat och har förmåga att skapa ordning i ett komplext införandeprojekt.</li></ul><strong>Meriterande</strong><ul><li>Erfarenhet av projektledning vid införande av ekonomisystem inom fastighetsbranschen.</li><li>Erfarenhet av ekonomisystem som Unit4, Visma Control, Microsoft Dynamics eller liknande.</li></ul><strong>Vi erbjuder</strong><ul><li>Fast anställning hos Avaron AB</li><li>Tjänstepension</li><li>Friskvårdsbidrag på 5 000 kr per år</li></ul><strong>Ansökan</strong><p>Vi tillsätter löpande – sök gärna så snart du kan.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://jobs.avaron.se",
-      "organization_number": "5591754279",
-      "name": "Avaron AB",
-      "workplace": "Avaron AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8161621-2127803",
-      "email": null,
-      "via_af": false,
-      "url": "https://jobs.avaron.se/jobs/8161621-projektledare-for-implementering-av-ekonomisystem/applications/new?promotion=2127803-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "z5AM_ayf_WcL",
-      "label": "Projektledare, IT",
-      "legacy_ams_taxonomy_id": "5388"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Eskilstuna Järnvägsstation",
-      "postcode": "63220",
-      "city": "Eskilstuna",
-      "coordinates": [
-        16.5088668626808,
-        59.36946308295182
-      ]
-    },
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-03T13:00:24",
-    "last_publication_date": "2026-08-13T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1785754824916
-  },
-  {
-    "relevance": 1,
     "id": "31307192",
     "external_id": null,
     "original_id": null,
@@ -1614,126 +1487,6 @@
   },
   {
     "relevance": 1,
-    "id": "31212022",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31212022",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
-    "headline": "Verksamhetsnära systemförvaltare",
-    "application_deadline": "2026-08-13T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Redovisningsenheten Eskilstuna\r\n\r\nVerksamhetsnära systemförvaltare till Ekonomistaben\r\nRedovisningsenheten Eskilstuna\r\n\r\nEkonomistaben söker en kollega till enheten för redovisning.  \r\nÄr du intresserad att jobba med oss? En trevlig och utvecklande arbetsplats med ett viktigt uppdrag och många kontakter med människor.\r\n\r\nNu söker vid dig med goda kunskaper inom ekonomi och ett intresse för systemförvaltning.\r\n\r\nOm oss\r\nRegion Sörmland ansvarar för områden som är viktiga för alla som bor, lever och verkar i Sörmland. Regionen ska säkerställa att Sörmlands invånare har tillgång till en jämlik hälso- och sjukvård samt tandvård av hög kvalitet, en väl fungerande kollektivtrafik, ett rikt kulturutbud och en god miljö.\r\n\r\nEkonomistaben äger, driver, samordnar, utvecklar, förvaltar och förankrar regionens övergripande ekonomiprocesser och ekonomiverktyg.\r\n\r\nRedovisningsenheten består av 29 medarbetare. Uppdraget omfattar hantering av kund- och leverantörsreskontra, in- och utbetalningar samt övriga processer kopplade till den löpande redovisningen.\r\nSom systemförvaltare har du en verksamhetsnära roll inom Redovisningsenheten, där du bidrar med specialistkompetens inom redovisning. Arbetet sker i nära samarbete med regionens IT-verksamhet (RSIT) samt övriga verksamheter inom regionen för att säkerställa effektiva och ändamålsenliga systemstöd. Din placeringsort är Eskilstuna.\r\n\r\nDina arbetsuppgifter\r\nSom verksamhetsnära systemförvaltare på Redovisningsenheten arbetar du främst med att:\r\r\n• Ge användarstöd och förvalta de system som stödjer regionens ekonomiprocesser\r\n• Hantera support, felsökning och felärenden\r\n• Utbilda användare vid behov\r\n• Administrera koddelsregister\r\n• Hantera behörigheter i systemen\r\n• Utföra registervård och säkerställa datakvalitet\r\n• Upprätta och uppdatera dokumentation för system och processer\r\n• Delta i eller driva utvecklingsarbete för funktioner, förbättringar och integrationer utifrån din specialistkompetens inom redovisning\r\n\r\n\r\nTjänsten är omväxlande och innebär att du både arbetar självständigt och i nära samarbete med kollegor. Du blir en del av vårt systemförvaltningsteam som består av fem personer som arbetar nära regionens IT-avdelning och övriga verksamheter. Region Sörmland använder en PM3-baserad modell för systemförvaltning, vilket innebär att arbetet styrs av verksamhetens behov.\r\n\r\nDin kompetens\r\nVi söker dig som har:\r\r\n• Relevant examen från högskoleutbildning inom ekonomi eller motsvarande\r\n• Flerårig, aktuell erfarenhet inom området ekonomi och redovisning\r\n• Goda kunskaper i Officepaketet\r\n• Mycket goda kunskaper i svenska, tal och skrift\r\n\r\n\r\nDet är meriterande om du har:\r\r\n• Erfarenhet av systemförvaltning\r\n• Erfarenhet av Proceedo och Raindance eller liknande system inom offentlig verksamhet\r\n• Erfarenhet av att delta i eller leda utvecklings- och införandeprojekt\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper. Personlig lämplighet kommer ha stor betydelse vid urval till tjänsten. Vi söker dig som har förmåga att lyssna in, analysera och åtgärda uppkomna problem.\r\n\r\nDu är en nyfiken, positiv och strukturerad person som trivs med att arbeta självständigt. Du är van att driva egna uppdrag och projekt och uppskattar en varierad roll med många kontaktytor, både internt inom regionens förvaltningar och externt mot systemleverantörer.\r\n\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse.\r\nDet finns möjlighet att arbeta hemifrån i viss utsträckning.\r\n\r\nInformation om tjänsten lämnas av\r\nProcessledare Carina Olsson carina.olsson@regionsormland.se\r\nSystemförvaltare Henrik Lewerissa henrik.lewerissa@regionsormland.se\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på ekonomistaben!\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\nIntervjuer kan komma att ske löpande.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "text_formatted": "Redovisningsenheten Eskilstuna\r\n\r\nVerksamhetsnära systemförvaltare till Ekonomistaben\r\nRedovisningsenheten Eskilstuna\r\n\r\nEkonomistaben söker en kollega till enheten för redovisning.  \r\nÄr du intresserad att jobba med oss? En trevlig och utvecklande arbetsplats med ett viktigt uppdrag och många kontakter med människor.\r\n\r\nNu söker vid dig med goda kunskaper inom ekonomi och ett intresse för systemförvaltning.\r\n\r\nOm oss\r\nRegion Sörmland ansvarar för områden som är viktiga för alla som bor, lever och verkar i Sörmland. Regionen ska säkerställa att Sörmlands invånare har tillgång till en jämlik hälso- och sjukvård samt tandvård av hög kvalitet, en väl fungerande kollektivtrafik, ett rikt kulturutbud och en god miljö.\r\n\r\nEkonomistaben äger, driver, samordnar, utvecklar, förvaltar och förankrar regionens övergripande ekonomiprocesser och ekonomiverktyg.\r\n\r\nRedovisningsenheten består av 29 medarbetare. Uppdraget omfattar hantering av kund- och leverantörsreskontra, in- och utbetalningar samt övriga processer kopplade till den löpande redovisningen.\r\nSom systemförvaltare har du en verksamhetsnära roll inom Redovisningsenheten, där du bidrar med specialistkompetens inom redovisning. Arbetet sker i nära samarbete med regionens IT-verksamhet (RSIT) samt övriga verksamheter inom regionen för att säkerställa effektiva och ändamålsenliga systemstöd. Din placeringsort är Eskilstuna.\r\n\r\nDina arbetsuppgifter\r\nSom verksamhetsnära systemförvaltare på Redovisningsenheten arbetar du främst med att:\r\r\n• Ge användarstöd och förvalta de system som stödjer regionens ekonomiprocesser\r\n• Hantera support, felsökning och felärenden\r\n• Utbilda användare vid behov\r\n• Administrera koddelsregister\r\n• Hantera behörigheter i systemen\r\n• Utföra registervård och säkerställa datakvalitet\r\n• Upprätta och uppdatera dokumentation för system och processer\r\n• Delta i eller driva utvecklingsarbete för funktioner, förbättringar och integrationer utifrån din specialistkompetens inom redovisning\r\n\r\n\r\nTjänsten är omväxlande och innebär att du både arbetar självständigt och i nära samarbete med kollegor. Du blir en del av vårt systemförvaltningsteam som består av fem personer som arbetar nära regionens IT-avdelning och övriga verksamheter. Region Sörmland använder en PM3-baserad modell för systemförvaltning, vilket innebär att arbetet styrs av verksamhetens behov.\r\n\r\nDin kompetens\r\nVi söker dig som har:\r\r\n• Relevant examen från högskoleutbildning inom ekonomi eller motsvarande\r\n• Flerårig, aktuell erfarenhet inom området ekonomi och redovisning\r\n• Goda kunskaper i Officepaketet\r\n• Mycket goda kunskaper i svenska, tal och skrift\r\n\r\n\r\nDet är meriterande om du har:\r\r\n• Erfarenhet av systemförvaltning\r\n• Erfarenhet av Proceedo och Raindance eller liknande system inom offentlig verksamhet\r\n• Erfarenhet av att delta i eller leda utvecklings- och införandeprojekt\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper. Personlig lämplighet kommer ha stor betydelse vid urval till tjänsten. Vi söker dig som har förmåga att lyssna in, analysera och åtgärda uppkomna problem.\r\n\r\nDu är en nyfiken, positiv och strukturerad person som trivs med att arbeta självständigt. Du är van att driva egna uppdrag och projekt och uppskattar en varierad roll med många kontaktytor, både internt inom regionens förvaltningar och externt mot systemleverantörer.\r\n\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse.\r\nDet finns möjlighet att arbeta hemifrån i viss utsträckning.\r\n\r\nInformation om tjänsten lämnas av\r\nProcessledare Carina Olsson carina.olsson@regionsormland.se\r\nSystemförvaltare Henrik Lewerissa henrik.lewerissa@regionsormland.se\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på ekonomistaben!\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\nIntervjuer kan komma att ske löpande.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "2321000032",
-      "name": "REGION SÖRMLAND",
-      "workplace": "Region Sörmland"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "RLLS-26-013",
-      "email": null,
-      "via_af": false,
-      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27190&RefNo=RLLS-26-013",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "nFJR_WkF_ir7",
-      "label": "Systemförvaltare",
-      "legacy_ams_taxonomy_id": "2919"
-    },
-    "occupation_group": {
-      "concept_id": "cBBa_ngH_fCx",
-      "label": "Systemförvaltare m.fl.",
-      "legacy_ams_taxonomy_id": "2515"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61188",
-      "city": "Nyköping",
-      "coordinates": [
-        16.509804,
-        59.37125
-      ]
-    },
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-06-24T15:05:28",
-    "last_publication_date": "2026-08-13T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1783340405144
-  },
-  {
-    "relevance": 1,
     "id": "31206415",
     "external_id": null,
     "original_id": null,
@@ -1997,126 +1750,6 @@
   },
   {
     "relevance": 1,
-    "id": "31186863",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31186863",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
-    "headline": "IT-Arkitekt/Lösningsarkitekt",
-    "application_deadline": "2026-08-13T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Region Sörmland IT (RSIT), Eskilstuna, Katrineholm eller Nyköping\r\n\r\nVill du vara med och utveckla framtidens it-landskap i en verksamhet som gör verklig skillnad för människors vardag? Hos Region Sörmland får du arbeta nära verksamheten och bidra till hållbara lösningar som påverkar invånarnas vardag.\r\n\r\nOm oss\r\nRegion Sörmland är en av länets största arbetsgivare med cirka 10 000 medarbetare. Inom Region Sörmland IT (RSIT) är vi omkring 150 medarbetare som driver digitalisering och levererar it-tjänster till hela organisationen.\r\n\r\nVi söker en it-arkitekt/lösningsarkitekt som vill bidra till att utveckla en sammanhållen och hållbar arkitektur.\r\n\r\nI rollen arbetar du nära både verksamhet och it och medverkar i att utveckla regionens arkitektur, principer och arbetssätt. Hos oss får du möjlighet att påverka utvecklingen av framtidens digitala lösningar i ett nära samarbete med kompetenta kollegor. \r\n\r\n\r\nDina arbetsuppgifter\r\r\n• Analysera verksamhetsbehov och omsätta dem till tekniska lösningar\r\n• Ta fram lösningsförslag och övergripande design för nya och befintliga system\r\n• Identifiera och hantera beroenden mellan system, integrationer och informationsflöden\r\n• Samverka med verksamhet, utvecklare och andra roller kring krav och lösningar\r\n• Säkerställa att lösningar följer arkitekturprinciper, riktlinjer och standarder\r\n• Dokumentera lösningar och strukturer på ett tydligt och ändamålsenligt sätt\r\n• Bidra till utveckling, standardisering och förbättring av it-landskapet.\r\n\r\n\r\nDin kompetens\r\nVi söker dig som har erfarenhet av, eller ett starkt intresse för, att arbeta med it-lösningar i komplexa miljöer. Du har förmåga att se helheten och kan omsätta verksamhetens behov och mål till välfungerande, hållbara och långsiktiga lösningar. Du har relevant utbildning inom it, systemvetenskap eller motsvarande\r\n\r\nDu kan idag arbeta i en roll som exempelvis it-arkitekt, systemförvaltare, systemutvecklare, teknisk specialist, projektledare inom it eller liknande, där du har varit delaktig i att ta fram och utveckla lösningar inom digitalisering och it.\r\n\r\nFör att lyckas i rollen ser vi att du har:\r\r\n• erfarenhet av arbete med it-arkitektur eller närliggande arbete\r\n• erfarenhet av arbete i organisationer med komplexa it-landskap\r\n• god förståelse för systemintegrationer och tekniska beroenden\r\n• mycket god förmåga att uttrycka dig på svenska i tal och skrift\r\n• B-körkort.\r\n\r\n\r\nDet är meriterande om du har erfarenhet av:\r\r\n• arbete i offentlig verksamhet\r\n• lösningsdesign eller arkitekturarbete i större organisationer.\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper och söker dig som är:\r\r\n• analytisk och strukturerad med god helhetssyn\r\n• ansvarstagande och driver självständigt ditt arbete framåt\r\n• kommunikativ och pedagogisk och kan anpassa ditt budskap till olika målgrupper\r\n• trivs i en rådgivande roll och samarbetar bra med andra.\r\n\r\n\r\nHos oss får du möjlighet att arbeta i en organisation som gör skillnad i människors vardag. Du blir en del av ett kompetent team med nära samarbete mellan verksamhet och it och får vara med och påverka utvecklingen av framtidens lösningar.\r\n\r\nVälkommen med din ansökan!\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse. Placeringsort är Eskilstuna, Katrinehom eller Nyköping.\r\n\r\nInformation om tjänsten lämnas av\r\nEnhetschef, Marie Berg, 073-676 03 66.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på Region Sörmland IT!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "text_formatted": "Region Sörmland IT (RSIT), Eskilstuna, Katrineholm eller Nyköping\r\n\r\nVill du vara med och utveckla framtidens it-landskap i en verksamhet som gör verklig skillnad för människors vardag? Hos Region Sörmland får du arbeta nära verksamheten och bidra till hållbara lösningar som påverkar invånarnas vardag.\r\n\r\nOm oss\r\nRegion Sörmland är en av länets största arbetsgivare med cirka 10 000 medarbetare. Inom Region Sörmland IT (RSIT) är vi omkring 150 medarbetare som driver digitalisering och levererar it-tjänster till hela organisationen.\r\n\r\nVi söker en it-arkitekt/lösningsarkitekt som vill bidra till att utveckla en sammanhållen och hållbar arkitektur.\r\n\r\nI rollen arbetar du nära både verksamhet och it och medverkar i att utveckla regionens arkitektur, principer och arbetssätt. Hos oss får du möjlighet att påverka utvecklingen av framtidens digitala lösningar i ett nära samarbete med kompetenta kollegor. \r\n\r\n\r\nDina arbetsuppgifter\r\r\n• Analysera verksamhetsbehov och omsätta dem till tekniska lösningar\r\n• Ta fram lösningsförslag och övergripande design för nya och befintliga system\r\n• Identifiera och hantera beroenden mellan system, integrationer och informationsflöden\r\n• Samverka med verksamhet, utvecklare och andra roller kring krav och lösningar\r\n• Säkerställa att lösningar följer arkitekturprinciper, riktlinjer och standarder\r\n• Dokumentera lösningar och strukturer på ett tydligt och ändamålsenligt sätt\r\n• Bidra till utveckling, standardisering och förbättring av it-landskapet.\r\n\r\n\r\nDin kompetens\r\nVi söker dig som har erfarenhet av, eller ett starkt intresse för, att arbeta med it-lösningar i komplexa miljöer. Du har förmåga att se helheten och kan omsätta verksamhetens behov och mål till välfungerande, hållbara och långsiktiga lösningar. Du har relevant utbildning inom it, systemvetenskap eller motsvarande\r\n\r\nDu kan idag arbeta i en roll som exempelvis it-arkitekt, systemförvaltare, systemutvecklare, teknisk specialist, projektledare inom it eller liknande, där du har varit delaktig i att ta fram och utveckla lösningar inom digitalisering och it.\r\n\r\nFör att lyckas i rollen ser vi att du har:\r\r\n• erfarenhet av arbete med it-arkitektur eller närliggande arbete\r\n• erfarenhet av arbete i organisationer med komplexa it-landskap\r\n• god förståelse för systemintegrationer och tekniska beroenden\r\n• mycket god förmåga att uttrycka dig på svenska i tal och skrift\r\n• B-körkort.\r\n\r\n\r\nDet är meriterande om du har erfarenhet av:\r\r\n• arbete i offentlig verksamhet\r\n• lösningsdesign eller arkitekturarbete i större organisationer.\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper och söker dig som är:\r\r\n• analytisk och strukturerad med god helhetssyn\r\n• ansvarstagande och driver självständigt ditt arbete framåt\r\n• kommunikativ och pedagogisk och kan anpassa ditt budskap till olika målgrupper\r\n• trivs i en rådgivande roll och samarbetar bra med andra.\r\n\r\n\r\nHos oss får du möjlighet att arbeta i en organisation som gör skillnad i människors vardag. Du blir en del av ett kompetent team med nära samarbete mellan verksamhet och it och får vara med och påverka utvecklingen av framtidens lösningar.\r\n\r\nVälkommen med din ansökan!\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse. Placeringsort är Eskilstuna, Katrinehom eller Nyköping.\r\n\r\nInformation om tjänsten lämnas av\r\nEnhetschef, Marie Berg, 073-676 03 66.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på Region Sörmland IT!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "2321000032",
-      "name": "REGION SÖRMLAND",
-      "workplace": "Region Sörmland"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "RDD-26-014",
-      "email": null,
-      "via_af": false,
-      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27151&RefNo=RDD-26-014",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "uyJg_i94_xmr",
-      "label": "IT-arkitekt/Lösningsarkitekt",
-      "legacy_ams_taxonomy_id": "6626"
-    },
-    "occupation_group": {
-      "concept_id": "UXKZ_3zZ_ipB",
-      "label": "Systemanalytiker och IT-arkitekter m.fl.",
-      "legacy_ams_taxonomy_id": "2511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_address": {
-      "municipality": "Katrineholm",
-      "municipality_code": "0483",
-      "municipality_concept_id": "snx9_qVD_Dr1",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61188",
-      "city": "Nyköping",
-      "coordinates": [
-        16.205475,
-        58.995552
-      ]
-    },
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-06-17T08:09:35",
-    "last_publication_date": "2026-08-13T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1781676720324
-  },
-  {
-    "relevance": 1,
     "id": "31173955",
     "external_id": null,
     "original_id": null,
@@ -2303,18 +1936,18 @@
   },
   {
     "relevance": 1,
-    "id": "31170224",
+    "id": "31351626",
     "external_id": null,
     "original_id": null,
     "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31170224",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
-    "headline": "IT-Arkitekt/Lösningsarkitekt",
-    "application_deadline": "2026-08-13T23:59:59",
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31351626",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
+    "headline": "Utveckla framtidens flygsäkerhetskritiska mjukvaruprocesser för Gripen!",
+    "application_deadline": "2026-08-28T23:59:59",
     "number_of_vacancies": 1,
     "description": {
-      "text": "Region Sörmland IT (RSIT), Eskilstuna, Katrineholm eller Nyköping\r\n\r\nVill du vara med och utveckla framtidens it-landskap i en verksamhet som gör verklig skillnad för människors vardag? Hos Region Sörmland får du arbeta nära verksamheten och bidra till hållbara lösningar som påverkar invånarnas vardag.\r\n\r\nOm oss\r\nRegion Sörmland är en av länets största arbetsgivare med cirka 10 000 medarbetare. Inom Region Sörmland IT (RSIT) är vi omkring 150 medarbetare som driver digitalisering och levererar it-tjänster till hela organisationen.\r\n\r\nVi söker en it-arkitekt/lösningsarkitekt som vill bidra till att utveckla en sammanhållen och hållbar arkitektur.\r\n\r\nI rollen arbetar du nära både verksamhet och it och medverkar i att utveckla regionens arkitektur, principer och arbetssätt. Hos oss får du möjlighet att påverka utvecklingen av framtidens digitala lösningar i ett nära samarbete med kompetenta kollegor. \r\n\r\n\r\nDina arbetsuppgifter\r\r\n• Analysera verksamhetsbehov och omsätta dem till tekniska lösningar\r\n• Ta fram lösningsförslag och övergripande design för nya och befintliga system\r\n• Identifiera och hantera beroenden mellan system, integrationer och informationsflöden\r\n• Samverka med verksamhet, utvecklare och andra roller kring krav och lösningar\r\n• Säkerställa att lösningar följer arkitekturprinciper, riktlinjer och standarder\r\n• Dokumentera lösningar och strukturer på ett tydligt och ändamålsenligt sätt\r\n• Bidra till utveckling, standardisering och förbättring av it-landskapet.\r\n\r\n\r\nDin kompetens\r\nVi söker dig som har erfarenhet av, eller ett starkt intresse för, att arbeta med it-lösningar i komplexa miljöer. Du har förmåga att se helheten och kan omsätta verksamhetens behov och mål till välfungerande, hållbara och långsiktiga lösningar. Du har relevant utbildning inom it, systemvetenskap eller motsvarande\r\n\r\nDu kan idag arbeta i en roll som exempelvis it-arkitekt, systemförvaltare, systemutvecklare, teknisk specialist, projektledare inom it eller liknande, där du har varit delaktig i att ta fram och utveckla lösningar inom digitalisering och it.\r\n\r\nFör att lyckas i rollen ser vi att du har:\r\r\n• erfarenhet av arbete med it-arkitektur eller närliggande arbete\r\n• erfarenhet av arbete i organisationer med komplexa it-landskap\r\n• god förståelse för systemintegrationer och tekniska beroenden\r\n• mycket god förmåga att uttrycka dig på svenska i tal och skrift\r\n• B-körkort.\r\n\r\n\r\nDet är meriterande om du har erfarenhet av:\r\r\n• arbete i offentlig verksamhet\r\n• lösningsdesign eller arkitekturarbete i större organisationer.\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper och söker dig som är:\r\r\n• analytisk och strukturerad med god helhetssyn\r\n• ansvarstagande och driver självständigt ditt arbete framåt\r\n• kommunikativ och pedagogisk och kan anpassa ditt budskap till olika målgrupper\r\n• trivs i en rådgivande roll och samarbetar bra med andra.\r\n\r\n\r\nHos oss får du möjlighet att arbeta i en organisation som gör skillnad i människors vardag. Du blir en del av ett kompetent team med nära samarbete mellan verksamhet och it och får vara med och påverka utvecklingen av framtidens lösningar.\r\n\r\nVälkommen med din ansökan!\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse. Placeringsort är Eskilstuna, Katrinehom eller Nyköping.\r\n\r\nInformation om tjänsten lämnas av\r\nEnhetschef, Marie Berg, 073-676 03 66.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på Region Sörmland IT!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "text_formatted": "Region Sörmland IT (RSIT), Eskilstuna, Katrineholm eller Nyköping\r\n\r\nVill du vara med och utveckla framtidens it-landskap i en verksamhet som gör verklig skillnad för människors vardag? Hos Region Sörmland får du arbeta nära verksamheten och bidra till hållbara lösningar som påverkar invånarnas vardag.\r\n\r\nOm oss\r\nRegion Sörmland är en av länets största arbetsgivare med cirka 10 000 medarbetare. Inom Region Sörmland IT (RSIT) är vi omkring 150 medarbetare som driver digitalisering och levererar it-tjänster till hela organisationen.\r\n\r\nVi söker en it-arkitekt/lösningsarkitekt som vill bidra till att utveckla en sammanhållen och hållbar arkitektur.\r\n\r\nI rollen arbetar du nära både verksamhet och it och medverkar i att utveckla regionens arkitektur, principer och arbetssätt. Hos oss får du möjlighet att påverka utvecklingen av framtidens digitala lösningar i ett nära samarbete med kompetenta kollegor. \r\n\r\n\r\nDina arbetsuppgifter\r\r\n• Analysera verksamhetsbehov och omsätta dem till tekniska lösningar\r\n• Ta fram lösningsförslag och övergripande design för nya och befintliga system\r\n• Identifiera och hantera beroenden mellan system, integrationer och informationsflöden\r\n• Samverka med verksamhet, utvecklare och andra roller kring krav och lösningar\r\n• Säkerställa att lösningar följer arkitekturprinciper, riktlinjer och standarder\r\n• Dokumentera lösningar och strukturer på ett tydligt och ändamålsenligt sätt\r\n• Bidra till utveckling, standardisering och förbättring av it-landskapet.\r\n\r\n\r\nDin kompetens\r\nVi söker dig som har erfarenhet av, eller ett starkt intresse för, att arbeta med it-lösningar i komplexa miljöer. Du har förmåga att se helheten och kan omsätta verksamhetens behov och mål till välfungerande, hållbara och långsiktiga lösningar. Du har relevant utbildning inom it, systemvetenskap eller motsvarande\r\n\r\nDu kan idag arbeta i en roll som exempelvis it-arkitekt, systemförvaltare, systemutvecklare, teknisk specialist, projektledare inom it eller liknande, där du har varit delaktig i att ta fram och utveckla lösningar inom digitalisering och it.\r\n\r\nFör att lyckas i rollen ser vi att du har:\r\r\n• erfarenhet av arbete med it-arkitektur eller närliggande arbete\r\n• erfarenhet av arbete i organisationer med komplexa it-landskap\r\n• god förståelse för systemintegrationer och tekniska beroenden\r\n• mycket god förmåga att uttrycka dig på svenska i tal och skrift\r\n• B-körkort.\r\n\r\n\r\nDet är meriterande om du har erfarenhet av:\r\r\n• arbete i offentlig verksamhet\r\n• lösningsdesign eller arkitekturarbete i större organisationer.\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper och söker dig som är:\r\r\n• analytisk och strukturerad med god helhetssyn\r\n• ansvarstagande och driver självständigt ditt arbete framåt\r\n• kommunikativ och pedagogisk och kan anpassa ditt budskap till olika målgrupper\r\n• trivs i en rådgivande roll och samarbetar bra med andra.\r\n\r\n\r\nHos oss får du möjlighet att arbeta i en organisation som gör skillnad i människors vardag. Du blir en del av ett kompetent team med nära samarbete mellan verksamhet och it och får vara med och påverka utvecklingen av framtidens lösningar.\r\n\r\nVälkommen med din ansökan!\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse. Placeringsort är Eskilstuna, Katrinehom eller Nyköping.\r\n\r\nInformation om tjänsten lämnas av\r\nEnhetschef, Marie Berg, 073-676 03 66.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på Region Sörmland IT!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
+      "text": "Hos oss arbetar du med metodik, verktyg och processer för flygsäkerhetskritisk mjukvara till Gripen - och får en unik inblick i hela utvecklingskedjan. Varmt välkommen med din ansökan!\n \n\n\nDin Roll\n\nDu får en unik helhetsförståelse för Gripens mjukvaruutveckling och arbetar nära hela kedjan - från krav, utveckling och test till verifiering av flygande mjukvara.\n \nHos oss blir du en del av teamet som utvecklar flygsäkerhetskritiska processer, verktyg och metodik för Gripens avancerade avioniksystem. Rollen kombinerar teknisk utveckling med metodik och processarbete där du bidrar till hur Gripens flygsäkerhetskritiska mjukvara utvecklas, testas och kvalitetssäkras. Få roller ger samma möjlighet att påverka hur flygsäkerhetskritisk mjukvara utvecklas - från krav och metodik till verifierad mjukvara i flygande system.\n \nDina arbetsuppgifter\nRollen är i grunden en mjukvaruprocess-ingenjörsroll med fokus på flygsäkerhetskritisk utveckling. Du kommer arbeta brett och varierat, med exempel som:\n \nUtveckla verktyg och metodik för testning, modellering och generering av flygande mjukvara\nVidareutveckla arbetssätt och processer för säkerhetskritisk mjukvaruutveckling inom Gripen\nStötta utvecklingsteamen i tekniska frågor kopplade till metodik, verktyg och mjukvaruutveckling\nDelta i verifiering och kvalitetssäkring av säkerhetskritisk mjukvara\nGranska och stötta utvecklingsteamens deklarationer\n\n \nVi arbetar mot RTCA DO-178C med verktyg som Simulink, C++ och Python.\n \nDu blir en del av ett team där alla bidrar med sin kompetens och erfarenhet efter intresse och styrkor. Hos oss finns både juniora och seniora utvecklare och tekniska ledare - du får därför ett starkt stöd i din utveckling oavsett var du befinner dig i karriären. Rollen är bred och ger möjlighet att fördjupa sig inom exempelvis metodikutveckling, testverktyg, modellering, mjukvaruarkitektur eller tekniskt ledarskap över tid.\n \nOmrådet Avionics Systems EF består idag av cirka 100 medarbetare som värdesätter kunskapsdelning och samarbete för att lyckas tillsammans. Vår gemensamma uppgift är att vidareutveckla avancerade avioniksystem som uppfyller kraven på framtida flygande stridsplattformar.\n \n\n\nDin profil\n\nVi söker dig som drivs av att utvecklas, lära nytt och bidra där det behövs som mest. Hos oss finns många möjliga inriktningar - oavsett om du brinner för processutveckling, mjukvaruarkitektur, testverktyg, Simulink-modellering eller tekniskt ledarskap.\n \nVi söker dig med teknisk högskoleutbildning, exempelvis som ingenjör, eller motsvarande erfarenhet som ger dig en god grund att förstå och arbeta med mjukvaruutveckling i komplexa system. Vi tror att du trivs i komplexa tekniska miljöer där kvalitet, struktur och samarbete är avgörande. Du är nyfiken, gillar att förstå system på djupet och drivs av att förbättra arbetssätt och tekniska lösningar tillsammans med andra.\n \nVi anställer dig utifrån vem du är, din vilja att lära och din förmåga att bidra - oavsett om du är nyutexaminerad eller erfaren.\n \nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n \n\n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\n \nSaab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\n \nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här\n \nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut. Vänta därför inte med din ansökan, utan hör av dig så snart som möjligt!\n \nVill du påverka hur framtidens flygsystem utvecklas i praktiken - inte bara i teorin? Då vill vi höra från dig!\n \nMed tanke på den kommande semesterperioden kan du förvänta dig återkoppling på din ansökan efter sommaren. Om du tycker att tjänsten låter intressant är du varmt välkommen att skicka in din ansökan redan idag!",
+      "text_formatted": "<p><em>Hos oss arbetar du med metodik, verktyg och processer för flygsäkerhetskritisk mjukvara till Gripen - och får en unik inblick i hela utvecklingskedjan. Varmt välkommen med din ansökan!</em></p><p> </p>\n\nDin Roll\n\n<p>Du får en unik helhetsförståelse för Gripens mjukvaruutveckling och arbetar nära hela kedjan - från krav, utveckling och test till verifiering av flygande mjukvara.</p><p> </p><p>Hos oss blir du en del av teamet som utvecklar flygsäkerhetskritiska processer, verktyg och metodik för Gripens avancerade avioniksystem. Rollen kombinerar teknisk utveckling med metodik och processarbete där du bidrar till hur Gripens flygsäkerhetskritiska mjukvara utvecklas, testas och kvalitetssäkras. Få roller ger samma möjlighet att påverka hur flygsäkerhetskritisk mjukvara utvecklas - från krav och metodik till verifierad mjukvara i flygande system.</p><p> </p><p><strong>Dina arbetsuppgifter</strong></p><p>Rollen är i grunden en mjukvaruprocess-ingenjörsroll med fokus på flygsäkerhetskritisk utveckling. Du kommer arbeta brett och varierat, med exempel som:</p><p> </p><ul><li>Utveckla verktyg och metodik för testning, modellering och generering av flygande mjukvara</li><li>Vidareutveckla arbetssätt och processer för säkerhetskritisk mjukvaruutveckling inom Gripen</li><li>Stötta utvecklingsteamen i tekniska frågor kopplade till metodik, verktyg och mjukvaruutveckling</li><li>Delta i verifiering och kvalitetssäkring av säkerhetskritisk mjukvara</li><li>Granska och stötta utvecklingsteamens deklarationer</li></ul><p> </p><p>Vi arbetar mot RTCA DO-178C med verktyg som Simulink, C++ och Python.</p><p> </p><p>Du blir en del av ett team där alla bidrar med sin kompetens och erfarenhet efter intresse och styrkor. Hos oss finns både juniora och seniora utvecklare och tekniska ledare - du får därför ett starkt stöd i din utveckling oavsett var du befinner dig i karriären. Rollen är bred och ger möjlighet att fördjupa sig inom exempelvis metodikutveckling, testverktyg, modellering, mjukvaruarkitektur eller tekniskt ledarskap över tid.</p><p> </p><p>Området Avionics Systems EF består idag av cirka 100 medarbetare som värdesätter kunskapsdelning och samarbete för att lyckas tillsammans. Vår gemensamma uppgift är att vidareutveckla avancerade avioniksystem som uppfyller kraven på framtida flygande stridsplattformar.</p><p> </p>\n\nDin profil\n\n<p>Vi söker dig som drivs av att utvecklas, lära nytt och bidra där det behövs som mest. Hos oss finns många möjliga inriktningar - oavsett om du brinner för processutveckling, mjukvaruarkitektur, testverktyg, Simulink-modellering eller tekniskt ledarskap.</p><p> </p><p>Vi söker dig med teknisk högskoleutbildning, exempelvis som ingenjör, eller motsvarande erfarenhet som ger dig en god grund att förstå och arbeta med mjukvaruutveckling i komplexa system. Vi tror att du trivs i komplexa tekniska miljöer där kvalitet, struktur och samarbete är avgörande. Du är nyfiken, gillar att förstå system på djupet och drivs av att förbättra arbetssätt och tekniska lösningar tillsammans med andra.</p><p> </p><p>Vi anställer dig utifrån vem du är, din vilja att lära och din förmåga att bidra - oavsett om du är nyutexaminerad eller erfaren.</p><p> </p><p>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.</p><p> </p>\n\nVad du blir en del av\n\n<p>Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.</p><p> </p><p>Saab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.</p><p> </p><p>Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här</p><p> </p><p>Vänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut. Vänta därför inte med din ansökan, utan hör av dig så snart som möjligt!</p><p> </p><p>Vill du påverka hur framtidens flygsystem utvecklas i praktiken - inte bara i teorin? Då vill vi höra från dig!</p><p> </p><p><em>Med tanke på den kommande semesterperioden kan du förvänta dig återkoppling på din ansökan efter sommaren. Om du tycker att tjänsten låter intressant är du varmt välkommen att skicka in din ansökan redan idag!</em></p>",
       "company_information": null,
       "needs": null,
       "requirements": null,
@@ -2350,31 +1983,31 @@
       "phone_number": null,
       "email": null,
       "url": null,
-      "organization_number": "2321000032",
-      "name": "REGION SÖRMLAND",
-      "workplace": "Region Sörmland"
+      "organization_number": "5560360793",
+      "name": "SAAB AKTIEBOLAG",
+      "workplace": "Saab"
     },
     "application_details": {
       "information": null,
-      "reference": "RDD-26-014",
+      "reference": null,
       "email": null,
       "via_af": false,
-      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27151&RefNo=RDD-26-014",
+      "url": "https://www.aplitrak.com/?adid=ay5mb2xrZXNvbi42Mjc2My4xMzc2NUBzYWFiLmFwbGl0cmFrLmNvbQ",
       "other": null
     },
     "experience_required": true,
     "access_to_own_car": false,
-    "driving_license_required": true,
+    "driving_license_required": false,
     "driving_license": null,
     "occupation": {
-      "concept_id": "uyJg_i94_xmr",
-      "label": "IT-arkitekt/Lösningsarkitekt",
-      "legacy_ams_taxonomy_id": "6626"
+      "concept_id": "rQds_YGd_quU",
+      "label": "Mjukvaruutvecklare",
+      "legacy_ams_taxonomy_id": "80"
     },
     "occupation_group": {
-      "concept_id": "UXKZ_3zZ_ipB",
-      "label": "Systemanalytiker och IT-arkitekter m.fl.",
-      "legacy_ams_taxonomy_id": "2511"
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
     },
     "occupation_field": {
       "concept_id": "apaJ_2ja_LuF",
@@ -2382,21 +2015,21 @@
       "legacy_ams_taxonomy_id": "3"
     },
     "workplace_address": {
-      "municipality": "Nyköping",
-      "municipality_code": "0480",
-      "municipality_concept_id": "KzvD_ePV_DKQ",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
       "country": "Sverige",
       "country_code": "199",
       "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61188",
-      "city": "Nyköping",
+      "street_address": "Bröderna Ugglas Gata",
+      "postcode": "58188",
+      "city": "Linköping",
       "coordinates": [
-        16.9905073,
-        58.7499752
+        15.6226866,
+        58.4200361
       ]
     },
     "must_have": {
@@ -2407,139 +2040,33 @@
       "education_level": []
     },
     "nice_to_have": {
-      "skills": [],
+      "skills": [
+        {
+          "weight": null,
+          "concept_id": "A5HJ_aMw_BQt",
+          "label": "Mjukvaruutveckling",
+          "legacy_ams_taxonomy_id": "602377"
+        }
+      ],
       "languages": [],
-      "work_experiences": [],
+      "work_experiences": [
+        {
+          "weight": 5,
+          "concept_id": "rQds_YGd_quU",
+          "label": "Mjukvaruutvecklare",
+          "legacy_ams_taxonomy_id": "80"
+        }
+      ],
       "education": [],
       "education_level": []
     },
     "application_contacts": [],
-    "publication_date": "2026-06-11T16:42:45",
-    "last_publication_date": "2026-08-13T23:59:59",
+    "publication_date": "2026-08-14T08:06:37",
+    "last_publication_date": "2026-08-28T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1781676719710
-  },
-  {
-    "relevance": 1,
-    "id": "31170211",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31170211",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
-    "headline": "IT-Arkitekt/Lösningsarkitekt",
-    "application_deadline": "2026-08-13T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Region Sörmland IT (RSIT), Eskilstuna, Katrineholm eller Nyköping\r\n\r\nVill du vara med och utveckla framtidens it-landskap i en verksamhet som gör verklig skillnad för människors vardag? Hos Region Sörmland får du arbeta nära verksamheten och bidra till hållbara lösningar som påverkar invånarnas vardag.\r\n\r\nOm oss\r\nRegion Sörmland är en av länets största arbetsgivare med cirka 10 000 medarbetare. Inom Region Sörmland IT (RSIT) är vi omkring 150 medarbetare som driver digitalisering och levererar it-tjänster till hela organisationen.\r\n\r\nVi söker en it-arkitekt/lösningsarkitekt som vill bidra till att utveckla en sammanhållen och hållbar arkitektur.\r\n\r\nI rollen arbetar du nära både verksamhet och it och medverkar i att utveckla regionens arkitektur, principer och arbetssätt. Hos oss får du möjlighet att påverka utvecklingen av framtidens digitala lösningar i ett nära samarbete med kompetenta kollegor. \r\n\r\n\r\nDina arbetsuppgifter\r\r\n• Analysera verksamhetsbehov och omsätta dem till tekniska lösningar\r\n• Ta fram lösningsförslag och övergripande design för nya och befintliga system\r\n• Identifiera och hantera beroenden mellan system, integrationer och informationsflöden\r\n• Samverka med verksamhet, utvecklare och andra roller kring krav och lösningar\r\n• Säkerställa att lösningar följer arkitekturprinciper, riktlinjer och standarder\r\n• Dokumentera lösningar och strukturer på ett tydligt och ändamålsenligt sätt\r\n• Bidra till utveckling, standardisering och förbättring av it-landskapet.\r\n\r\n\r\nDin kompetens\r\nVi söker dig som har erfarenhet av, eller ett starkt intresse för, att arbeta med it-lösningar i komplexa miljöer. Du har förmåga att se helheten och kan omsätta verksamhetens behov och mål till välfungerande, hållbara och långsiktiga lösningar. Du har relevant utbildning inom it, systemvetenskap eller motsvarande\r\n\r\nDu kan idag arbeta i en roll som exempelvis it-arkitekt, systemförvaltare, systemutvecklare, teknisk specialist, projektledare inom it eller liknande, där du har varit delaktig i att ta fram och utveckla lösningar inom digitalisering och it.\r\n\r\nFör att lyckas i rollen ser vi att du har:\r\r\n• erfarenhet av arbete med it-arkitektur eller närliggande arbete\r\n• erfarenhet av arbete i organisationer med komplexa it-landskap\r\n• god förståelse för systemintegrationer och tekniska beroenden\r\n• mycket god förmåga att uttrycka dig på svenska i tal och skrift\r\n• B-körkort.\r\n\r\n\r\nDet är meriterande om du har erfarenhet av:\r\r\n• arbete i offentlig verksamhet\r\n• lösningsdesign eller arkitekturarbete i större organisationer.\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper och söker dig som är:\r\r\n• analytisk och strukturerad med god helhetssyn\r\n• ansvarstagande och driver självständigt ditt arbete framåt\r\n• kommunikativ och pedagogisk och kan anpassa ditt budskap till olika målgrupper\r\n• trivs i en rådgivande roll och samarbetar bra med andra.\r\n\r\n\r\nHos oss får du möjlighet att arbeta i en organisation som gör skillnad i människors vardag. Du blir en del av ett kompetent team med nära samarbete mellan verksamhet och it och får vara med och påverka utvecklingen av framtidens lösningar.\r\n\r\nVälkommen med din ansökan!\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse. Placeringsort är Eskilstuna, Katrinehom eller Nyköping.\r\n\r\nInformation om tjänsten lämnas av\r\nEnhetschef, Marie Berg, 073-676 03 66.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på Region Sörmland IT!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "text_formatted": "Region Sörmland IT (RSIT), Eskilstuna, Katrineholm eller Nyköping\r\n\r\nVill du vara med och utveckla framtidens it-landskap i en verksamhet som gör verklig skillnad för människors vardag? Hos Region Sörmland får du arbeta nära verksamheten och bidra till hållbara lösningar som påverkar invånarnas vardag.\r\n\r\nOm oss\r\nRegion Sörmland är en av länets största arbetsgivare med cirka 10 000 medarbetare. Inom Region Sörmland IT (RSIT) är vi omkring 150 medarbetare som driver digitalisering och levererar it-tjänster till hela organisationen.\r\n\r\nVi söker en it-arkitekt/lösningsarkitekt som vill bidra till att utveckla en sammanhållen och hållbar arkitektur.\r\n\r\nI rollen arbetar du nära både verksamhet och it och medverkar i att utveckla regionens arkitektur, principer och arbetssätt. Hos oss får du möjlighet att påverka utvecklingen av framtidens digitala lösningar i ett nära samarbete med kompetenta kollegor. \r\n\r\n\r\nDina arbetsuppgifter\r\r\n• Analysera verksamhetsbehov och omsätta dem till tekniska lösningar\r\n• Ta fram lösningsförslag och övergripande design för nya och befintliga system\r\n• Identifiera och hantera beroenden mellan system, integrationer och informationsflöden\r\n• Samverka med verksamhet, utvecklare och andra roller kring krav och lösningar\r\n• Säkerställa att lösningar följer arkitekturprinciper, riktlinjer och standarder\r\n• Dokumentera lösningar och strukturer på ett tydligt och ändamålsenligt sätt\r\n• Bidra till utveckling, standardisering och förbättring av it-landskapet.\r\n\r\n\r\nDin kompetens\r\nVi söker dig som har erfarenhet av, eller ett starkt intresse för, att arbeta med it-lösningar i komplexa miljöer. Du har förmåga att se helheten och kan omsätta verksamhetens behov och mål till välfungerande, hållbara och långsiktiga lösningar. Du har relevant utbildning inom it, systemvetenskap eller motsvarande\r\n\r\nDu kan idag arbeta i en roll som exempelvis it-arkitekt, systemförvaltare, systemutvecklare, teknisk specialist, projektledare inom it eller liknande, där du har varit delaktig i att ta fram och utveckla lösningar inom digitalisering och it.\r\n\r\nFör att lyckas i rollen ser vi att du har:\r\r\n• erfarenhet av arbete med it-arkitektur eller närliggande arbete\r\n• erfarenhet av arbete i organisationer med komplexa it-landskap\r\n• god förståelse för systemintegrationer och tekniska beroenden\r\n• mycket god förmåga att uttrycka dig på svenska i tal och skrift\r\n• B-körkort.\r\n\r\n\r\nDet är meriterande om du har erfarenhet av:\r\r\n• arbete i offentlig verksamhet\r\n• lösningsdesign eller arkitekturarbete i större organisationer.\r\n\r\n\r\nVi lägger stor vikt vid personliga egenskaper och söker dig som är:\r\r\n• analytisk och strukturerad med god helhetssyn\r\n• ansvarstagande och driver självständigt ditt arbete framåt\r\n• kommunikativ och pedagogisk och kan anpassa ditt budskap till olika målgrupper\r\n• trivs i en rådgivande roll och samarbetar bra med andra.\r\n\r\n\r\nHos oss får du möjlighet att arbeta i en organisation som gör skillnad i människors vardag. Du blir en del av ett kompetent team med nära samarbete mellan verksamhet och it och får vara med och påverka utvecklingen av framtidens lösningar.\r\n\r\nVälkommen med din ansökan!\r\n\r\nAnställningsform\r\nTillsvidareanställning med tillträde enligt överenskommelse. Placeringsort är Eskilstuna, Katrinehom eller Nyköping.\r\n\r\nInformation om tjänsten lämnas av\r\nEnhetschef, Marie Berg, 073-676 03 66.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på Region Sörmland IT!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-08-13.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "2321000032",
-      "name": "REGION SÖRMLAND",
-      "workplace": "Region Sörmland"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "RDD-26-014",
-      "email": null,
-      "via_af": false,
-      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27151&RefNo=RDD-26-014",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "uyJg_i94_xmr",
-      "label": "IT-arkitekt/Lösningsarkitekt",
-      "legacy_ams_taxonomy_id": "6626"
-    },
-    "occupation_group": {
-      "concept_id": "UXKZ_3zZ_ipB",
-      "label": "Systemanalytiker och IT-arkitekter m.fl.",
-      "legacy_ams_taxonomy_id": "2511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61188",
-      "city": "Nyköping",
-      "coordinates": [
-        16.509804,
-        59.37125
-      ]
-    },
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-06-11T16:42:45",
-    "last_publication_date": "2026-08-13T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1781676720904
+    "timestamp": 1786687597856
   },
   {
     "relevance": 1,
@@ -6729,13 +6256,6 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Ulrika Larsson",
         "description": null,
         "email": "ulrika.larsson1@kriminalvarden.se",
@@ -6743,9 +6263,9 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -6753,6 +6273,13 @@
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -7726,18 +7253,18 @@
     },
     "application_contacts": [
       {
-        "name": "Emma Törnqvist",
-        "description": null,
-        "email": "emma.tornqvist@liu.se",
-        "telephone": "+4611363448",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Erik Sundén",
         "description": null,
         "email": "erik.sunden@liu.se",
         "telephone": "+4611363626",
         "contact_type": "Teknisk chef"
+      },
+      {
+        "name": "Emma Törnqvist",
+        "description": null,
+        "email": "emma.tornqvist@liu.se",
+        "telephone": "+4611363448",
+        "contact_type": "HR-partner"
       }
     ],
     "publication_date": "2026-08-10T11:43:35",
@@ -7861,18 +7388,18 @@
     },
     "application_contacts": [
       {
-        "name": "Emma Törnqvist",
-        "description": null,
-        "email": "emma.tornqvist@liu.se",
-        "telephone": "+4611363448",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Erik Sundén",
         "description": null,
         "email": "erik.sunden@liu.se",
         "telephone": "+4611363626",
         "contact_type": "Teknisk chef"
+      },
+      {
+        "name": "Emma Törnqvist",
+        "description": null,
+        "email": "emma.tornqvist@liu.se",
+        "telephone": "+4611363448",
+        "contact_type": "HR-partner"
       }
     ],
     "publication_date": "2026-08-10T11:41:24",
@@ -8123,10 +7650,10 @@
     },
     "application_contacts": [
       {
-        "name": "Mattias Åberg (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Mattias.Aberg@kriminalvarden.se",
-        "telephone": "0772280800",
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
         "contact_type": null
       },
       {
@@ -8144,10 +7671,10 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Mattias Åberg (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
+        "email": "Mattias.Aberg@kriminalvarden.se",
+        "telephone": "0772280800",
         "contact_type": null
       }
     ],
@@ -9776,13 +9303,6 @@
     },
     "application_contacts": [
       {
-        "name": "Lena Gripenblad",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
-      },
-      {
         "name": "Annika Söderlund",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -9795,6 +9315,13 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "HR-specialist"
+      },
+      {
+        "name": "Lena Gripenblad",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-08-04T15:07:33",
@@ -10345,18 +9872,18 @@
     },
     "application_contacts": [
       {
-        "name": "Peter Karlsson",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppche"
-      },
-      {
         "name": "Vendela Johansson",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "HR-specialist"
+      },
+      {
+        "name": "Peter Karlsson",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Gruppche"
       }
     ],
     "publication_date": "2026-08-03T13:50:26",
@@ -11333,25 +10860,11 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Gunilla Togan Murad",
-        "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "0761464262",
-        "contact_type": "Sektionschef"
       },
       {
         "name": "Mattias Åberg (SEKO) v.33-34",
@@ -11365,6 +10878,20 @@
         "description": null,
         "email": "Anna-Karin.Fallman@kriminalvarden.se",
         "telephone": "0707563057",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Gunilla Togan Murad",
+        "description": null,
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "0761464262",
         "contact_type": "Sektionschef"
       }
     ],
@@ -11743,13 +11270,6 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
@@ -11757,9 +11277,9 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -11769,6 +11289,13 @@
         "email": "sandra.palm@kriminalvarden.se",
         "telephone": "+46114741603",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Angelica Oxenby",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-07-27T00:00:23",
@@ -12168,13 +11695,6 @@
     },
     "application_contacts": [
       {
-        "name": "Fredrik Kinberg",
-        "description": null,
-        "email": "fredrik.kinberg@linkoping.se",
-        "telephone": "+46702478177",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Per Magnusson",
         "description": null,
         "email": "per.o.magnusson@linkoping.se",
@@ -12187,6 +11707,13 @@
         "email": "linus.wennerqvist@linkoping.se",
         "telephone": "+4613205892",
         "contact_type": "HR-konsult"
+      },
+      {
+        "name": "Fredrik Kinberg",
+        "description": null,
+        "email": "fredrik.kinberg@linkoping.se",
+        "telephone": "+46702478177",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-07-22T08:09:26",
@@ -14441,17 +13968,17 @@
     },
     "application_contacts": [
       {
-        "name": "Har du frågor om uppdraget, kontakta ansvarig rekryterande chef",
-        "description": null,
-        "email": null,
-        "telephone": "0105628171",
-        "contact_type": null
-      },
-      {
         "name": "Har du frågor om rekryteringsprocessen?  Välkommen att kontakta oss på",
         "description": null,
         "email": "rekrytering.nationella-avdelningar@polisen.se",
         "telephone": null,
+        "contact_type": null
+      },
+      {
+        "name": "Har du frågor om uppdraget, kontakta ansvarig rekryterande chef",
+        "description": null,
+        "email": null,
+        "telephone": "0105628171",
         "contact_type": null
       }
     ],
@@ -17089,10 +16616,10 @@
     },
     "application_contacts": [
       {
-        "name": "Anna Winzell",
+        "name": "Charlott Olsson",
         "description": null,
-        "email": "anna.winzell@migrationsverket.se",
-        "telephone": "010-4857516",
+        "email": "charlott.margareta.olsson@migrationsverket.se",
+        "telephone": "010-4859186",
         "contact_type": null
       },
       {
@@ -17103,10 +16630,10 @@
         "contact_type": null
       },
       {
-        "name": "Charlott Olsson",
+        "name": "Anna Winzell",
         "description": null,
-        "email": "charlott.margareta.olsson@migrationsverket.se",
-        "telephone": "010-4859186",
+        "email": "anna.winzell@migrationsverket.se",
+        "telephone": "010-4857516",
         "contact_type": null
       }
     ],
@@ -17486,17 +17013,17 @@
     },
     "application_contacts": [
       {
-        "name": "Elvira Lidén",
-        "description": null,
-        "email": "elvira.liden@friday.se",
-        "telephone": "+46735066410",
-        "contact_type": "Rekryterare"
-      },
-      {
         "name": "Amanda Hedberg",
         "description": null,
         "email": "amanda.hedberg@friday.se",
         "telephone": "+46735231066",
+        "contact_type": "Rekryterare"
+      },
+      {
+        "name": "Elvira Lidén",
+        "description": null,
+        "email": "elvira.liden@friday.se",
+        "telephone": "+46735066410",
         "contact_type": "Rekryterare"
       }
     ],
@@ -18992,13 +18519,6 @@
     },
     "application_contacts": [
       {
-        "name": "Daniel Jönsson",
-        "description": null,
-        "email": "daniel.jonsson@liu.se",
-        "telephone": null,
-        "contact_type": "Universitetslektor, enhetschef"
-      },
-      {
         "name": "Emma Törnqvist",
         "description": null,
         "email": "emma.tornqvist@liu.se",
@@ -19011,6 +18531,13 @@
         "email": "claes.lundstrom@liu.se",
         "telephone": "+46706055016",
         "contact_type": "Adjungerad professor"
+      },
+      {
+        "name": "Daniel Jönsson",
+        "description": null,
+        "email": "daniel.jonsson@liu.se",
+        "telephone": null,
+        "contact_type": "Universitetslektor, enhetschef"
       }
     ],
     "publication_date": "2026-07-03T09:30:38",
@@ -19904,13 +19431,6 @@
     },
     "application_contacts": [
       {
-        "name": "Helen Karlsson",
-        "description": null,
-        "email": "helen.m.karlsson@regionostergotland.se",
-        "telephone": "010-1047464",
-        "contact_type": "MTIT-ansvarig"
-      },
-      {
         "name": "Magnus Bark",
         "description": null,
         "email": "magnus.bark@regionostergotland.se",
@@ -19923,6 +19443,13 @@
         "email": "patricia.Hultkrantz@regionostergotland.se",
         "telephone": "010-1037549",
         "contact_type": "Rekryterande chef"
+      },
+      {
+        "name": "Helen Karlsson",
+        "description": null,
+        "email": "helen.m.karlsson@regionostergotland.se",
+        "telephone": "010-1047464",
+        "contact_type": "MTIT-ansvarig"
       }
     ],
     "publication_date": "2026-07-01T10:01:03",
@@ -20046,18 +19573,18 @@
     },
     "application_contacts": [
       {
-        "name": "Rosssen Apostolov",
-        "description": null,
-        "email": "rossen@naiss.se",
-        "telephone": null,
-        "contact_type": "Föreståndare för AI‑fabriken Mimer"
-      },
-      {
         "name": "Carin Ennergård",
         "description": null,
         "email": "carin.ennergard@liu.se",
         "telephone": "+4613282114",
         "contact_type": "Koordinator, tf HR-partner"
+      },
+      {
+        "name": "Rosssen Apostolov",
+        "description": null,
+        "email": "rossen@naiss.se",
+        "telephone": null,
+        "contact_type": "Föreståndare för AI‑fabriken Mimer"
       },
       {
         "name": "Anna Jänis",
@@ -21114,18 +20641,18 @@
     },
     "application_contacts": [
       {
-        "name": "Martin Eneling",
-        "description": null,
-        "email": "martin.eneling@liu.se",
-        "telephone": "+4613286735",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Martin Eneling",
+        "description": null,
+        "email": "martin.eneling@liu.se",
+        "telephone": "+4613286735",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-06-30T15:18:27",
@@ -22781,18 +22308,18 @@
     },
     "application_contacts": [
       {
-        "name": "Carin Ennergård",
-        "description": null,
-        "email": "carin.ennergard@liu.se",
-        "telephone": "+4613282114",
-        "contact_type": "Senior Coordinator, acting HR-partner"
-      },
-      {
         "name": "Anna Jänis",
         "description": null,
         "email": "anna.janis@liu.se",
         "telephone": "+4613285710",
         "contact_type": "Head of Division"
+      },
+      {
+        "name": "Carin Ennergård",
+        "description": null,
+        "email": "carin.ennergard@liu.se",
+        "telephone": "+4613282114",
+        "contact_type": "Senior Coordinator, acting HR-partner"
       },
       {
         "name": "Rossen Apostolov",
@@ -28378,16 +27905,16 @@
     },
     "application_contacts": [
       {
-        "name": "Elin Ånell",
+        "name": "Simin Nadjm-Tehrani",
         "description": null,
-        "email": "elin.anell@liu.se",
+        "email": "simin.nadjm-tehrani@liu.se",
         "telephone": null,
         "contact_type": null
       },
       {
-        "name": "Simin Nadjm-Tehrani",
+        "name": "Elin Ånell",
         "description": null,
-        "email": "simin.nadjm-tehrani@liu.se",
+        "email": "elin.anell@liu.se",
         "telephone": null,
         "contact_type": null
       }
