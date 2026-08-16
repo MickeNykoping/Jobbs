@@ -120,6 +120,20 @@
     },
     "application_contacts": [
       {
+        "name": "Carolina Tollén",
+        "description": null,
+        "email": null,
+        "telephone": "016-162580",
+        "contact_type": null
+      },
+      {
+        "name": "Madeleine Hermansson, ST",
+        "description": null,
+        "email": null,
+        "telephone": "016-162748",
+        "contact_type": null
+      },
+      {
         "name": "Jerker Sidén, Saco-S",
         "description": null,
         "email": null,
@@ -131,20 +145,6 @@
         "description": null,
         "email": null,
         "telephone": "016-162536",
-        "contact_type": null
-      },
-      {
-        "name": "Madeleine Hermansson, ST",
-        "description": null,
-        "email": null,
-        "telephone": "016-162748",
-        "contact_type": null
-      },
-      {
-        "name": "Carolina Tollén",
-        "description": null,
-        "email": null,
-        "telephone": "016-162580",
         "contact_type": null
       }
     ],
@@ -7725,13 +7725,6 @@
         "contact_type": null
       },
       {
-        "name": "Ulrika Larsson",
-        "description": null,
-        "email": "ulrika.larsson1@kriminalvarden.se",
-        "telephone": "0772280800",
-        "contact_type": null
-      },
-      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
@@ -7743,6 +7736,13 @@
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Ulrika Larsson",
+        "description": null,
+        "email": "ulrika.larsson1@kriminalvarden.se",
+        "telephone": "0772280800",
         "contact_type": null
       }
     ],
@@ -9112,13 +9112,6 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Mattias Åberg (SEKO)",
         "description": null,
         "email": "Mattias.Aberg@kriminalvarden.se",
@@ -9129,6 +9122,13 @@
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -11334,18 +11334,18 @@
     },
     "application_contacts": [
       {
-        "name": "Vendela Johansson",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "HR-specialist"
-      },
-      {
         "name": "Peter Karlsson",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "Gruppche"
+      },
+      {
+        "name": "Vendela Johansson",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "HR-specialist"
       }
     ],
     "publication_date": "2026-08-03T13:50:26",
@@ -12315,23 +12315,9 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Gunilla Togan Murad",
-        "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "0761464262",
-        "contact_type": "Sektionschef"
-      },
-      {
-        "name": "Josip Jovasevic (SEKO) v.31-32",
-        "description": null,
-        "email": "Josip.Jovasevic@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -12343,9 +12329,16 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Josip Jovasevic (SEKO) v.31-32",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Josip.Jovasevic@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -12355,6 +12348,13 @@
         "email": "Mattias.Aberg@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Gunilla Togan Murad",
+        "description": null,
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "0761464262",
+        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-07-29T00:00:32",
@@ -12732,13 +12732,6 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Sandra Palm",
         "description": null,
         "email": "sandra.palm@kriminalvarden.se",
@@ -12746,16 +12739,23 @@
         "contact_type": "Enhetschef"
       },
       {
-        "name": "Angelica Oxenby",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -13157,6 +13157,13 @@
     },
     "application_contacts": [
       {
+        "name": "Linus Wennerqvist",
+        "description": null,
+        "email": "linus.wennerqvist@linkoping.se",
+        "telephone": "+4613205892",
+        "contact_type": "HR-konsult"
+      },
+      {
         "name": "Per Magnusson",
         "description": null,
         "email": "per.o.magnusson@linkoping.se",
@@ -13169,13 +13176,6 @@
         "email": "fredrik.kinberg@linkoping.se",
         "telephone": "+46702478177",
         "contact_type": "Enhetschef"
-      },
-      {
-        "name": "Linus Wennerqvist",
-        "description": null,
-        "email": "linus.wennerqvist@linkoping.se",
-        "telephone": "+4613205892",
-        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-07-22T08:09:26",
@@ -13184,140 +13184,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1784700566585
-  },
-  {
-    "relevance": 1,
-    "id": "31285907",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31285907",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/arbetsplatser/80642116/logotyper/logo.png",
-    "headline": "Senior Software Engineer (.NET, Azure & DevOps)",
-    "application_deadline": "2026-08-15T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Är du en utvecklare med erfarenhet av .NET och ett starkt intresse för Azure, Cloud och DevOps? Trivs du med att kombinera utveckling, automatisering och moderna molntjänster för att skapa skalbara och driftsäkra lösningar?\nVi söker nu en Senior Software Engineer (.NET, Azure & DevOps) till Intelligent Care. I denna roll blir du en viktig teknisk specialist inom Azure, Cloud och DevOps samtidigt som du arbetar nära våra utvecklingsteam för att skapa moderna, säkra och skalbara lösningar.\nDu blir en del av ett engagerat utvecklingsteam och får möjlighet att påverka hur vi bygger, deployar och förvaltar våra lösningar framåt. Rollen passar dig som har en utvecklarbakgrund men som drivs av att förbättra utvecklingsplattformar, automatisera processer och skapa effektiva arbetssätt i moderna molnmiljöer.\n \nVad du kommer att göra som vår Senior Software Engineer (.NET, Azure & DevOps)\nI rollen kommer du att vara en nyckelperson inom Azure, Cloud och DevOps och stötta våra utvecklingsteam med att skapa moderna och skalbara lösningar. Du kommer att arbeta både operativt och strategiskt med utveckling, automatisering och förbättring av våra plattformar och arbetssätt.\nDu kommer även att:\nDesigna, utveckla och vidareutveckla Azure-baserade tjänster, plattformskomponenter och backend-lösningar för våra produkter inom välfärdsteknik och e-hälsa.\nArbeta med Infrastructure as Code samt automatisera och vidareutveckla vår molninfrastruktur med fokus på kvalitet, säkerhet och effektivitet.\nBygga, förbättra och standardisera CI/CD-processer, deploymentflöden och DevOps-arbetssätt för att möjliggöra snabbare och mer tillförlitliga leveranser.\nFungera som intern specialist inom Azure, Cloud och DevOps genom att stötta, coacha och dela kunskap med utvecklingsteamen kring moderna arbetssätt och tekniska lösningar.\nBidra med teknisk expertis i diskussioner kring lösningsdesign, molninfrastruktur och tekniska vägval i nära samarbete med utvecklare, arkitekter och andra teknikfunktioner.\nBidra till att våra lösningar är skalbara, tillgängliga, driftsäkra och säkra genom att kontinuerligt förbättra våra plattformar, molntjänster och arbetssätt.\n\n \nRollen innebär stor variation och passar dig som trivs i en miljö där du får kombinera utveckling, automatisering, problemlösning och kunskapsdelning.\n \nFärdigheterna och erfarenheten du behöver\nVi söker dig som har:\nErfarenhet av .NET/C#-utveckling och en god förståelse för moderna utvecklingsmiljöer.\nErfarenhet av Azure eller annan publik molnplattform.\nErfarenhet av DevOps-arbetssätt, CI/CD och automatisering.\nErfarenhet av Infrastructure as Code, exempelvis Terraform, Bicep eller liknande verktyg.\nFörståelse för molnbaserade lösningar, deploymentprocesser och modern infrastruktur.\nGod kommunikationsförmåga på svenska och engelska samt vana att samarbeta i tvärfunktionella team.\n\nFör att lyckas i rollen tror vi att du har ett genuint intresse för Cloud, Azure och DevOps och drivs av att förstå hur teknik, infrastruktur och utveckling samverkar för att skapa robusta och skalbara lösningar. Du är nyfiken, initiativrik och trivs i en miljö där du får utforska nya tekniker och bidra till att förbättra arbetssätt över tid.\nDu tycker om att dela kunskap och stötta andra, och känner dig bekväm med att fungera som en teknisk rådgivare inom ditt område. Erfarenhet av Azure DevOps, DevSecOps, IoT, mikrotjänstarkitektur, distribuerade system eller plattformsutveckling i molnmiljö är meriterande, men det viktigaste för oss är att du har rätt tekniska grund, ett starkt lärande mindset och ett genuint intresse för Cloud och DevOps.\n \nVi erbjuder\nVi erbjuder goda möjligheter till utveckling och attraktiva förmåner som gör att du kan bygga en långsiktig karriär hos oss – här är vad vi har att erbjuda:\nMöjligheter till lärande och karriärutveckling, oavsett om det handlar om online-utbildning, ledarträning eller att förbättra dina färdigheter.\nKollektivavtal och konkurrenskraftigt förmånspaket.\nEn global organisation med starkt varumärke och stabil tillväxt.\n\n \nVi granskar ansökningar regelbundet, så vänta inte\nVi bygger mångsidiga och inkluderande team och uppmanar ansökningar från alla som kan se sig själva arbeta med oss.\nFör att säkerställa att din personliga information är säker, tittar vi inte på några ansökningar som skickas via e-post eller post. Om du har några frågor om rollen eller processen, skicka ett e-postmeddelande till Khalil Kabakibi, Talent Acquisition Business Partner, på Khalil.kabakibi@assaabloy.com.\nSom en del av rekryteringsprocessen för denna roll kan en bakgrundskontroll komma att genomföras. Slutkandidater kan därför bli föremål för en sådan kontroll. Bakgrundskontrollen genomförs med kandidatens samtycke och i enlighet med vår integritetspolicy för arbetssökande.\nLåt oss tillsammans skapa en tryggare och mer öppen värld!\nFör att få reda på mer om oss, besök www.assaabloy.com.",
-      "text_formatted": "<p>Är du en utvecklare med erfarenhet av .NET och ett starkt intresse för Azure, Cloud och DevOps? Trivs du med att kombinera utveckling, automatisering och moderna molntjänster för att skapa skalbara och driftsäkra lösningar?</p><p>Vi söker nu en Senior Software Engineer (.NET, Azure &amp; DevOps) till Intelligent Care. I denna roll blir du en viktig teknisk specialist inom Azure, Cloud och DevOps samtidigt som du arbetar nära våra utvecklingsteam för att skapa moderna, säkra och skalbara lösningar.</p><p>Du blir en del av ett engagerat utvecklingsteam och får möjlighet att påverka hur vi bygger, deployar och förvaltar våra lösningar framåt. Rollen passar dig som har en utvecklarbakgrund men som drivs av att förbättra utvecklingsplattformar, automatisera processer och skapa effektiva arbetssätt i moderna molnmiljöer.</p><p> </p><p><strong>Vad du kommer att göra som vår Senior Software Engineer (.NET, Azure &amp; DevOps)</strong></p><p>I rollen kommer du att vara en nyckelperson inom Azure, Cloud och DevOps och stötta våra utvecklingsteam med att skapa moderna och skalbara lösningar. Du kommer att arbeta både operativt och strategiskt med utveckling, automatisering och förbättring av våra plattformar och arbetssätt.</p><p>Du kommer även att:</p><ul><li>Designa, utveckla och vidareutveckla Azure-baserade tjänster, plattformskomponenter och backend-lösningar för våra produkter inom välfärdsteknik och e-hälsa.</li><li>Arbeta med Infrastructure as Code samt automatisera och vidareutveckla vår molninfrastruktur med fokus på kvalitet, säkerhet och effektivitet.</li><li>Bygga, förbättra och standardisera CI/CD-processer, deploymentflöden och DevOps-arbetssätt för att möjliggöra snabbare och mer tillförlitliga leveranser.</li><li>Fungera som intern specialist inom Azure, Cloud och DevOps genom att stötta, coacha och dela kunskap med utvecklingsteamen kring moderna arbetssätt och tekniska lösningar.</li><li>Bidra med teknisk expertis i diskussioner kring lösningsdesign, molninfrastruktur och tekniska vägval i nära samarbete med utvecklare, arkitekter och andra teknikfunktioner.</li><li>Bidra till att våra lösningar är skalbara, tillgängliga, driftsäkra och säkra genom att kontinuerligt förbättra våra plattformar, molntjänster och arbetssätt.</li></ul><p> </p><p>Rollen innebär stor variation och passar dig som trivs i en miljö där du får kombinera utveckling, automatisering, problemlösning och kunskapsdelning.</p><p> </p><p><strong>Färdigheterna och erfarenheten du behöver</strong></p><p>Vi söker dig som har:</p><ul><li>Erfarenhet av .NET/C#-utveckling och en god förståelse för moderna utvecklingsmiljöer.</li><li>Erfarenhet av Azure eller annan publik molnplattform.</li><li>Erfarenhet av DevOps-arbetssätt, CI/CD och automatisering.</li><li>Erfarenhet av Infrastructure as Code, exempelvis Terraform, Bicep eller liknande verktyg.</li><li>Förståelse för molnbaserade lösningar, deploymentprocesser och modern infrastruktur.</li><li>God kommunikationsförmåga på svenska och engelska samt vana att samarbeta i tvärfunktionella team.</li></ul><p>För att lyckas i rollen tror vi att du har ett genuint intresse för Cloud, Azure och DevOps och drivs av att förstå hur teknik, infrastruktur och utveckling samverkar för att skapa robusta och skalbara lösningar. Du är nyfiken, initiativrik och trivs i en miljö där du får utforska nya tekniker och bidra till att förbättra arbetssätt över tid.</p><p>Du tycker om att dela kunskap och stötta andra, och känner dig bekväm med att fungera som en teknisk rådgivare inom ditt område. Erfarenhet av Azure DevOps, DevSecOps, IoT, mikrotjänstarkitektur, distribuerade system eller plattformsutveckling i molnmiljö är meriterande, men det viktigaste för oss är att du har rätt tekniska grund, ett starkt lärande mindset och ett genuint intresse för Cloud och DevOps.</p><p> </p><p><strong>Vi erbjuder</strong></p><p>Vi erbjuder goda möjligheter till utveckling och attraktiva förmåner som gör att du kan bygga en långsiktig karriär hos oss – här är vad vi har att erbjuda:</p><ul><li>Möjligheter till lärande och karriärutveckling, oavsett om det handlar om online-utbildning, ledarträning eller att förbättra dina färdigheter.</li><li>Kollektivavtal och konkurrenskraftigt förmånspaket.</li><li>En global organisation med starkt varumärke och stabil tillväxt.</li></ul><p> </p><p><strong>Vi granskar ansökningar regelbundet, så vänta inte</strong></p><p>Vi bygger mångsidiga och inkluderande team och uppmanar ansökningar från alla som kan se sig själva arbeta med oss.</p><p>För att säkerställa att din personliga information är säker, tittar vi inte på några ansökningar som skickas via e-post eller post. Om du har några frågor om rollen eller processen, skicka ett e-postmeddelande till Khalil Kabakibi, Talent Acquisition Business Partner, på Khalil.kabakibi@assaabloy.com.</p><p>Som en del av rekryteringsprocessen för denna roll kan en bakgrundskontroll komma att genomföras. Slutkandidater kan därför bli föremål för en sådan kontroll. Bakgrundskontrollen genomförs med kandidatens samtycke och i enlighet med vår integritetspolicy för arbetssökande.</p><p>Låt oss tillsammans skapa en tryggare och mer öppen värld!</p><p>För att få reda på mer om oss, besök www.assaabloy.com.</p><p> </p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560593575",
-      "name": "ASSA ABLOY AB",
-      "workplace": "ASSA ABLOY Intelligent Care AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.assaabloy.com/career/en/open-positions/job.49103",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Hospitalsgatan 3B",
-      "postcode": "60227",
-      "city": "NORRKÖPING",
-      "coordinates": [
-        16.1861560817214,
-        58.5906846213272
-      ]
-    },
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "rQds_YGd_quU",
-          "label": "Mjukvaruutvecklare",
-          "legacy_ams_taxonomy_id": "80"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-07-21T11:17:05",
-    "last_publication_date": "2026-08-15T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1784625425651
   },
   {
     "relevance": 1,
@@ -15302,17 +15168,17 @@
     },
     "application_contacts": [
       {
-        "name": "Har du frågor om rekryteringsprocessen?  Välkommen att kontakta oss på",
-        "description": null,
-        "email": "rekrytering.nationella-avdelningar@polisen.se",
-        "telephone": null,
-        "contact_type": null
-      },
-      {
         "name": "Har du frågor om uppdraget, kontakta ansvarig rekryterande chef",
         "description": null,
         "email": null,
         "telephone": "0105628171",
+        "contact_type": null
+      },
+      {
+        "name": "Har du frågor om rekryteringsprocessen?  Välkommen att kontakta oss på",
+        "description": null,
+        "email": "rekrytering.nationella-avdelningar@polisen.se",
+        "telephone": null,
         "contact_type": null
       }
     ],
@@ -15962,17 +15828,17 @@
     },
     "application_contacts": [
       {
-        "name": "Charlott Olsson",
-        "description": null,
-        "email": "charlott.margareta.olsson@migrationsverket.se",
-        "telephone": "010-4859186",
-        "contact_type": null
-      },
-      {
         "name": "Marlené Svegreus",
         "description": null,
         "email": "marlene.svegreus@migrationsverket.se",
         "telephone": "010-4855456",
+        "contact_type": null
+      },
+      {
+        "name": "Charlott Olsson",
+        "description": null,
+        "email": "charlott.margareta.olsson@migrationsverket.se",
+        "telephone": "010-4859186",
         "contact_type": null
       }
     ],
@@ -17950,6 +17816,13 @@
     },
     "application_contacts": [
       {
+        "name": "Charlott Olsson",
+        "description": null,
+        "email": "charlott.margareta.olsson@migrationsverket.se",
+        "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
         "name": "Anna Winzell",
         "description": null,
         "email": "anna.winzell@migrationsverket.se",
@@ -17961,13 +17834,6 @@
         "description": null,
         "email": "rikard.fransson@migrationsverket.se",
         "telephone": "010-4852820",
-        "contact_type": null
-      },
-      {
-        "name": "Charlott Olsson",
-        "description": null,
-        "email": "charlott.margareta.olsson@migrationsverket.se",
-        "telephone": "010-4859186",
         "contact_type": null
       }
     ],
@@ -23367,18 +23233,18 @@
         "contact_type": "Head of Division"
       },
       {
-        "name": "Carin Ennergård",
-        "description": null,
-        "email": "carin.ennergard@liu.se",
-        "telephone": "+4613282114",
-        "contact_type": "Senior Coordinator, acting HR-partner"
-      },
-      {
         "name": "Rossen Apostolov",
         "description": null,
         "email": "rossen@naiss.se",
         "telephone": null,
         "contact_type": "Director of the Mimer AI Factory"
+      },
+      {
+        "name": "Carin Ennergård",
+        "description": null,
+        "email": "carin.ennergard@liu.se",
+        "telephone": "+4613282114",
+        "contact_type": "Senior Coordinator, acting HR-partner"
       }
     ],
     "publication_date": "2026-06-24T13:12:17",
@@ -27039,6 +26905,13 @@
     },
     "application_contacts": [
       {
+        "name": "Marie Reinicke",
+        "description": null,
+        "email": "marie.reinicke@regionostergotland.se",
+        "telephone": "010-1030532",
+        "contact_type": "enhetschef"
+      },
+      {
         "name": "Lotta Dahl, Vision",
         "description": null,
         "email": "lotta.dahl@regionostergotland.se",
@@ -27051,13 +26924,6 @@
         "email": "erica.adolfsson@regionostergotland.se",
         "telephone": "010-1030215",
         "contact_type": null
-      },
-      {
-        "name": "Marie Reinicke",
-        "description": null,
-        "email": "marie.reinicke@regionostergotland.se",
-        "telephone": "010-1030532",
-        "contact_type": "enhetschef"
       }
     ],
     "publication_date": "2026-06-09T17:58:21",
@@ -28259,16 +28125,16 @@
     },
     "application_contacts": [
       {
-        "name": "Simin Nadjm-Tehrani",
+        "name": "Elin Ånell",
         "description": null,
-        "email": "simin.nadjm-tehrani@liu.se",
+        "email": "elin.anell@liu.se",
         "telephone": null,
         "contact_type": null
       },
       {
-        "name": "Elin Ånell",
+        "name": "Simin Nadjm-Tehrani",
         "description": null,
-        "email": "elin.anell@liu.se",
+        "email": "simin.nadjm-tehrani@liu.se",
         "telephone": null,
         "contact_type": null
       }
