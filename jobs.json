@@ -560,10 +560,10 @@
     },
     "application_contacts": [
       {
-        "name": "Jerker Sidén, Saco-S",
+        "name": "Carolina Tollén",
         "description": null,
         "email": null,
-        "telephone": "016-162766",
+        "telephone": "016-162580",
         "contact_type": null
       },
       {
@@ -574,17 +574,17 @@
         "contact_type": null
       },
       {
-        "name": "Carolina Tollén",
-        "description": null,
-        "email": null,
-        "telephone": "016-162580",
-        "contact_type": null
-      },
-      {
         "name": "Madeleine Hermansson, ST",
         "description": null,
         "email": null,
         "telephone": "016-162748",
+        "contact_type": null
+      },
+      {
+        "name": "Jerker Sidén, Saco-S",
+        "description": null,
+        "email": null,
+        "telephone": "016-162766",
         "contact_type": null
       }
     ],
@@ -2436,6 +2436,153 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1781267203518
+  },
+  {
+    "relevance": 1,
+    "id": "31384992",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31384992",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566066048/logotyper/logo.png",
+    "headline": "Software Developer",
+    "application_deadline": "2026-09-21T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "A Snapshot of Your Day\nJoin our dynamic team as a Software Developer in the GCO EN D&S PMO, where you will play a pivotal role in enhancing our COMOS engineering platform. Imagine designing and implementing software solutions that not only support our internal R&D initiatives but also cater to external customer projects. You will engage in hands-on development and provide technical project support, collaborating closely with a diverse network of stakeholders. Your ability to manage complex projects and translate engineering requirements into robust software solutions will be key to your success. Get ready to immerse yourself in a collaborative environment where your contributions will drive innovation and excellence!\nHow You’ll Make an Impact\nDesign and develop tailored software solutions on the COMOS Aries engineering platform to fulfill specific R&D and customer project needs.\nCreate and maintain detailed technical documentation for solution designs, data models, and system integrations.\nLead the evaluation and selection of technologies and methodologies to enhance the engineering tool ecosystem’s functionality and performance.\nImplement and manage system configurations, customizations, and integrations based on approved architectural designs.\nPerform advanced troubleshooting and debugging to resolve complex technical issues within the application and its interfaces.\nManage source code and deployment packages using version control and CI/CD pipelines.\nCollaborate with project managers, engineers, and customers to define technical scope, deliverables, and timelines.\nProvide expert-level technical guidance and support to project teams and end-users during implementation and operational phases.\nCoach and mentor junior developers and team members on software development best practices and platform-specific knowledge.\nFoster close collaboration and support for our Engineering Systems team and its Business Analysts.\n\nWhat You Bring\nProven experience with C#, .NET Framework, WPF, and GIT.\nDemonstrated ability to manage large, complex software projects or processes with minimal oversight.\nExperience in developing custom solutions within an existing framework of a third-party application.\nFamiliarity with Kanban and Scrum methodologies, including tools like Azure DevOps and Jira.\nKnowledge of AI/LLM assisted development, including its possibilities and pitfalls.\nExperience with web API integrations and asynchronous programming.\nExcellent communication and presentation skills.\nAn open mindset that values new ideas, positive thinking, and problem-solving.\nA structured approach to continuous improvement in work processes.\nInterest in collaborating with individuals from diverse backgrounds and cultures.\nProficiency in Swedish and English is required.\nA Bachelor’s or Master’s degree in Computer Science, Software Engineering, Information Technology, or a related field, or equivalent experience.\nExperience with Power BI, Power Automate, Snowflake, or other data lake solutions, as well as large database management, migration, and data extraction is a plus.\nFamiliarity with additional programming languages (such as VB, Python, etc.) is advantageous.\n\nAbout the Team\nYou will be part of the SE D GCO EN D&S PMO management team, which consists of three specialized teams: Project Management, Engineering Systems, and Technical Information Systems. Together, we work collaboratively to drive project success and deliver innovative solutions that meet our customers’ needs.\nOur Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.\nWe can offer you employment benefits such as: reduction of working hours, advance vacation, health care allowance and an eventual possibility to a flexible working place.\nWho is Siemens Energy?\nAt Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. \nOur global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. \nFind out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo\nOur Commitment to Diversity\nLucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.\nApplication\nDon’t hesitate – apply via https://jobs.siemens-energy.com/en_US/jobs , id nr 293457 not later than 2026-09-13\nOngoing selection is applied, the role might be filled before last application date.\nWe refrain from all contact with staffing and recruitment companies, or advertising brokers.\nLocation: Finspång\nTrade Union Representatives:\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siemens-energy.com\nLedarna, Anders Fors, anders.fors@siemens-energy.com\nIF Metall, Mikael Malmgren, mikael.malmgren@siemens-energy.com\n\n#LI-MN1",
+      "text_formatted": "<p ><strong>A Snapshot of Your Day\n</strong>Join our dynamic team as a Software Developer in the GCO EN D&S PMO, where you will play a pivotal role in enhancing our COMOS engineering platform. Imagine designing and implementing software solutions that not only support our internal R&D initiatives but also cater to external customer projects. You will engage in hands-on development and provide technical project support, collaborating closely with a diverse network of stakeholders. Your ability to manage complex projects and translate engineering requirements into robust software solutions will be key to your success. Get ready to immerse yourself in a collaborative environment where your contributions will drive innovation and excellence!</p><p ><strong>How You’ll Make an Impact</strong></p><ul ><li>Design and develop tailored software solutions on the COMOS Aries engineering platform to fulfill specific R&D and customer project needs.</li><li>Create and maintain detailed technical documentation for solution designs, data models, and system integrations.</li><li>Lead the evaluation and selection of technologies and methodologies to enhance the engineering tool ecosystem’s functionality and performance.</li><li>Implement and manage system configurations, customizations, and integrations based on approved architectural designs.</li><li>Perform advanced troubleshooting and debugging to resolve complex technical issues within the application and its interfaces.</li><li>Manage source code and deployment packages using version control and CI/CD pipelines.</li><li>Collaborate with project managers, engineers, and customers to define technical scope, deliverables, and timelines.</li><li>Provide expert-level technical guidance and support to project teams and end-users during implementation and operational phases.</li><li>Coach and mentor junior developers and team members on software development best practices and platform-specific knowledge.</li><li>Foster close collaboration and support for our Engineering Systems team and its Business Analysts.</li></ul><p ><strong>What You Bring</strong></p><ul ><li>Proven experience with C#, .NET Framework, WPF, and GIT.</li><li>Demonstrated ability to manage large, complex software projects or processes with minimal oversight.</li><li>Experience in developing custom solutions within an existing framework of a third-party application.</li><li>Familiarity with Kanban and Scrum methodologies, including tools like Azure DevOps and Jira.</li><li>Knowledge of AI/LLM assisted development, including its possibilities and pitfalls.</li><li>Experience with web API integrations and asynchronous programming.</li><li>Excellent communication and presentation skills.</li><li>An open mindset that values new ideas, positive thinking, and problem-solving.</li><li>A structured approach to continuous improvement in work processes.</li><li>Interest in collaborating with individuals from diverse backgrounds and cultures.</li><li>Proficiency in Swedish and English is required.</li><li>A Bachelor’s or Master’s degree in Computer Science, Software Engineering, Information Technology, or a related field, or equivalent experience.</li><li>Experience with Power BI, Power Automate, Snowflake, or other data lake solutions, as well as large database management, migration, and data extraction is a plus.</li><li>Familiarity with additional programming languages (such as VB, Python, etc.) is advantageous.</li></ul><p ><strong>About the Team\n</strong>You will be part of the SE D GCO EN D&S PMO management team, which consists of three specialized teams: Project Management, Engineering Systems, and Technical Information Systems. Together, we work collaboratively to drive project success and deliver innovative solutions that meet our customers’ needs.</p><p >Our <strong>Gas Services division</strong> offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.</p><p >We can offer you employment benefits such as: reduction of working hours, advance vacation, health care allowance and an eventual possibility to a flexible working place.</p><p ><strong>Who is Siemens Energy?</strong></p><p >At Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. </p><p >Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. </p><p >Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo</p><p ><strong>Our Commitment to Diversity</strong></p><p >Lucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.</p><p ><strong>Application</strong></p><p >Don’t hesitate – apply via https://jobs.siemens-energy.com/en_US/jobs , id nr 293457 not later than 2026-09-13</p><p >Ongoing selection is applied, the role might be filled before last application date.</p><p >We refrain from all contact with staffing and recruitment companies, or advertising brokers.</p><p >Location: Finspång</p><p ><strong>Trade Union Representatives:</strong>\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siemens-energy.com\nLedarna, Anders Fors, anders.fors@siemens-energy.com\nIF Metall, Mikael Malmgren, mikael.malmgren@siemens-energy.com</p><p ><strong>\n#LI-MN1</strong></p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "5566066048",
+      "name": "Siemens Energy AB",
+      "workplace": "Finspaang"
+    },
+    "application_details": {
+      "information": null,
+      "reference": "293457",
+      "email": null,
+      "via_af": false,
+      "url": "https://ars2.equest.com/?response_id=23b869996e0ef77bb0ef4b8488d8d71c",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "CQse_CRd_snw",
+      "label": "Civilingenjör, systemutveckling",
+      "legacy_ams_taxonomy_id": "6509"
+    },
+    "occupation_group": {
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_address": {
+      "municipality": "Finspång",
+      "municipality_code": "0562",
+      "municipality_concept_id": "dMFe_J6W_iJv",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "61283",
+      "city": "Finspaang",
+      "coordinates": [
+        16.1971381,
+        58.5981079
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Finspång",
+        "municipality_code": "0562",
+        "municipality_concept_id": "dMFe_J6W_iJv",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "61283",
+        "city": "Finspaang",
+        "coordinates": [
+          16.1971381,
+          58.5981079
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [
+        {
+          "weight": 10,
+          "concept_id": "CQse_CRd_snw",
+          "label": "Civilingenjör, systemutveckling",
+          "legacy_ams_taxonomy_id": "6509"
+        }
+      ],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-08-22T08:50:04",
+    "last_publication_date": "2026-09-21T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1787381404449
   },
   {
     "relevance": 1,
@@ -7594,18 +7741,18 @@
     },
     "application_contacts": [
       {
-        "name": "Elin Ånell",
-        "description": null,
-        "email": "elin.anell@liu.se",
-        "telephone": null,
-        "contact_type": "HR-administratör"
-      },
-      {
         "name": "Dániel Varró",
         "description": null,
         "email": "daniel.varro@liu.se",
         "telephone": null,
         "contact_type": "Professor, Enhetschef"
+      },
+      {
+        "name": "Elin Ånell",
+        "description": null,
+        "email": "elin.anell@liu.se",
+        "telephone": null,
+        "contact_type": "HR-administratör"
       },
       {
         "name": "Christoph Kessler",
@@ -14667,17 +14814,17 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Ulrika Larsson",
         "description": null,
         "email": "ulrika.larsson1@kriminalvarden.se",
         "telephone": "0772280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
         "contact_type": null
       },
       {
@@ -15971,10 +16118,10 @@
     },
     "application_contacts": [
       {
-        "name": "Mattias Åberg (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Mattias.Aberg@kriminalvarden.se",
-        "telephone": "0772280800",
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
         "contact_type": null
       },
       {
@@ -15992,10 +16139,10 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Mattias Åberg (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
+        "email": "Mattias.Aberg@kriminalvarden.se",
+        "telephone": "0772280800",
         "contact_type": null
       }
     ],
@@ -17582,11 +17729,11 @@
     },
     "application_contacts": [
       {
-        "name": "Vendela Johansson",
+        "name": "Annika Söderlund",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
-        "contact_type": "HR-specialist"
+        "contact_type": "Facklig företrädare Saco-S"
       },
       {
         "name": "Lena Gripenblad",
@@ -17596,11 +17743,11 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Annika Söderlund",
+        "name": "Vendela Johansson",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
-        "contact_type": "Facklig företrädare Saco-S"
+        "contact_type": "HR-specialist"
       }
     ],
     "publication_date": "2026-08-04T15:07:33",
@@ -19601,18 +19748,18 @@
     },
     "application_contacts": [
       {
-        "name": "Fredrik Kinberg",
-        "description": null,
-        "email": "fredrik.kinberg@linkoping.se",
-        "telephone": "+46702478177",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Per Magnusson",
         "description": null,
         "email": "per.o.magnusson@linkoping.se",
         "telephone": "+4613206000",
         "contact_type": "Facklig företrädare SSR"
+      },
+      {
+        "name": "Fredrik Kinberg",
+        "description": null,
+        "email": "fredrik.kinberg@linkoping.se",
+        "telephone": "+46702478177",
+        "contact_type": "Enhetschef"
       },
       {
         "name": "Linus Wennerqvist",
@@ -21799,17 +21946,17 @@
     },
     "application_contacts": [
       {
-        "name": "Anna Winzell",
-        "description": null,
-        "email": "anna.winzell@migrationsverket.se",
-        "telephone": "010-4857516",
-        "contact_type": null
-      },
-      {
         "name": "Charlott Olsson",
         "description": null,
         "email": "charlott.margareta.olsson@migrationsverket.se",
         "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
+        "name": "Anna Winzell",
+        "description": null,
+        "email": "anna.winzell@migrationsverket.se",
+        "telephone": "010-4857516",
         "contact_type": null
       },
       {
@@ -24415,13 +24562,6 @@
     },
     "application_contacts": [
       {
-        "name": "Anna Jänis",
-        "description": null,
-        "email": "anna.janis@liu.se",
-        "telephone": "+4613285710",
-        "contact_type": "Avdelningschef"
-      },
-      {
         "name": "Carin Ennergård",
         "description": null,
         "email": "carin.ennergard@liu.se",
@@ -24434,6 +24574,13 @@
         "email": "rossen@naiss.se",
         "telephone": null,
         "contact_type": "Föreståndare för AI‑fabriken Mimer"
+      },
+      {
+        "name": "Anna Jänis",
+        "description": null,
+        "email": "anna.janis@liu.se",
+        "telephone": "+4613285710",
+        "contact_type": "Avdelningschef"
       }
     ],
     "publication_date": "2026-06-30T16:55:17",
@@ -25643,18 +25790,18 @@
     },
     "application_contacts": [
       {
-        "name": "Martin Eneling",
-        "description": null,
-        "email": "martin.eneling@liu.se",
-        "telephone": "+4613286735",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Martin Eneling",
+        "description": null,
+        "email": "martin.eneling@liu.se",
+        "telephone": "+4613286735",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-06-30T15:18:27",
@@ -27260,154 +27407,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1782282636699
-  },
-  {
-    "relevance": 1,
-    "id": "31204827",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31204827",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591411326/logotyper/logo.png",
-    "headline": "Backend-utvecklare till Card Network Solutions",
-    "application_deadline": "2026-08-22T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du sitta i förarsätet på resan från fossila drivmedel mot mer hållbara alternativ? Card Network Solutions (CNS) söker nu efter en skicklig backend-utvecklare för att bygga nästa generation av affärssystem för energi- och drivmedelssektorn. Hos oss bygger du systemen som förenklar omställningen och gör det lättare för slutanvändare att tanka/ladda sina bilar.\nOM TJÄNSTEN\nSom backend-utvecklare på CNS blir du en del av ett engagerat team som utvecklar affärssystem med allt som behövs för att driva bensin- och laddstationer. Systemen hanterar allt från kort och kunder, till statistik och fakturering.\nEn stor del av vardagen består av att vidareutveckla systemen genom nya integrationer med exempelvis betallösningar, laddnätverk och appar. Det finns massor av spännande utvecklingsprojekt framöver, där våra kunder börjar fokusera mer på elektrifiering och moderna lösningar som gör det enklare att tanka/ladda bilar för slutanvändaren. En del av arbetet kommer vara att ta in feedback från bolagets kunder för att inkludera detta i den fortsatta utvecklingen.\nUtvecklingen sker främst i C# med SQL databaser, där koden är driftsatt i olika Azure-tjänster som App Service, AKS och Azure Functions.\nVI SÖKER DIG SOM:Har en högskole- eller civilingenjörsutbildning inom relevant område, exempelvis data eller medieteknik.\nHar minst 3 års arbetslivserfarenhet som utvecklare.\nHar god samarbetsförmåga.\nHar mycket goda kunskaper i svenska och engelska, såväl i tal som skrift.\n\nDet är även meriterande om du har kunskap och erfarenhet inom:\nC# / .Net Core\nAzure\nKubernetes\nGraphQL / REST\nSQL\n\nVidare kommer stor vikt att läggas vid personlig lämplighet i rekryteringen. För att passa i denna roll tror vi att du som söker är nyfiken, brinner för att lösa problem och trivs att arbeta med stort eget ansvar. Därtill är du driven och tycker om att lära dig nya saker. Då CNS växer finns det plats för teammedlemmar med olika kompetenser och fokusområden. Det viktigaste är att du gillar att ta dig an nya utmaningar och vill utvecklas tillsammans med oss!\nOM KUNDFÖRETAGET:\nCNS grundades 1987 i Norrköping och är sedan 2014 en del av den globala koncernen DCC. CNS fokus är att utveckla effektiva, innovativa och säkra lösningar inom energi- och drivmedelssektorn, som används både nationellt och internationellt.\nPå CNS får du förmånen att arbeta i det lilla bolaget med 15 anställda samtidigt som du tillhör en stor koncern. Det innebär att du erbjuds en positiv miljö med bra sammanhållning, möjlighet att påverka och med en närhet till tekniska beslut, samtidigt som du får långsiktigheten och stabiliteten av en stor koncern!\nEnergi- och drivmedelssektorn i sig är en bransch i förändring, där resan går från fossila drivmedel mot mer hållbara alternativ. För att möta denna förändring måste CNS ligga i framkant och utveckla system och lösningar som förenklar omställningen.\nCNS ERBJUDER:\nCNS vill ge alla anställda de bästa förutsättningarna för att hitta sin egen balans mellan arbete och privatliv, som en del i det så erbjuder de flera förmåner som:\nHybridarbete, med möjlighet att jobba hemifrån två dagar i veckan\nArbetstidsförkortning på 40 h om året som kan tas ut i lediga dagar eller flextid\nEn friskvårdstimme per vecka\nFriskvårdsbidrag på 3 000 kr per år\n\nUtöver förmånerna ovanför så blir du en del av ett härligt gäng som regelbundet har aktiviteter för att fira framgångarna och blicka framåt. Hos oss kommer du arbeta med intressanta och storskaliga projekt som underlättar vardagen för många!\nOM ANSTÄLLNINGEN:\nDetta är en rekrytering där du blir anställd direkt hos CNS.\nÖVRIG INFO:Omfattning: heltid\nStart: enligt överenskommelse\nPlacering: Norrköping\nRekryteringsansvarig: Viktoria Ringebrant, viktoria.ringebrant@friday.se\nLön: Marknadsmässig månadslön \n\nAnsök genom att klicka på länken nedan. Kom ihåg att vara snabb med din ansökan då vi gör löpande urval av kandidater och att annonsen kan stängs ner innan tjänsten är tillsatt om vi gått över till urvals och intervjufasen. Vi tar inte emot ansökningar via mejl.\nOM FRIDAY:\nGenom att vara en partner både till våra kandidater och kunder strävar vi efter att hitta den bästa matchningen. Det gör vi genom att lära känna våra kunder och kandidater på riktigt! Vi ser självklart till att kunskaps- och erfarenhetskrav matchar, men framförallt lägger vi vikt vid samsyn kring värderingar och företagskultur som båda parter värdesätter.\nVår passion är att hjälpa människor till rätt roll, arbetsplats och sammanhang inom IT och teknik. Därför grundade vi Friday med ambition att hjälpa dig till jobbet som ger dig fredagskänslan – varje dag!\nVi riktar oss främst till dig som är i början av din karriär eller studerar vid högskola/universitet inom IT och Teknik.\nVår övertygelse är att människor uppnår sin fulla potential när man ser fram emot att gå till jobbet varje morgon. ”Friday – everyday”, hur låter det?",
-      "text_formatted": "<p>Vill du sitta i förarsätet på resan från fossila drivmedel mot mer hållbara alternativ? Card Network Solutions (CNS) söker nu efter en skicklig backend-utvecklare för att bygga nästa generation av affärssystem för energi- och drivmedelssektorn. Hos oss bygger du systemen som förenklar omställningen och gör det lättare för slutanvändare att tanka/ladda sina bilar.</p><strong>OM TJÄNSTEN</strong><p>Som backend-utvecklare på CNS blir du en del av ett engagerat team som utvecklar affärssystem med allt som behövs för att driva bensin- och laddstationer. Systemen hanterar allt från kort och kunder, till statistik och fakturering.</p><p>En stor del av vardagen består av att vidareutveckla systemen genom nya integrationer med exempelvis betallösningar, laddnätverk och appar. Det finns massor av spännande utvecklingsprojekt framöver, där våra kunder börjar fokusera mer på elektrifiering och moderna lösningar som gör det enklare att tanka/ladda bilar för slutanvändaren. En del av arbetet kommer vara att ta in feedback från bolagets kunder för att inkludera detta i den fortsatta utvecklingen.</p><p>Utvecklingen sker främst i C# med SQL databaser, där koden är driftsatt i olika Azure-tjänster som App Service, AKS och Azure Functions.</p><strong>VI SÖKER DIG SOM:</strong><ul><li>Har en högskole- eller civilingenjörsutbildning inom relevant område, exempelvis data eller medieteknik.</li><li>Har minst 3 års arbetslivserfarenhet som utvecklare.</li><li>Har god samarbetsförmåga.</li><li>Har mycket goda kunskaper i svenska och engelska, såväl i tal som skrift.</li></ul><p>Det är även meriterande om du har kunskap och erfarenhet inom:</p><ul><li>C# / .Net Core</li><li>Azure</li><li>Kubernetes</li><li>GraphQL / REST</li><li>SQL</li></ul><p>Vidare kommer stor vikt att läggas vid personlig lämplighet i rekryteringen. För att passa i denna roll tror vi att du som söker är nyfiken, brinner för att lösa problem och trivs att arbeta med stort eget ansvar. Därtill är du driven och tycker om att lära dig nya saker. Då CNS växer finns det plats för teammedlemmar med olika kompetenser och fokusområden. Det viktigaste är att du gillar att ta dig an nya utmaningar och vill utvecklas tillsammans med oss!</p><strong>OM KUNDFÖRETAGET:</strong><p>CNS grundades 1987 i Norrköping och är sedan 2014 en del av den globala koncernen DCC. CNS fokus är att utveckla effektiva, innovativa och säkra lösningar inom energi- och drivmedelssektorn, som används både nationellt och internationellt.</p><p>På CNS får du förmånen att arbeta i det lilla bolaget med 15 anställda samtidigt som du tillhör en stor koncern. Det innebär att du erbjuds en positiv miljö med bra sammanhållning, möjlighet att påverka och med en närhet till tekniska beslut, samtidigt som du får långsiktigheten och stabiliteten av en stor koncern!</p><p>Energi- och drivmedelssektorn i sig är en bransch i förändring, där resan går från fossila drivmedel mot mer hållbara alternativ. För att möta denna förändring måste CNS ligga i framkant och utveckla system och lösningar som förenklar omställningen.</p><strong>CNS ERBJUDER:</strong><p>CNS vill ge alla anställda de bästa förutsättningarna för att hitta sin egen balans mellan arbete och privatliv, som en del i det så erbjuder de flera förmåner som:</p><ul><li>Hybridarbete, med möjlighet att jobba hemifrån två dagar i veckan</li><li>Arbetstidsförkortning på 40 h om året som kan tas ut i lediga dagar eller flextid</li><li>En friskvårdstimme per vecka</li><li>Friskvårdsbidrag på 3&nbsp;000 kr per år</li></ul><p>Utöver förmånerna ovanför så blir du en del av ett härligt gäng som regelbundet har aktiviteter för att fira framgångarna och blicka framåt. Hos oss kommer du arbeta med intressanta och storskaliga projekt som underlättar vardagen för många!</p><strong>OM ANSTÄLLNINGEN:</strong><p>Detta är en rekrytering där du blir anställd direkt hos CNS.</p><strong>ÖVRIG INFO:</strong><ul><li>Omfattning: heltid</li><li>Start: enligt överenskommelse</li><li>Placering: Norrköping</li><li>Rekryteringsansvarig: Viktoria Ringebrant, viktoria.ringebrant@friday.se</li><li>Lön: Marknadsmässig månadslön&nbsp;</li></ul><p>Ansök genom att klicka på länken nedan. Kom ihåg att vara snabb med din ansökan då vi gör löpande urval av kandidater och att annonsen kan stängs ner innan tjänsten är tillsatt om vi gått över till urvals och intervjufasen. Vi tar inte emot ansökningar via mejl.</p><strong>OM FRIDAY:</strong><p><em>Genom att vara en partner både till våra kandidater och kunder strävar vi efter att hitta den bästa matchningen. Det gör vi genom att lära känna våra kunder och kandidater på riktigt! Vi ser självklart till att kunskaps- och erfarenhetskrav matchar, men framförallt lägger vi vikt vid samsyn kring värderingar och företagskultur som båda parter värdesätter.</em></p><p><em>Vår passion är att hjälpa människor till rätt roll, arbetsplats och sammanhang inom IT och teknik. Därför grundade vi Friday med ambition att hjälpa dig till jobbet som ger dig fredagskänslan – varje dag!</em></p><p><em>Vi riktar oss främst till dig som är i början av din karriär eller studerar vid högskola/universitet inom IT och Teknik.</em></p><p><em>Vår övertygelse är att människor uppnår sin fulla potential när man ser fram emot att gå till jobbet varje morgon. ”Friday – everyday”, hur låter det?</em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5591411326",
-      "name": "Friday Väst AB",
-      "workplace": "Friday Sydost AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://pnty-apply.ponty-system.se/friday?id=4807&pnty_src=platsbanken",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "7wdX_4rv_33z",
-      "label": "Backend-utvecklare",
-      "legacy_ams_taxonomy_id": "7632"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Ågatan 14",
-      "postcode": "58222",
-      "city": "Linköping",
-      "coordinates": [
-        15.6272026320992,
-        58.4120707353441
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Ågatan 14",
-        "postcode": "58222",
-        "city": "Linköping",
-        "coordinates": [
-          15.6272026320992,
-          58.4120707353441
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Viktoria Ringebrant",
-        "description": null,
-        "email": "viktoria.ringebrant@friday.se",
-        "telephone": null,
-        "contact_type": "Consultant Manager"
-      }
-    ],
-    "publication_date": "2026-06-23T10:00:57",
-    "last_publication_date": "2026-08-22T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1782309077581
   },
   {
     "relevance": 1,
@@ -31144,16 +31143,16 @@
     },
     "application_contacts": [
       {
-        "name": "Elin Ånell",
+        "name": "Simin Nadjm-Tehrani",
         "description": null,
-        "email": "elin.anell@liu.se",
+        "email": "simin.nadjm-tehrani@liu.se",
         "telephone": null,
         "contact_type": null
       },
       {
-        "name": "Simin Nadjm-Tehrani",
+        "name": "Elin Ånell",
         "description": null,
-        "email": "simin.nadjm-tehrani@liu.se",
+        "email": "elin.anell@liu.se",
         "telephone": null,
         "contact_type": null
       }
