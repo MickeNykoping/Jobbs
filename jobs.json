@@ -288,6 +288,13 @@
         "contact_type": null
       },
       {
+        "name": "Jerker Sidén, Saco-S",
+        "description": null,
+        "email": null,
+        "telephone": "016-162766",
+        "contact_type": null
+      },
+      {
         "name": "Mats Lindblom",
         "description": null,
         "email": null,
@@ -299,13 +306,6 @@
         "description": null,
         "email": null,
         "telephone": "016-162748",
-        "contact_type": null
-      },
-      {
-        "name": "Jerker Sidén, Saco-S",
-        "description": null,
-        "email": null,
-        "telephone": "016-162766",
         "contact_type": null
       }
     ],
@@ -462,150 +462,6 @@
   },
   {
     "relevance": 1,
-    "id": "31399965",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31399965",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
-    "headline": "Systemförvaltare till personalservice ",
-    "application_deadline": "2026-09-08T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Nyköping eller Eskilstuna\r\n\r\nOm oss\r\nPersonalservice – en del av Regionservice.\r\nVi är en flexibel och nytänkande serviceorganisation som skapar värde för Region Sörmland. Regionservice erbjuder stödtjänster inom bland annat fastigheter, inköp, löne- och fakturahantering, administration och verksamhetsnära service.\r\nPersonalservice ansvarar för lön, pension och systemförvaltning av Heroma. Vi möjliggör effektiva HR-processer och en ändamålsenlig verksamhet. Teamet består av tolv medarbetare med kontor i Eskilstuna och Nyköping.\r\n\r\nVi är på en utvecklingsresa – med fokus på kompetensväxling, vision, mål och arbetssätt. Nu söker vi nya kollegor inom systemförvaltning som vill vara med och forma framtiden tillsammans med oss.\r\n\r\nDina arbetsuppgifter\r\nSom systemförvaltare hos oss får du ett konsultativt och länsövergripande uppdrag i nära samarbete med verksamheten. Du blir en nyckelperson för Heroma – vårt personaladministrativa system – och stöttar chefer, HR-specialister och löneadministratörer.\r\r\n• Ge användarstöd via telefon, ärendehanteringssystem eller på plats.\r\n• Arbeta med ändringshantering; dokumentation, test och implementering.\r\n• Delta i projekt för nya funktioner och system.\r\n\r\n\r\nVi arbetar enligt förvaltningsmodellen pm3, och i vårt team har vi olika fördjupningsområden. Tillsammans är vi kunniga, nyfikna och framåtsträvande – därför värdesätter vi dina personliga egenskaper högt. Tjänsten innebär resor inom länet.\r\n\r\nDin kompetens\r\nVi söker dig som är serviceinriktad, pedagogisk och har ett utvecklings- och lösningsfokus.    \r\n\r\nDu som söker har\r\r\n• en relevant eftergymnasial utbildning inom IT och system, alt. erfarenhet/utbildning som arbetsgivaren bedömer som likvärdig.\r\n• har god erfarenhet av personaladministrativa system.\r\n• har dokumenterad kunskap om lagar och avtal som styr HR-området.\r\n• har god kommunikationsförmåga i både tal och skrift.\r\n• har lätt att samarbeta och se din del i helheten.\r\n• har förmåga att arbeta självständigt såväl i team.\r\n• är strukturerad.\r\n\r\n\r\nMeriterande erfarenhet/kunskap\r\r\n• tidigare erfarenhet av det personaladministrativa systemet Heroma.\r\n• har förståelse för löneadministration.\r\n• erfarenhet och förståelse för bemanning\r\n• erfarenhet och kunskap kring SQL.\r\n\r\n\r\nAnställningsform\r\nTillsvidareanställning 100%.\r\nTillträde enligt överenskommelse.\r\n\r\nInformation om tjänsten lämnas av\r\nLönechef Mia Persson, Personalservice,  076-720 01 91.\r\ne-post: marie.persson@regionsormland.se\r\n\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på personalservice!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-08.\r\nIntervjuer kan komma att ske löpande.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "text_formatted": "Nyköping eller Eskilstuna\r\n\r\nOm oss\r\nPersonalservice – en del av Regionservice.\r\nVi är en flexibel och nytänkande serviceorganisation som skapar värde för Region Sörmland. Regionservice erbjuder stödtjänster inom bland annat fastigheter, inköp, löne- och fakturahantering, administration och verksamhetsnära service.\r\nPersonalservice ansvarar för lön, pension och systemförvaltning av Heroma. Vi möjliggör effektiva HR-processer och en ändamålsenlig verksamhet. Teamet består av tolv medarbetare med kontor i Eskilstuna och Nyköping.\r\n\r\nVi är på en utvecklingsresa – med fokus på kompetensväxling, vision, mål och arbetssätt. Nu söker vi nya kollegor inom systemförvaltning som vill vara med och forma framtiden tillsammans med oss.\r\n\r\nDina arbetsuppgifter\r\nSom systemförvaltare hos oss får du ett konsultativt och länsövergripande uppdrag i nära samarbete med verksamheten. Du blir en nyckelperson för Heroma – vårt personaladministrativa system – och stöttar chefer, HR-specialister och löneadministratörer.\r\r\n• Ge användarstöd via telefon, ärendehanteringssystem eller på plats.\r\n• Arbeta med ändringshantering; dokumentation, test och implementering.\r\n• Delta i projekt för nya funktioner och system.\r\n\r\n\r\nVi arbetar enligt förvaltningsmodellen pm3, och i vårt team har vi olika fördjupningsområden. Tillsammans är vi kunniga, nyfikna och framåtsträvande – därför värdesätter vi dina personliga egenskaper högt. Tjänsten innebär resor inom länet.\r\n\r\nDin kompetens\r\nVi söker dig som är serviceinriktad, pedagogisk och har ett utvecklings- och lösningsfokus.    \r\n\r\nDu som söker har\r\r\n• en relevant eftergymnasial utbildning inom IT och system, alt. erfarenhet/utbildning som arbetsgivaren bedömer som likvärdig.\r\n• har god erfarenhet av personaladministrativa system.\r\n• har dokumenterad kunskap om lagar och avtal som styr HR-området.\r\n• har god kommunikationsförmåga i både tal och skrift.\r\n• har lätt att samarbeta och se din del i helheten.\r\n• har förmåga att arbeta självständigt såväl i team.\r\n• är strukturerad.\r\n\r\n\r\nMeriterande erfarenhet/kunskap\r\r\n• tidigare erfarenhet av det personaladministrativa systemet Heroma.\r\n• har förståelse för löneadministration.\r\n• erfarenhet och förståelse för bemanning\r\n• erfarenhet och kunskap kring SQL.\r\n\r\n\r\nAnställningsform\r\nTillsvidareanställning 100%.\r\nTillträde enligt överenskommelse.\r\n\r\nInformation om tjänsten lämnas av\r\nLönechef Mia Persson, Personalservice,  076-720 01 91.\r\ne-post: marie.persson@regionsormland.se\r\n\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på personalservice!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-08.\r\nIntervjuer kan komma att ske löpande.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "2321000032",
-      "name": "REGION SÖRMLAND",
-      "workplace": "Region Sörmland"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "RVLS-26-070",
-      "email": null,
-      "via_af": false,
-      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27409&RefNo=RVLS-26-070",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "nFJR_WkF_ir7",
-      "label": "Systemförvaltare",
-      "legacy_ams_taxonomy_id": "2919"
-    },
-    "occupation_group": {
-      "concept_id": "cBBa_ngH_fCx",
-      "label": "Systemförvaltare m.fl.",
-      "legacy_ams_taxonomy_id": "2515"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61188",
-      "city": "Nyköping",
-      "coordinates": [
-        16.509804,
-        59.37125
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Eskilstuna",
-        "municipality_code": "0484",
-        "municipality_concept_id": "kMxr_NiX_YrU",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "61188",
-        "city": "Nyköping",
-        "coordinates": [
-          16.509804,
-          59.37125
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-26T13:44:11",
-    "last_publication_date": "2026-09-08T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1787744651286
-  },
-  {
-    "relevance": 1,
     "id": "31399942",
     "external_id": null,
     "original_id": null,
@@ -747,6 +603,150 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1787744651638
+  },
+  {
+    "relevance": 1,
+    "id": "31399965",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31399965",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
+    "headline": "Systemförvaltare till personalservice ",
+    "application_deadline": "2026-09-08T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Nyköping eller Eskilstuna\r\n\r\nOm oss\r\nPersonalservice – en del av Regionservice.\r\nVi är en flexibel och nytänkande serviceorganisation som skapar värde för Region Sörmland. Regionservice erbjuder stödtjänster inom bland annat fastigheter, inköp, löne- och fakturahantering, administration och verksamhetsnära service.\r\nPersonalservice ansvarar för lön, pension och systemförvaltning av Heroma. Vi möjliggör effektiva HR-processer och en ändamålsenlig verksamhet. Teamet består av tolv medarbetare med kontor i Eskilstuna och Nyköping.\r\n\r\nVi är på en utvecklingsresa – med fokus på kompetensväxling, vision, mål och arbetssätt. Nu söker vi nya kollegor inom systemförvaltning som vill vara med och forma framtiden tillsammans med oss.\r\n\r\nDina arbetsuppgifter\r\nSom systemförvaltare hos oss får du ett konsultativt och länsövergripande uppdrag i nära samarbete med verksamheten. Du blir en nyckelperson för Heroma – vårt personaladministrativa system – och stöttar chefer, HR-specialister och löneadministratörer.\r\r\n• Ge användarstöd via telefon, ärendehanteringssystem eller på plats.\r\n• Arbeta med ändringshantering; dokumentation, test och implementering.\r\n• Delta i projekt för nya funktioner och system.\r\n\r\n\r\nVi arbetar enligt förvaltningsmodellen pm3, och i vårt team har vi olika fördjupningsområden. Tillsammans är vi kunniga, nyfikna och framåtsträvande – därför värdesätter vi dina personliga egenskaper högt. Tjänsten innebär resor inom länet.\r\n\r\nDin kompetens\r\nVi söker dig som är serviceinriktad, pedagogisk och har ett utvecklings- och lösningsfokus.    \r\n\r\nDu som söker har\r\r\n• en relevant eftergymnasial utbildning inom IT och system, alt. erfarenhet/utbildning som arbetsgivaren bedömer som likvärdig.\r\n• har god erfarenhet av personaladministrativa system.\r\n• har dokumenterad kunskap om lagar och avtal som styr HR-området.\r\n• har god kommunikationsförmåga i både tal och skrift.\r\n• har lätt att samarbeta och se din del i helheten.\r\n• har förmåga att arbeta självständigt såväl i team.\r\n• är strukturerad.\r\n\r\n\r\nMeriterande erfarenhet/kunskap\r\r\n• tidigare erfarenhet av det personaladministrativa systemet Heroma.\r\n• har förståelse för löneadministration.\r\n• erfarenhet och förståelse för bemanning\r\n• erfarenhet och kunskap kring SQL.\r\n\r\n\r\nAnställningsform\r\nTillsvidareanställning 100%.\r\nTillträde enligt överenskommelse.\r\n\r\nInformation om tjänsten lämnas av\r\nLönechef Mia Persson, Personalservice,  076-720 01 91.\r\ne-post: marie.persson@regionsormland.se\r\n\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på personalservice!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-08.\r\nIntervjuer kan komma att ske löpande.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
+      "text_formatted": "Nyköping eller Eskilstuna\r\n\r\nOm oss\r\nPersonalservice – en del av Regionservice.\r\nVi är en flexibel och nytänkande serviceorganisation som skapar värde för Region Sörmland. Regionservice erbjuder stödtjänster inom bland annat fastigheter, inköp, löne- och fakturahantering, administration och verksamhetsnära service.\r\nPersonalservice ansvarar för lön, pension och systemförvaltning av Heroma. Vi möjliggör effektiva HR-processer och en ändamålsenlig verksamhet. Teamet består av tolv medarbetare med kontor i Eskilstuna och Nyköping.\r\n\r\nVi är på en utvecklingsresa – med fokus på kompetensväxling, vision, mål och arbetssätt. Nu söker vi nya kollegor inom systemförvaltning som vill vara med och forma framtiden tillsammans med oss.\r\n\r\nDina arbetsuppgifter\r\nSom systemförvaltare hos oss får du ett konsultativt och länsövergripande uppdrag i nära samarbete med verksamheten. Du blir en nyckelperson för Heroma – vårt personaladministrativa system – och stöttar chefer, HR-specialister och löneadministratörer.\r\r\n• Ge användarstöd via telefon, ärendehanteringssystem eller på plats.\r\n• Arbeta med ändringshantering; dokumentation, test och implementering.\r\n• Delta i projekt för nya funktioner och system.\r\n\r\n\r\nVi arbetar enligt förvaltningsmodellen pm3, och i vårt team har vi olika fördjupningsområden. Tillsammans är vi kunniga, nyfikna och framåtsträvande – därför värdesätter vi dina personliga egenskaper högt. Tjänsten innebär resor inom länet.\r\n\r\nDin kompetens\r\nVi söker dig som är serviceinriktad, pedagogisk och har ett utvecklings- och lösningsfokus.    \r\n\r\nDu som söker har\r\r\n• en relevant eftergymnasial utbildning inom IT och system, alt. erfarenhet/utbildning som arbetsgivaren bedömer som likvärdig.\r\n• har god erfarenhet av personaladministrativa system.\r\n• har dokumenterad kunskap om lagar och avtal som styr HR-området.\r\n• har god kommunikationsförmåga i både tal och skrift.\r\n• har lätt att samarbeta och se din del i helheten.\r\n• har förmåga att arbeta självständigt såväl i team.\r\n• är strukturerad.\r\n\r\n\r\nMeriterande erfarenhet/kunskap\r\r\n• tidigare erfarenhet av det personaladministrativa systemet Heroma.\r\n• har förståelse för löneadministration.\r\n• erfarenhet och förståelse för bemanning\r\n• erfarenhet och kunskap kring SQL.\r\n\r\n\r\nAnställningsform\r\nTillsvidareanställning 100%.\r\nTillträde enligt överenskommelse.\r\n\r\nInformation om tjänsten lämnas av\r\nLönechef Mia Persson, Personalservice,  076-720 01 91.\r\ne-post: marie.persson@regionsormland.se\r\n\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\n\r\nKom och jobba hos oss på personalservice!\r\n\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-08.\r\nIntervjuer kan komma att ske löpande.\r\n\r\nTjänsten tillsätts under förutsättning att den inte behöver tas i anspråk av redan anställd personal eller att förutsättningarna för rekryteringen ändras.\r\n\r\nSe våra förmåner (http://regionsormland.se/jobb-och-utbildning/vara-formaner/)\r\n\r\nFölj oss gärna på Facebook (http://facebook.com/regionsormlandJobbahososs/) och Instagram (http://www.instagram.com/region_sormland_jobbahososs/)\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "2321000032",
+      "name": "REGION SÖRMLAND",
+      "workplace": "Region Sörmland"
+    },
+    "application_details": {
+      "information": null,
+      "reference": "RVLS-26-070",
+      "email": null,
+      "via_af": false,
+      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27409&RefNo=RVLS-26-070",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "nFJR_WkF_ir7",
+      "label": "Systemförvaltare",
+      "legacy_ams_taxonomy_id": "2919"
+    },
+    "occupation_group": {
+      "concept_id": "cBBa_ngH_fCx",
+      "label": "Systemförvaltare m.fl.",
+      "legacy_ams_taxonomy_id": "2515"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": "ZxwM_gtz_n61",
+      "label": "Arbete på plats"
+    },
+    "workplace_address": {
+      "municipality": "Eskilstuna",
+      "municipality_code": "0484",
+      "municipality_concept_id": "kMxr_NiX_YrU",
+      "region": "Södermanlands län",
+      "region_code": "04",
+      "region_concept_id": "s93u_BEb_sx2",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "61188",
+      "city": "Nyköping",
+      "coordinates": [
+        16.509804,
+        59.37125
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Eskilstuna",
+        "municipality_code": "0484",
+        "municipality_concept_id": "kMxr_NiX_YrU",
+        "region": "Södermanlands län",
+        "region_code": "04",
+        "region_concept_id": "s93u_BEb_sx2",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "61188",
+        "city": "Nyköping",
+        "coordinates": [
+          16.509804,
+          59.37125
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-08-26T13:44:11",
+    "last_publication_date": "2026-09-08T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1787744651286
   },
   {
     "relevance": 1,
@@ -894,150 +894,6 @@
   },
   {
     "relevance": 1,
-    "id": "31386147",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31386147",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
-    "headline": "BI-utvecklare till Sussa data och analys",
-    "application_deadline": "2026-09-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Eskilstuna, Nyköping eller Katrineholm\r\n\r\nOm oss\r\nVi söker två erfarna utvecklare med ansvar för att bland annat förvaltning och vidareutveckling till Sussa data och analys som är en ny virtuell samverkansorganisation med uppdraget att förvalta och utveckla nio regioners gemensamma datalager.\r\nSussa data och analys är en del av Sussa samverkan, en samverkansorganisation där nio regioner jobbar tillsammans för att bidra till att svensk hälso- och sjukvård når målen i regeringens vision för e-hälsa 2025. Samarbetet är unikt och just nu pågår arbetet med att utveckla och införa ett nytt, gemensamt vårdinformationsstöd. För att omhänderta möjligheterna att gemensamt utveckla en utdataförmåga har regionerna inom Sussa samverkan utvecklat en plattform och lösning, ett datalager, för att omhänderta informationen i vårdinformationssystemet. Arbetet pågår fortfarande och lösningen kommer att tas i drift samtidigt som regionerna produktionssätter vårdinformationssystemet.\r\nSussa data och analys är den förvaltnings- och leveransorganisation som kommer att förvalta och vidareutveckla den gemensamma plattformen och lösningen som respektive region därefter tar i drift i sin regionala miljö.\r\nBemanningen av denna roll sker inom Sussa data och analys och urvalet kommer därför att göras av sökande från alla nio Sussa-regioner. Du kommer att ha din anställning i regionen men arbeta riktat mot Sussa data och analys.\r\nFör mer info: https://regionsormland.se/halsa-vard/sussa-samverkan/sussa-bi/ (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fregionsormland.se%2Fhalsa-vard%2Fsussa-samverkan%2Fsussa-bi%2F&data=05%7C02%7Cemma.sjoblom%40regiongavleborg.se%7C4f11052a93434d7da78708dc39c72fa7%7C414f742c509b41229fc7f9ccb5ad6ecb%7C1%7C0%7C638448774860746598%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=n82uvOmAgS4hq5t2FAYNSgSHSxaDQrBMSDrte6IR0YQ%3D&reserved=0) \r\n\r\nDina arbetsuppgifter\r\nSom utvecklare inom Sussa data och analys kommer du att ha det övergripande ansvaret för att implementationer sker enligt plan i Sussa datalager samt att tester och optimeringar av prestanda genomförs. Du kommer även att underhålla dokumentation och metadata för lösningen och ansvara för god hantering av källkoden. Din roll kommer att vara bred och det ingår därför att du deltar i test- och felsökningsarbete, förvaltning och support samt i överlämning, utbildning och stöd till regionala BI-team.\r\nDet är en tjänst där du får arbeta drivande och framåtsyftande i en unik samverkan med andra kollegor inom Sussa och de nio regionerna.\r\nDu representerar nio regioner via vårt gemensamma objekt Sussa data och analys i forum med regionala representanter och behovsägare samt närliggande objekt Sussa vårdstöd.\r\nSom utvecklare i Sussa data och analys är ditt uppdrag att förvalta och vidareutveckla lösningen tillsammans med teamet vilket motsvarar funktionerna design, utveckling och test.\r\n\r\nHuvudsakliga arbetsuppgifter\r\nUtveckling och förvaltning av BI-lösningar.\r\n- Designa och utveckla datamodeller, ETL-processer och rapporter i våra BI-verktyg.\r\n- Optimera prestanda och säkerställa hög datakvalitet.\r\n- Förvalta och vidareutveckla befintliga lösningar i takt med verksamhetens behov.\r\n\r\nDataintegration och kvalitetssäkring\r\n- Säkerställa att data från olika källor integreras på ett strukturerat och effektivt sätt.\r\n- Arbeta med validering, testning och övervakning för att garantera korrekthet och konsistens i data.\r\n- Automatisera tester och kvalitetssäkringsprocesser där det är möjligt.\r\n\r\nSamarbete och kravhantering\r\n- Samarbeta med verksamhetens analytiker, dataingenjörer och andra utvecklare för att förstå behov och krav.\r\n- Omvandla verksamhetskrav till tekniska lösningar.\r\n- Delta i sprintplanering, demos och retrospektiv för att bidra till kontinuerliga förbättringar.\r\n\r\nInnovation och processförbättring\r\n- Hålla dig uppdaterad kring nya teknologier och arbetssätt inom BI-området.\r\n- Föreslå och implementera förbättringar för att effektivisera arbetet med data och analys.\r\n\r\nDin kompetens\r\nFör att lyckas i denna roll behöver du ha förmågan att samarbeta väl med andra. Vi ser även att du ska kunna leda och motivera andra, samt samordna grupper och skapa engagemang. Vidare har du förmågan att arbeta med komplexa frågor, analysera och lösa komplicerade problem. Du ska också kunna planera, organisera och prioritera arbetet på ett effektivt sätt. Vi ser även att du är tillmötesgående i ditt bemötande och har förmåga att hjälpa andra och anstränger dig för att leverera lösningar.\r\n\r\nKrav\r\n- Eftergymnasial utbildning inom exempelvis dataingenjörsområdet, systemvetenskap eller annan utbildning som arbetsgivaren bedömer relevant, alternativt motsvarande dokumenterad arbetslivserfarenhet\r\n- Flerårig erfarenhet av Microsofts BI-plattform\r\n- Erfarenhet av utveckling av BI-lösningar och datamodellering enligt Kimball\r\n- Gedigen kunskap i SQL\r\n- Erfarenhet av datalagerutveckling\r\n- Erfarenhet av arbete med tabulärmodeller\r\n- Goda kunskaper i svenska språket, såväl i tal som skrift.\r\n\r\nMeriterande\r\n- Erfarenhet av förvaltning av BI-lösningar\r\n- Erfarenhet av prestandaoptimering och arbete med säkerhetsfrågor\r\n- Förståelse för och erfarenhet av datamodellering\r\n- Övriga språkkunskaper\r\nVi lägger stor vikt vid personliga egenskaper.\r\n\r\nInformation om tjänsten lämnas av\r\nMikael Waldenmark, 073-447 10 26, mikael.waldenmark@regionblekinge.se.\r\nIT direktör Urban Petrén, 076-698 27 43, Urban.petren@regionsormland.se.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-06.\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "text_formatted": "Eskilstuna, Nyköping eller Katrineholm\r\n\r\nOm oss\r\nVi söker två erfarna utvecklare med ansvar för att bland annat förvaltning och vidareutveckling till Sussa data och analys som är en ny virtuell samverkansorganisation med uppdraget att förvalta och utveckla nio regioners gemensamma datalager.\r\nSussa data och analys är en del av Sussa samverkan, en samverkansorganisation där nio regioner jobbar tillsammans för att bidra till att svensk hälso- och sjukvård når målen i regeringens vision för e-hälsa 2025. Samarbetet är unikt och just nu pågår arbetet med att utveckla och införa ett nytt, gemensamt vårdinformationsstöd. För att omhänderta möjligheterna att gemensamt utveckla en utdataförmåga har regionerna inom Sussa samverkan utvecklat en plattform och lösning, ett datalager, för att omhänderta informationen i vårdinformationssystemet. Arbetet pågår fortfarande och lösningen kommer att tas i drift samtidigt som regionerna produktionssätter vårdinformationssystemet.\r\nSussa data och analys är den förvaltnings- och leveransorganisation som kommer att förvalta och vidareutveckla den gemensamma plattformen och lösningen som respektive region därefter tar i drift i sin regionala miljö.\r\nBemanningen av denna roll sker inom Sussa data och analys och urvalet kommer därför att göras av sökande från alla nio Sussa-regioner. Du kommer att ha din anställning i regionen men arbeta riktat mot Sussa data och analys.\r\nFör mer info: https://regionsormland.se/halsa-vard/sussa-samverkan/sussa-bi/ (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fregionsormland.se%2Fhalsa-vard%2Fsussa-samverkan%2Fsussa-bi%2F&data=05%7C02%7Cemma.sjoblom%40regiongavleborg.se%7C4f11052a93434d7da78708dc39c72fa7%7C414f742c509b41229fc7f9ccb5ad6ecb%7C1%7C0%7C638448774860746598%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=n82uvOmAgS4hq5t2FAYNSgSHSxaDQrBMSDrte6IR0YQ%3D&reserved=0) \r\n\r\nDina arbetsuppgifter\r\nSom utvecklare inom Sussa data och analys kommer du att ha det övergripande ansvaret för att implementationer sker enligt plan i Sussa datalager samt att tester och optimeringar av prestanda genomförs. Du kommer även att underhålla dokumentation och metadata för lösningen och ansvara för god hantering av källkoden. Din roll kommer att vara bred och det ingår därför att du deltar i test- och felsökningsarbete, förvaltning och support samt i överlämning, utbildning och stöd till regionala BI-team.\r\nDet är en tjänst där du får arbeta drivande och framåtsyftande i en unik samverkan med andra kollegor inom Sussa och de nio regionerna.\r\nDu representerar nio regioner via vårt gemensamma objekt Sussa data och analys i forum med regionala representanter och behovsägare samt närliggande objekt Sussa vårdstöd.\r\nSom utvecklare i Sussa data och analys är ditt uppdrag att förvalta och vidareutveckla lösningen tillsammans med teamet vilket motsvarar funktionerna design, utveckling och test.\r\n\r\nHuvudsakliga arbetsuppgifter\r\nUtveckling och förvaltning av BI-lösningar.\r\n- Designa och utveckla datamodeller, ETL-processer och rapporter i våra BI-verktyg.\r\n- Optimera prestanda och säkerställa hög datakvalitet.\r\n- Förvalta och vidareutveckla befintliga lösningar i takt med verksamhetens behov.\r\n\r\nDataintegration och kvalitetssäkring\r\n- Säkerställa att data från olika källor integreras på ett strukturerat och effektivt sätt.\r\n- Arbeta med validering, testning och övervakning för att garantera korrekthet och konsistens i data.\r\n- Automatisera tester och kvalitetssäkringsprocesser där det är möjligt.\r\n\r\nSamarbete och kravhantering\r\n- Samarbeta med verksamhetens analytiker, dataingenjörer och andra utvecklare för att förstå behov och krav.\r\n- Omvandla verksamhetskrav till tekniska lösningar.\r\n- Delta i sprintplanering, demos och retrospektiv för att bidra till kontinuerliga förbättringar.\r\n\r\nInnovation och processförbättring\r\n- Hålla dig uppdaterad kring nya teknologier och arbetssätt inom BI-området.\r\n- Föreslå och implementera förbättringar för att effektivisera arbetet med data och analys.\r\n\r\nDin kompetens\r\nFör att lyckas i denna roll behöver du ha förmågan att samarbeta väl med andra. Vi ser även att du ska kunna leda och motivera andra, samt samordna grupper och skapa engagemang. Vidare har du förmågan att arbeta med komplexa frågor, analysera och lösa komplicerade problem. Du ska också kunna planera, organisera och prioritera arbetet på ett effektivt sätt. Vi ser även att du är tillmötesgående i ditt bemötande och har förmåga att hjälpa andra och anstränger dig för att leverera lösningar.\r\n\r\nKrav\r\n- Eftergymnasial utbildning inom exempelvis dataingenjörsområdet, systemvetenskap eller annan utbildning som arbetsgivaren bedömer relevant, alternativt motsvarande dokumenterad arbetslivserfarenhet\r\n- Flerårig erfarenhet av Microsofts BI-plattform\r\n- Erfarenhet av utveckling av BI-lösningar och datamodellering enligt Kimball\r\n- Gedigen kunskap i SQL\r\n- Erfarenhet av datalagerutveckling\r\n- Erfarenhet av arbete med tabulärmodeller\r\n- Goda kunskaper i svenska språket, såväl i tal som skrift.\r\n\r\nMeriterande\r\n- Erfarenhet av förvaltning av BI-lösningar\r\n- Erfarenhet av prestandaoptimering och arbete med säkerhetsfrågor\r\n- Förståelse för och erfarenhet av datamodellering\r\n- Övriga språkkunskaper\r\nVi lägger stor vikt vid personliga egenskaper.\r\n\r\nInformation om tjänsten lämnas av\r\nMikael Waldenmark, 073-447 10 26, mikael.waldenmark@regionblekinge.se.\r\nIT direktör Urban Petrén, 076-698 27 43, Urban.petren@regionsormland.se.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-06.\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "2321000032",
-      "name": "REGION SÖRMLAND",
-      "workplace": "Region Sörmland"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "RDD-26-019",
-      "email": null,
-      "via_af": false,
-      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27399&RefNo=RDD-26-019",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Katrineholm",
-      "municipality_code": "0483",
-      "municipality_concept_id": "snx9_qVD_Dr1",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61188",
-      "city": "Nyköping",
-      "coordinates": [
-        16.205475,
-        58.995552
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Katrineholm",
-        "municipality_code": "0483",
-        "municipality_concept_id": "snx9_qVD_Dr1",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "61188",
-        "city": "Nyköping",
-        "coordinates": [
-          16.205475,
-          58.995552
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-24T07:53:16",
-    "last_publication_date": "2026-09-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1787550796665
-  },
-  {
-    "relevance": 1,
     "id": "31386145",
     "external_id": null,
     "original_id": null,
@@ -1179,6 +1035,150 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1787550796290
+  },
+  {
+    "relevance": 1,
+    "id": "31386147",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31386147",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000032/logotyper/logo.png",
+    "headline": "BI-utvecklare till Sussa data och analys",
+    "application_deadline": "2026-09-06T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Eskilstuna, Nyköping eller Katrineholm\r\n\r\nOm oss\r\nVi söker två erfarna utvecklare med ansvar för att bland annat förvaltning och vidareutveckling till Sussa data och analys som är en ny virtuell samverkansorganisation med uppdraget att förvalta och utveckla nio regioners gemensamma datalager.\r\nSussa data och analys är en del av Sussa samverkan, en samverkansorganisation där nio regioner jobbar tillsammans för att bidra till att svensk hälso- och sjukvård når målen i regeringens vision för e-hälsa 2025. Samarbetet är unikt och just nu pågår arbetet med att utveckla och införa ett nytt, gemensamt vårdinformationsstöd. För att omhänderta möjligheterna att gemensamt utveckla en utdataförmåga har regionerna inom Sussa samverkan utvecklat en plattform och lösning, ett datalager, för att omhänderta informationen i vårdinformationssystemet. Arbetet pågår fortfarande och lösningen kommer att tas i drift samtidigt som regionerna produktionssätter vårdinformationssystemet.\r\nSussa data och analys är den förvaltnings- och leveransorganisation som kommer att förvalta och vidareutveckla den gemensamma plattformen och lösningen som respektive region därefter tar i drift i sin regionala miljö.\r\nBemanningen av denna roll sker inom Sussa data och analys och urvalet kommer därför att göras av sökande från alla nio Sussa-regioner. Du kommer att ha din anställning i regionen men arbeta riktat mot Sussa data och analys.\r\nFör mer info: https://regionsormland.se/halsa-vard/sussa-samverkan/sussa-bi/ (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fregionsormland.se%2Fhalsa-vard%2Fsussa-samverkan%2Fsussa-bi%2F&data=05%7C02%7Cemma.sjoblom%40regiongavleborg.se%7C4f11052a93434d7da78708dc39c72fa7%7C414f742c509b41229fc7f9ccb5ad6ecb%7C1%7C0%7C638448774860746598%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=n82uvOmAgS4hq5t2FAYNSgSHSxaDQrBMSDrte6IR0YQ%3D&reserved=0) \r\n\r\nDina arbetsuppgifter\r\nSom utvecklare inom Sussa data och analys kommer du att ha det övergripande ansvaret för att implementationer sker enligt plan i Sussa datalager samt att tester och optimeringar av prestanda genomförs. Du kommer även att underhålla dokumentation och metadata för lösningen och ansvara för god hantering av källkoden. Din roll kommer att vara bred och det ingår därför att du deltar i test- och felsökningsarbete, förvaltning och support samt i överlämning, utbildning och stöd till regionala BI-team.\r\nDet är en tjänst där du får arbeta drivande och framåtsyftande i en unik samverkan med andra kollegor inom Sussa och de nio regionerna.\r\nDu representerar nio regioner via vårt gemensamma objekt Sussa data och analys i forum med regionala representanter och behovsägare samt närliggande objekt Sussa vårdstöd.\r\nSom utvecklare i Sussa data och analys är ditt uppdrag att förvalta och vidareutveckla lösningen tillsammans med teamet vilket motsvarar funktionerna design, utveckling och test.\r\n\r\nHuvudsakliga arbetsuppgifter\r\nUtveckling och förvaltning av BI-lösningar.\r\n- Designa och utveckla datamodeller, ETL-processer och rapporter i våra BI-verktyg.\r\n- Optimera prestanda och säkerställa hög datakvalitet.\r\n- Förvalta och vidareutveckla befintliga lösningar i takt med verksamhetens behov.\r\n\r\nDataintegration och kvalitetssäkring\r\n- Säkerställa att data från olika källor integreras på ett strukturerat och effektivt sätt.\r\n- Arbeta med validering, testning och övervakning för att garantera korrekthet och konsistens i data.\r\n- Automatisera tester och kvalitetssäkringsprocesser där det är möjligt.\r\n\r\nSamarbete och kravhantering\r\n- Samarbeta med verksamhetens analytiker, dataingenjörer och andra utvecklare för att förstå behov och krav.\r\n- Omvandla verksamhetskrav till tekniska lösningar.\r\n- Delta i sprintplanering, demos och retrospektiv för att bidra till kontinuerliga förbättringar.\r\n\r\nInnovation och processförbättring\r\n- Hålla dig uppdaterad kring nya teknologier och arbetssätt inom BI-området.\r\n- Föreslå och implementera förbättringar för att effektivisera arbetet med data och analys.\r\n\r\nDin kompetens\r\nFör att lyckas i denna roll behöver du ha förmågan att samarbeta väl med andra. Vi ser även att du ska kunna leda och motivera andra, samt samordna grupper och skapa engagemang. Vidare har du förmågan att arbeta med komplexa frågor, analysera och lösa komplicerade problem. Du ska också kunna planera, organisera och prioritera arbetet på ett effektivt sätt. Vi ser även att du är tillmötesgående i ditt bemötande och har förmåga att hjälpa andra och anstränger dig för att leverera lösningar.\r\n\r\nKrav\r\n- Eftergymnasial utbildning inom exempelvis dataingenjörsområdet, systemvetenskap eller annan utbildning som arbetsgivaren bedömer relevant, alternativt motsvarande dokumenterad arbetslivserfarenhet\r\n- Flerårig erfarenhet av Microsofts BI-plattform\r\n- Erfarenhet av utveckling av BI-lösningar och datamodellering enligt Kimball\r\n- Gedigen kunskap i SQL\r\n- Erfarenhet av datalagerutveckling\r\n- Erfarenhet av arbete med tabulärmodeller\r\n- Goda kunskaper i svenska språket, såväl i tal som skrift.\r\n\r\nMeriterande\r\n- Erfarenhet av förvaltning av BI-lösningar\r\n- Erfarenhet av prestandaoptimering och arbete med säkerhetsfrågor\r\n- Förståelse för och erfarenhet av datamodellering\r\n- Övriga språkkunskaper\r\nVi lägger stor vikt vid personliga egenskaper.\r\n\r\nInformation om tjänsten lämnas av\r\nMikael Waldenmark, 073-447 10 26, mikael.waldenmark@regionblekinge.se.\r\nIT direktör Urban Petrén, 076-698 27 43, Urban.petren@regionsormland.se.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-06.\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
+      "text_formatted": "Eskilstuna, Nyköping eller Katrineholm\r\n\r\nOm oss\r\nVi söker två erfarna utvecklare med ansvar för att bland annat förvaltning och vidareutveckling till Sussa data och analys som är en ny virtuell samverkansorganisation med uppdraget att förvalta och utveckla nio regioners gemensamma datalager.\r\nSussa data och analys är en del av Sussa samverkan, en samverkansorganisation där nio regioner jobbar tillsammans för att bidra till att svensk hälso- och sjukvård når målen i regeringens vision för e-hälsa 2025. Samarbetet är unikt och just nu pågår arbetet med att utveckla och införa ett nytt, gemensamt vårdinformationsstöd. För att omhänderta möjligheterna att gemensamt utveckla en utdataförmåga har regionerna inom Sussa samverkan utvecklat en plattform och lösning, ett datalager, för att omhänderta informationen i vårdinformationssystemet. Arbetet pågår fortfarande och lösningen kommer att tas i drift samtidigt som regionerna produktionssätter vårdinformationssystemet.\r\nSussa data och analys är den förvaltnings- och leveransorganisation som kommer att förvalta och vidareutveckla den gemensamma plattformen och lösningen som respektive region därefter tar i drift i sin regionala miljö.\r\nBemanningen av denna roll sker inom Sussa data och analys och urvalet kommer därför att göras av sökande från alla nio Sussa-regioner. Du kommer att ha din anställning i regionen men arbeta riktat mot Sussa data och analys.\r\nFör mer info: https://regionsormland.se/halsa-vard/sussa-samverkan/sussa-bi/ (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fregionsormland.se%2Fhalsa-vard%2Fsussa-samverkan%2Fsussa-bi%2F&data=05%7C02%7Cemma.sjoblom%40regiongavleborg.se%7C4f11052a93434d7da78708dc39c72fa7%7C414f742c509b41229fc7f9ccb5ad6ecb%7C1%7C0%7C638448774860746598%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=n82uvOmAgS4hq5t2FAYNSgSHSxaDQrBMSDrte6IR0YQ%3D&reserved=0) \r\n\r\nDina arbetsuppgifter\r\nSom utvecklare inom Sussa data och analys kommer du att ha det övergripande ansvaret för att implementationer sker enligt plan i Sussa datalager samt att tester och optimeringar av prestanda genomförs. Du kommer även att underhålla dokumentation och metadata för lösningen och ansvara för god hantering av källkoden. Din roll kommer att vara bred och det ingår därför att du deltar i test- och felsökningsarbete, förvaltning och support samt i överlämning, utbildning och stöd till regionala BI-team.\r\nDet är en tjänst där du får arbeta drivande och framåtsyftande i en unik samverkan med andra kollegor inom Sussa och de nio regionerna.\r\nDu representerar nio regioner via vårt gemensamma objekt Sussa data och analys i forum med regionala representanter och behovsägare samt närliggande objekt Sussa vårdstöd.\r\nSom utvecklare i Sussa data och analys är ditt uppdrag att förvalta och vidareutveckla lösningen tillsammans med teamet vilket motsvarar funktionerna design, utveckling och test.\r\n\r\nHuvudsakliga arbetsuppgifter\r\nUtveckling och förvaltning av BI-lösningar.\r\n- Designa och utveckla datamodeller, ETL-processer och rapporter i våra BI-verktyg.\r\n- Optimera prestanda och säkerställa hög datakvalitet.\r\n- Förvalta och vidareutveckla befintliga lösningar i takt med verksamhetens behov.\r\n\r\nDataintegration och kvalitetssäkring\r\n- Säkerställa att data från olika källor integreras på ett strukturerat och effektivt sätt.\r\n- Arbeta med validering, testning och övervakning för att garantera korrekthet och konsistens i data.\r\n- Automatisera tester och kvalitetssäkringsprocesser där det är möjligt.\r\n\r\nSamarbete och kravhantering\r\n- Samarbeta med verksamhetens analytiker, dataingenjörer och andra utvecklare för att förstå behov och krav.\r\n- Omvandla verksamhetskrav till tekniska lösningar.\r\n- Delta i sprintplanering, demos och retrospektiv för att bidra till kontinuerliga förbättringar.\r\n\r\nInnovation och processförbättring\r\n- Hålla dig uppdaterad kring nya teknologier och arbetssätt inom BI-området.\r\n- Föreslå och implementera förbättringar för att effektivisera arbetet med data och analys.\r\n\r\nDin kompetens\r\nFör att lyckas i denna roll behöver du ha förmågan att samarbeta väl med andra. Vi ser även att du ska kunna leda och motivera andra, samt samordna grupper och skapa engagemang. Vidare har du förmågan att arbeta med komplexa frågor, analysera och lösa komplicerade problem. Du ska också kunna planera, organisera och prioritera arbetet på ett effektivt sätt. Vi ser även att du är tillmötesgående i ditt bemötande och har förmåga att hjälpa andra och anstränger dig för att leverera lösningar.\r\n\r\nKrav\r\n- Eftergymnasial utbildning inom exempelvis dataingenjörsområdet, systemvetenskap eller annan utbildning som arbetsgivaren bedömer relevant, alternativt motsvarande dokumenterad arbetslivserfarenhet\r\n- Flerårig erfarenhet av Microsofts BI-plattform\r\n- Erfarenhet av utveckling av BI-lösningar och datamodellering enligt Kimball\r\n- Gedigen kunskap i SQL\r\n- Erfarenhet av datalagerutveckling\r\n- Erfarenhet av arbete med tabulärmodeller\r\n- Goda kunskaper i svenska språket, såväl i tal som skrift.\r\n\r\nMeriterande\r\n- Erfarenhet av förvaltning av BI-lösningar\r\n- Erfarenhet av prestandaoptimering och arbete med säkerhetsfrågor\r\n- Förståelse för och erfarenhet av datamodellering\r\n- Övriga språkkunskaper\r\nVi lägger stor vikt vid personliga egenskaper.\r\n\r\nInformation om tjänsten lämnas av\r\nMikael Waldenmark, 073-447 10 26, mikael.waldenmark@regionblekinge.se.\r\nIT direktör Urban Petrén, 076-698 27 43, Urban.petren@regionsormland.se.\r\nFackliga företrädare söks via kontaktcenter, 0155-24 50 00.\r\n\r\nVälkommen med din ansökan, inklusive CV, senast 2026-09-06.\r\n\r\nVi har i vissa fall skyldighet att kontrollera om en person förekommer i misstanke- och eller belastningsregistret. Det kan ske på två sätt, endera begär regionen ut uppgiften själv eller också uppmanas du att begära ut utdrag för att kunna visa upp innan anställning. Vi begär i undantagsfall att du visar upp registerutdrag även vid tillsättning av andra tjänster än de som avses ovan. Blir du aktuell för anställning kommer du att informeras om vad som gäller för den tjänst du sökt.\r\n  \r\nDu som har skyddade personuppgifter bör vara aktsam med vilken information som du delar i din ansökan. Ta kontakt med den kontaktperson som finns angiven i annonsen innan du skickar in din ansökan.\r\n\r\nVi gör aktiva val vid exponering och rekryteringsstöd och undanber oss därför direktkontakt av bemannings- och rekryteringsföretag.",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "2321000032",
+      "name": "REGION SÖRMLAND",
+      "workplace": "Region Sörmland"
+    },
+    "application_details": {
+      "information": null,
+      "reference": "RDD-26-019",
+      "email": null,
+      "via_af": false,
+      "url": "https://sormland.powerinit.com/Modules/Recruitments/Public/?JobPositionId=27399&RefNo=RDD-26-019",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "rQds_YGd_quU",
+      "label": "Mjukvaruutvecklare",
+      "legacy_ams_taxonomy_id": "80"
+    },
+    "occupation_group": {
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": "ZxwM_gtz_n61",
+      "label": "Arbete på plats"
+    },
+    "workplace_address": {
+      "municipality": "Katrineholm",
+      "municipality_code": "0483",
+      "municipality_concept_id": "snx9_qVD_Dr1",
+      "region": "Södermanlands län",
+      "region_code": "04",
+      "region_concept_id": "s93u_BEb_sx2",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "61188",
+      "city": "Nyköping",
+      "coordinates": [
+        16.205475,
+        58.995552
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Katrineholm",
+        "municipality_code": "0483",
+        "municipality_concept_id": "snx9_qVD_Dr1",
+        "region": "Södermanlands län",
+        "region_code": "04",
+        "region_concept_id": "s93u_BEb_sx2",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "61188",
+        "city": "Nyköping",
+        "coordinates": [
+          16.205475,
+          58.995552
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-08-24T07:53:16",
+    "last_publication_date": "2026-09-06T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1787550796665
   },
   {
     "relevance": 1,
@@ -1771,17 +1771,17 @@
         "contact_type": null
       },
       {
-        "name": "Carolina Tollén",
-        "description": null,
-        "email": null,
-        "telephone": "016-162580",
-        "contact_type": null
-      },
-      {
         "name": "Mats Lindblom",
         "description": null,
         "email": null,
         "telephone": "016-162536",
+        "contact_type": null
+      },
+      {
+        "name": "Carolina Tollén",
+        "description": null,
+        "email": null,
+        "telephone": "016-162580",
         "contact_type": null
       }
     ],
@@ -3094,6 +3094,13 @@
     },
     "application_contacts": [
       {
+        "name": "Anders Eklund",
+        "description": null,
+        "email": "anders.eklund@liu.se",
+        "telephone": "+4613286714",
+        "contact_type": "Professor"
+      },
+      {
         "name": "Christina Inglisedotter",
         "description": null,
         "email": "christina.inglisedotter@liu.se",
@@ -3106,13 +3113,6 @@
         "email": "marcus.larsson@liu.se",
         "telephone": "+4613286751",
         "contact_type": "Avdelningschef"
-      },
-      {
-        "name": "Anders Eklund",
-        "description": null,
-        "email": "anders.eklund@liu.se",
-        "telephone": "+4613286714",
-        "contact_type": "Professor"
       }
     ],
     "publication_date": "2026-09-04T18:15:00",
@@ -4812,18 +4812,18 @@
     },
     "application_contacts": [
       {
-        "name": "Sofie Bondesson",
-        "description": null,
-        "email": "sofie.bondesson@liu.se",
-        "telephone": null,
-        "contact_type": "HR-administratör"
-      },
-      {
         "name": "Mikael Asplund",
         "description": null,
         "email": "mikael.asplund@liu.se",
         "telephone": null,
         "contact_type": "Biträdande professor"
+      },
+      {
+        "name": "Sofie Bondesson",
+        "description": null,
+        "email": "sofie.bondesson@liu.se",
+        "telephone": null,
+        "contact_type": "HR-administratör"
       }
     ],
     "publication_date": "2026-09-04T15:42:09",
@@ -5267,18 +5267,18 @@
     },
     "application_contacts": [
       {
-        "name": "Karin Jarheden",
-        "description": null,
-        "email": "karin.jarheden@liu.se",
-        "telephone": "+4613281856",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "David Byers",
         "description": null,
         "email": "david.byers@liu.se",
         "telephone": "+4613282821",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Karin Jarheden",
+        "description": null,
+        "email": "karin.jarheden@liu.se",
+        "telephone": "+4613281856",
+        "contact_type": "HR-partner"
       },
       {
         "name": "Marie Stålhandske",
@@ -8013,6 +8013,13 @@
     },
     "application_contacts": [
       {
+        "name": "Ulrika Larsson",
+        "description": null,
+        "email": "ulrika.larsson1@kriminalvarden.se",
+        "telephone": "0772280800",
+        "contact_type": null
+      },
+      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
@@ -8031,13 +8038,6 @@
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Ulrika Larsson",
-        "description": null,
-        "email": "ulrika.larsson1@kriminalvarden.se",
-        "telephone": "0772280800",
         "contact_type": null
       }
     ],
@@ -9038,16 +9038,9 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -9059,9 +9052,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -9071,6 +9064,13 @@
         "email": "christofer.palm@kriminalvarden.se",
         "telephone": "0114741638",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-09-02T10:59:39",
@@ -12344,13 +12344,6 @@
     },
     "application_contacts": [
       {
-        "name": "Christina Inglisedotter",
-        "description": null,
-        "email": "christina.inglisedotter@liu.se",
-        "telephone": "+4613281013",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Joel Hedlund",
         "description": null,
         "email": "joel.hedlund@liu.se",
@@ -12358,18 +12351,25 @@
         "contact_type": "Datadirektör"
       },
       {
-        "name": "Anna Jänis",
-        "description": null,
-        "email": "anna.janis@liu.se",
-        "telephone": "+4613285710",
-        "contact_type": "Avdelningschef"
-      },
-      {
         "name": "Rosssen Apostolov",
         "description": null,
         "email": "rossen@naiss.se",
         "telephone": null,
         "contact_type": "Föreståndare och enhetschef för AI-fabriken"
+      },
+      {
+        "name": "Christina Inglisedotter",
+        "description": null,
+        "email": "christina.inglisedotter@liu.se",
+        "telephone": "+4613281013",
+        "contact_type": "HR-partner"
+      },
+      {
+        "name": "Anna Jänis",
+        "description": null,
+        "email": "anna.janis@liu.se",
+        "telephone": "+4613285710",
+        "contact_type": "Avdelningschef"
       }
     ],
     "publication_date": "2026-08-31T18:11:54",
@@ -12689,6 +12689,13 @@
     },
     "application_contacts": [
       {
+        "name": "Rafael Urrutia",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Gruppchef"
+      },
+      {
         "name": "Christina Sverker",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -12708,13 +12715,6 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "Saco-S"
-      },
-      {
-        "name": "Rafael Urrutia",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-08-31T15:31:48",
@@ -13158,6 +13158,20 @@
     },
     "application_contacts": [
       {
+        "name": "Christina Sverker",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "ST"
+      },
+      {
+        "name": "Eric Söderman",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Saco-S"
+      },
+      {
         "name": "Markus Andersén",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -13170,20 +13184,6 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "HR specialist"
-      },
-      {
-        "name": "Eric Söderman",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Saco-S"
-      },
-      {
-        "name": "Christina Sverker",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "ST"
       }
     ],
     "publication_date": "2026-08-31T14:56:02",
@@ -13331,13 +13331,6 @@
     },
     "application_contacts": [
       {
-        "name": "Christina Sverker",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "ST"
-      },
-      {
         "name": "Eric Söderman",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -13350,6 +13343,13 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "HR specialist"
+      },
+      {
+        "name": "Christina Sverker",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "ST"
       },
       {
         "name": "Markus Andersén",
@@ -19585,16 +19585,16 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -19606,9 +19606,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -19772,18 +19772,18 @@
     },
     "application_contacts": [
       {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Lieanne Sandelius",
-        "description": null,
-        "email": "lieanne.sandelius@kriminalvarden.se",
-        "telephone": "076-7963310",
-        "contact_type": "Gruppchef"
       },
       {
         "name": "Angelica Oxenby (SACO-S)",
@@ -19793,11 +19793,11 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Lieanne Sandelius",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
+        "email": "lieanne.sandelius@kriminalvarden.se",
+        "telephone": "076-7963310",
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-08-26T00:00:36",
@@ -21309,18 +21309,18 @@
     },
     "application_contacts": [
       {
-        "name": "Maria   Willim",
-        "description": null,
-        "email": "maria.willim@polisen.se",
-        "telephone": null,
-        "contact_type": "HR-konsult"
-      },
-      {
         "name": "Tomas   Karlsson",
         "description": null,
         "email": null,
         "telephone": "0105665956",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Maria   Willim",
+        "description": null,
+        "email": "maria.willim@polisen.se",
+        "telephone": null,
+        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-08-25T08:35:26",
@@ -21612,18 +21612,18 @@
     },
     "application_contacts": [
       {
-        "name": "Christina Inglisedotter",
-        "description": null,
-        "email": "christina.inglisedotter@liu.se",
-        "telephone": "+4613281013",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Anna Jänis",
         "description": null,
         "email": "anna.janis@liu.se",
         "telephone": "+4613285710",
         "contact_type": "Avdelningschef"
+      },
+      {
+        "name": "Christina Inglisedotter",
+        "description": null,
+        "email": "christina.inglisedotter@liu.se",
+        "telephone": "+4613281013",
+        "contact_type": "HR-partner"
       },
       {
         "name": "Erik Lindahl",
@@ -21778,13 +21778,6 @@
     },
     "application_contacts": [
       {
-        "name": "Erik Lindahl",
-        "description": null,
-        "email": "erik@naiss.se",
-        "telephone": "+46734618050",
-        "contact_type": "Professor & NAISS föreståndare"
-      },
-      {
         "name": "Christina Inglisedotter",
         "description": null,
         "email": "christina.inglisedotter@liu.se",
@@ -21797,6 +21790,13 @@
         "email": "anna.janis@liu.se",
         "telephone": "+4613285710",
         "contact_type": "Avdelningschef"
+      },
+      {
+        "name": "Erik Lindahl",
+        "description": null,
+        "email": "erik@naiss.se",
+        "telephone": "+46734618050",
+        "contact_type": "Professor & NAISS föreståndare"
       }
     ],
     "publication_date": "2026-08-24T16:39:20",
@@ -22853,13 +22853,6 @@
     },
     "application_contacts": [
       {
-        "name": "Sandra Jarlö",
-        "description": null,
-        "email": "sandra.jarlo@kriminalvarden.se",
-        "telephone": "0114741296",
-        "contact_type": "Gruppchef"
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
@@ -22867,16 +22860,23 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Sandra Jarlö",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
+        "email": "sandra.jarlo@kriminalvarden.se",
+        "telephone": "0114741296",
+        "contact_type": "Gruppchef"
       },
       {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -23170,13 +23170,6 @@
     },
     "application_contacts": [
       {
-        "name": "Niklas Aapola",
-        "description": null,
-        "email": "niklas.aapola@kriminalvarden.se",
-        "telephone": "0728626891",
-        "contact_type": null
-      },
-      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
@@ -23184,16 +23177,23 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Niklas Aapola",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
+        "email": "niklas.aapola@kriminalvarden.se",
+        "telephone": "0728626891",
         "contact_type": null
       },
       {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -32330,150 +32330,6 @@
   },
   {
     "relevance": 1,
-    "id": "31321739",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31321739",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5562473305/logotyper/logo.png",
-    "headline": "Mjukvaruutvecklare - systemlösningar",
-    "application_deadline": "2026-09-05T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Välkommen till Syntronics kontor i Linköping! Vi söker dig som är mjukvaruutvecklare med kunskaper inom systemlösningar.\nHos oss på Syntronic får du arbeta med utmanande projekt åt spännande kunder. Vi efterfrågar mjukvaruutvecklare med trygghet i inbyggda system och intresse för systemutveckling.\nArbetsuppgifter som mjukvaruutvecklare inom systemlösningar:\n\nAlla utvecklingssteg från systemering, implementation, validering till problemlösning\n\n\nMetodiskt utveckla mjukvaruarkitektur och robusta applikationer på hårdvara med tillhörande testramverk\n\n\nArbeta inom low-level device configuration kopplade till hantering av sensordata, anpassningar av visionsystem och säkerhetsfunktioner inom sektorn Automotive.\n\n\nMjukvaruutvecklare hos oss har:\n\nEn högskole- eller civilingenjörsutbildning inom Elektro, Data, Teknisk Fysik eller liknande\n\n\nGenomfört kommersiella kundprojekt inom inbyggda system som mjukvaruutvecklare i nära samarbete med andra discipliner såsom hårdvarudesign och mekanikkonstruktion\n\n\nErfarenhet i C/C++, Python och/eller MATLAB\n\n\nKunskap och kan kommunicera flytande på svenska och engelska.\n\n\nAtt vi är ett team är vår styrka och därför ser vi gärna att du arbetar på plats på något av våra kontor, de dagar du inte behövs hos någon av våra kunder förstås!\nVilka personliga egenskaper är viktiga för en konsult hos oss?\nSom person kan du hålla ordning i koden samtidigt som har känsla för när du behöver vara kreativ. I din roll som mjukvaruutvecklare tar du hjälp av dina kollegor för att lösa komplexa problem och har en vilja att leverera de bästa lösningarna till våra kunder.\nSjälvklart har du ett stort teknikintresse och vill utveckla framtidens teknik tillsammans med oss på Syntronic.\nVi erbjuder\nPå Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. Utöver detta får du förmånliga förmåner och försäkringar. Hos oss får du inte bara ett jobb - du får en plats att växa och trivas både personligt och professionellt. Välkommen till Syntronic!\nAnsökan\nVi ser fram emot din ansökan, som ska vara oss tillhanda senast 5/9. Vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdag.\nBakgrundskontroller kan förekomma.\nAv kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.\nVi kan använda AI och automatiserade verktyg som stöd i vår rekryteringsprocess. Alla beslut om urval och anställning fattas alltid av människor.",
-      "text_formatted": "<p><strong>Välkommen till Syntronics kontor i Linköping! Vi söker dig som är mjukvaruutvecklare med kunskaper inom systemlösningar.</strong></p><p>Hos oss på Syntronic får du arbeta med utmanande projekt åt spännande kunder. Vi efterfrågar mjukvaruutvecklare med trygghet i inbyggda system och intresse för systemutveckling.</p><p><strong>Arbetsuppgifter som mjukvaruutvecklare inom systemlösningar:</strong></p><ul><li><p>Alla utvecklingssteg från systemering, implementation, validering till problemlösning</p></li><li><p>Metodiskt utveckla mjukvaruarkitektur och robusta applikationer på hårdvara med tillhörande testramverk</p></li><li><p>Arbeta inom low-level device configuration kopplade till hantering av sensordata, anpassningar av visionsystem och säkerhetsfunktioner inom sektorn Automotive.</p></li></ul><p><strong>Mjukvaruutvecklare hos oss har:</strong></p><ul><li><p>En högskole- eller civilingenjörsutbildning inom Elektro, Data, Teknisk Fysik eller liknande</p></li><li><p>Genomfört kommersiella kundprojekt inom inbyggda system som mjukvaruutvecklare i nära samarbete med andra discipliner såsom hårdvarudesign och mekanikkonstruktion</p></li><li><p>Erfarenhet i C/C++, Python och/eller MATLAB</p></li><li><p>Kunskap och kan kommunicera flytande på svenska och engelska.</p></li></ul><p>Att vi är ett team är vår styrka och därför ser vi gärna att du arbetar på plats på något av våra kontor, de dagar du inte behövs hos någon av våra kunder förstås!</p><p><strong>Vilka personliga egenskaper är viktiga för en konsult hos oss?</strong></p><p>Som person kan du hålla ordning i koden samtidigt som har känsla för när du behöver vara kreativ. I din roll som mjukvaruutvecklare tar du hjälp av dina kollegor för att lösa komplexa problem och har en vilja att leverera de bästa lösningarna till våra kunder.</p><p>Självklart har du ett stort teknikintresse och vill utveckla framtidens teknik tillsammans med oss på Syntronic.</p><p><strong>Vi erbjuder</strong></p><p>På Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. Utöver detta får du förmånliga förmåner och försäkringar. Hos oss får du inte bara ett jobb - du får en plats att växa och trivas både personligt och professionellt. Välkommen till Syntronic!</p><p><strong>Ansökan</strong></p><p>Vi ser fram emot din ansökan, som ska vara oss tillhanda senast 5/9. Vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdag.</p><p>Bakgrundskontroller kan förekomma.</p><p>Av kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.</p><p>Vi kan använda AI och automatiserade verktyg som stöd i vår rekryteringsprocess. Alla beslut om urval och anställning fattas alltid av människor.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://jobsemea.syntronic.com",
-      "organization_number": "5562473305",
-      "name": "SYNTRONIC AKTIEBOLAG",
-      "workplace": "Syntronic "
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8173857-2132229",
-      "email": null,
-      "via_af": false,
-      "url": "https://jobsemea.syntronic.com/jobs/8173857-mjukvaruutvecklare-systemlosningar/applications/new?promotion=2132229-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Teknikringen 9",
-      "postcode": "58330",
-      "city": "Linköping",
-      "coordinates": [
-        15.5603999811247,
-        58.3930103636729
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Teknikringen 9",
-        "postcode": "58330",
-        "city": "Linköping",
-        "coordinates": [
-          15.5603999811247,
-          58.3930103636729
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-05T12:54:44",
-    "last_publication_date": "2026-09-05T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1785927284296
-  },
-  {
-    "relevance": 1,
     "id": "31318361",
     "external_id": null,
     "original_id": null,
@@ -34240,17 +34096,17 @@
     },
     "application_contacts": [
       {
-        "name": "Amanda Hedberg",
-        "description": null,
-        "email": "amanda.hedberg@friday.se",
-        "telephone": "+46735231066",
-        "contact_type": "Rekryterare"
-      },
-      {
         "name": "Elvira Lidén",
         "description": null,
         "email": "elvira.liden@friday.se",
         "telephone": "+46735066410",
+        "contact_type": "Rekryterare"
+      },
+      {
+        "name": "Amanda Hedberg",
+        "description": null,
+        "email": "amanda.hedberg@friday.se",
+        "telephone": "+46735231066",
         "contact_type": "Rekryterare"
       }
     ],
@@ -34399,17 +34255,17 @@
     },
     "application_contacts": [
       {
-        "name": "Amanda Hedberg",
-        "description": null,
-        "email": "amanda.hedberg@friday.se",
-        "telephone": "+46735231066",
-        "contact_type": "Rekryterare"
-      },
-      {
         "name": "Elvira Lidén",
         "description": null,
         "email": "elvira.liden@friday.se",
         "telephone": "+46735066410",
+        "contact_type": "Rekryterare"
+      },
+      {
+        "name": "Amanda Hedberg",
+        "description": null,
+        "email": "amanda.hedberg@friday.se",
+        "telephone": "+46735231066",
         "contact_type": "Rekryterare"
       }
     ],
