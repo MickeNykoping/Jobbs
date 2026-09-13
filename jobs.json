@@ -1373,18 +1373,18 @@
     },
     "application_contacts": [
       {
-        "name": "Johanna   Kullman Böö",
-        "description": null,
-        "email": "vision@nykoping.se",
-        "telephone": "+46155248665",
-        "contact_type": "Vision"
-      },
-      {
         "name": "Åsa   Roslund Sundvisson",
         "description": null,
         "email": "asa.roslund.sundvisson@nykoping.se",
         "telephone": "+46155457374",
         "contact_type": "Planerings/utvecklingschef"
+      },
+      {
+        "name": "Johanna   Kullman Böö",
+        "description": null,
+        "email": "vision@nykoping.se",
+        "telephone": "+46155248665",
+        "contact_type": "Vision"
       }
     ],
     "publication_date": "2026-09-09T13:35:06",
@@ -2465,10 +2465,10 @@
         "contact_type": null
       },
       {
-        "name": "Jerker Sidén, Saco-S",
+        "name": "Mats Lindblom",
         "description": null,
         "email": null,
-        "telephone": "016-162766",
+        "telephone": "016-162536",
         "contact_type": null
       },
       {
@@ -2479,10 +2479,10 @@
         "contact_type": null
       },
       {
-        "name": "Mats Lindblom",
+        "name": "Jerker Sidén, Saco-S",
         "description": null,
         "email": null,
-        "telephone": "016-162536",
+        "telephone": "016-162766",
         "contact_type": null
       }
     ],
@@ -2990,6 +2990,150 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1781267203518
+  },
+  {
+    "relevance": 1,
+    "id": "31469827",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31469827",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5593322125/logotyper/logo.png",
+    "headline": "Senior Systems Programmer Rust and C Plus Plus",
+    "application_deadline": "2027-03-11T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Nordic Investin has been engaged by a partner company to find a Senior Systems Programmer Rust and C Plus Plus. You are at your best when performance, memory safety and precise control over system behaviour all matter.\nThe partner is building a high performance software layer that processes large volumes of data close to the operating system. You will improve core components, remove bottlenecks and introduce safer patterns without sacrificing throughput.\nThe environment will suit someone who enjoys building systems, testing assumptions in code and taking responsibility for production behaviour. Technical choices are expected to be explained in terms of maintainability, reliability and the people who use the product.\nHow you will work\nYou will work in short delivery cycles with direct access to product, domain and operational colleagues. The partner expects engineers to review designs, test assumptions early and follow important changes into production. Decisions should be recorded clearly enough that another engineer can understand the tradeoff months later.\nAs a senior colleague, you will own substantial outcomes and help others make stronger decisions. You are expected to recognise risk early, communicate it without drama and move work forward with practical alternatives. The role still includes hands on delivery; seniority here means broader judgement, not distance from the work.\nWhat you will do\nDevelop performance critical components in Rust and C plus plus.\n\n\nProfile CPU, memory, allocation and IO behaviour.\n\n\nDesign safe interfaces across language and process boundaries.\n\n\nImprove concurrency, scheduling and backpressure mechanisms.\n\n\nBuild benchmarks and regression tests around critical paths.\n\n\nReview low level designs and support production investigations.\n\nWhat you will bring\nDeep systems programming experience in Rust, C plus plus or both.\n\n\nStrong knowledge of memory models, concurrency and operating systems.\n\n\nExperience with Linux tooling, profiling and debugging.\n\n\nAbility to reason about performance using evidence.\n\n\nUnderstanding of network or storage intensive systems.\n\n\nClear English and rigorous technical communication.\n\nExperience that would add value\nKernel, driver or eBPF experience.\n\n\nHigh frequency, media, database or networking systems.\n\n\nFormal methods or safety critical development.\n\nA background that can succeed here\nYou may have worked on databases, compilers, game engines, telecom infrastructure, cybersecurity agents or industrial platforms. We value engineers who can zoom from an instruction level problem to the architecture that created it.\nWhat makes the opportunity interesting\nThe role combines intellectual depth with production impact. You will have access to meaningful workloads, experienced peers and technical decisions where careful low level work produces visible results.\nThe exact partner, employment model, compensation, start date and working arrangement will be explained openly during the process. Nordic Investin will make sure you understand the context, expectations and decision path before you are asked to commit significant time.\nThe recruitment conversation\nDuring the process, Nordic Investin will focus on concrete decisions you have made: the context you received, the alternatives you considered, the result you observed and what you would change today. You do not need every optional technology if your core experience transfers and you can explain how you would close the gap.\nHow to apply\nApply with your CV or LinkedIn profile and a short note describing the most relevant system, product or transformation you have helped deliver. Nordic Investin welcomes candidates with different routes into technology and assesses applicants on relevant capability, judgement and potential.",
+      "text_formatted": "<p>Nordic Investin has been engaged by a partner company to find a Senior Systems Programmer Rust and C Plus Plus. You are at your best when performance, memory safety and precise control over system behaviour all matter.</p><p>The partner is building a high performance software layer that processes large volumes of data close to the operating system. You will improve core components, remove bottlenecks and introduce safer patterns without sacrificing throughput.</p><p>The environment will suit someone who enjoys building systems, testing assumptions in code and taking responsibility for production behaviour. Technical choices are expected to be explained in terms of maintainability, reliability and the people who use the product.</p><strong>How you will work</strong><p>You will work in short delivery cycles with direct access to product, domain and operational colleagues. The partner expects engineers to review designs, test assumptions early and follow important changes into production. Decisions should be recorded clearly enough that another engineer can understand the tradeoff months later.</p><p>As a senior colleague, you will own substantial outcomes and help others make stronger decisions. You are expected to recognise risk early, communicate it without drama and move work forward with practical alternatives. The role still includes hands on delivery; seniority here means broader judgement, not distance from the work.</p><strong>What you will do</strong><ul><li><p>Develop performance critical components in Rust and C plus plus.</p></li><li><p>Profile CPU, memory, allocation and IO behaviour.</p></li><li><p>Design safe interfaces across language and process boundaries.</p></li><li><p>Improve concurrency, scheduling and backpressure mechanisms.</p></li><li><p>Build benchmarks and regression tests around critical paths.</p></li><li><p>Review low level designs and support production investigations.</p></li></ul><strong>What you will bring</strong><ul><li><p>Deep systems programming experience in Rust, C plus plus or both.</p></li><li><p>Strong knowledge of memory models, concurrency and operating systems.</p></li><li><p>Experience with Linux tooling, profiling and debugging.</p></li><li><p>Ability to reason about performance using evidence.</p></li><li><p>Understanding of network or storage intensive systems.</p></li><li><p>Clear English and rigorous technical communication.</p></li></ul><strong>Experience that would add value</strong><ul><li><p>Kernel, driver or eBPF experience.</p></li><li><p>High frequency, media, database or networking systems.</p></li><li><p>Formal methods or safety critical development.</p></li></ul><strong>A background that can succeed here</strong><p>You may have worked on databases, compilers, game engines, telecom infrastructure, cybersecurity agents or industrial platforms. We value engineers who can zoom from an instruction level problem to the architecture that created it.</p><strong>What makes the opportunity interesting</strong><p>The role combines intellectual depth with production impact. You will have access to meaningful workloads, experienced peers and technical decisions where careful low level work produces visible results.</p><p>The exact partner, employment model, compensation, start date and working arrangement will be explained openly during the process. Nordic Investin will make sure you understand the context, expectations and decision path before you are asked to commit significant time.</p><strong>The recruitment conversation</strong><p>During the process, Nordic Investin will focus on concrete decisions you have made: the context you received, the alternatives you considered, the result you observed and what you would change today. You do not need every optional technology if your core experience transfers and you can explain how you would close the gap.</p><strong>How to apply</strong><p>Apply with your CV or LinkedIn profile and a short note describing the most relevant system, product or transformation you have helped deliver. Nordic Investin welcomes candidates with different routes into technology and assesses applicants on relevant capability, judgement and potential.</p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": "https://jobs.nordicinvestin.se",
+      "organization_number": "5593322125",
+      "name": "Nordic Investin Group Aktiebolag",
+      "workplace": "Nordic Investin Group"
+    },
+    "application_details": {
+      "information": null,
+      "reference": "teamtailor-8369058-2193272",
+      "email": null,
+      "via_af": false,
+      "url": "https://jobs.nordicinvestin.se/jobs/8369058-senior-systems-programmer-rust-and-c-plus-plus/applications/new?promotion=2193272-arbetsformedlingen",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "rQds_YGd_quU",
+      "label": "Mjukvaruutvecklare",
+      "legacy_ams_taxonomy_id": "80"
+    },
+    "occupation_group": {
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": "ZxwM_gtz_n61",
+      "label": "Arbete på plats"
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": "Linköping Travel Center",
+      "postcode": "58222",
+      "city": "Linköping",
+      "coordinates": [
+        15.623086952934903,
+        58.41293759612985
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Linköping Travel Center",
+        "postcode": "58222",
+        "city": "Linköping",
+        "coordinates": [
+          15.623086952934903,
+          58.41293759612985
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-09-12T12:53:13",
+    "last_publication_date": "2027-03-11T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1789210393950
   },
   {
     "relevance": 1,
@@ -9739,9 +9883,16 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -9753,16 +9904,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -9926,16 +10070,16 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -10099,9 +10243,16 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -10113,16 +10264,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -11040,11 +11184,11 @@
     },
     "application_contacts": [
       {
-        "name": "Christina Inglisedotter",
+        "name": "Marcus Larsson",
         "description": null,
-        "email": "christina.inglisedotter@liu.se",
-        "telephone": "+4613281013",
-        "contact_type": "HR-partner"
+        "email": "marcus.larsson@liu.se",
+        "telephone": "+4613286751",
+        "contact_type": "Avdelningschef"
       },
       {
         "name": "Anders Eklund",
@@ -11054,11 +11198,11 @@
         "contact_type": "Professor"
       },
       {
-        "name": "Marcus Larsson",
+        "name": "Christina Inglisedotter",
         "description": null,
-        "email": "marcus.larsson@liu.se",
-        "telephone": "+4613286751",
-        "contact_type": "Avdelningschef"
+        "email": "christina.inglisedotter@liu.se",
+        "telephone": "+4613281013",
+        "contact_type": "HR-partner"
       }
     ],
     "publication_date": "2026-09-04T18:15:00",
@@ -12607,18 +12751,18 @@
     },
     "application_contacts": [
       {
-        "name": "Mikael Asplund",
-        "description": null,
-        "email": "mikael.asplund@liu.se",
-        "telephone": null,
-        "contact_type": "Biträdande professor"
-      },
-      {
         "name": "Sofie Bondesson",
         "description": null,
         "email": "sofie.bondesson@liu.se",
         "telephone": null,
         "contact_type": "HR-administratör"
+      },
+      {
+        "name": "Mikael Asplund",
+        "description": null,
+        "email": "mikael.asplund@liu.se",
+        "telephone": null,
+        "contact_type": "Biträdande professor"
       }
     ],
     "publication_date": "2026-09-04T15:42:09",
@@ -12910,18 +13054,18 @@
     },
     "application_contacts": [
       {
-        "name": "David Byers",
-        "description": null,
-        "email": "david.byers@liu.se",
-        "telephone": "+4613282821",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Marie Stålhandske",
         "description": null,
         "email": "marie.stalhandske@liiu.se",
         "telephone": "+4613282829",
         "contact_type": "Systemingejör"
+      },
+      {
+        "name": "David Byers",
+        "description": null,
+        "email": "david.byers@liu.se",
+        "telephone": "+4613282821",
+        "contact_type": "Enhetschef"
       },
       {
         "name": "Karin Jarheden",
@@ -15519,10 +15663,10 @@
         "contact_type": null
       },
       {
-        "name": "Ulrika Larsson",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "ulrika.larsson1@kriminalvarden.se",
-        "telephone": "0772280800",
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
         "contact_type": null
       },
       {
@@ -15533,10 +15677,10 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Ulrika Larsson",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
+        "email": "ulrika.larsson1@kriminalvarden.se",
+        "telephone": "0772280800",
         "contact_type": null
       }
     ],
@@ -16544,6 +16688,20 @@
         "contact_type": "Gruppchef"
       },
       {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
@@ -16556,20 +16714,6 @@
         "email": "christofer.palm@kriminalvarden.se",
         "telephone": "0114741638",
         "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
       }
     ],
     "publication_date": "2026-09-02T10:59:39",
@@ -18518,18 +18662,18 @@
         "contact_type": "Föreståndare och enhetschef för AI-fabriken"
       },
       {
-        "name": "Anna Jänis",
-        "description": null,
-        "email": "anna.janis@liu.se",
-        "telephone": "+4613285710",
-        "contact_type": "Avdelningschef"
-      },
-      {
         "name": "Joel Hedlund",
         "description": null,
         "email": "joel.hedlund@liu.se",
         "telephone": "+46734607126",
         "contact_type": "Datadirektör"
+      },
+      {
+        "name": "Anna Jänis",
+        "description": null,
+        "email": "anna.janis@liu.se",
+        "telephone": "+4613285710",
+        "contact_type": "Avdelningschef"
       },
       {
         "name": "Christina Inglisedotter",
@@ -18856,18 +19000,18 @@
     },
     "application_contacts": [
       {
+        "name": "Eric Söderman",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Saco-S"
+      },
+      {
         "name": "Christina Sverker",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "ST"
-      },
-      {
-        "name": "Rafael Urrutia",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
       },
       {
         "name": "Anders Magnestrand",
@@ -18877,11 +19021,11 @@
         "contact_type": "HR specialist"
       },
       {
-        "name": "Eric Söderman",
+        "name": "Rafael Urrutia",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
-        "contact_type": "Saco-S"
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-08-31T15:31:48",
@@ -19325,6 +19469,20 @@
     },
     "application_contacts": [
       {
+        "name": "Christina Sverker",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "ST"
+      },
+      {
+        "name": "Eric Söderman",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Saco-S"
+      },
+      {
         "name": "Anders Magnestrand",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -19337,20 +19495,6 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Eric Söderman",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Saco-S"
-      },
-      {
-        "name": "Christina Sverker",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "ST"
       }
     ],
     "publication_date": "2026-08-31T14:56:02",
@@ -19498,20 +19642,6 @@
     },
     "application_contacts": [
       {
-        "name": "Markus Andersén",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Anders Magnestrand",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "HR specialist"
-      },
-      {
         "name": "Christina Sverker",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -19524,6 +19654,20 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "Saco-S"
+      },
+      {
+        "name": "Markus Andersén",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Anders Magnestrand",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "HR specialist"
       }
     ],
     "publication_date": "2026-08-31T14:43:59",
@@ -22042,18 +22186,18 @@
     },
     "application_contacts": [
       {
-        "name": "Claes Lundström",
-        "description": null,
-        "email": "claes.lundstrom@liu.se",
-        "telephone": "+46706055016",
-        "contact_type": "Biträdande föreståndare CIP"
-      },
-      {
         "name": "Mattias Ekstedt",
         "description": null,
         "email": "mattias.ekstedt@liu.se",
         "telephone": null,
         "contact_type": "Föreståndare CIP"
+      },
+      {
+        "name": "Claes Lundström",
+        "description": null,
+        "email": "claes.lundstrom@liu.se",
+        "telephone": "+46706055016",
+        "contact_type": "Biträdande föreståndare CIP"
       }
     ],
     "publication_date": "2026-08-28T09:16:49",
@@ -24981,13 +25125,6 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Lieanne Sandelius",
         "description": null,
         "email": "lieanne.sandelius@kriminalvarden.se",
@@ -24998,6 +25135,13 @@
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -25168,9 +25312,9 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -25182,9 +25326,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -26412,150 +26556,6 @@
   },
   {
     "relevance": 1,
-    "id": "31391690",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31391690",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566858618/logotyper/logo.png",
-    "headline": "Backendutvecklare till Diffinder",
-    "application_deadline": "2026-09-12T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Diffinder är ett snabbväxande techbolag som har hittat rätt på marknaden. Vår mjukvara för revision och transaktionsanalys används dagligen av nöjda kunder och har snabbt blivit ett uppskattat verktyg i branschen. Nu växlar vi upp och söker en Backend/Fullstack Developer som vill vara med på vår fortsatta tillväxtresa!\nLäs mer om Diffinder här\nDina arbetsuppgifter\nSom utvecklare hos oss kommer du att arbeta i ett litet, sammansvetsat team där vi itererar snabbt och tar beslut nära både kund och produkt. Fokus ligger på backendutveckling, men hos oss finns också möjlighet att bredda sig inom områden som DevOps, AI och testutveckling beroende på intresse och erfarenhet. Du får stort utrymme att påverka både lösningar, teknikval och hur vi utvecklar teamet framåt.\nDu kommer bland annat att:\n\nBygga och vidareutveckla backendlösningar i Rust\n\n\nArbeta med vår eventdrivna och meddelandebaserade arkitektur\n\n\nVara med och utveckla skalbara lösningar med fokus på prestanda, kvalitet och användarnytta\n\n\nDelta i hela utvecklingsprocessen – från idé och design till implementation och förbättring\n\n\nBidra med nya perspektiv och utforska nya tekniker och arbetssätt\n\n\nDin profil\nVi tror att du har:\n\nCivilingenjörsutbildning eller motsvarande erfarenhet inom relevant område\n\n\nMinst 5 års erfarenhet av backendutveckling\n\n\nErfarenhet av programmering i Rust, C++ eller liknande språk\n\n\nErfarenhet av distribuerade system eller ett intresse för eventdriven arkitektur\n\n\nMycket goda kunskaper i svenska och engelska, i tal och skrift\n\n\nMeriterande:\n\nErfarenhet av eventdrivna system eller eventdriven arkitektur\n\n\nKunskaper inom DevOps och/eller AI-lösningar\n\n\nErfarenhet av testutveckling\n\n\nFör att trivas hos oss tror vi att du är en person som gillar att få saker gjorda. Du tar ansvar för ditt arbete, är initiativtagande och ser vad som behöver göras utan att vänta på att någon annan ska peka ut riktningen. Samtidigt är du nyfiken och tycker om att utvecklas, testa nya idéer och bidra till teamets framgång.\nHos oss får du stor påverkan och ser snabbt hur det du bygger används och skapar värde för våra kunder. Du blir delaktig i hela processen eftersom hela teamet är med i dialogen med våra användare och tillsammans driver produktutvecklingen framåt. Vi hjälps åt, uppmuntrar varandra att prova nya idéer och växer tillsammans.\nVi erbjuder en flexibel arbetsmiljö där resultat och samarbete värderas högt. Om du vill vara en del av en snabbväxande organisation med stort användarfokus och stark teamkänsla, skicka in din ansökan redan idag och följ med oss på vår fortsatta resa.\nAnsökan I den här rekryteringen samarbetar Diffinder med Skill. Har du frågor om tjänsten eller processen kontakta ansvarig rekryterare Sofie Ilhed, sofie.ilhed@skill.se.\nVarmt välkommen med din ansökan! #LI-DNI",
-      "text_formatted": "<p></p><p></p><p><strong><em>Diffinder är ett snabbväxande techbolag som har hittat rätt på marknaden. Vår mjukvara för revision och transaktionsanalys används dagligen av nöjda kunder och har snabbt blivit ett uppskattat verktyg i branschen. Nu växlar vi upp och söker en Backend/Fullstack Developer som vill vara med på vår fortsatta tillväxtresa!</em></strong></p><p><strong><em>Läs mer om Diffinder </em></strong><strong><em>här</em></strong></p><p><strong>Dina arbetsuppgifter</strong></p><p>Som utvecklare hos oss kommer du att arbeta i ett litet, sammansvetsat team där vi itererar snabbt och tar beslut nära både kund och produkt. Fokus ligger på backendutveckling, men hos oss finns också möjlighet att bredda sig inom områden som DevOps, AI och testutveckling beroende på intresse och erfarenhet. Du får stort utrymme att påverka både lösningar, teknikval och hur vi utvecklar teamet framåt.</p><p>Du kommer bland annat att:</p><ul><li><p>Bygga och vidareutveckla backendlösningar i Rust</p></li><li><p>Arbeta med vår eventdrivna och meddelandebaserade arkitektur</p></li><li><p>Vara med och utveckla skalbara lösningar med fokus på prestanda, kvalitet och användarnytta</p></li><li><p>Delta i hela utvecklingsprocessen – från idé och design till implementation och förbättring</p></li><li><p>Bidra med nya perspektiv och utforska nya tekniker och arbetssätt</p></li></ul><p><strong>Din profil</strong></p><p>Vi tror att du har:</p><ul><li><p>Civilingenjörsutbildning eller motsvarande erfarenhet inom relevant område</p></li><li><p>Minst 5 års erfarenhet av backendutveckling</p></li><li><p>Erfarenhet av programmering i Rust, C++ eller liknande språk</p></li><li><p>Erfarenhet av distribuerade system eller ett intresse för eventdriven arkitektur</p></li><li><p>Mycket goda kunskaper i svenska och engelska, i tal och skrift</p></li></ul><p>Meriterande:</p><ul><li><p>Erfarenhet av eventdrivna system eller eventdriven arkitektur</p></li><li><p>Kunskaper inom DevOps och/eller AI-lösningar</p></li><li><p>Erfarenhet av testutveckling</p></li></ul><p>För att trivas hos oss tror vi att du är en person som gillar att få saker gjorda. Du tar ansvar för ditt arbete, är initiativtagande och ser vad som behöver göras utan att vänta på att någon annan ska peka ut riktningen. Samtidigt är du nyfiken och tycker om att utvecklas, testa nya idéer och bidra till teamets framgång.</p><p>Hos oss får du stor påverkan och ser snabbt hur det du bygger används och skapar värde för våra kunder. Du blir delaktig i hela processen eftersom hela teamet är med i dialogen med våra användare och tillsammans driver produktutvecklingen framåt. Vi hjälps åt, uppmuntrar varandra att prova nya idéer och växer tillsammans.</p><p>Vi erbjuder en flexibel arbetsmiljö där resultat och samarbete värderas högt. Om du vill vara en del av en snabbväxande organisation med stort användarfokus och stark teamkänsla, skicka in din ansökan redan idag och följ med oss på vår fortsatta resa.</p><p><strong>Ansökan</strong> I den här rekryteringen samarbetar Diffinder med Skill. Har du frågor om tjänsten eller processen kontakta ansvarig rekryterare <strong>Sofie Ilhed, sofie.ilhed@skill.se.</strong></p><p>Varmt välkommen med din ansökan! #LI-DNI</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://jobb.skill.se",
-      "organization_number": "5566858618",
-      "name": "Skill Kompetenspartner AB",
-      "workplace": "Skill Kompetenspartner AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8249144-2160111",
-      "email": null,
-      "via_af": false,
-      "url": "https://jobb.skill.se/jobs/8249144-backendutvecklare-till-diffinder/applications/new?promotion=2160111-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Gelbgjutaregatan 2",
-      "postcode": "58254",
-      "city": "Linköping",
-      "coordinates": [
-        15.6497727652983,
-        58.406601132478
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Gelbgjutaregatan 2",
-        "postcode": "58254",
-        "city": "Linköping",
-        "coordinates": [
-          15.6497727652983,
-          58.406601132478
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-25T08:00:54",
-    "last_publication_date": "2026-09-12T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1787637654588
-  },
-  {
-    "relevance": 1,
     "id": "31391103",
     "external_id": null,
     "original_id": null,
@@ -26692,18 +26692,18 @@
     },
     "application_contacts": [
       {
-        "name": "Christina Inglisedotter",
-        "description": null,
-        "email": "christina.inglisedotter@liu.se",
-        "telephone": "+4613281013",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Erik Lindahl",
         "description": null,
         "email": "erik@naiss.se",
         "telephone": "+46734618050",
         "contact_type": "Professor & NAISS föreståndare"
+      },
+      {
+        "name": "Christina Inglisedotter",
+        "description": null,
+        "email": "christina.inglisedotter@liu.se",
+        "telephone": "+4613281013",
+        "contact_type": "HR-partner"
       },
       {
         "name": "Anna Jänis",
@@ -26858,18 +26858,18 @@
     },
     "application_contacts": [
       {
-        "name": "Erik Lindahl",
-        "description": null,
-        "email": "erik@naiss.se",
-        "telephone": "+46734618050",
-        "contact_type": "Professor & NAISS föreståndare"
-      },
-      {
         "name": "Anna Jänis",
         "description": null,
         "email": "anna.janis@liu.se",
         "telephone": "+4613285710",
         "contact_type": "Avdelningschef"
+      },
+      {
+        "name": "Erik Lindahl",
+        "description": null,
+        "email": "erik@naiss.se",
+        "telephone": "+46734618050",
+        "contact_type": "Professor & NAISS föreståndare"
       },
       {
         "name": "Christina Inglisedotter",
@@ -27168,18 +27168,18 @@
     },
     "application_contacts": [
       {
-        "name": "Martin Eneling",
-        "description": null,
-        "email": "martin.eneling@liu.se",
-        "telephone": "+4613286735",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Martin Eneling",
+        "description": null,
+        "email": "martin.eneling@liu.se",
+        "telephone": "+4613286735",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-08-24T16:08:39",
@@ -27933,16 +27933,23 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -27952,13 +27959,6 @@
         "email": "sandra.jarlo@kriminalvarden.se",
         "telephone": "0114741296",
         "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
       }
     ],
     "publication_date": "2026-08-24T11:15:23",
@@ -28264,17 +28264,17 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
         "telephone": "0728626891",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
         "contact_type": null
       }
     ],
@@ -33509,202 +33509,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1786614568132
-  },
-  {
-    "relevance": 1,
-    "id": "31335477",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31335477",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5568787864/logotyper/logo.png",
-    "headline": "React Native / Redux App-utvecklare",
-    "application_deadline": "2026-09-12T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Om dig\nVi söker dig som brinner för React Native och app-utveckling och har erfarenhet av Redux. Du är målmedveten, duktig på att arbeta såväl självständigt som i team och har ett genuint intresse för programmering.\nVi tror att du passar in på följande beskrivning:\n* Du har studerat på universitet/högskola med inriktning mjukvaruutveckling.\n* Du har utvecklat appar i React Native.\n* Du har redan programmerat en hel del, antingen på fritiden eller som anställd.\n* Du har ett öga för snygg design.\n* Du har erfarenhet av git och det är en fördel om du tidigare jobbat agilt och har erfarenhet av continuous integration.\n* Du har ett bra driv och kan jobba självständigt.\n\n\nDina arbetsuppgifter\nTaxiCaller har utvecklat en mobility as a service-plattform och vår molntjänst används idag i 70 länder.\nDu kommer att jobba med utvecklingen av våra mobila appar.\nVi utvecklar våra appar i React Native. Du kommer få ansvaret för vidareutvecklingen av våra appar.\nArbetet kommer göras tillsammans med vårt team av UX/desginer, back end-utvecklare och front end/webb-utvecklare.\nDu kommer ha stora möjligheter att påverka dina dagliga arbetsuppgifter.\nVår produkt täcker redan våra kunders grundläggande behov, men vi har många spännande idéer som vi vill utveckla för att ta nästa stora steg. För att nå dit behöver vi din hjälp.\n\n\nOm oss\nTaxiCaller grundades 2011 och har utvecklat en mobility as a service-plattform. Vi har inledningsvis fokuserat på taximarknaden och vårt molnbaserade taxibokningssystem har snabbt nått internationella framgångar och används idag av taxibolag i hela världen. Vi har nyligen även börjat erbjuda vår mobility as a service-plattform till andra transportsektorer. Redan idag använder bl.a. FN vårt system för transport av sin personal.\nVi växer mycket snabbt med lönsamhet (vi är med på Dagens Industris lista över Gasell-företag). Vi upplever en stark efterfrågan på vår produkt och vi behöver därför utöka vår utvecklingsavdelning.\nVi har vårt huvudkontor på Mjärdevi i Linköping, men arbetet kan utföras på distans. \nMer information om oss finner du på: www.taxicaller.com/sv/jobb och www.linkedin.com/company/taxicaller.",
-      "text_formatted": "<p><strong>Om dig</strong></p><p>Vi söker dig som brinner för React Native och app-utveckling och har erfarenhet av Redux. Du är målmedveten, duktig på att arbeta såväl självständigt som i team och har ett genuint intresse för programmering.</p><p>Vi tror att du passar in på följande beskrivning:</p><p>* Du har studerat på universitet/högskola med inriktning mjukvaruutveckling.</p><p>* Du har utvecklat appar i React Native.</p><p>* Du har redan programmerat en hel del, antingen på fritiden eller som anställd.</p><p>* Du har ett öga för snygg design.</p><p>* Du har erfarenhet av git och det är en fördel om du tidigare jobbat agilt och har erfarenhet av continuous integration.</p><p>* Du har ett bra driv och kan jobba självständigt.</p><p><br></p><p><strong>Dina arbetsuppgifter</strong></p><p>TaxiCaller har utvecklat en mobility as a service-plattform och vår molntjänst används idag i 70 länder.</p><p>Du kommer att jobba med utvecklingen av våra mobila appar.</p><p>Vi utvecklar våra appar i React Native. Du kommer få ansvaret för vidareutvecklingen av våra appar.</p><p>Arbetet kommer göras tillsammans med vårt team av UX/desginer, back end-utvecklare och front end/webb-utvecklare.</p><p>Du kommer ha stora möjligheter att påverka dina dagliga arbetsuppgifter.</p><p>Vår produkt täcker redan våra kunders grundläggande behov, men vi har många spännande idéer som vi vill utveckla för att ta nästa stora steg. För att nå dit behöver vi din hjälp.</p><p><br></p><p><strong>Om oss</strong></p><p>TaxiCaller grundades 2011 och har utvecklat en mobility as a service-plattform. Vi har inledningsvis fokuserat på taximarknaden och vårt molnbaserade taxibokningssystem har snabbt nått internationella framgångar och används idag av taxibolag i hela världen. Vi har nyligen även börjat erbjuda vår mobility as a service-plattform till andra transportsektorer. Redan idag använder bl.a. FN vårt system för transport av sin personal.</p><p>Vi växer mycket snabbt med lönsamhet (vi är med på Dagens Industris lista över Gasell-företag). Vi upplever en stark efterfrågan på vår produkt och vi behöver därför utöka vår utvecklingsavdelning.</p><p>Vi har vårt huvudkontor på Mjärdevi i Linköping, men arbetet kan utföras på distans. </p><p>Mer information om oss finner du på: www.taxicaller.com/sv/jobb och www.linkedin.com/company/taxicaller.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "http://www.taxicaller.com",
-      "organization_number": "5568787864",
-      "name": "TaxiCaller Nordic AB",
-      "workplace": "Taxicaller Nordic AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "React Native",
-      "email": "software.jobs@taxicaller.com",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Diskettgatan 11A",
-      "postcode": "58335",
-      "city": "Linköping",
-      "coordinates": [
-        15.621373,
-        58.41081
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Diskettgatan 11A",
-        "postcode": "58335",
-        "city": "Linköping",
-        "coordinates": [
-          15.621373,
-          58.41081
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "fg7B_yov_smw",
-          "label": "Systemutvecklare/Programmerare",
-          "legacy_ams_taxonomy_id": "2419"
-        }
-      ],
-      "education": [
-        {
-          "weight": 10,
-          "concept_id": "FHxz_HhN_3Mk",
-          "label": "Data",
-          "legacy_ams_taxonomy_id": "14"
-        }
-      ],
-      "education_level": [
-        {
-          "weight": 10,
-          "concept_id": "asZm_TEQ_Srk",
-          "label": "Eftergymnasial utbildning två år eller längre",
-          "legacy_ams_taxonomy_id": "6"
-        }
-      ]
-    },
-    "nice_to_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "WQdS_Jtu_qPC",
-          "label": "Android, operativsystem",
-          "legacy_ams_taxonomy_id": "608877"
-        },
-        {
-          "weight": null,
-          "concept_id": "jCsR_WQX_CKD",
-          "label": "Java, programmeringsspråk",
-          "legacy_ams_taxonomy_id": "200028"
-        },
-        {
-          "weight": null,
-          "concept_id": "t78J_nRk_xGn",
-          "label": "IOS, operativsystem",
-          "legacy_ams_taxonomy_id": "608680"
-        },
-        {
-          "weight": null,
-          "concept_id": "V9z3_YfY_Tob",
-          "label": "Objective-C, programmeringsspråk",
-          "legacy_ams_taxonomy_id": "608674"
-        },
-        {
-          "weight": null,
-          "concept_id": "yNm8_krX_usR",
-          "label": "C++, programmeringsspråk",
-          "legacy_ams_taxonomy_id": "956"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-13T00:00:00",
-    "last_publication_date": "2026-09-12T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1786364480697
   },
   {
     "relevance": 1,
