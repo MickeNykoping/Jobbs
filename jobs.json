@@ -1653,18 +1653,18 @@
     },
     "application_contacts": [
       {
-        "name": "Åsa   Roslund Sundvisson",
-        "description": null,
-        "email": "asa.roslund.sundvisson@nykoping.se",
-        "telephone": "+46155457374",
-        "contact_type": "Planerings/utvecklingschef"
-      },
-      {
         "name": "Johanna   Kullman Böö",
         "description": null,
         "email": "vision@nykoping.se",
         "telephone": "+46155248665",
         "contact_type": "Vision"
+      },
+      {
+        "name": "Åsa   Roslund Sundvisson",
+        "description": null,
+        "email": "asa.roslund.sundvisson@nykoping.se",
+        "telephone": "+46155457374",
+        "contact_type": "Planerings/utvecklingschef"
       }
     ],
     "publication_date": "2026-09-09T13:35:06",
@@ -2738,10 +2738,10 @@
     },
     "application_contacts": [
       {
-        "name": "Carolina Tollén",
+        "name": "Madeleine Hermansson, ST",
         "description": null,
         "email": null,
-        "telephone": "016-162580",
+        "telephone": "016-162748",
         "contact_type": null
       },
       {
@@ -2752,17 +2752,17 @@
         "contact_type": null
       },
       {
+        "name": "Carolina Tollén",
+        "description": null,
+        "email": null,
+        "telephone": "016-162580",
+        "contact_type": null
+      },
+      {
         "name": "Mats Lindblom",
         "description": null,
         "email": null,
         "telephone": "016-162536",
-        "contact_type": null
-      },
-      {
-        "name": "Madeleine Hermansson, ST",
-        "description": null,
-        "email": null,
-        "telephone": "016-162748",
         "contact_type": null
       }
     ],
@@ -2982,6 +2982,184 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1781267203518
+  },
+  {
+    "relevance": 1,
+    "id": "31497412",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31497412",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5564519345/logotyper/logo.png",
+    "headline": "Java-utvecklare med Kotlin Linköping",
+    "application_deadline": "2026-10-11T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.\nMed några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.\nOm de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.\nSom konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.\nVem är du?\nPå Nexer i Linköping fortsätter vi att bygga vårt team – nu söker vi erfarna Javautvecklare med praktisk erfarenhet av Kotlin.\nDu kommer att spela en viktig roll i utvecklingen av moderna och hållbara digitala lösningar för kunder inom olika branscher – från industri till offentlig sektor. Som konsult hos oss arbetar du i varierande uppdrag och systemmiljöer, där du får möjlighet att utveckla såväl nya lösningar som befintliga system.\nVi söker dig som tycker om utveckling, gillar att lösa komplexa problem och ser programmering som ett hantverk. Du har flera års erfarenhet av systemutveckling med Java och har även arbetat professionellt med Kotlin. Du är van vid backendutveckling, API:er och databaser och trivs i miljöer där kvalitet, struktur och långsiktigt hållbar kod är viktigt.\nDu uppskattar också samarbetet runt utvecklingen – att diskutera tekniska lösningar, dela kunskap och tillsammans med andra hitta bra vägar framåt.\nVi ser gärna att du har erfarenhet av flera av följande områden:\n\nSpring/Spring Boot\n\n\nREST API:er och OpenAPI\n\n\nSQL och relationsdatabaser\n\n\nAutomatiserade tester\n\n\nCI/CD, exempelvis GitHub Actions, GitLab CI/CD eller Jenkins\n\n\nDocker och containerbaserade miljöer\n\n\nKubernetes\n\n\nMolnplattformar som Azure, AWS eller GCP\n\n\nFrontendutveckling, exempelvis React eller Angular\n\n\nHar du dessutom erfarenhet av mikrotjänstarkitektur, eventdrivna lösningar eller tekniker som Kafka är det ett plus. Erfarenhet av IoT, OPC UA eller MQTT är också ett plus i vissa av våra uppdrag.\nRollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i tal och skrift. Det är en viktig förutsättning för att lyckas i kunddialoger och i samarbetet med teamet.\nTjänsten är placerad i Linköping.\nVilka är vi på Nexer i Linköping?\nNexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.\nVåra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.\nOm du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.\nAnsökan\nDu är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.\nVi tar emot ansökningar löpande så vänta inte med att söka!\nLäs mer om Nexer här\nwww.nexergroup.com\n\n\n\n\n\n#LI-PS1",
+      "text_formatted": "<p>Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.</p><p>Med några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.</p><p>Om de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.</p><p>Som konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.</p><p><strong>Vem är du?</strong></p><p>På Nexer i Linköping fortsätter vi att bygga vårt team – nu söker vi erfarna Javautvecklare med praktisk erfarenhet av Kotlin.</p><p>Du kommer att spela en viktig roll i utvecklingen av moderna och hållbara digitala lösningar för kunder inom olika branscher – från industri till offentlig sektor. Som konsult hos oss arbetar du i varierande uppdrag och systemmiljöer, där du får möjlighet att utveckla såväl nya lösningar som befintliga system.</p><p>Vi söker dig som tycker om utveckling, gillar att lösa komplexa problem och ser programmering som ett hantverk. Du har flera års erfarenhet av systemutveckling med Java och har även arbetat professionellt med Kotlin. Du är van vid backendutveckling, API:er och databaser och trivs i miljöer där kvalitet, struktur och långsiktigt hållbar kod är viktigt.</p><p>Du uppskattar också samarbetet runt utvecklingen – att diskutera tekniska lösningar, dela kunskap och tillsammans med andra hitta bra vägar framåt.</p><p><strong>Vi ser gärna att du har erfarenhet av flera av följande områden:</strong></p><ul><li><p>Spring/Spring Boot</p></li><li><p>REST API:er och OpenAPI</p></li><li><p>SQL och relationsdatabaser</p></li><li><p>Automatiserade tester</p></li><li><p>CI/CD, exempelvis GitHub Actions, GitLab CI/CD eller Jenkins</p></li><li><p>Docker och containerbaserade miljöer</p></li><li><p>Kubernetes</p></li><li><p>Molnplattformar som Azure, AWS eller GCP</p></li><li><p>Frontendutveckling, exempelvis React eller Angular</p></li></ul><p>Har du dessutom erfarenhet av mikrotjänstarkitektur, eventdrivna lösningar eller tekniker som Kafka är det ett plus. Erfarenhet av IoT, OPC UA eller MQTT är också ett plus i vissa av våra uppdrag.</p><p>Rollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i tal och skrift. Det är en viktig förutsättning för att lyckas i kunddialoger och i samarbetet med teamet.</p><p>Tjänsten är placerad i Linköping.</p><p><strong>Vilka är vi på Nexer i Linköping?</strong></p><p>Nexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.</p><p>Våra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.</p><p>Om du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.</p><p><strong>Ansökan</strong></p><p>Du är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.</p><p>Vi tar emot ansökningar löpande så vänta inte med att söka!</p><p><strong>Läs mer om Nexer här</strong></p><p>www.nexergroup.com</p><p></p><p></p><p></p><p></p><p></p><p><em>#LI-PS1</em></p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": "https://nexergroup.teamtailor.com",
+      "organization_number": "5564519345",
+      "name": "Nexer AB",
+      "workplace": "Nexer Group"
+    },
+    "application_details": {
+      "information": null,
+      "reference": "teamtailor-8405811-2205285",
+      "email": null,
+      "via_af": false,
+      "url": "https://nexergroup.teamtailor.com/jobs/8405811-java-utvecklare-med-kotlin-linkoping/applications/new?promotion=2205285-arbetsformedlingen",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": true,
+    "driving_license": [
+      {
+        "concept_id": "VTK8_WRx_GcM",
+        "label": "B",
+        "legacy_ams_taxonomy_id": "3"
+      }
+    ],
+    "occupation": {
+      "concept_id": "fg7B_yov_smw",
+      "label": "Systemutvecklare/Programmerare",
+      "legacy_ams_taxonomy_id": "2419"
+    },
+    "occupation_group": {
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": "ZxwM_gtz_n61",
+      "label": "Arbete på plats"
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": "Ågatan 55A",
+      "postcode": "58222",
+      "city": "Linköping",
+      "coordinates": [
+        15.6201633880785,
+        58.4116310337894
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Ågatan 55A",
+        "postcode": "58222",
+        "city": "Linköping",
+        "coordinates": [
+          15.6201633880785,
+          58.4116310337894
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [
+        {
+          "weight": null,
+          "concept_id": "jCsR_WQX_CKD",
+          "label": "Java, programmeringsspråk",
+          "legacy_ams_taxonomy_id": "200028"
+        }
+      ],
+      "languages": [
+        {
+          "weight": 10,
+          "concept_id": "zSLA_vw2_FXN",
+          "label": "Svenska",
+          "legacy_ams_taxonomy_id": "502"
+        }
+      ],
+      "work_experiences": [
+        {
+          "weight": 10,
+          "concept_id": "fg7B_yov_smw",
+          "label": "Systemutvecklare/Programmerare",
+          "legacy_ams_taxonomy_id": "2419"
+        }
+      ],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [
+        {
+          "weight": null,
+          "concept_id": "Xakb_qAt_g9u",
+          "label": "Kotlin, programmeringsspråk",
+          "legacy_ams_taxonomy_id": "609327"
+        }
+      ],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-09-19T13:46:48",
+    "last_publication_date": "2026-10-11T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1789819144322
   },
   {
     "relevance": 1,
@@ -4546,18 +4724,18 @@
     },
     "application_contacts": [
       {
-        "name": "Evelina Magnusson",
-        "description": null,
-        "email": "Evelina.Magnusson@linkoping.se",
-        "telephone": "+4613205065",
-        "contact_type": "HR-konsult"
-      },
-      {
         "name": "Johan Eriksson",
         "description": null,
         "email": "johan.g.eriksson@linkoping.se",
         "telephone": "+4613206079",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Evelina Magnusson",
+        "description": null,
+        "email": "Evelina.Magnusson@linkoping.se",
+        "telephone": "+4613205065",
+        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-09-18T09:52:30",
@@ -4705,18 +4883,18 @@
     },
     "application_contacts": [
       {
-        "name": "Evelina Magnusson",
-        "description": null,
-        "email": "Evelina.Magnusson@linkoping.se",
-        "telephone": "+4613205065",
-        "contact_type": "HR-konsult"
-      },
-      {
         "name": "Johan Eriksson",
         "description": null,
         "email": "johan.g.eriksson@linkoping.se",
         "telephone": "+4613206079",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Evelina Magnusson",
+        "description": null,
+        "email": "Evelina.Magnusson@linkoping.se",
+        "telephone": "+4613205065",
+        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-09-18T09:49:17",
@@ -4738,8 +4916,8 @@
     "application_deadline": "2026-10-11T23:59:59",
     "number_of_vacancies": 1,
     "description": {
-      "text": "Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.\nMed några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.\nOm de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.\nSom konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.\nVem är du?\nPå Nexer i Linköping fortsätter vi att stärka vårt framgångsrika team – nu söker vi erfarna IT-projektledare med teknisk förståelse och god förmåga att skapa struktur, samarbete och resultat i komplexa uppdrag.\nVi söker dig som har minst fem års erfarenhet av teknisk projektledning i IT-miljö och som vill arbeta nära kundens verksamhet med att:\n\nLeda IT-projekt från idé till implementering\n\n\nUtveckla processer, system och arbetssätt\n\n\nDriva projekt inom digitalisering, systembyten, molnresor eller integrationer\n\n\nStötta kunden i förändringsarbete och förbättrade arbetssätt\n\n\nSom senior projektledare tar du en central roll i våra kunders digitala transformation. Du leder strategiskt viktiga projekt inom IT och informationshantering – från förstudie till implementering – och agerar länk mellan kund, tekniska specialister, försäljning och leveransorganisation.\nDu har erfarenhet av att självständigt driva IT-projekt, exempelvis inom processkartläggning, systeminförande eller verksamhetsutveckling. Vi ser gärna att du arbetat enligt etablerade projektmetoder som PPS, Prince2, Scrum eller liknande.\nHar du även erfarenhet från offentlig sektor är det ett stort plus.\nRollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i såväl tal som skrift. Det är en förutsättning för att lyckas i våra kunddialoger och i teamet.\nSom person är du strukturerad och lösningsorienterad. Du trivs i en central roll i projekt och har lätt för att skapa förtroende. Du kommunicerar tydligt med olika målgrupper och håller ihop både detaljer och helhet. Du är van att arbeta självständigt, men gillar också att samarbeta med andra för att driva saker framåt.\nTjänsten är placerad i Linköping.\nVilka är vi på Nexer i Linköping?\nNexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.\nVåra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.\nOm du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.\nAnsökan\nDu är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.\nVi tar emot ansökningar löpande så vänta inte med att söka!\nLäs mer om Nexer här\nwww.nexergroup.com\n\n\n#LI-PS1",
-      "text_formatted": "<p>Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.</p><p>Med några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.</p><p>Om de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.</p><p>Som konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.</p><p><strong>Vem är du?</strong></p><p>På Nexer i Linköping fortsätter vi att stärka vårt framgångsrika team – nu söker vi erfarna IT-projektledare med teknisk förståelse och god förmåga att skapa struktur, samarbete och resultat i komplexa uppdrag.</p><p>Vi söker dig som har minst fem års erfarenhet av teknisk projektledning i IT-miljö och som vill arbeta nära kundens verksamhet med att:</p><ul><li><p>Leda IT-projekt från idé till implementering</p></li><li><p>Utveckla processer, system och arbetssätt</p></li><li><p>Driva projekt inom digitalisering, systembyten, molnresor eller integrationer</p></li><li><p>Stötta kunden i förändringsarbete och förbättrade arbetssätt</p></li></ul><p>Som senior projektledare tar du en central roll i våra kunders digitala transformation. Du leder strategiskt viktiga projekt inom IT och informationshantering – från förstudie till implementering – och agerar länk mellan kund, tekniska specialister, försäljning och leveransorganisation.</p><p>Du har erfarenhet av att självständigt driva IT-projekt, exempelvis inom processkartläggning, systeminförande eller verksamhetsutveckling. Vi ser gärna att du arbetat enligt etablerade projektmetoder som PPS, Prince2, Scrum eller liknande.</p><p>Har du även erfarenhet från offentlig sektor är det ett stort plus.</p><p>Rollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i såväl tal som skrift. Det är en förutsättning för att lyckas i våra kunddialoger och i teamet.</p><p>Som person är du strukturerad och lösningsorienterad. Du trivs i en central roll i projekt och har lätt för att skapa förtroende. Du kommunicerar tydligt med olika målgrupper och håller ihop både detaljer och helhet. Du är van att arbeta självständigt, men gillar också att samarbeta med andra för att driva saker framåt.</p><p>Tjänsten är placerad i Linköping.</p><p><strong>Vilka är vi på Nexer i Linköping?</strong></p><p>Nexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.</p><p>Våra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.</p><p>Om du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.</p><p><strong>Ansökan</strong></p><p>Du är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.</p><p>Vi tar emot ansökningar löpande så vänta inte med att söka!</p><p><strong>Läs mer om Nexer här</strong></p><p>www.nexergroup.com</p><p></p><p></p><p><em>#LI-PS1</em></p>",
+      "text": "Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.\nMed några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.\nOm de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.\nSom konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.\nVem är du?\nPå Nexer i Linköping fortsätter vi att stärka vårt team – nu söker vi erfarna IT-projektledare med teknisk förståelse och god förmåga att skapa struktur, samarbete och resultat i komplexa uppdrag.\nVi söker dig som har minst fem års erfarenhet av teknisk projektledning i IT-miljö och som vill arbeta nära kundens verksamhet och IT-organisation med att:\n\nLeda IT-projekt från förstudie och planering till genomförande och implementering\n\n\nDriva projekt inom exempelvis systeminföranden, systembyten, integrationer och digitalisering\n\n\nKoordinera olika kompetenser och intressenter inom verksamhet och IT\n\n\nSäkerställa framdrift, kvalitet, riskhantering och leverans mot uppsatta mål\n\n\nStötta kunden genom de förändringar som nya system, digitala lösningar och arbetssätt innebär\n\n\nSom senior projektledare får du en central roll i våra kunders IT-projekt. Du leder komplexa initiativ och fungerar som länken mellan verksamhet, tekniska specialister, leverantörer och andra intressenter. Du behöver inte vara den som utvecklar lösningen själv, men du har tillräcklig teknisk förståelse för att kunna föra kvalificerade dialoger, förstå tekniska beroenden och omsätta verksamhetens behov till genomförbara projekt.\nDu har erfarenhet av att självständigt driva komplexa IT-projekt där verksamhetens behov möter tekniska lösningar. Du är van att ta ansvar för helheten, hantera beroenden och hålla ihop olika kompetenser och intressenter genom projektets olika faser. Vi ser gärna att du har arbetat med etablerade projektmodeller som PPS, PRINCE2 eller motsvarande och har erfarenhet av agila arbetssätt.\nHar du även erfarenhet från offentlig sektor är det ett stort plus.\nRollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i såväl tal som skrift. Det är en förutsättning för att lyckas i våra kunddialoger och i teamet.\nSom person är du strukturerad och lösningsorienterad. Du trivs i en central roll i projekt och har lätt för att skapa förtroende. Du kommunicerar tydligt med olika målgrupper och håller ihop både detaljer och helhet. Du är van att arbeta självständigt, men gillar också att samarbeta med andra för att driva saker framåt.\nTjänsten är placerad i Linköping.\nVilka är vi på Nexer i Linköping?\nNexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.\nVåra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.\nOm du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.\nAnsökan\nDu är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.\nVi tar emot ansökningar löpande så vänta inte med att söka!\nLäs mer om Nexer här\nwww.nexergroup.com\n\n\n\n\n#LI-PS1",
+      "text_formatted": "<p>Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.</p><p>Med några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.</p><p>Om de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.</p><p>Som konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.</p><p><strong>Vem är du?</strong></p><p>På Nexer i Linköping fortsätter vi att stärka vårt team – nu söker vi erfarna IT-projektledare med teknisk förståelse och god förmåga att skapa struktur, samarbete och resultat i komplexa uppdrag.</p><p>Vi söker dig som har minst fem års erfarenhet av teknisk projektledning i IT-miljö och som vill arbeta nära kundens verksamhet och IT-organisation med att:</p><ul><li><p>Leda IT-projekt från förstudie och planering till genomförande och implementering</p></li><li><p>Driva projekt inom exempelvis systeminföranden, systembyten, integrationer och digitalisering</p></li><li><p>Koordinera olika kompetenser och intressenter inom verksamhet och IT</p></li><li><p>Säkerställa framdrift, kvalitet, riskhantering och leverans mot uppsatta mål</p></li><li><p>Stötta kunden genom de förändringar som nya system, digitala lösningar och arbetssätt innebär</p></li></ul><p>Som senior projektledare får du en central roll i våra kunders IT-projekt. Du leder komplexa initiativ och fungerar som länken mellan verksamhet, tekniska specialister, leverantörer och andra intressenter. Du behöver inte vara den som utvecklar lösningen själv, men du har tillräcklig teknisk förståelse för att kunna föra kvalificerade dialoger, förstå tekniska beroenden och omsätta verksamhetens behov till genomförbara projekt.</p><p>Du har erfarenhet av att självständigt driva komplexa IT-projekt där verksamhetens behov möter tekniska lösningar. Du är van att ta ansvar för helheten, hantera beroenden och hålla ihop olika kompetenser och intressenter genom projektets olika faser. Vi ser gärna att du har arbetat med etablerade projektmodeller som PPS, PRINCE2 eller motsvarande och har erfarenhet av agila arbetssätt.</p><p>Har du även erfarenhet från offentlig sektor är det ett stort plus.</p><p>Rollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i såväl tal som skrift. Det är en förutsättning för att lyckas i våra kunddialoger och i teamet.</p><p>Som person är du strukturerad och lösningsorienterad. Du trivs i en central roll i projekt och har lätt för att skapa förtroende. Du kommunicerar tydligt med olika målgrupper och håller ihop både detaljer och helhet. Du är van att arbeta självständigt, men gillar också att samarbeta med andra för att driva saker framåt.</p><p>Tjänsten är placerad i Linköping.</p><p><strong>Vilka är vi på Nexer i Linköping?</strong></p><p>Nexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.</p><p>Våra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.</p><p>Om du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.</p><p><strong>Ansökan</strong></p><p>Du är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.</p><p>Vi tar emot ansökningar löpande så vänta inte med att söka!</p><p><strong>Läs mer om Nexer här</strong></p><p>www.nexergroup.com</p><p></p><p></p><p></p><p></p><p><em>#LI-PS1</em></p>",
       "company_information": null,
       "needs": null,
       "requirements": null,
@@ -4895,7 +5073,7 @@
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789743960033
+    "timestamp": 1789817065462
   },
   {
     "relevance": 1,
@@ -6374,18 +6552,18 @@
     },
     "application_contacts": [
       {
-        "name": "Edis Mazalovic",
-        "description": null,
-        "email": "edis.mazalovic@brpsystems.se",
-        "telephone": null,
-        "contact_type": "Team Leader 1st Line"
-      },
-      {
         "name": "Alice Karlsson",
         "description": null,
         "email": "alice.karlsson@brpsystems.se",
         "telephone": null,
         "contact_type": "Junior HR Business Partner"
+      },
+      {
+        "name": "Edis Mazalovic",
+        "description": null,
+        "email": "edis.mazalovic@brpsystems.se",
+        "telephone": null,
+        "contact_type": "Team Leader 1st Line"
       }
     ],
     "publication_date": "2026-09-17T11:28:15",
@@ -12437,13 +12615,6 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
@@ -12461,6 +12632,13 @@
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -13958,17 +14136,17 @@
     },
     "application_contacts": [
       {
-        "name": "Roger Newman",
-        "description": null,
-        "email": "roger.newman@migrationsverket.se",
-        "telephone": "010-4852506",
-        "contact_type": null
-      },
-      {
         "name": "Charlott Olsson",
         "description": null,
         "email": "charlott.margareta.olsson@migrationsverket.se",
         "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
+        "name": "Roger Newman",
+        "description": null,
+        "email": "roger.newman@migrationsverket.se",
+        "telephone": "010-4852506",
         "contact_type": null
       }
     ],
@@ -18917,11 +19095,11 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Stefan Järnvall",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
+        "email": "stefan.jarnvall@kriminalvarden.se",
+        "telephone": "0114963591",
+        "contact_type": "Gruppchef"
       },
       {
         "name": "Olof Carlstein (SEKO)",
@@ -18931,11 +19109,11 @@
         "contact_type": null
       },
       {
-        "name": "Stefan Järnvall",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "stefan.jarnvall@kriminalvarden.se",
-        "telephone": "0114963591",
-        "contact_type": "Gruppchef"
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Angelica Oxenby (SACO-S)",
@@ -19097,23 +19275,16 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -19123,6 +19294,13 @@
         "email": "stefan.jarnvall@kriminalvarden.se",
         "telephone": "0114963591",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-09-07T16:57:40",
@@ -19277,9 +19455,9 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -19291,18 +19469,18 @@
         "contact_type": null
       },
       {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Stefan Järnvall",
         "description": null,
         "email": "stefan.jarnvall@kriminalvarden.se",
         "telephone": "0114963591",
         "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
       }
     ],
     "publication_date": "2026-09-07T16:53:11",
@@ -21175,150 +21353,6 @@
   },
   {
     "relevance": 1,
-    "id": "31441007",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31441007",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566554597/logotyper/logo.png",
-    "headline": "Business Solution Manager",
-    "application_deadline": "2026-09-19T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du vara med och driva nästa steg i Scan Sveriges digitala utveckling? Nu söker vi en Business Solution Manager som vill leda och vara en nyckelspelare i förflyttningen från traditionell IT-förvaltning till en mer innovativ, verksamhetsnära och lösningsdriven IT-funktion.\n\nI rollen får du möjlighet att kombinera ledarskap, förändringsarbete och operativt ansvar i en verksamhet där digitalisering, innovation och affärsnytta står högt på agendan. Du blir en viktig del av Scan Sveriges IT-ledning och får en central roll i att säkerställa att våra IT-lösningar skapar värde för verksamheten idag och imorgon.\n\nDet här kommer du att göra \n\nScan Sverige befinner sig i en spännande förändringsresa där IT tar en allt större roll i verksamhetsutvecklingen. Som Business Solution Manager får du en central position i denna förflyttning. I rollen ansvarar du för att utveckla och leda Scan Sveriges arbete inom IT-förvaltning och innovation. Du säkerställer att våra affärskritiska system och lösningar möter verksamhetens behov samtidigt som du driver innovation, förbättringsinitiativ och utveckling framåt.\n\nDu leder ett team på fyra bestående av Solution Architects och ERP specialists och hjälper teamet att skapa struktur, prioritera rätt initiativ och omsätta strategier till konkreta resultat. Rollen innebär ett nära samarbete med verksamheten där du fungerar som en rådgivande och drivande partner i frågor som rör digitalisering, verksamhetsutveckling och framtida lösningsbehov.\n\nParallellt med ditt ledarskapsansvar kommer du själv att vara operativ i delar av verksamheten och driva eller leda större initiativ, projekt och förvaltningsområden. Du ansvarar för budget, verksamhetsplanering och uppföljning inom området samt är en aktiv medlem i Scan Sveriges IT-ledningsgrupp. Tillsammans med teamet säkerställer du att förvaltning, innovation och utveckling sker på ett strukturerat sätt utan att tumma på driftsäkerhet, kvalitet eller informationssäkerhet.\n\nPlaceringsort är Linköping och du rapporterar till CIO.\n\nDet här behöver du för att lyckas och trivas\n\nDu har:\n\nRelevant akademisk utbildning eller motsvarande erfarenhet.\nErfarenhet av ledarskap med personalansvar och att utveckla människor och team.\nArbetat i gränslandet mellan verksamhet och IT, där du drivit utveckling, förändring eller digitalisering.\nErfarenhet av att omsätta strategier och verksamhetsbehov till prioriterade initiativ och konkreta resultat.\nVana av att leda projekt, program eller större förändringsinitiativ.\nErfarenhet av budgetansvar och uppföljning av verksamhetens mål och resultat.\nGod förståelse för affärskritiska system och processer.\nEn teknisk grundförståelse som gör att du kan agera som en trovärdig partner till både verksamhet och specialister.\n\n\nDu är:\n\nEn trygg och engagerande ledare som skapar riktning, struktur och förutsättningar för andra att lyckas.\nRelationsskapande och har lätt för att bygga förtroende hos både verksamhet och tekniska specialister.\nDriven av förbättringar och utveckling, samtidigt som du är pragmatisk och leveransfokuserad.\nVan att prioritera i en miljö med många initiativ och intressenter.\nNyfiken på ny teknik och innovation, men med fokus på affärsnytta och långsiktigt värde.\n\n\nVad vi erbjuder dig \n\nSom en del av Scan Sverige, som numera är en del av Lantmännenkoncernen, får du möjligheten att arbeta i en organisation som kombinerar tradition och innovation. Vi erbjuder en dynamisk arbetsmiljö där du kan göra verklig skillnad och bidra till utvecklingen av hållbar och säker livsmedelsproduktion – från gård till gaffel.\n\nUtöver detta får du möjlighet att vara en del av ett av verksamhetens största IT-projekt och arbeta med modernisering av affärssystem i en komplex och spännande verksamhet. Här får du värdefulla erfarenheter inom digital transformation, verksamhetsutveckling och framtidens IT-lösningar.\n\nLåter det intressant? \n\nVi hoppas det! Du ansöker till tjänsten online, gärna så snart som möjligt eftersom urval sker löpande, men senast den 19 september. I din ansökan har du möjlighet att bifoga ditt CV eller länka till din LinkedIn-profil. För att skapa en rättvis och inkluderande rekryteringsprocess ber vi dig även att besvara urvalsfrågor som är relevanta för tjänsten. Under processen använder vi psykometriska tester och kompetensbaserade intervjuer för att säkerställa en objektiv och träffsäker bedömning.\n\nFör slutkandidat kommer en bakgrundskontroll att genomföras. Har du frågor om tjänsten eller processen är du varmt välkommen att kontakta Frida Falk, Talent Acquisition Specialist, på Frida.falk@lantmannen.com\n\nVi ser fram emot din ansökan!\n\nScan Sverige är landets ledande kött- och charkuteriföretag och ägs av Lantmännen. Tillsammans med våra 1 800 medarbetare och 6 000 samarbetsgårdar utgör vi en samlad kraft för framtidens köttproduktion. Genom vårt hantverk och omsorg om hela värdekedjan levererar vi dagligen lokalproducerad och välsmakande mat till hela landet – samtidigt som vi skapar möjligheter för ett livskraftigt och självförsörjande Sverige. Med våra välkända varumärken Scan, Pärsons och Bullens och den gemensamma kraften hos våra medarbetare och leverantörer leder vi omställningen till en ökad och mer hållbar svensk köttproduktion.\n\nMer om Scan Sverige",
-      "text_formatted": "<p>Vill du vara med och driva nästa steg i Scan Sveriges digitala utveckling? Nu söker vi en Business Solution Manager som vill leda och vara en nyckelspelare i förflyttningen från traditionell IT-förvaltning till en mer innovativ, verksamhetsnära och lösningsdriven IT-funktion.</p>\n<p>I rollen får du möjlighet att kombinera ledarskap, förändringsarbete och operativt ansvar i en verksamhet där digitalisering, innovation och affärsnytta står högt på agendan. Du blir en viktig del av Scan Sveriges IT-ledning och får en central roll i att säkerställa att våra IT-lösningar skapar värde för verksamheten idag och imorgon.</p>\n<p><strong>Det här kommer du att göra </strong></p>\n<p>Scan Sverige befinner sig i en spännande förändringsresa där IT tar en allt större roll i verksamhetsutvecklingen. Som Business Solution Manager får du en central position i denna förflyttning. I rollen ansvarar du för att utveckla och leda Scan Sveriges arbete inom IT-förvaltning och innovation. Du säkerställer att våra affärskritiska system och lösningar möter verksamhetens behov samtidigt som du driver innovation, förbättringsinitiativ och utveckling framåt.</p>\n<p>Du leder ett team på fyra bestående av Solution Architects och ERP specialists och hjälper teamet att skapa struktur, prioritera rätt initiativ och omsätta strategier till konkreta resultat. Rollen innebär ett nära samarbete med verksamheten där du fungerar som en rådgivande och drivande partner i frågor som rör digitalisering, verksamhetsutveckling och framtida lösningsbehov.</p>\n<p>Parallellt med ditt ledarskapsansvar kommer du själv att vara operativ i delar av verksamheten och driva eller leda större initiativ, projekt och förvaltningsområden. Du ansvarar för budget, verksamhetsplanering och uppföljning inom området samt är en aktiv medlem i Scan Sveriges IT-ledningsgrupp. Tillsammans med teamet säkerställer du att förvaltning, innovation och utveckling sker på ett strukturerat sätt utan att tumma på driftsäkerhet, kvalitet eller informationssäkerhet.</p>\n<p>Placeringsort är Linköping och du rapporterar till CIO.</p>\n\n<p><strong>Det här behöver du för att lyckas och trivas</strong></p>\n<p><strong>Du har:</strong></p>\n<ul><li>Relevant akademisk utbildning eller motsvarande erfarenhet.</li><li>Erfarenhet av ledarskap med personalansvar och att utveckla människor och team.</li><li>Arbetat i gränslandet mellan verksamhet och IT, där du drivit utveckling, förändring eller digitalisering.</li><li>Erfarenhet av att omsätta strategier och verksamhetsbehov till prioriterade initiativ och konkreta resultat.</li><li>Vana av att leda projekt, program eller större förändringsinitiativ.</li><li>Erfarenhet av budgetansvar och uppföljning av verksamhetens mål och resultat.</li><li>God förståelse för affärskritiska system och processer.</li><li>En teknisk grundförståelse som gör att du kan agera som en trovärdig partner till både verksamhet och specialister.</li></ul>\n<p><strong>Du är:</strong></p>\n<ul><li>En trygg och engagerande ledare som skapar riktning, struktur och förutsättningar för andra att lyckas.</li><li>Relationsskapande och har lätt för att bygga förtroende hos både verksamhet och tekniska specialister.</li><li>Driven av förbättringar och utveckling, samtidigt som du är pragmatisk och leveransfokuserad.</li><li>Van att prioritera i en miljö med många initiativ och intressenter.</li><li>Nyfiken på ny teknik och innovation, men med fokus på affärsnytta och långsiktigt värde.</li></ul>\n<p><strong>Vad vi erbjuder dig </strong></p>\n<p>Som en del av Scan Sverige, som numera är en del av Lantmännenkoncernen, får du möjligheten att arbeta i en organisation som kombinerar tradition och innovation. Vi erbjuder en dynamisk arbetsmiljö där du kan göra verklig skillnad och bidra till utvecklingen av hållbar och säker livsmedelsproduktion – från gård till gaffel.</p>\n<p>Utöver detta får du möjlighet att vara en del av ett av verksamhetens största IT-projekt och arbeta med modernisering av affärssystem i en komplex och spännande verksamhet. Här får du värdefulla erfarenheter inom digital transformation, verksamhetsutveckling och framtidens IT-lösningar.</p>\n<p><strong>Låter det intressant? </strong></p>\n<p>Vi hoppas det! Du ansöker till tjänsten online, gärna så snart som möjligt eftersom urval sker löpande, men senast den <strong>19 september</strong>. I din ansökan har du möjlighet att bifoga ditt CV eller länka till din LinkedIn-profil. För att skapa en rättvis och inkluderande rekryteringsprocess ber vi dig även att besvara urvalsfrågor som är relevanta för tjänsten. Under processen använder vi psykometriska tester och kompetensbaserade intervjuer för att säkerställa en objektiv och träffsäker bedömning.</p>\n<p>För slutkandidat kommer en bakgrundskontroll att genomföras. Har du frågor om tjänsten eller processen är du varmt välkommen att kontakta Frida Falk, Talent Acquisition Specialist, på Frida.falk@lantmannen.com</p>\n<p>Vi ser fram emot din ansökan!</p>\n\n<p>Scan Sverige är landets ledande kött- och charkuteriföretag och ägs av Lantmännen. Tillsammans med våra 1 800 medarbetare och 6 000 samarbetsgårdar utgör vi en samlad kraft för framtidens köttproduktion. Genom vårt hantverk och omsorg om hela värdekedjan levererar vi dagligen lokalproducerad och välsmakande mat till hela landet – samtidigt som vi skapar möjligheter för ett livskraftigt och självförsörjande Sverige. Med våra välkända varumärken Scan, Pärsons och Bullens och den gemensamma kraften hos våra medarbetare och leverantörer leder vi omställningen till en ökad och mer hållbar svensk köttproduktion.</p>\n<p>Mer om Scan Sverige</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5566554597",
-      "name": "Scan Sverige AB",
-      "workplace": "Scan Sverige"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://easyapply.jobs/r/kJrhI3k27aEjKk2qxJLF",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "z5AM_ayf_WcL",
-      "label": "Projektledare, IT",
-      "legacy_ams_taxonomy_id": "5388"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "99999",
-      "city": "Linköping",
-      "coordinates": [
-        15.621373,
-        58.41081
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "99999",
-        "city": "Linköping",
-        "coordinates": [
-          15.621373,
-          58.41081
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-04T15:47:03",
-    "last_publication_date": "2026-09-19T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1788529623723
-  },
-  {
-    "relevance": 1,
     "id": "31440971",
     "external_id": null,
     "original_id": null,
@@ -21455,18 +21489,18 @@
     },
     "application_contacts": [
       {
-        "name": "Mikael Asplund",
-        "description": null,
-        "email": "mikael.asplund@liu.se",
-        "telephone": null,
-        "contact_type": "Biträdande professor"
-      },
-      {
         "name": "Sofie Bondesson",
         "description": null,
         "email": "sofie.bondesson@liu.se",
         "telephone": null,
         "contact_type": "HR-administratör"
+      },
+      {
+        "name": "Mikael Asplund",
+        "description": null,
+        "email": "mikael.asplund@liu.se",
+        "telephone": null,
+        "contact_type": "Biträdande professor"
       }
     ],
     "publication_date": "2026-09-04T15:42:09",
@@ -21621,18 +21655,18 @@
         "contact_type": "Enhetschef"
       },
       {
-        "name": "Marie Stålhandske",
-        "description": null,
-        "email": "marie.stalhandske@liiu.se",
-        "telephone": "+4613282829",
-        "contact_type": "Systemingejör"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Marie Stålhandske",
+        "description": null,
+        "email": "marie.stalhandske@liiu.se",
+        "telephone": "+4613282829",
+        "contact_type": "Systemingejör"
       }
     ],
     "publication_date": "2026-09-04T14:30:28",
@@ -24604,30 +24638,9 @@
     },
     "application_contacts": [
       {
-        "name": "Frosche Renmark",
-        "description": null,
-        "email": "frosche.Renmark@kriminalvarden.se",
-        "telephone": "0114733941",
-        "contact_type": "Gruppchef"
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -24637,6 +24650,27 @@
         "email": "christofer.palm@kriminalvarden.se",
         "telephone": "0114741638",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Frosche Renmark",
+        "description": null,
+        "email": "frosche.Renmark@kriminalvarden.se",
+        "telephone": "0114733941",
+        "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-09-02T10:59:39",
@@ -26441,11 +26475,11 @@
         "contact_type": "Datadirektör"
       },
       {
-        "name": "Anna Jänis",
+        "name": "Christina Inglisedotter",
         "description": null,
-        "email": "anna.janis@liu.se",
-        "telephone": "+4613285710",
-        "contact_type": "Avdelningschef"
+        "email": "christina.inglisedotter@liu.se",
+        "telephone": "+4613281013",
+        "contact_type": "HR-partner"
       },
       {
         "name": "Rosssen Apostolov",
@@ -26455,11 +26489,11 @@
         "contact_type": "Föreståndare och enhetschef för AI-fabriken"
       },
       {
-        "name": "Christina Inglisedotter",
+        "name": "Anna Jänis",
         "description": null,
-        "email": "christina.inglisedotter@liu.se",
-        "telephone": "+4613281013",
-        "contact_type": "HR-partner"
+        "email": "anna.janis@liu.se",
+        "telephone": "+4613285710",
+        "contact_type": "Avdelningschef"
       }
     ],
     "publication_date": "2026-08-31T18:11:54",
@@ -26621,18 +26655,18 @@
         "contact_type": "ST"
       },
       {
-        "name": "Anders Magnestrand",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "HR specialist"
-      },
-      {
         "name": "Eric Söderman",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "Saco-S"
+      },
+      {
+        "name": "Anders Magnestrand",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "HR specialist"
       }
     ],
     "publication_date": "2026-08-31T15:31:48",
@@ -27076,13 +27110,6 @@
     },
     "application_contacts": [
       {
-        "name": "Anders Magnestrand",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "HR specialist"
-      },
-      {
         "name": "Eric Söderman",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -27095,6 +27122,13 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Anders Magnestrand",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "HR specialist"
       },
       {
         "name": "Christina Sverker",
@@ -27263,18 +27297,18 @@
         "contact_type": "HR specialist"
       },
       {
-        "name": "Eric Söderman",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Saco-S"
-      },
-      {
         "name": "Christina Sverker",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "ST"
+      },
+      {
+        "name": "Eric Söderman",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Saco-S"
       }
     ],
     "publication_date": "2026-08-31T14:43:59",
@@ -33673,150 +33707,6 @@
   },
   {
     "relevance": 1,
-    "id": "31378910",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31378910",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566396387/logotyper/logo.png",
-    "headline": "IAM-specialister- myndighet  Tekniker, Utvecklare och  Lösningsarkitekter!",
-    "application_deadline": "2026-09-19T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du arbeta i en roll där säkerhet, teknik och samhällsnytta möts varje dag? Lockas du av att lösa komplexa utmaningar inom identitet och behörighet – samt vara med och bygga långsiktigt hållbara och säkra IAM-lösningar? Då kan detta vara nästa utmaning för dig!\nOm tjänsten\nVi på Perido söker nu IAM-specialister till vår kund, en samhällsviktig och statlig myndighet belägen i Norrköping. Vi söker kandidater på flera olika senioritets- och kompetensnivåer för tre huvudsakliga inriktningar: IAM-tekniker, IAM-utvecklare och Lösningsarkitekt inom IAM.\nI rollen blir du en del av ett engagerat team där du samarbetar nära andra tekniker, utvecklare, arkitekter och säkerhetsspecialister. Tillsammans arbetar ni för att skapa tillförlitliga, tillgängliga och framtidssäkra identitets- och behörighetslösningar.\nDina arbetsuppgifter utifrån inriktning\n1. IAM-tekniker\nDu arbetar operativt med utveckling, konfiguration, förvaltning och drift av myndighetens IAM-plattformar och identitetslösningar.\nDu säkerställer att rätt personer har rätt behörigheter vid rätt tidpunkt, med höga krav på både säkerhet och tillgänglighet.\nDu sätter upp och underhåller federationer (internt samt mot externa partners) samt utför felsökning, logganalys, övervakning och incidenthantering i produktionsmiljö.\n\n2. IAM-utvecklare / Systemutvecklare\nDu utvecklar plattformar och tjänster för säker och smidig digital identifiering och autentiseringsflöden som stöttar övriga utvecklingsteam.\nDu deltar i design, utveckling och konfiguration i en modern cloud native-miljö baserad på Kubernetes, Docker och Java.\nDu bidrar till att utveckla systemen mot ett löst kopplat och händelsedrivet landskap med hjälp av automation och DevOps-principer.\n\n3. Lösningsarkitekt inom IAM\nDu analyserar nuläget och identifierar utvecklingsbehov inom IAM, IGA, PAM och AM i nära samarbete med verksamhet, produktägare och utvecklingsteam.\nDu definierar målarkitektur, principer och strategiska vägval samt tar fram lösningsförslag baserade på öppna standarder.\nDu säkerställer att lösningar följer krav på informationssäkerhet och förankrar arkitekturella beslut med både IT och verksamhet.\n\nKvalifikationer\nGemensamma krav för samtliga roller:\nSvenskt medborgarskap (krav vid placering i säkerhetsklass).\nGod kommunikativ förmåga i tal och skrift.\nErfarenhet av och kunskap om autentiserings- och auktoriseringsprotokoll såsom SAML2, OAuth 2.0/2.1 och OIDC.\n\nInriktningsspecifika kvalifikationer:\nFör IAM-tekniker: Produktionserfarenhet av konfiguration och drift av IAM-lösningar, erfarenhet av federationslösningar samt felsökning, logganalys och incidenthantering.\nFör IAM-utvecklare: Flerårig erfarenhet av systemutveckling inom IAM samt eftergymnasial utbildning inom datavetenskap, programvaruteknik eller motsvarande.\nFör Lösningsarkitekt: Flerårig erfarenhet av arbete som lösningsarkitekt inom IAM, IGA, PAM och/eller AM i en större organisation samt erfarenhet av IdP-plattformar.\n\nMeriterande kompetenser (beroende på inriktning):\nErfarenhet av arbete inom myndighet eller annan säkerhetsklassad verksamhet.\nUtvecklingserfarenhet inom Java, Kubernetes, Docker och DevOps-principer.\nErfarenhet av Microsoft ADFS och/eller Keycloak.\nCertifieringar inom IT-säkerhet eller IT-arkitektur.\nGod kommunikativ förmåga i tal och skrift på engelska.\nErfarenhet av dokumentation och processutveckling.\n\nDina egenskaper Vi söker dig som är självgående, trygg i din kompetens och har ett strukturerat samt lösningsorienterat förhållningssätt. Du är analytisk, har god förmåga att sätta dig in i komplexa frågeställningar och kommunicerar pedagogiskt med olika typer av mottagare. Du trivs i en miljö där samarbete, kvalitet och långsiktig hållbarhet står i centrum.\nOmfattning och tillträde\nOmfattning: Heltid.\nPlacering: Norrköping.\nAnställningsform: Konsultuppdrag i 6 månader via Perido, med goda möjligheter till förlängning eller överrekrytering till kunden.\nTillträde: Snarast möjligt.\n\nOm Perido & Ansökan Vår vision är att alla ska trivas och vara engagerade på jobbet. Hos oss finns en stor variation av uppdrag, där du kan bli anställd direkt hos ett företag eller arbeta som konsult via Perido. Vi är ett av Sveriges största konsultföretag för tjänstemän, vilket ger dig många möjligheter. Som konsult blir du en viktig del av vår organisation och bidrar med din kompetens ute hos våra kunder. Läs mer om oss på Perido: https://perido.se/om-oss/\nDe flesta frågor eller funderingar kan du hitta svar på under perido.se/vanliga-fragor/. Om du fortfarande inte hittat svaret du söker är du välkommen att kontakta oss på fraga@perido.se.\nAnge referensnummer 35949 i ämnesraden beroende på vilken inriktning som passar dig bäst. Vänligen notera att vi endast tar emot ansökningar på vår hemsida och att vi inte har möjlighet att svara på hur du ligger till i processen.\nLåter detta som en spännande tjänst? Vi ser fram emot att läsa din ansökan, varmt välkommen med den redan idag!",
-      "text_formatted": "<p><em>Vill du arbeta i en roll där säkerhet, teknik och samhällsnytta möts varje dag? Lockas du av att lösa komplexa utmaningar inom identitet och behörighet – samt vara med och bygga långsiktigt hållbara och säkra IAM-lösningar? Då kan detta vara nästa utmaning för dig!</em></p><p><strong>Om tjänsten</strong></p><p>Vi på Perido söker nu IAM-specialister till vår kund, en samhällsviktig och statlig myndighet belägen i Norrköping. Vi söker kandidater på flera olika senioritets- och kompetensnivåer för tre huvudsakliga inriktningar: IAM-tekniker, IAM-utvecklare och Lösningsarkitekt inom IAM.</p><p>I rollen blir du en del av ett engagerat team där du samarbetar nära andra tekniker, utvecklare, arkitekter och säkerhetsspecialister. Tillsammans arbetar ni för att skapa tillförlitliga, tillgängliga och framtidssäkra identitets- och behörighetslösningar.</p><p><strong>Dina arbetsuppgifter utifrån inriktning</strong></p><p><strong>1. IAM-tekniker</strong></p><ul><li>Du arbetar operativt med utveckling, konfiguration, förvaltning och drift av myndighetens IAM-plattformar och identitetslösningar.</li><li>Du säkerställer att rätt personer har rätt behörigheter vid rätt tidpunkt, med höga krav på både säkerhet och tillgänglighet.</li><li>Du sätter upp och underhåller federationer (internt samt mot externa partners) samt utför felsökning, logganalys, övervakning och incidenthantering i produktionsmiljö.</li></ul><p><strong>2. IAM-utvecklare / Systemutvecklare</strong></p><ul><li>Du utvecklar plattformar och tjänster för säker och smidig digital identifiering och autentiseringsflöden som stöttar övriga utvecklingsteam.</li><li>Du deltar i design, utveckling och konfiguration i en modern cloud native-miljö baserad på Kubernetes, Docker och Java.</li><li>Du bidrar till att utveckla systemen mot ett löst kopplat och händelsedrivet landskap med hjälp av automation och DevOps-principer.</li></ul><p><strong>3. Lösningsarkitekt inom IAM</strong></p><ul><li>Du analyserar nuläget och identifierar utvecklingsbehov inom IAM, IGA, PAM och AM i nära samarbete med verksamhet, produktägare och utvecklingsteam.</li><li>Du definierar målarkitektur, principer och strategiska vägval samt tar fram lösningsförslag baserade på öppna standarder.</li><li>Du säkerställer att lösningar följer krav på informationssäkerhet och förankrar arkitekturella beslut med både IT och verksamhet.</li></ul><p><strong>Kvalifikationer</strong></p><p><strong>Gemensamma krav för samtliga roller:</strong></p><ul><li>Svenskt medborgarskap (krav vid placering i säkerhetsklass).</li><li>God kommunikativ förmåga i tal och skrift.</li><li>Erfarenhet av och kunskap om autentiserings- och auktoriseringsprotokoll såsom SAML2, OAuth 2.0/2.1 och OIDC.</li></ul><p><strong>Inriktningsspecifika kvalifikationer:</strong></p><ul><li><strong>För IAM-tekniker:</strong> Produktionserfarenhet av konfiguration och drift av IAM-lösningar, erfarenhet av federationslösningar samt felsökning, logganalys och incidenthantering.</li><li><strong>För IAM-utvecklare:</strong> Flerårig erfarenhet av systemutveckling inom IAM samt eftergymnasial utbildning inom datavetenskap, programvaruteknik eller motsvarande.</li><li><strong>För Lösningsarkitekt:</strong> Flerårig erfarenhet av arbete som lösningsarkitekt inom IAM, IGA, PAM och/eller AM i en större organisation samt erfarenhet av IdP-plattformar.</li></ul><p><strong>Meriterande kompetenser (beroende på inriktning):</strong></p><ul><li>Erfarenhet av arbete inom myndighet eller annan säkerhetsklassad verksamhet.</li><li>Utvecklingserfarenhet inom Java, Kubernetes, Docker och DevOps-principer.</li><li>Erfarenhet av Microsoft ADFS och/eller Keycloak.</li><li>Certifieringar inom IT-säkerhet eller IT-arkitektur.</li><li>God kommunikativ förmåga i tal och skrift på engelska.</li><li>Erfarenhet av dokumentation och processutveckling.</li></ul><p><strong>Dina egenskaper</strong> Vi söker dig som är självgående, trygg i din kompetens och har ett strukturerat samt lösningsorienterat förhållningssätt. Du är analytisk, har god förmåga att sätta dig in i komplexa frågeställningar och kommunicerar pedagogiskt med olika typer av mottagare. Du trivs i en miljö där samarbete, kvalitet och långsiktig hållbarhet står i centrum.</p><p><strong>Omfattning och tillträde</strong></p><ul><li><strong>Omfattning:</strong> Heltid.</li><li><strong>Placering:</strong> Norrköping.</li><li><strong>Anställningsform:</strong> Konsultuppdrag i 6 månader via Perido, med goda möjligheter till förlängning eller överrekrytering till kunden.</li><li><strong>Tillträde:</strong> Snarast möjligt.</li></ul><p><strong>Om Perido &amp; Ansökan</strong> Vår vision är att alla ska trivas och vara engagerade på jobbet. Hos oss finns en stor variation av uppdrag, där du kan bli anställd direkt hos ett företag eller arbeta som konsult via Perido. Vi är ett av Sveriges största konsultföretag för tjänstemän, vilket ger dig många möjligheter. Som konsult blir du en viktig del av vår organisation och bidrar med din kompetens ute hos våra kunder. Läs mer om oss på Perido: https://perido.se/om-oss/</p><p>De flesta frågor eller funderingar kan du hitta svar på under perido.se/vanliga-fragor/. Om du fortfarande inte hittat svaret du söker är du välkommen att kontakta oss på fraga@perido.se.</p><p>Ange referensnummer <strong>35949</strong> i ämnesraden beroende på vilken inriktning som passar dig bäst. Vänligen notera att vi endast tar emot ansökningar på vår hemsida och att vi inte har möjlighet att svara på hur du ligger till i processen.</p><p>Låter detta som en spännande tjänst? Vi ser fram emot att läsa din ansökan, varmt välkommen med den redan idag!</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "sTu5_NBQ_udq",
-      "label": "Tidsbegränsad anställning",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "gJRb_akA_95y",
-      "label": "6 månader – upp till 12 månader",
-      "legacy_ams_taxonomy_id": "0"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://perido.se/",
-      "organization_number": "5566396387",
-      "name": "Perido AB",
-      "workplace": "Perido AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "35949",
-      "email": null,
-      "via_af": false,
-      "url": "https://perido.se/job/iam-specialister-sokes-till-samhallsviktig-myndighet-tekniker-utvecklare-och-losningsarkitekter/",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "9yMK_8ep_D1K",
-      "label": "IT-säkerhetstekniker",
-      "legacy_ams_taxonomy_id": null
-    },
-    "occupation_group": {
-      "concept_id": "BAeH_eg8_T2d",
-      "label": "IT-säkerhetsspecialister",
-      "legacy_ams_taxonomy_id": "2516"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": null,
-      "city": null,
-      "coordinates": [
-        null,
-        null
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": null,
-        "city": null,
-        "coordinates": [
-          null,
-          null
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-20T16:42:55",
-    "last_publication_date": "2026-09-19T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1787236975673
-  },
-  {
-    "relevance": 1,
     "id": "31378859",
     "external_id": null,
     "original_id": null,
@@ -34102,157 +33992,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1787236121620
-  },
-  {
-    "relevance": 1,
-    "id": "31376017",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31376017",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5590010277/logotyper/logo.png",
-    "headline": "Junior IT-tekniker  Linköping  Heltid",
-    "application_deadline": "2026-09-19T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Är du tekniskt intresserad och vill ha ett varierande och serviceinriktat jobb i centrala Linköping? Nu söker vi en junior IT-tekniker för ett spännande uppdrag hos en av Linköpings största arbetsgivare!\n\n\nOm rollen\nVår kund är Advania, ett ledande IT-företag som levererar tjänster till offentlig sektor. I den här rollen arbetar du ute hos deras kund – en av Linköpings kommunala verksamheter – och fungerar som en viktig länk mellan IT och användarna på plats. Du arbetar från kommunhuset i centrala Linköping och ser till att medarbetare får rätt utrustning i rätt tid.\nDet här är en perfekt roll för dig som vill ta dina första steg inom IT och bygga värdefull erfarenhet i en professionell miljö.\n\n\nArbetsuppgifter\nTa emot, hantera och dela ut IT-utrustning till användare inom kommunen\nSkicka ut och ta emot paket med IT-utrustning\nRegistrera och hålla ordning på utrustning och inventarier\nGe service och stöd till användare på plats\nSamarbeta med IT-teamet för att säkerställa smidig utrustningshantering\n\nVillkor\nAnställningsform: Bemanning via Simplex\nPlacering: Kommunhuset, centrala Linköping – arbete på plats, ingen hybrid\nArbetstider: Heltid, måndag–fredag, 08:00–17:00\nLön: 30 000 kr/mån\nStart: 1 september – du måste kunna börja direkt\n\nVi söker dig som\nHar ett tekniskt intresse och är snabblärd\nÄr serviceinriktad, noggrann och strukturerad\nKommunicerar obehindrat på svenska i tal och skrift (krav)\nÄr pålitlig, punktlig och tar ansvar för sitt arbete\nTrivs med ett varierat och fysiskt arbete\n\nKrav\nGodkänd bakgrundskontroll – rent belastningsregister\nSvenska i tal och skrift\n\nMeriterande\nTidigare erfarenhet inom IT, lager eller service\nErfarenhet av att hantera och registrera utrustning\n\nVi erbjuder\nEn lärorik roll med möjlighet att bygga erfarenhet inom IT och offentlig sektor\nEn central placering i hjärtat av Linköping\nLön på 30 000 kr/mån\nEtt stabilt och välkänt uppdrag med professionell arbetsmiljö\n\nOm Advania\nAdvania är ett ledande nordiskt IT-företag som levererar helhetslösningar inom IT-infrastruktur, molntjänster och support till både privat och offentlig sektor. De arbetar nära sina kunder för att skapa smarta och effektiva IT-miljöer – och nu söker de en junior tekniker som vill vara en del av det arbetet i Linköping.\n\n\nOm Simplex Bemanning\nSimplex Bemanning är ett rekryterings- och bemanningsföretag med fokus på att matcha rätt person med rätt uppdrag. Vi värdesätter långsiktighet, tydlig kommunikation och rätt matchning – för oss är det viktigt att du trivs, utvecklas och känner att du gör ett bra jobb varje dag.\nSkicka in din ansökan redan idag – urval sker löpande! 💻",
-      "text_formatted": "<p>Är du tekniskt intresserad och vill ha ett varierande och serviceinriktat jobb i centrala Linköping? Nu söker vi en junior IT-tekniker för ett spännande uppdrag hos en av Linköpings största arbetsgivare!</p><p><br></p><p><strong>Om rollen</strong></p><p>Vår kund är Advania, ett ledande IT-företag som levererar tjänster till offentlig sektor. I den här rollen arbetar du ute hos deras kund – en av Linköpings kommunala verksamheter – och fungerar som en viktig länk mellan IT och användarna på plats. Du arbetar från kommunhuset i centrala Linköping och ser till att medarbetare får rätt utrustning i rätt tid.</p><p>Det här är en perfekt roll för dig som vill ta dina första steg inom IT och bygga värdefull erfarenhet i en professionell miljö.</p><p><br></p><p><strong>Arbetsuppgifter</strong></p><ul><li>Ta emot, hantera och dela ut IT-utrustning till användare inom kommunen</li><li>Skicka ut och ta emot paket med IT-utrustning</li><li>Registrera och hålla ordning på utrustning och inventarier</li><li>Ge service och stöd till användare på plats</li><li>Samarbeta med IT-teamet för att säkerställa smidig utrustningshantering</li></ul><p><strong>Villkor</strong></p><ul><li>Anställningsform: Bemanning via Simplex</li><li>Placering: Kommunhuset, centrala Linköping – arbete på plats, ingen hybrid</li><li>Arbetstider: Heltid, måndag–fredag, 08:00–17:00</li><li>Lön: 30 000 kr/mån</li><li>Start: 1 september – du måste kunna börja direkt</li></ul><p><strong>Vi söker dig som</strong></p><ul><li>Har ett tekniskt intresse och är snabblärd</li><li>Är serviceinriktad, noggrann och strukturerad</li><li>Kommunicerar obehindrat på svenska i tal och skrift (krav)</li><li>Är pålitlig, punktlig och tar ansvar för sitt arbete</li><li>Trivs med ett varierat och fysiskt arbete</li></ul><p><strong>Krav</strong></p><ul><li>Godkänd bakgrundskontroll – rent belastningsregister</li><li>Svenska i tal och skrift</li></ul><p><strong>Meriterande</strong></p><ul><li>Tidigare erfarenhet inom IT, lager eller service</li><li>Erfarenhet av att hantera och registrera utrustning</li></ul><p><strong>Vi erbjuder</strong></p><ul><li>En lärorik roll med möjlighet att bygga erfarenhet inom IT och offentlig sektor</li><li>En central placering i hjärtat av Linköping</li><li>Lön på 30 000 kr/mån</li><li>Ett stabilt och välkänt uppdrag med professionell arbetsmiljö</li></ul><p><strong>Om Advania</strong></p><p>Advania är ett ledande nordiskt IT-företag som levererar helhetslösningar inom IT-infrastruktur, molntjänster och support till både privat och offentlig sektor. De arbetar nära sina kunder för att skapa smarta och effektiva IT-miljöer – och nu söker de en junior tekniker som vill vara en del av det arbetet i Linköping.</p><p><br></p><p><strong>Om Simplex Bemanning</strong></p><p>Simplex Bemanning är ett rekryterings- och bemanningsföretag med fokus på att matcha rätt person med rätt uppdrag. Vi värdesätter långsiktighet, tydlig kommunikation och rätt matchning – för oss är det viktigt att du trivs, utvecklas och känner att du gör ett bra jobb varje dag.</p><p>Skicka in din ansökan redan idag – urval sker löpande! 💻</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://simplexbemanning.se/",
-      "organization_number": "5590010277",
-      "name": "Simplex Bemanning AB",
-      "workplace": "Simplex, Linköping"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://jobb.simplexbemanning.se/jobs/8246127-junior-it-tekniker-linkoping-heltid",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "AF1L_wVt_xmK",
-      "label": "IT-tekniker",
-      "legacy_ams_taxonomy_id": null
-    },
-    "occupation_group": {
-      "concept_id": "13md_uyV_BNG",
-      "label": "Drifttekniker, IT",
-      "legacy_ams_taxonomy_id": "3511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "58232",
-      "city": "LINKÖPING",
-      "coordinates": [
-        15.612030138477492,
-        58.414412098885755
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "58232",
-        "city": "LINKÖPING",
-        "coordinates": [
-          15.612030138477492,
-          58.414412098885755
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-08-20T11:02:45",
-    "last_publication_date": "2026-09-19T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1787216565985
   },
   {
     "relevance": 1,
