@@ -1703,18 +1703,18 @@
     },
     "application_contacts": [
       {
-        "name": "Johanna   Kullman Böö",
-        "description": null,
-        "email": "vision@nykoping.se",
-        "telephone": "+46155248665",
-        "contact_type": "Vision"
-      },
-      {
         "name": "Åsa   Roslund Sundvisson",
         "description": null,
         "email": "asa.roslund.sundvisson@nykoping.se",
         "telephone": "+46155457374",
         "contact_type": "Planerings/utvecklingschef"
+      },
+      {
+        "name": "Johanna   Kullman Böö",
+        "description": null,
+        "email": "vision@nykoping.se",
+        "telephone": "+46155248665",
+        "contact_type": "Vision"
       }
     ],
     "publication_date": "2026-09-09T13:35:06",
@@ -2631,10 +2631,10 @@
     },
     "application_contacts": [
       {
-        "name": "Carolina Tollén",
+        "name": "Jerker Sidén, Saco-S",
         "description": null,
         "email": null,
-        "telephone": "016-162580",
+        "telephone": "016-162766",
         "contact_type": null
       },
       {
@@ -2645,10 +2645,10 @@
         "contact_type": null
       },
       {
-        "name": "Jerker Sidén, Saco-S",
+        "name": "Carolina Tollén",
         "description": null,
         "email": null,
-        "telephone": "016-162766",
+        "telephone": "016-162580",
         "contact_type": null
       },
       {
@@ -2665,6 +2665,170 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1788441592783
+  },
+  {
+    "relevance": 1,
+    "id": "31523832",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31523832",
+    "logo_url": null,
+    "headline": "Senior systemutvecklare C/C++",
+    "application_deadline": "2026-10-20T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Vi söker en senior systemutvecklare till ett konsultuppdrag hos vår kund i Linköping. Kunden utvecklar tekniskt avancerade produkter inom cybersäkerhet och säker kommunikation. Uppdraget passar dig som vill ha ett brett perspektiv på systemutveckling och bidra till helheten snarare än enskilda uppgifter.\n\n\nOm uppdraget\n– Vidareutveckling av befintlig produkt i C/C++ och Windowsmiljö, med inslag av Linux\n– Arbeta över flera team med fokus på system- och produktperspektiv\n– Bidra i diskussioner kring design, tekniska lösningar och vägval\n– Arbeta nära team lead och tech lead för att stötta tekniska beslut\n– Sätta enskilda uppgifter i ett större sammanhang och förstå hur de påverkar produkten\n\n\nVi söker dig som\n– Har erfarenhet som systemutvecklare på erfaren medior- eller seniornivå\n– Har god och bred förståelse för systemutveckling och förmåga att se systemet och produkten som helhet\n– Har erfarenhet av utveckling i C/C++\n– Har erfarenhet av utveckling i Windowsmiljö\n– Har erfarenhet av Linux\n– Kan bidra i tekniska diskussioner, design och tekniska vägval\n– Kan arbeta nära och stötta team lead och tech lead i tekniska frågor\n– Kan arbeta flexibelt över flera team\n– Har goda kunskaper i svenska och engelska\n– Är svensk medborgare\n\n\nBra att veta\n– Ort: Linköping\n– Arbetsmodell: På plats\n– Start: Så snart som möjligt, med hänsyn till erforderlig säkerhetsklassning\n– Uppdragsperiod: Enligt överenskommelse\n– Säkerhet: Uppdraget kräver säkerhetsklassning och svenskt medborgarskap\n\n\nOBS: För att underlätta urvalet, skriv gärna i ansökan:\n– Nuvarande ort där du bor, och om du kan pendla eller flytta\n– Antal års relevant arbetserfarenhet\n– Tidigaste startdatum / uppsägningstid\n\n\nSkicka CV och några rader om dig till info@ndpconsult.se. Vi går igenom ansökningar löpande.\nRef. 16507",
+      "text_formatted": "<p>Vi söker en senior systemutvecklare till ett konsultuppdrag hos vår kund i Linköping. Kunden utvecklar tekniskt avancerade produkter inom cybersäkerhet och säker kommunikation. Uppdraget passar dig som vill ha ett brett perspektiv på systemutveckling och bidra till helheten snarare än enskilda uppgifter.</p><p><br></p><p>Om uppdraget</p><p>– Vidareutveckling av befintlig produkt i C/C++ och Windowsmiljö, med inslag av Linux</p><p>– Arbeta över flera team med fokus på system- och produktperspektiv</p><p>– Bidra i diskussioner kring design, tekniska lösningar och vägval</p><p>– Arbeta nära team lead och tech lead för att stötta tekniska beslut</p><p>– Sätta enskilda uppgifter i ett större sammanhang och förstå hur de påverkar produkten</p><p><br></p><p>Vi söker dig som</p><p>– Har erfarenhet som systemutvecklare på erfaren medior- eller seniornivå</p><p>– Har god och bred förståelse för systemutveckling och förmåga att se systemet och produkten som helhet</p><p>– Har erfarenhet av utveckling i C/C++</p><p>– Har erfarenhet av utveckling i Windowsmiljö</p><p>– Har erfarenhet av Linux</p><p>– Kan bidra i tekniska diskussioner, design och tekniska vägval</p><p>– Kan arbeta nära och stötta team lead och tech lead i tekniska frågor</p><p>– Kan arbeta flexibelt över flera team</p><p>– Har goda kunskaper i svenska och engelska</p><p>– Är svensk medborgare</p><p><br></p><p>Bra att veta</p><p>– Ort: Linköping</p><p>– Arbetsmodell: På plats</p><p>– Start: Så snart som möjligt, med hänsyn till erforderlig säkerhetsklassning</p><p>– Uppdragsperiod: Enligt överenskommelse</p><p>– Säkerhet: Uppdraget kräver säkerhetsklassning och svenskt medborgarskap</p><p><br></p><p>OBS: För att underlätta urvalet, skriv gärna i ansökan:</p><p>– Nuvarande ort där du bor, och om du kan pendla eller flytta</p><p>– Antal års relevant arbetserfarenhet</p><p>– Tidigaste startdatum / uppsägningstid</p><p><br></p><p>Skicka CV och några rader om dig till info@ndpconsult.se. Vi går igenom ansökningar löpande.</p><p>Ref. 16507</p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "kpPX_CNN_gDU",
+      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
+      "legacy_ams_taxonomy_id": null
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": "http://ndpconsult.se",
+      "organization_number": "5593594830",
+      "name": "NDP IT AB",
+      "workplace": "NDP IT AB"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": "info@ndpconsult.se",
+      "via_af": false,
+      "url": "http://ndpconsult.se",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "fg7B_yov_smw",
+      "label": "Systemutvecklare/Programmerare",
+      "legacy_ams_taxonomy_id": "2419"
+    },
+    "occupation_group": {
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "58224",
+      "city": "LINKÖPING",
+      "coordinates": [
+        15.624061345947846,
+        58.41095864445481
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "58224",
+        "city": "LINKÖPING",
+        "coordinates": [
+          15.624061345947846,
+          58.41095864445481
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [
+        {
+          "weight": 10,
+          "concept_id": "zSLA_vw2_FXN",
+          "label": "Svenska",
+          "legacy_ams_taxonomy_id": "502"
+        },
+        {
+          "weight": 10,
+          "concept_id": "NVxJ_hLg_TYS",
+          "label": "Engelska",
+          "legacy_ams_taxonomy_id": "283"
+        }
+      ],
+      "work_experiences": [
+        {
+          "weight": 10,
+          "concept_id": "fg7B_yov_smw",
+          "label": "Systemutvecklare/Programmerare",
+          "legacy_ams_taxonomy_id": "2419"
+        }
+      ],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-09-26T15:12:05",
+    "last_publication_date": "2026-10-20T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_ANNONSERA",
+    "timestamp": 1790428325682
   },
   {
     "relevance": 1,
@@ -5465,6 +5629,13 @@
     },
     "application_contacts": [
       {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
@@ -5483,13 +5654,6 @@
         "description": null,
         "email": "jonas.aberg@kriminalvarden.se",
         "telephone": "0790992867",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
         "contact_type": null
       }
     ],
@@ -6167,18 +6331,18 @@
     },
     "application_contacts": [
       {
-        "name": "Andreas Göransson",
-        "description": null,
-        "email": "andreas.goransson@liu.se",
-        "telephone": "+4613281030",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Andreas Göransson",
+        "description": null,
+        "email": "andreas.goransson@liu.se",
+        "telephone": "+4613281030",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-09-24T13:40:29",
@@ -7999,18 +8163,18 @@
         "contact_type": "Enhetschef"
       },
       {
-        "name": "Viktor Olofsson",
-        "description": null,
-        "email": "Viktor.Olofsson@linkoping.se",
-        "telephone": "+4613294761",
-        "contact_type": "HR-Konsult"
-      },
-      {
         "name": "Per Magnusson",
         "description": null,
         "email": "per.o.magnusson@linkoping.se",
         "telephone": "+4613205332",
         "contact_type": "Facklig företrädare SSR"
+      },
+      {
+        "name": "Viktor Olofsson",
+        "description": null,
+        "email": "Viktor.Olofsson@linkoping.se",
+        "telephone": "+4613294761",
+        "contact_type": "HR-Konsult"
       }
     ],
     "publication_date": "2026-09-23T17:11:30",
@@ -9368,18 +9532,18 @@
         "contact_type": "Unionen"
       },
       {
-        "name": "Tilda Björkman",
-        "description": null,
-        "email": "tilda.bjorkman@holmen.com",
-        "telephone": "+46708290341",
-        "contact_type": "Marketing Manager"
-      },
-      {
         "name": "Caroline Mai",
         "description": null,
         "email": "caroline.mai@holmen.com",
         "telephone": "+46703184476",
         "contact_type": "HR Coordinator"
+      },
+      {
+        "name": "Tilda Björkman",
+        "description": null,
+        "email": "tilda.bjorkman@holmen.com",
+        "telephone": "+46708290341",
+        "contact_type": "Marketing Manager"
       }
     ],
     "publication_date": "2026-09-22T19:19:41",
@@ -11813,164 +11977,6 @@
   },
   {
     "relevance": 1,
-    "id": "31500010",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31500010",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
-    "headline": "Systemingenjör inom positionering & navigering",
-    "application_deadline": "2026-09-28T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Drivs du av att se dina idéer bli verklighet? Välkommen till vår spännande och teknikintensiva värld. \n \n\n\nVar med och forma framtidens stridsflygsystem\n\nHar du erfarenhet av positionerings- och navigeringssystem - eller är du en ingenjör med starkt driv och nyfikenhet att utvecklas inom området?\nNu söker vi både erfarna systemingenjörer och yngre talanger som vill vara med och utveckla framtidens uppdragsförmåga inom avancerade stridsflygsystem.\nVåra grundläggande idéer:\nUtforskning och nyfikenhet: Vi bygger inte produkter - vi skapar idéer och prototyper genom experiment och innovation\n \nSnabb väg till demonstration: Kontinuerliga tester och simuleringar för att validera nya tekniska lösningar\n \nVåga prova, våga göra fel: Misstag ses som en lärandeprocess och en del av utvecklingen\n \nUtmaning och förändring: Vi utmanar inte bara teknologiska gränser utan även etablerade arbetssätt och metoder\n\n \n\n\nDin roll\n\nSom systemingenjör inom positionering & navigering arbetar du i produktutvecklingens tidiga skeden med att förstå och bryta ner kunders och användares behov till tekniska koncept och demonstratorer.\nDu kommer att arbeta med framtida användning av positionerings- och navigeringssystem i flygande autonoma farkoster och verka i gränslandet mellan teknik, operativa behov och strategiska mål.\nDu blir en del av ett växande team med både juniora och seniora systemingenjörer inom flera olika teknikdiscipliner där kunskapsutbyte, samarbete och teknisk nyfikenhet står i fokus.\n \nExempel på arbetsuppgifter\nUtforskning av ny teknik och standarder\nIntressent- och behovsanalys\nKonceptframtagning och trade off-analys mellan olika systemegenskaper (noggrannhet, integritet, tillgänglighet, latens, kostnad, med mera).\nSystemarkitektur och framtagning av referensarkitektur för framtida produkter\nModellering, simulering, demonstration och validering av tekniska lösningar\nFramtagning av tekniska rapporter och beslutsunderlag\nKunskapsspridning inom organisationen\n\n \n\n\nDin profil\n\nVi söker både dig som har lång erfarenhet inom området och dig som är i början av karriären men har ett starkt teknikintresse och vilja att utvecklas.\nDu har:\nTeknisk akademisk utbildning inom exempelvis systemteknik, elektroteknik, teknisk fysik eller motsvarande\nErfarenhet av - eller intresse för - positionerings- och navigeringssystem\nIntresse för komplexa system och arbete i tidiga utvecklingsfaser\nErfarenhet av - eller intresse för - tekniskt ledarskap\n\n \nDet är meriterande om du har erfarenhet från försvar, flyg, fordonsindustri eller annan säkerhetskritisk verksamhet samt tekniskt kunnande inom:\ntröghetsnavigeringssystem, GNSS (GPS, Galileo), alternativa positioneringstekniker (bildbaserad, radiosignalbaserad, m.fl.), multisensorfusion, robusthet mot störning, atomur, m.m.\n\n \nAndra erfarenheter och egenskaper vi värdesätter vid rekryteringen är:\nVana av att arbeta i konceptfas, arkitekturmodellering och att lyfta koncept till prototyp\nEtt analytiskt sinne och förmåga att bryta ner komplexa problem\nGod kommunikations- och samarbetsförmåga\n\n \n\n\nVi erbjuder\n\nMöjligheten att forma arkitekturen för framtidens stridsflygsystem\nEn innovativ och tvärfunktionell miljö där nya idéer uppmuntras\nEtt team med djup teknisk kompetens, systemsyn och kreativitet\nInternationella kontaktytor och projekt med global påverkan\n\n \nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n \n\n\nVad blir du en del av?\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\nSaab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här\noss här.",
-      "text_formatted": "<p><em>Drivs du av att se dina idéer bli verklighet? Välkommen till vår spännande och teknikintensiva värld. </em></p><p> </p>\n\nVar med och forma framtidens stridsflygsystem\n\n<p>Har du erfarenhet av positionerings- och navigeringssystem - eller är du en ingenjör med starkt driv och nyfikenhet att utvecklas inom området?\nNu söker vi både erfarna systemingenjörer och yngre talanger som vill vara med och utveckla framtidens uppdragsförmåga inom avancerade stridsflygsystem.</p><p>Våra grundläggande idéer:</p><ul><li><strong>Utforskning och nyfikenhet:</strong> Vi bygger inte produkter - vi skapar idéer och prototyper genom experiment och innovation\n </li><li><strong>Snabb väg till demonstration:</strong> Kontinuerliga tester och simuleringar för att validera nya tekniska lösningar\n </li><li><strong>Våga prova, våga göra fel:</strong> Misstag ses som en lärandeprocess och en del av utvecklingen\n </li><li><strong>Utmaning och förändring:</strong> Vi utmanar inte bara teknologiska gränser utan även etablerade arbetssätt och metoder</li></ul><p> </p>\n\nDin roll\n\n<p>Som systemingenjör inom positionering &amp; navigering arbetar du i produktutvecklingens tidiga skeden med att förstå och bryta ner kunders och användares behov till tekniska koncept och demonstratorer.</p><p>Du kommer att arbeta med framtida användning av positionerings- och navigeringssystem i flygande autonoma farkoster och verka i gränslandet mellan teknik, operativa behov och strategiska mål.</p><p>Du blir en del av ett växande team med både juniora och seniora systemingenjörer inom flera olika teknikdiscipliner där kunskapsutbyte, samarbete och teknisk nyfikenhet står i fokus.</p><p> </p><p><strong>Exempel på arbetsuppgifter</strong></p><ul><li>Utforskning av ny teknik och standarder</li><li>Intressent- och behovsanalys</li><li>Konceptframtagning och trade off-analys mellan olika systemegenskaper (noggrannhet, integritet, tillgänglighet, latens, kostnad, med mera).</li><li>Systemarkitektur och framtagning av referensarkitektur för framtida produkter</li><li>Modellering, simulering, demonstration och validering av tekniska lösningar</li><li>Framtagning av tekniska rapporter och beslutsunderlag</li><li>Kunskapsspridning inom organisationen</li></ul><p> </p>\n\nDin profil\n\n<p>Vi söker både dig som har lång erfarenhet inom området och dig som är i början av karriären men har ett starkt teknikintresse och vilja att utvecklas.</p><p>Du har:</p><ul><li>Teknisk akademisk utbildning inom exempelvis systemteknik, elektroteknik, teknisk fysik eller motsvarande</li><li>Erfarenhet av - eller intresse för - positionerings- och navigeringssystem</li><li>Intresse för komplexa system och arbete i tidiga utvecklingsfaser</li><li>Erfarenhet av - eller intresse för - tekniskt ledarskap</li></ul><p> </p><p>Det är meriterande om du har erfarenhet från försvar, flyg, fordonsindustri eller annan säkerhetskritisk verksamhet samt tekniskt kunnande inom:</p><ul><li>tröghetsnavigeringssystem, GNSS (GPS, Galileo), alternativa positioneringstekniker (bildbaserad, radiosignalbaserad, m.fl.), multisensorfusion, robusthet mot störning, atomur, m.m.</li></ul><p> </p><p>Andra erfarenheter och egenskaper vi värdesätter vid rekryteringen är:</p><ul><li>Vana av att arbeta i konceptfas, arkitekturmodellering och att lyfta koncept till prototyp</li></ul><ul><li>Ett analytiskt sinne och förmåga att bryta ner komplexa problem</li><li>God kommunikations- och samarbetsförmåga</li></ul><p> </p>\n\nVi erbjuder\n\n<ul><li>Möjligheten att forma arkitekturen för framtidens stridsflygsystem</li><li>En innovativ och tvärfunktionell miljö där nya idéer uppmuntras</li><li>Ett team med djup teknisk kompetens, systemsyn och kreativitet</li><li>Internationella kontaktytor och projekt med global påverkan</li></ul><p> </p><p><em>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.</em></p><p> </p>\n\nVad blir du en del av?\n\n<p>Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.</p><p>Saab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.</p><p>Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här</p><p>oss här. </p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560360793",
-      "name": "SAAB Aktiebolag",
-      "workplace": "Saab AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=ci5qYWFzLjM1MTM3LjEzNzY1QHNhYWIuYXBsaXRyYWsuY29t",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "CQse_CRd_snw",
-      "label": "Civilingenjör, systemutveckling",
-      "legacy_ams_taxonomy_id": "6509"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Bröderna Ugglas Gata",
-      "postcode": "58188",
-      "city": "Linköping",
-      "coordinates": [
-        15.6226866,
-        58.4200361
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Bröderna Ugglas Gata",
-        "postcode": "58188",
-        "city": "Linköping",
-        "coordinates": [
-          15.6226866,
-          58.4200361
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "ND2K_ivB_6RA",
-          "label": "Civilingenjörsexamen",
-          "legacy_ams_taxonomy_id": "608325"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "CQse_CRd_snw",
-          "label": "Civilingenjör, systemutveckling",
-          "legacy_ams_taxonomy_id": "6509"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-21T11:09:39",
-    "last_publication_date": "2026-09-28T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789981779929
-  },
-  {
-    "relevance": 1,
     "id": "31499667",
     "external_id": null,
     "original_id": null,
@@ -14335,18 +14341,18 @@
     },
     "application_contacts": [
       {
-        "name": "Evelina Magnusson",
-        "description": null,
-        "email": "Evelina.Magnusson@linkoping.se",
-        "telephone": "+4613205065",
-        "contact_type": "HR-konsult"
-      },
-      {
         "name": "Johan Eriksson",
         "description": null,
         "email": "johan.g.eriksson@linkoping.se",
         "telephone": "+4613206079",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Evelina Magnusson",
+        "description": null,
+        "email": "Evelina.Magnusson@linkoping.se",
+        "telephone": "+4613205065",
+        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-09-18T09:52:30",
@@ -17356,17 +17362,17 @@
     },
     "application_contacts": [
       {
-        "name": "Roger Newman",
-        "description": null,
-        "email": null,
-        "telephone": "010-4852506",
-        "contact_type": null
-      },
-      {
         "name": "Charlott Olsson",
         "description": null,
         "email": null,
         "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
+        "name": "Roger Newman",
+        "description": null,
+        "email": null,
+        "telephone": "010-4852506",
         "contact_type": null
       }
     ],
@@ -21341,16 +21347,16 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -22718,17 +22724,17 @@
     },
     "application_contacts": [
       {
-        "name": "Roger Newman",
-        "description": null,
-        "email": "roger.newman@migrationsverket.se",
-        "telephone": "010-4852506",
-        "contact_type": null
-      },
-      {
         "name": "Charlott Olsson",
         "description": null,
         "email": "charlott.margareta.olsson@migrationsverket.se",
         "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
+        "name": "Roger Newman",
+        "description": null,
+        "email": "roger.newman@migrationsverket.se",
+        "telephone": "010-4852506",
         "contact_type": null
       }
     ],
@@ -26208,16 +26214,23 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -26227,13 +26240,6 @@
         "email": "stefan.jarnvall@kriminalvarden.se",
         "telephone": "0114963591",
         "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
       }
     ],
     "publication_date": "2026-09-07T17:02:32",
@@ -26388,16 +26394,23 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -26407,13 +26420,6 @@
         "email": "stefan.jarnvall@kriminalvarden.se",
         "telephone": "0114963591",
         "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
       }
     ],
     "publication_date": "2026-09-07T16:57:40",
@@ -26568,9 +26574,9 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -26589,9 +26595,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -28602,11 +28608,11 @@
     },
     "application_contacts": [
       {
-        "name": "Karin Jarheden",
+        "name": "David Byers",
         "description": null,
-        "email": "karin.jarheden@liu.se",
-        "telephone": "+4613281856",
-        "contact_type": "HR-partner"
+        "email": "david.byers@liu.se",
+        "telephone": "+4613282821",
+        "contact_type": "Enhetschef"
       },
       {
         "name": "Marie Stålhandske",
@@ -28616,11 +28622,11 @@
         "contact_type": "Systemingejör"
       },
       {
-        "name": "David Byers",
+        "name": "Karin Jarheden",
         "description": null,
-        "email": "david.byers@liu.se",
-        "telephone": "+4613282821",
-        "contact_type": "Enhetschef"
+        "email": "karin.jarheden@liu.se",
+        "telephone": "+4613281856",
+        "contact_type": "HR-partner"
       }
     ],
     "publication_date": "2026-09-04T14:30:28",
@@ -31859,20 +31865,6 @@
     },
     "application_contacts": [
       {
-        "name": "Eric Söderman",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Saco-S"
-      },
-      {
-        "name": "Christina Sverker",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "ST"
-      },
-      {
         "name": "Rafael Urrutia",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -31880,11 +31872,25 @@
         "contact_type": "Gruppchef"
       },
       {
+        "name": "Eric Söderman",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Saco-S"
+      },
+      {
         "name": "Anders Magnestrand",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "HR specialist"
+      },
+      {
+        "name": "Christina Sverker",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "ST"
       }
     ],
     "publication_date": "2026-08-31T15:31:48",
@@ -32328,18 +32334,11 @@
     },
     "application_contacts": [
       {
-        "name": "Christina Sverker",
+        "name": "Eric Söderman",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
-        "contact_type": "ST"
-      },
-      {
-        "name": "Markus Andersén",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
+        "contact_type": "Saco-S"
       },
       {
         "name": "Anders Magnestrand",
@@ -32349,11 +32348,18 @@
         "contact_type": "HR specialist"
       },
       {
-        "name": "Eric Söderman",
+        "name": "Markus Andersén",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
-        "contact_type": "Saco-S"
+        "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Christina Sverker",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "ST"
       }
     ],
     "publication_date": "2026-08-31T14:56:02",
@@ -32501,20 +32507,6 @@
     },
     "application_contacts": [
       {
-        "name": "Markus Andersén",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Anders Magnestrand",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "HR specialist"
-      },
-      {
         "name": "Eric Söderman",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
@@ -32527,6 +32519,20 @@
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "ST"
+      },
+      {
+        "name": "Anders Magnestrand",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "HR specialist"
+      },
+      {
+        "name": "Markus Andersén",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-08-31T14:43:59",
