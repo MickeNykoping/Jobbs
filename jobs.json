@@ -1697,158 +1697,6 @@
   },
   {
     "relevance": 1,
-    "id": "31460586",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31460586",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566940044/logotyper/logo.png",
-    "headline": "Test- & Integrationsingenjör till Akkodis!",
-    "application_deadline": "2026-10-10T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Konsult inom autonoma fordon och systemintegration sökes till Akkodis!\nVill du arbeta nära framtidens autonoma och fjärrstyrda fordon? Vi söker nu en nyfiken och lösningsorienterad ingenjör till ett spännande konsultuppdrag i Eskilstuna där du får arbeta praktiskt med integration, test och verifiering av avancerade fordonssystem.\nOm uppdraget\nI rollen blir du en del av ett team som arbetar med autonoma och fjärrstyrda fordon i moderna testmiljöer. Arbetet är varierat och innebär bland annat att integrera ny mjukvara i fordon, verifiera funktionalitet och felsöka tillsammans med utvecklare.\nDu kommer även att arbeta praktiskt i testanläggningar och vara delaktig i driften av dessa – från uppstart till genomförda tester och nedstängning. Rollen ger dig en bred förståelse för kompletta autonoma system och hur teknik inom fordon, uppkoppling och robotik samverkar.\nVi söker dig som har\nGrundläggande kunskaper i Linux/BASH\nFörståelse för uppkoppling och nätverk, exempelvis LAN, 4G/5G och WiFi\nGrundläggande förståelse för robotik, exempelvis lokalisering, perception och planering\nGrundläggande kunskap om fordon och maskiner\nEtt intresse för test, integration och felsökning\n\nErfarenhet av CANalyzer är meriterande, liksom C- eller CE-körkort.\nVem är du?\nVi tror att du är nyfiken, engagerad och lösningsorienterad. Du tycker om att förstå hur komplexa tekniska system fungerar och trivs med att arbeta praktiskt tillsammans med andra för att lösa problem.\nDärför ska du välja Akkodis\nPå Akkodis får du möjlighet att arbeta med den senaste tekniken hos några av Sveriges och världens ledande industriföretag. Vi erbjuder en trygg tillsvidareanställning, spännande uppdrag och goda möjligheter till både teknisk och personlig utveckling.\nVi tror på långsiktiga relationer och på att ge våra konsulter rätt förutsättningar att utvecklas genom varierande uppdrag, kompetensutveckling och ett engagerat ledarskap.\nAkkodis levererar en bred bas av tjänster och kompetenser inom IT, Engineering och Life Science. Våra tjänster präglas av snabbhet, enkelhet och kvalitet. Akkodis finns representerade i USA, Kanada, Europa, Asien med över 100 kontor och med mer än 50 000 kollegor i uppdrag varje dag.\nKontakt\nLåter detta intressant? Då ska du söka denna tjänst så snart som möjligt!\nVill du veta mer, ta gärna kontakt med ansvarig Business Manager, Jimmy Lundberg 073-684 77 66, jimmy.lundberg@akkodisgroup.com\nVarmt välkommen med din ansökan!",
-      "text_formatted": "<p><strong>Konsult inom autonoma fordon och systemintegration sökes till Akkodis!</strong></p><p>Vill du arbeta nära framtidens autonoma och fjärrstyrda fordon? Vi söker nu en nyfiken och lösningsorienterad ingenjör till ett spännande konsultuppdrag i Eskilstuna där du får arbeta praktiskt med integration, test och verifiering av avancerade fordonssystem.</p><p><strong>Om uppdraget</strong></p><p>I rollen blir du en del av ett team som arbetar med autonoma och fjärrstyrda fordon i moderna testmiljöer. Arbetet är varierat och innebär bland annat att integrera ny mjukvara i fordon, verifiera funktionalitet och felsöka tillsammans med utvecklare.</p><p>Du kommer även att arbeta praktiskt i testanläggningar och vara delaktig i driften av dessa – från uppstart till genomförda tester och nedstängning. Rollen ger dig en bred förståelse för kompletta autonoma system och hur teknik inom fordon, uppkoppling och robotik samverkar.</p><p><strong>Vi söker dig som har</strong></p><ul><li>Grundläggande kunskaper i Linux/BASH</li><li>Förståelse för uppkoppling och nätverk, exempelvis LAN, 4G/5G och WiFi</li><li>Grundläggande förståelse för robotik, exempelvis lokalisering, perception och planering</li><li>Grundläggande kunskap om fordon och maskiner</li><li>Ett intresse för test, integration och felsökning</li></ul><p>Erfarenhet av CANalyzer är meriterande, liksom C- eller CE-körkort.</p><p><strong>Vem är du?</strong></p><p>Vi tror att du är nyfiken, engagerad och lösningsorienterad. Du tycker om att förstå hur komplexa tekniska system fungerar och trivs med att arbeta praktiskt tillsammans med andra för att lösa problem.</p><p><strong>Därför ska du välja Akkodis</strong></p><p>På Akkodis får du möjlighet att arbeta med den senaste tekniken hos några av Sveriges och världens ledande industriföretag. Vi erbjuder en trygg tillsvidareanställning, spännande uppdrag och goda möjligheter till både teknisk och personlig utveckling.</p><p>Vi tror på långsiktiga relationer och på att ge våra konsulter rätt förutsättningar att utvecklas genom varierande uppdrag, kompetensutveckling och ett engagerat ledarskap.</p><p>Akkodis levererar en bred bas av tjänster och kompetenser inom IT, Engineering och Life Science. Våra tjänster präglas av snabbhet, enkelhet och kvalitet. Akkodis finns representerade i USA, Kanada, Europa, Asien med över 100 kontor och med mer än 50 000 kollegor i uppdrag varje dag.</p><p><strong>Kontakt</strong></p><p>Låter detta intressant? Då ska du söka denna tjänst så snart som möjligt!</p><p>Vill du veta mer, ta gärna kontakt med ansvarig Business Manager, Jimmy Lundberg 073-684 77 66, jimmy.lundberg@akkodisgroup.com</p><p><strong>Varmt välkommen med din ansökan!</strong><strong>                               </strong></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.akkodis.se/",
-      "organization_number": "5566940044",
-      "name": "Akkodis Sweden AB",
-      "workplace": "Akkodis"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.akkodis.com/en-se/careers/jobs/job/ZL_MODIS_003177?src=ams_direct",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "CQse_CRd_snw",
-      "label": "Civilingenjör, systemutveckling",
-      "legacy_ams_taxonomy_id": "6509"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Badhusgatan 8",
-      "postcode": "72215",
-      "city": "Västerås",
-      "coordinates": [
-        16.5407348826457,
-        59.6115961580572
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Eskilstuna",
-        "municipality_code": "0484",
-        "municipality_concept_id": "kMxr_NiX_YrU",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Badhusgatan 8",
-        "postcode": "72215",
-        "city": "Västerås",
-        "coordinates": [
-          16.5407348826457,
-          59.6115961580572
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Jimmy Lundberg",
-        "description": null,
-        "email": "jimmy.lundberg@akkodisgroup.com",
-        "telephone": null,
-        "contact_type": null
-      }
-    ],
-    "publication_date": "2026-09-10T11:08:39",
-    "last_publication_date": "2026-10-10T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789031319512
-  },
-  {
-    "relevance": 1,
     "id": "31457284",
     "external_id": null,
     "original_id": null,
@@ -3086,18 +2934,18 @@
     },
     "application_contacts": [
       {
-        "name": "Hampus Kindgren",
-        "description": null,
-        "email": "hampus.kindgren@friday.se",
-        "telephone": null,
-        "contact_type": null
-      },
-      {
         "name": "Isabelle Aronsson",
         "description": null,
         "email": "isabelle.aronsson@friday.se",
         "telephone": null,
         "contact_type": "Recruiter"
+      },
+      {
+        "name": "Hampus Kindgren",
+        "description": null,
+        "email": "hampus.kindgren@friday.se",
+        "telephone": null,
+        "contact_type": null
       }
     ],
     "publication_date": "2026-10-02T14:14:28",
@@ -4885,13 +4733,6 @@
     },
     "application_contacts": [
       {
-        "name": "Gunilla Togan Murad",
-        "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "+46114965297",
-        "contact_type": "Sektionschef"
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
@@ -4904,6 +4745,13 @@
         "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Gunilla Togan Murad",
+        "description": null,
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "+46114965297",
+        "contact_type": "Sektionschef"
       },
       {
         "name": "Olof Carlstein (SEKO)",
@@ -7025,158 +6873,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1790768277437
-  },
-  {
-    "relevance": 1,
-    "id": "31536818",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31536818",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566940044/logotyper/logo.png",
-    "headline": "IT-tekniker / Second Line Support - Östergötland",
-    "application_deadline": "2027-01-31T23:59:59",
-    "number_of_vacancies": 5,
-    "description": {
-      "text": "Vill du arbeta med kvalificerad IT-support i en tekniskt avancerad miljö där du får lösa komplexa problem och hjälpa användare i deras vardag? Vi söker nu en serviceinriktad IT-tekniker för ett uppdrag inom Second Line Support i Linköping.\nOm rollenSom Second Line Support-tekniker kommer du att vara en viktig del av supportorganisationen och arbeta med att lösa mer komplexa IT-relaterade ärenden som eskalerats från Servicedesk. Du arbetar nära användarna via Teams, telefon och ärendehanteringssystem för att säkerställa att verksamheten får snabb och professionell support.\nRollen innebär både självständigt arbete och nära samarbete med andra supporttekniker. Du kommer att hantera felsökning, användarstöd, dokumentation och bidra till förbättringar av processer och arbetssätt.\nArbetsuppgifterHantera och lösa inkommande supportärenden i ett ärendehanteringssystem\nGe teknisk support till slutanvändare via telefon, Teams och andra supportkanaler\nFelsöka och åtgärda incidenter inom klient-, server- och nätverksmiljöer\nArbeta med användaradministration i Active Directory\nDokumentera lösningar, rutiner och kunskapsartiklar\nBidra till kontinuerliga förbättringar inom supportprocesser\nSamarbeta med andra IT-funktioner för att säkerställa hög servicekvalitet\nVi söker dig som harKravMinst 1 års erfarenhet av IT-support, servicedesk eller Second Line Support\nErfarenhet av systematisk felsökning\nErfarenhet av arbete i ärendehanteringssystem\nGoda kunskaper i Microsoftmiljöer\nErfarenhet av Active Directory\nGoda kunskaper i svenska och engelska, både i tal och skrift\nMeriterandeErfarenhet av ServiceNow\nKunskap om ITIL\nGrundläggande kunskaper inom:Servrar\nNätverk\nSCCM\nInfrastruktur\nDatabaser\n\nErfarenhet från större organisationer eller komplexa IT-miljöer\nPersonliga egenskaper\nFör att lyckas i rollen ser vi att du har ett stort intresse för teknik och drivs av att hjälpa användare att lösa sina problem. Du är serviceinriktad och lösningsorienterad samtidigt som du trivs med att arbeta strukturerat och metodiskt.\nVi tror även att du är:\nKommunikativ och pedagogisk\nProaktiv och ansvarstagande\nSocial och samarbetsorienterad\nSjälvständig i ditt arbete\nNyfiken och utvecklingsorienterad\nDuktig på att bygga relationer och skapa förtroende\n\nDu trivs i en miljö där förutsättningarna kan förändras snabbt och där användarnas behov alltid står i fokus.",
-      "text_formatted": "<p>Vill du arbeta med kvalificerad IT-support i en tekniskt avancerad miljö där du får lösa komplexa problem och hjälpa användare i deras vardag? Vi söker nu en serviceinriktad IT-tekniker för ett uppdrag inom Second Line Support i Linköping.</p>Om rollen<p>Som Second Line Support-tekniker kommer du att vara en viktig del av supportorganisationen och arbeta med att lösa mer komplexa IT-relaterade ärenden som eskalerats från Servicedesk. Du arbetar nära användarna via Teams, telefon och ärendehanteringssystem för att säkerställa att verksamheten får snabb och professionell support.</p><p>Rollen innebär både självständigt arbete och nära samarbete med andra supporttekniker. Du kommer att hantera felsökning, användarstöd, dokumentation och bidra till förbättringar av processer och arbetssätt.</p>Arbetsuppgifter<ul><li>Hantera och lösa inkommande supportärenden i ett ärendehanteringssystem</li><li>Ge teknisk support till slutanvändare via telefon, Teams och andra supportkanaler</li><li>Felsöka och åtgärda incidenter inom klient-, server- och nätverksmiljöer</li><li>Arbeta med användaradministration i Active Directory</li><li>Dokumentera lösningar, rutiner och kunskapsartiklar</li><li>Bidra till kontinuerliga förbättringar inom supportprocesser</li><li>Samarbeta med andra IT-funktioner för att säkerställa hög servicekvalitet</li></ul>Vi söker dig som harKrav<ul><li>Minst 1 års erfarenhet av IT-support, servicedesk eller Second Line Support</li><li>Erfarenhet av systematisk felsökning</li><li>Erfarenhet av arbete i ärendehanteringssystem</li><li>Goda kunskaper i Microsoftmiljöer</li><li>Erfarenhet av Active Directory</li><li>Goda kunskaper i svenska och engelska, både i tal och skrift</li></ul>Meriterande<ul><li>Erfarenhet av ServiceNow</li><li>Kunskap om ITIL</li><li>Grundläggande kunskaper inom:<ul><li>Servrar</li><li>Nätverk</li><li>SCCM</li><li>Infrastruktur</li><li>Databaser</li></ul></li><li>Erfarenhet från större organisationer eller komplexa IT-miljöer</li></ul>Personliga egenskaper<p>För att lyckas i rollen ser vi att du har ett stort intresse för teknik och drivs av att hjälpa användare att lösa sina problem. Du är serviceinriktad och lösningsorienterad samtidigt som du trivs med att arbeta strukturerat och metodiskt.</p><p>Vi tror även att du är:</p><ul><li>Kommunikativ och pedagogisk</li><li>Proaktiv och ansvarstagande</li><li>Social och samarbetsorienterad</li><li>Självständig i ditt arbete</li><li>Nyfiken och utvecklingsorienterad</li><li>Duktig på att bygga relationer och skapa förtroende</li></ul><p>Du trivs i en miljö där förutsättningarna kan förändras snabbt och där användarnas behov alltid står i fokus.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.akkodis.se/",
-      "organization_number": "5566940044",
-      "name": "Akkodis Sweden AB",
-      "workplace": "Akkodis"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.akkodis.com/en-se/careers/jobs/job/ZL_MODIS_003186?src=ams_direct",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "KQty_E1u_cia",
-      "label": "Helpdesktekniker/Supporttekniker",
-      "legacy_ams_taxonomy_id": "7020"
-    },
-    "occupation_group": {
-      "concept_id": "hmaC_cfi_UKg",
-      "label": "Supporttekniker, IT",
-      "legacy_ams_taxonomy_id": "3512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "58254",
-      "city": "Östergötland",
-      "coordinates": [
-        15.665607697656133,
-        58.406484594813556
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "58254",
-        "city": "Östergötland",
-        "coordinates": [
-          15.665607697656133,
-          58.406484594813556
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Fredrik Carlberg",
-        "description": null,
-        "email": "Fredrik.Carlberg@akkodisgroup.com",
-        "telephone": null,
-        "contact_type": "Business Manager Akkodis"
-      }
-    ],
-    "publication_date": "2026-09-30T13:35:29",
-    "last_publication_date": "2027-01-31T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790768129674
   },
   {
     "relevance": 1,
@@ -10999,17 +10695,17 @@
     },
     "application_contacts": [
       {
-        "name": "Charlott Olsson",
-        "description": null,
-        "email": "charlott.margareta.olsson@migrationsverket.se",
-        "telephone": "010-4859186",
-        "contact_type": null
-      },
-      {
         "name": "Marlene Öhlund",
         "description": null,
         "email": "marlene.ohlund@migrationsverket.se",
         "telephone": "010-2034300",
+        "contact_type": null
+      },
+      {
+        "name": "Charlott Olsson",
+        "description": null,
+        "email": "charlott.margareta.olsson@migrationsverket.se",
+        "telephone": "010-4859186",
         "contact_type": null
       }
     ],
@@ -11165,9 +10861,9 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -11179,9 +10875,9 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -11475,11 +11171,11 @@
     },
     "application_contacts": [
       {
-        "name": "Niklas Aapola",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "niklas.aapola@kriminalvarden.se",
-        "telephone": "0114963681",
-        "contact_type": "Sektionschef"
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Angelica Oxenby (SACO-S)",
@@ -11489,18 +11185,18 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Niklas Aapola",
+        "description": null,
+        "email": "niklas.aapola@kriminalvarden.se",
+        "telephone": "0114963681",
+        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-09-29T10:20:28",
@@ -11648,9 +11344,16 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -11662,16 +11365,9 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -11994,20 +11690,6 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Lieanne Sandelius",
         "description": null,
         "email": "Lieanne.Sandelius@kriminalvarden.se",
@@ -12015,9 +11697,23 @@
         "contact_type": "Gruppchef"
       },
       {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -12332,18 +12028,18 @@
     },
     "application_contacts": [
       {
-        "name": "Kim Tedenkvist",
-        "description": null,
-        "email": "kim.tedenkvist@regionostergotland.se",
-        "telephone": null,
-        "contact_type": "enhetschef"
-      },
-      {
         "name": "Magnus Bark, Vision",
         "description": null,
         "email": "magnus.bark@regionostergotland.se",
         "telephone": null,
         "contact_type": null
+      },
+      {
+        "name": "Kim Tedenkvist",
+        "description": null,
+        "email": "kim.tedenkvist@regionostergotland.se",
+        "telephone": null,
+        "contact_type": "enhetschef"
       }
     ],
     "publication_date": "2026-09-28T14:05:35",
@@ -12944,9 +12640,16 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -12958,16 +12661,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -15073,7 +14769,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519638",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Integration Consultant",
-    "application_deadline": "2026-12-02T23:59:59",
+    "application_deadline": "2026-12-03T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Integration Consultant som ser integration som mer än att flytta data från A till B. Du vill förstå vad som händer före och efter gränssnittet och bygga lösningar som fungerar även när processer, system och krav förändras.\n\nDu gillar tekniken och kan gå på djupet när det behövs, men vet också att en bra integration börjar med rätt problem. Hos oss arbetar du nära både kunden och tekniken, från felsökning av affärskritiska flöden till design av nya integrationer och framtida integrationslandskap.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\ndesigna, bygga och förvalta integrationer i SAP-landskap, ofta med SAP S/4HANA i centrum\narbeta med SAP Integration Suite, CPI och BTP, och ibland även äldre miljöer som SAP PI/PO\nbygga integrationer med API:er, OData, REST, SOAP, IDoc, EDI och eventdrivna mönster\nkoppla ihop SAP med andra affärssystem, molnplattformar, SaaS-tjänster och externa partners\narbeta med integrationsarkitektur och bidra i S/4HANA-transformationer där data, processer och system behöver fungera tillsammans\nta ansvar från behov och design till utveckling, test, driftsättning, felsökning och förvaltning\nsamarbeta med verksamhet, arkitekter och utvecklingsteam och utmana gamla arbetssätt när det finns ett enklare eller smartare sätt\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP-integration. Du känner dig trygg i att självständigt ta dig an integrationsfrågor och kan röra dig mellan verksamhet och teknik.\n\nExakt vilka tekniker du har arbetat mest med är mindre viktigt än att du förstår integration som helhet, kan sätta dig in i nya miljöer och tar ansvar för att lösningen faktiskt fungerar.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP-integration och minst en integrationsplattform eller integrationsstack\nförstår API:er, integrationsmönster, dataformat och hur system kommunicerar med varandra\nhar arbetat kundnära och kan översätta mellan verksamhet och teknik\ndriver saker framåt utan att behöva bli detaljstyrd\när pragmatisk och gillar att lösa riktiga problem, inte bara följa en kravlista\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndelar med dig av det du kan och tycker om att bygga tillsammans med andra\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av SAP S/4HANA, SAP Integration Suite, BTP, API Management, Azure, EDI, integrationsarkitektur eller större transformations- och implementationsprojekt. Erfarenhet av CI/CD, eventdriven integration eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -15202,11 +14898,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:03:46",
-    "last_publication_date": "2026-12-02T23:59:59",
+    "last_publication_date": "2026-12-03T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790997606412
+    "timestamp": 1791084008177
   },
   {
     "relevance": 1,
@@ -15217,7 +14913,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519624",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - Logistics",
-    "application_deadline": "2026-12-01T23:59:59",
+    "application_deadline": "2026-12-03T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom Logistics som gillar att få komplexa flöden att fungera i verkligheten. När material, lager, inköp, transport eller produktion inte hänger ihop vill du förstå hela flödet och vad som faktiskt behöver bli bättre.\n\nDu rör dig gärna mellan verksamheten och SAP. Du kan konfigurera lösningen, men börjar hellre med att förstå processen och var dagens arbetssätt skapar onödig friktion.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP-logistik och Supply Chain-processer, ofta med SAP S/4HANA i centrum\nanalysera behov och designa lösningar inom exempelvis lager, materialflöden, inköp, transport eller produktionsnära logistik\nkonfigurera och vidareutveckla lösningar inom ett eller flera områden som SAP MM, EWM, TM eller WM/LE\ndriva workshops och översätta verksamhetens behov till processdesign, funktionella krav och fungerande lösningar\narbeta enligt fit-to-standard och hjälpa kunder att göra kloka val mellan SAP-standard och kundanpassning\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\narbeta med integrationer och bidra i S/4HANA-transformationer, rollouts och andra förändringar där logistikflöden behöver fungera end-to-end\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP Logistics. Du känner dig trygg i att självständigt ta dig an funktionella frågor och kan röra dig mellan verksamhetsprocess, SAP-konfiguration och tekniska beroenden.\n\nDu behöver inte vara expert på alla logistikmoduler. Vi ser hellre att du har ordentlig erfarenhet inom ett eller flera områden och förstår hur de hänger ihop i ett större flöde.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP S/4HANA eller större SAP-miljöer inom logistik\nhar djupare kompetens inom ett eller flera områden som MM, EWM, TM, WM/LE eller angränsande processer\nförstår lager-, distributions-, material- eller försörjningsprocesser och kan prata om dem med verksamheten\nhar arbetat med krav, lösningsdesign, konfiguration och test\nförstår hur logistiklösningar integrerar med andra SAP-områden och externa system\ndriver saker framåt utan att behöva bli detaljstyrd och är pragmatisk i hur du löser problem\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av EWM, TM, fit-to-standard, tillverkande industri, produktionsintegration, datamigrering eller större S/4HANA-transformationer och rollouts. Erfarenhet av Fiori, BTP, API:er eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -15346,11 +15042,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:02:30",
-    "last_publication_date": "2026-12-01T23:59:59",
+    "last_publication_date": "2026-12-03T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790911207616
+    "timestamp": 1791084009121
   },
   {
     "relevance": 1,
@@ -15361,7 +15057,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519612",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - Finance",
-    "application_deadline": "2026-12-01T23:59:59",
+    "application_deadline": "2026-12-03T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom Finance som vill få ekonomiprocesser och SAP att hänga ihop på riktigt. För dig är en bra lösning inte bara korrekt konfiguration. Den ska gå att förstå, lita på och arbeta vidare med när verksamheten förändras.\n\nDu trivs när du får förstå varför en bokning blev fel, en fakturaprocess stannade eller ett flöde inte fungerar som tänkt. Du kan SAP, men vill lika gärna förstå ekonomifunktionen bakom.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP Finance och Controlling, ofta med SAP S/4HANA i centrum\nanalysera och utveckla processer inom exempelvis huvudbok, kundreskontra, leverantörsreskontra, anläggningar, controlling, bank och betalningar\nkonfigurera och vidareutveckla lösningar inom SAP FI och gärna även CO\ndriva workshops och översätta ekonomiprocesser och verksamhetsbehov till lösningsdesign och funktionella krav\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\narbeta med integrationer mellan Finance, andra SAP-områden och externa lösningar\nbidra i S/4HANA-transformationer, rollouts, datamigrering och andra förändringar där ekonomiprocesser behöver fungera end-to-end\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP Finance. Du känner dig trygg i att självständigt ta dig an funktionella frågor och kan röra dig mellan ekonomiprocess, SAP-konfiguration och tekniska beroenden.\n\nDu behöver inte kunna varje del av FI/CO. Det viktiga är att du har ordentlig erfarenhet inom ett eller flera Finance-områden och förstår hur de hänger ihop med resten av verksamheten.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP FI och gärna SAP CO\nförstår centrala ekonomiprocesser som GL, AP, AR och periodstängning\nhar arbetat med krav, lösningsdesign, konfiguration och test\nkan felsöka funktionella problem och förstå om orsaken ligger i process, konfiguration, masterdata eller integration\nförstår hur Finance integrerar med exempelvis Sales, Procurement, Logistics och externa system\nhar arbetat kundnära och kan prata lika naturligt med ekonomiavdelningen som med IT\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndriver saker framåt och kommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av SAP S/4HANA Finance, CO, Asset Accounting, bank och betalningar, svensk lokalisering, skatt, moms, e-fakturering eller större internationella rollouts. Erfarenhet av datamigrering, Fiori, Central Finance, BTP eller integrationer är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -15490,11 +15186,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:00:50",
-    "last_publication_date": "2026-12-01T23:59:59",
+    "last_publication_date": "2026-12-03T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790911209059
+    "timestamp": 1791084010171
   },
   {
     "relevance": 1,
@@ -15505,7 +15201,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519605",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - SD",
-    "application_deadline": "2026-12-01T23:59:59",
+    "application_deadline": "2026-12-03T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom SD som förstår att Order-to-Cash är mer än att skapa en order i SAP. Det handlar om hela kedjan från kund, pris och order till leverans, fakturering och uppföljning.\n\nDu kan SAP SD, men fastnar inte i transaktionerna. Du vill förstå kundens affär, varför processen ser ut som den gör och hur en bra lösning kan förenkla både vardagen för användarna och systemlandskapet runt omkring.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP Sales/SD och end-to-end-processer inom Order-to-Cash\nanalysera och utveckla processer för kundorder, prissättning, leverans, fakturering och returflöden\nkonfigurera och vidareutveckla SAP SD i S/4HANA och andra SAP-miljöer\ndriva workshops och översätta verksamhetens behov till processdesign, funktionella krav och fungerande lösningar\narbeta tvärfunktionellt med Finance, Logistics, Integration och masterdata\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\nbidra i S/4HANA-transformationer, rollouts och förändringar som kan omfatta datamigrering, test, cutover och hypercare\narbeta med frågor kring output, e-fakturering och andra gränssnitt där Order-to-Cash möter omvärlden\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP SD. Du känner dig trygg i att självständigt ta dig an funktionella frågor och förstår Order-to-Cash som en hel process, inte bara som en uppsättning SAP-transaktioner.\n\nDu kan röra dig mellan verksamhetsdialog, processdesign och hands-on konfiguration och är van att samarbeta över modulgränser.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP SD och gärna SAP S/4HANA\nhar god förståelse för Order-to-Cash från order och prissättning till leverans och fakturering\nhar arbetat med krav, lösningsdesign, konfiguration och test\nförstår integrationerna mellan SD, FI, MM, logistik och externa system\nkan ta fram funktionella specifikationer och arbeta nära utvecklare och integrationsspecialister när standard inte räcker\nhar arbetat kundnära och är trygg i workshops med både verksamhet och IT\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndriver saker framåt och kommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av större S/4HANA-transformationer, globala rollouts, processharmonisering, datamigrering, e-fakturering eller komplex prissättning och billing. Erfarenhet av Fiori, output management, aATP, integrationer, BTP eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -15634,11 +15330,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T09:59:54",
-    "last_publication_date": "2026-12-01T23:59:59",
+    "last_publication_date": "2026-12-03T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790911210145
+    "timestamp": 1791084011242
   },
   {
     "relevance": 1,
@@ -15649,7 +15345,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519307",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "AI Engineer",
-    "application_deadline": "2026-12-01T23:59:59",
+    "application_deadline": "2026-12-03T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en AI Engineer som vill bygga lösningar som faktiskt används i verksamheten. För dig är AI inte en demo vid sidan av, utan ett verktyg för att lösa riktiga problem, automatisera arbete och skapa bättre sätt att jobba.\n\nDu gillar att bygga, testa och få saker i produktion. Hos oss arbetar du nära både kunden och tekniken och behöver därför vara lika nyfiken på problemet som på modellen, arkitekturen eller verktyget som kan lösa det.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\ndesigna, bygga och vidareutveckla lösningar med generativ AI, LLM:er, agents och automation\nkoppla AI till affärssystem, dataplattformar, API:er och andra verksamhetskritiska system\nvälja rätt angreppssätt för exempelvis retrieval, tool use och agentbaserade flöden\nta lösningar från idé och proof of concept till robust implementation och produktion\narbeta med utvärdering, testning, säkerhet, behörigheter och spårbarhet\nsamarbeta nära kunder för att förstå processer, data och behov och omsätta dem till fungerande lösningar\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet inom systemutveckling, data, AI eller liknande och har byggt moderna AI-lösningar i praktiken.\n\nDu behöver inte komma från klassisk machine learning eller forskning. Det viktiga är att du kan bygga fungerande produkter, integrationer och automationer och förstår vad som krävs för att få dem att fungera utanför en demo.\n\nVi tror också att du:\n\när en stark utvecklare och känner dig hemma i exempelvis Python, TypeScript, C# eller liknande\nhar erfarenhet av LLM-baserade lösningar och hur de kopplas till data, verktyg och externa system\när van vid API:er, integrationer och moderna moln- och utvecklingsmiljöer\nförstår hur AI kan kopplas till ERP-miljöer som SAP, datalager och andra affärssystem\nkan resonera kring säkerhet, behörigheter och dataskydd\när pragmatisk, självgående och bekväm med att välja teknik utifrån problemet snarare än leverantören\nkan prata med både verksamheten och tekniska team\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av AI-agenter, moderna integrationsmönster för AI eller plattformar och modeller från exempelvis OpenAI, Anthropic eller Microsoft.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil teknisk grund, är nyfiken och vill fortsätta utvecklas tillsammans med oss.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan AI, affärssystem, integration och automation. Här får du arbeta nära de processer och system där AI faktiskt kan göra skillnad och samtidigt vara med och forma hur vi bygger vårt AI-erbjudande framåt.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -15778,11 +15474,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T09:58:10",
-    "last_publication_date": "2026-12-01T23:59:59",
+    "last_publication_date": "2026-12-03T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790911211163
+    "timestamp": 1791084012150
   },
   {
     "relevance": 1,
@@ -16670,6 +16366,13 @@
     },
     "application_contacts": [
       {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
@@ -16688,13 +16391,6 @@
         "description": null,
         "email": "jonas.aberg@kriminalvarden.se",
         "telephone": "0790992867",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
         "contact_type": null
       }
     ],
@@ -16843,6 +16539,13 @@
     },
     "application_contacts": [
       {
+        "name": "Tomas Friberg",
+        "description": null,
+        "email": "tomas.friberg@holmen.com",
+        "telephone": "+46733518252",
+        "contact_type": "IT Chef"
+      },
+      {
         "name": "Jonas Tauberman",
         "description": null,
         "email": "jonas.tauberman@holmen.com",
@@ -16855,13 +16558,6 @@
         "email": "fredrika.ringh@holmen.com",
         "telephone": "+46761195305",
         "contact_type": "HR Business Partner"
-      },
-      {
-        "name": "Tomas Friberg",
-        "description": null,
-        "email": "tomas.friberg@holmen.com",
-        "telephone": "+46733518252",
-        "contact_type": "IT Chef"
       }
     ],
     "publication_date": "2026-09-24T16:34:56",
@@ -17372,18 +17068,18 @@
     },
     "application_contacts": [
       {
-        "name": "Andreas Göransson",
-        "description": null,
-        "email": "andreas.goransson@liu.se",
-        "telephone": "+4613281030",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Andreas Göransson",
+        "description": null,
+        "email": "andreas.goransson@liu.se",
+        "telephone": "+4613281030",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-09-24T13:40:29",
@@ -17835,18 +17531,18 @@
     },
     "application_contacts": [
       {
-        "name": "Andreas Göransson",
-        "description": null,
-        "email": "andreas.goransson@liu.se",
-        "telephone": "+4613281030",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Andreas Göransson",
+        "description": null,
+        "email": "andreas.goransson@liu.se",
+        "telephone": "+4613281030",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-09-24T13:20:57",
@@ -19197,6 +18893,13 @@
     },
     "application_contacts": [
       {
+        "name": "Joakim Jederström",
+        "description": null,
+        "email": "joakim.jederstrom@linkoping.se",
+        "telephone": null,
+        "contact_type": "Enhetschef"
+      },
+      {
         "name": "Viktor Olofsson",
         "description": null,
         "email": "Viktor.Olofsson@linkoping.se",
@@ -19209,13 +18912,6 @@
         "email": "per.o.magnusson@linkoping.se",
         "telephone": "+4613205332",
         "contact_type": "Facklig företrädare SSR"
-      },
-      {
-        "name": "Joakim Jederström",
-        "description": null,
-        "email": "joakim.jederstrom@linkoping.se",
-        "telephone": null,
-        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-09-23T17:11:30",
@@ -19234,7 +18930,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31513067",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "Project Manager – AI & Business Systems",
-    "application_deadline": "2026-12-01T23:59:59",
+    "application_deadline": "2026-12-03T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en Project Manager som vill leda förändring där verksamhet, affärssystem och ny teknik möts. För dig handlar projektledning inte bara om planer och deadlines, utan om att förstå vad som behöver förändras och få människor, teknik och beslut att dra åt samma håll.\n\nDu gillar att skapa struktur i komplexa sammanhang och röra dig mellan verksamheten och tekniska team. Hos oss kan projekten handla om AI, ERP och affärssystem, integrationer, automation eller andra digitala förändringar.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\nleda projekt från förstudie och behovsanalys till implementation och uppföljning\nskapa struktur kring mål, scope, plan, budget, risker, beroenden och beslut\nleda workshops och hjälpa verksamheten att konkretisera behov och målbild\növersätta mellan verksamhet, IT, utvecklingsteam, leverantörer och andra intressenter\narbeta nära tekniska team och förstå hur system, data, processer och integrationer påverkar leveransen\nkoordinera test, införande, förändring och övergång till förvaltning när det behövs\nskapa tydliga beslutsunderlag och kommunicera framdrift, risker och vägval\nutmana krav och arbetssätt när det finns ett bättre sätt att nå målet\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet av projektledning, verksamhetsutveckling eller digital transformation och har lett initiativ där verksamhet och IT behöver fungera tillsammans.\n\nDu behöver inte vara SAP-konsult, utvecklare eller AI Engineer. Däremot är du tekniskt nyfiken, kan snabbt sätta dig in i nya systemmiljöer och är bekväm med att arbeta nära både verksamheten och de som bygger lösningen.\n\nVi tror också att du:\n\nhar drivit IT-, system- eller transformationsprojekt från behov till genomförande\när van vid krav, processer, workshops och intressenthantering\nförstår grunderna i affärssystem, integrationer och data\nkan växla mellan helhet och detaljer och själv ta tag i analys eller krav när det behövs\nförstår att införande av ny teknik också handlar om människor, arbetssätt och förändring\nhar börjat använda AI som ett naturligt verktyg i ditt eget arbete\när tydlig, prestigelös och trygg i dialog med både projektteam och beslutsfattare\ndriver saker framåt utan att behöva bli detaljstyrd\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av ERP- eller affärssystemsprojekt, SAP, AI-initiativ, automation, integrationer, systemimplementationer eller större förändringsprogram.\n\nDet viktiga är inte vilken projektmodell du föredrar eller hur många certifieringar du har. Vi lägger större vikt vid att du kan förstå problemet, skapa förtroende och driva en komplex leverans hela vägen fram.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan AI, affärssystem, integration och automation. Som Project Manager får du arbeta nära både tekniken och verksamheten och vara med där idéer blir till lösningar och nya arbetssätt.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -19363,11 +19059,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-23T17:01:48",
-    "last_publication_date": "2026-12-01T23:59:59",
+    "last_publication_date": "2026-12-03T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790911212382
+    "timestamp": 1791084013053
   },
   {
     "relevance": 1,
@@ -22736,150 +22432,6 @@
   },
   {
     "relevance": 1,
-    "id": "31498854",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31498854",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
-    "headline": "Systemingenjör Teknikkontor Gripen",
-    "application_deadline": "2026-10-05T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vi tror att framsteg och möjligheter skapas bäst tillsammans. Välkommen till en plats där samarbete gör skillnad.\n\n\n \n\nDin roll\n\nSAAB expanderar sin verksamhet inom Gripen systemet och söker nu en ny medarbetare till vårt team i Tannefors/Linköping. Avdelningen Production Delivery är en verksamhet som levererar nytillverkade Gripen samt utför underhåll, modifikationer och reparationer av Gripen systemet både inom och utanför Sveriges gränser.\n \nVi behöver utöka funktionen Systemingenjör Teknikkontor i Flygunderhållstjänst inom OLJSGF Leveranshangar. I sektionen ingår Tekknikkontor, Luftvärdighetskontor och Leveranskoordinering.\n \nI rollen som Systemingenjör Teknikkontor ansvarar du för att ge tekniskt stöd vid felsökning och funktionskörning av flygplan. Du säkerställer att erforderliga föreskrifter och underlag för funktionsuppkörning tas fram samt koordinerar seriekontrollflygningar för såväl Saab som våra kunder. I rollen ingår även att upprätta kontrollflygprotokoll och dokumentation kopplad till genomförda flygningar.\n \nArbetet bedrivs huvudsakligen inom ramen för leveransprocessen och gällande luftvärdighetskrav, där du kombinerar etablerade processer med egna tekniska analyser och välgrundade bedömningar utifrån verksamhetens och affärens mål.\n \nDu blir en del av en avdelning med ett brett tekniskt ansvar som står inför en spännande utvecklingsfas, präglad av högt tempo och stora leveransåtaganden - inte minst kopplat till produktion och leverans av Gripen E.\n \nArbetsuppgifterna består i korthet av:\n \n\nDefiniera åtgärd på flygplan vid felutfall utifrån godkända data.\n\n\nMGSS (ägande och administrationsansvarig).\n\n\nTeknisk briefing och debriefing vid flygning.\n\n\nUpprättar RÖF/RÖM vid flygning.\n\n\nKoordinering av serie- och kundflygningar.\n\n\nStöttning vid felsökning och funktionskörning till serieproduktion i hangar och slutmontering.\n\n\nUpprätta kontrollflygprotokoll från flygningar.\n\n\nTillser att funktionsuppkörningsföreskrifter upprättas.\n\n\n \n\n\nDin profil\n\nFör att trivas i rollen är du en prestigelös lagspelare som gärna delar med dig av din kompetens och stöttar dina kollegor när behov uppstår. Du är flexibel, lösningsorienterad och har ett positivt förhållningssätt, vilket bidrar till ett gott samarbete och ett effektivt arbetssätt.\n \nDu kommer att ingå i avdelningen Production Delivery, där vi värdesätter samarbete, engagemang och en stark teamkänsla. Tillsammans arbetar vi strukturerat och metodiskt för att möta våra utmaningar och leverera resultat med hög kvalitet.\n \n \nRollen innebär ett nära samarbete med flera av Saabs avdelningar och affärsenheter samt med externa samarbetspartners. Därför ser vi att du är kommunikativ, initiativtagande och har god förmåga att bygga och utveckla professionella relationer.\n \nTjänsten innebär även internationella resor, vilket förutsätter att du trivs med att resa i tjänsten.\n \nPlaceringsort är Linköping.\n \n \n\n\nKrav:\n\n\nGymnasial utbildning inom teknik/logistik, YH-utbildning inom flygteknik och/eller tidigare relevant arbetslivserfarenhet inom företrädesvis flygteknik.\n\n\nGoda kunskaper i engelska och svenska, både i tal och skrift.\n\n\nGoda datakunskaper.\n\n\nKörkort B\n\n\n\nMeriterande:\n\n\nTidigare arbete inom rollen som systemingenjör.\n\n\nGodkänd typutbildning på Gripen 39 C, D eller E.\n\n\nDokumenterad erfarenhet och djup systemkunskap inom gripensystemet, gärna i kombination med en bakgrund inom produktion/flygunderhåll samt erfarenhet av provnings- och systemarbete.\n\n\nErfarenhet av flygunderhållsverksamhet inom militära underhållstillstånd RML/EMAR Part 21G/ 145, Part M eller civilt Part 145, Part M.\n\n\nDokumenterad erfarenhet från affärssystem, främst ERP, FENIX, AMOS och Sherpa.\n\n\nErfarenhet av flygtjänst på Gripen som flygtekniker.\n\n\nGod social förmåga.\n\n\nFlexibel, förändringsbenägen och öppen för nya idéer.\n\n\nStort kontaktnät inom system-, konstruktions-, produktions-, och provavdelningar.\n\n\nKoordinationsförmåga.\n\n\nIntresse för att arbeta i grupp, god samarbetsförmåga.\n\n\nAdministrativ förmåga - ordningssinne och strukturerad.\n\n\nProblemlösande och ansvarstagande.\n\n\n \nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. \n \n \n\n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\n \nSaab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 26,100 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här\n\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut",
-      "text_formatted": "<p><em>Vi tror att framsteg och möjligheter skapas bäst tillsammans. Välkommen till en plats där samarbete gör skillnad.</em></p>\n\n \n\nDin roll\n\n<p>SAAB expanderar sin verksamhet inom Gripen systemet och söker nu en ny medarbetare till vårt team i Tannefors/Linköping. Avdelningen Production Delivery är en verksamhet som levererar nytillverkade Gripen samt utför underhåll, modifikationer och reparationer av Gripen systemet både inom och utanför Sveriges gränser.</p><p> </p><p>Vi behöver utöka funktionen Systemingenjör Teknikkontor i Flygunderhållstjänst inom OLJSGF Leveranshangar. I sektionen ingår Tekknikkontor, Luftvärdighetskontor och Leveranskoordinering.</p><p> </p><p>I rollen som Systemingenjör Teknikkontor ansvarar du för att ge tekniskt stöd vid felsökning och funktionskörning av flygplan. Du säkerställer att erforderliga föreskrifter och underlag för funktionsuppkörning tas fram samt koordinerar seriekontrollflygningar för såväl Saab som våra kunder. I rollen ingår även att upprätta kontrollflygprotokoll och dokumentation kopplad till genomförda flygningar.</p><p> </p><p>Arbetet bedrivs huvudsakligen inom ramen för leveransprocessen och gällande luftvärdighetskrav, där du kombinerar etablerade processer med egna tekniska analyser och välgrundade bedömningar utifrån verksamhetens och affärens mål.</p><p> </p><p>Du blir en del av en avdelning med ett brett tekniskt ansvar som står inför en spännande utvecklingsfas, präglad av högt tempo och stora leveransåtaganden - inte minst kopplat till produktion och leverans av Gripen E.</p><p> </p><p>Arbetsuppgifterna består i korthet av:</p><p> </p><ul><li><p>Definiera åtgärd på flygplan vid felutfall utifrån godkända data.</p></li><li><p>MGSS (ägande och administrationsansvarig).</p></li><li><p>Teknisk briefing och debriefing vid flygning.</p></li><li><p>Upprättar RÖF/RÖM vid flygning.</p></li><li><p>Koordinering av serie- och kundflygningar.</p></li><li><p>Stöttning vid felsökning och funktionskörning till serieproduktion i hangar och slutmontering.</p></li><li><p>Upprätta kontrollflygprotokoll från flygningar.</p></li><li><p>Tillser att funktionsuppkörningsföreskrifter upprättas.</p></li></ul><p> </p>\n\nDin profil\n\n<p>För att trivas i rollen är du en prestigelös lagspelare som gärna delar med dig av din kompetens och stöttar dina kollegor när behov uppstår. Du är flexibel, lösningsorienterad och har ett positivt förhållningssätt, vilket bidrar till ett gott samarbete och ett effektivt arbetssätt.</p><p> </p><p>Du kommer att ingå i avdelningen Production Delivery, där vi värdesätter samarbete, engagemang och en stark teamkänsla. Tillsammans arbetar vi strukturerat och metodiskt för att möta våra utmaningar och leverera resultat med hög kvalitet.</p><p> </p><p> </p><p>Rollen innebär ett nära samarbete med flera av Saabs avdelningar och affärsenheter samt med externa samarbetspartners. Därför ser vi att du är kommunikativ, initiativtagande och har god förmåga att bygga och utveckla professionella relationer.</p><p> </p><p>Tjänsten innebär även internationella resor, vilket förutsätter att du trivs med att resa i tjänsten.</p><p> </p><p>Placeringsort är Linköping.</p><p> </p><p> </p>\n\nKrav:\n\n<ul><li><p>Gymnasial utbildning inom teknik/logistik, YH-utbildning inom flygteknik och/eller tidigare relevant arbetslivserfarenhet inom företrädesvis flygteknik.</p></li><li><p>Goda kunskaper i engelska och svenska, både i tal och skrift.</p></li><li><p>Goda datakunskaper.</p></li><li><p>Körkort B</p></li></ul>\n\nMeriterande:\n\n<ul><li><p>Tidigare arbete inom rollen som systemingenjör.</p></li></ul><ul><li><p>Godkänd typutbildning på Gripen 39 C, D eller E.</p></li><li><p>Dokumenterad erfarenhet och djup systemkunskap inom gripensystemet, gärna i kombination med en bakgrund inom produktion/flygunderhåll samt erfarenhet av provnings- och systemarbete.</p></li><li><p>Erfarenhet av flygunderhållsverksamhet inom militära underhållstillstånd RML/EMAR Part 21G/ 145, Part M eller civilt Part 145, Part M.</p></li><li><p>Dokumenterad erfarenhet från affärssystem, främst ERP, FENIX, AMOS och Sherpa.</p></li><li><p>Erfarenhet av flygtjänst på Gripen som flygtekniker.</p></li><li><p>God social förmåga.</p></li><li><p>Flexibel, förändringsbenägen och öppen för nya idéer.</p></li><li><p>Stort kontaktnät inom system-, konstruktions-, produktions-, och provavdelningar.</p></li><li><p>Koordinationsförmåga.</p></li><li><p>Intresse för att arbeta i grupp, god samarbetsförmåga.</p></li><li><p>Administrativ förmåga - ordningssinne och strukturerad.</p></li><li><p>Problemlösande och ansvarstagande.</p></li></ul><p> </p><p>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. </p><p> </p><p> </p>\n\nVad du blir en del av\n\n<p>Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.</p><p> </p><p>Saab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 26,100 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.</p><p>Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här</p><p>\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560360793",
-      "name": "SAAB Aktiebolag",
-      "workplace": "Saab"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=ai5zYW5ncnVkLjI5ODkzLjEzNzY1QHNhYWIuYXBsaXRyYWsuY29t",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "CQse_CRd_snw",
-      "label": "Civilingenjör, systemutveckling",
-      "legacy_ams_taxonomy_id": "6509"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "58723",
-      "city": "Linköping",
-      "coordinates": [
-        15.662157896323846,
-        58.39643660527521
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "58723",
-        "city": "Linköping",
-        "coordinates": [
-          15.662157896323846,
-          58.39643660527521
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-21T09:15:46",
-    "last_publication_date": "2026-10-05T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789974946175
-  },
-  {
-    "relevance": 1,
     "id": "31498833",
     "external_id": null,
     "original_id": null,
@@ -23021,150 +22573,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1789974803392
-  },
-  {
-    "relevance": 1,
-    "id": "31498798",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31498798",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
-    "headline": "Systemingenjör Teknikkontor Gripen",
-    "application_deadline": "2026-10-05T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vi tror att framsteg och möjligheter skapas bäst tillsammans. Välkommen till en plats där samarbete gör skillnad.\n\n\n \n\nDin roll\n\nSAAB expanderar sin verksamhet inom Gripen systemet och söker nu en ny medarbetare till vårt team i Tannefors/Linköping. Avdelningen Production Delivery är en verksamhet som levererar nytillverkade Gripen samt utför underhåll, modifikationer och reparationer av Gripen systemet både inom och utanför Sveriges gränser.\n \nI rollen som Systemingenjör Teknikkontor ansvarar du för att ge tekniskt stöd vid felsökning och funktionskörning av flygplan. Du säkerställer att erforderliga föreskrifter och underlag för funktionsuppkörning tas fram samt koordinerar seriekontrollflygningar för såväl Saab som våra kunder. I rollen ingår även att upprätta kontrollflygprotokoll och dokumentation kopplad till genomförda flygningar.\n \n \nArbetet bedrivs huvudsakligen inom ramen för leveransprocessen och gällande luftvärdighetskrav, där du kombinerar etablerade processer med egna tekniska analyser och välgrundade bedömningar utifrån verksamhetens och affärens mål.\n \nDu blir en del av en avdelning med ett brett tekniskt ansvar som står inför en spännande utvecklingsfas, präglad av högt tempo och stora leveransåtaganden - inte minst kopplat till produktion och leverans av Gripen E.\n \nArbetsuppgifterna består i korthet av:\n \n\nDefiniera åtgärd på flygplan vid felutfall utifrån godkända data.\n\n\nMGSS (ägande och administrationsansvarig).\n\n\nTeknisk briefing och debriefing vid flygning.\n\n\nUpprättar RÖF/RÖM vid flygning.\n\n\nKoordinering av serie- och kundflygningar.\n\n\nStöttning vid felsökning och funktionskörning till serieproduktion i hangar och slutmontering.\n\n\nUpprätta kontrollflygprotokoll från flygningar.\n\n\nTillser att funktionsuppkörningsföreskrifter upprättas.\n\n\n \n\n\nDin profil\n\nFör att trivas i rollen är du en prestigelös lagspelare som gärna delar med dig av din kompetens och stöttar dina kollegor när behov uppstår. Du är flexibel, lösningsorienterad och har ett positivt förhållningssätt, vilket bidrar till ett gott samarbete och ett effektivt arbetssätt.\n \nDu kommer att ingå i avdelningen Production Delivery, där vi värdesätter samarbete, engagemang och en stark teamkänsla. Tillsammans arbetar vi strukturerat och metodiskt för att möta våra utmaningar och leverera resultat med hög kvalitet.\n \n \nRollen innebär ett nära samarbete med flera av Saabs avdelningar och affärsenheter samt med externa samarbetspartners. Därför ser vi att du är kommunikativ, initiativtagande och har god förmåga att bygga och utveckla professionella relationer.\n \nTjänsten innebär även internationella resor, vilket förutsätter att du trivs med att resa i tjänsten.\n \nPlaceringsort är Linköping.\n \n \n\n\nKrav:\n\n\nGymnasial utbildning inom teknik/logistik, YH-utbildning inom flygteknik och/eller tidigare relevant arbetslivserfarenhet inom företrädesvis flygteknik.\n\n\nGoda kunskaper i engelska och svenska, både i tal och skrift.\n\n\nGoda datakunskaper.\n\n\nKörkort B\n\n\n\nMeriterande:\n\n\nTidigare arbete inom rollen som systemingenjör.\n\n\nGodkänd typutbildning på Gripen 39 C, D eller E.\n\n\nDokumenterad erfarenhet och djup systemkunskap inom gripensystemet, gärna i kombination med en bakgrund inom produktion/flygunderhåll samt erfarenhet av provnings- och systemarbete.\n\n\nErfarenhet av flygunderhållsverksamhet inom militära underhållstillstånd RML/EMAR Part 21G/ 145, Part M eller civilt Part 145, Part M.\n\n\nDokumenterad erfarenhet från affärssystem, främst ERP, FENIX, AMOS och Sherpa.\n\n\nErfarenhet av flygtjänst på Gripen som flygtekniker.\n\n\nGod social förmåga.\n\n\nFlexibel, förändringsbenägen och öppen för nya idéer.\n\n\nStort kontaktnät inom system-, konstruktions-, produktions-, och provavdelningar.\n\n\nKoordinationsförmåga.\n\n\nIntresse för att arbeta i grupp, god samarbetsförmåga.\n\n\nAdministrativ förmåga - ordningssinne och strukturerad.\n\n\nProblemlösande och ansvarstagande.\n\n\n \nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. \n \nVälkommen med din ansökan!\n \n\n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\n \nSaab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 26,100 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här\n\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut",
-      "text_formatted": "<p><em>Vi tror att framsteg och möjligheter skapas bäst tillsammans. Välkommen till en plats där samarbete gör skillnad.</em></p>\n\n \n\nDin roll\n\n<p>SAAB expanderar sin verksamhet inom Gripen systemet och söker nu en ny medarbetare till vårt team i Tannefors/Linköping. Avdelningen Production Delivery är en verksamhet som levererar nytillverkade Gripen samt utför underhåll, modifikationer och reparationer av Gripen systemet både inom och utanför Sveriges gränser.</p><p> </p><p>I rollen som Systemingenjör Teknikkontor ansvarar du för att ge tekniskt stöd vid felsökning och funktionskörning av flygplan. Du säkerställer att erforderliga föreskrifter och underlag för funktionsuppkörning tas fram samt koordinerar seriekontrollflygningar för såväl Saab som våra kunder. I rollen ingår även att upprätta kontrollflygprotokoll och dokumentation kopplad till genomförda flygningar.</p><p> </p><p> </p><p>Arbetet bedrivs huvudsakligen inom ramen för leveransprocessen och gällande luftvärdighetskrav, där du kombinerar etablerade processer med egna tekniska analyser och välgrundade bedömningar utifrån verksamhetens och affärens mål.</p><p> </p><p>Du blir en del av en avdelning med ett brett tekniskt ansvar som står inför en spännande utvecklingsfas, präglad av högt tempo och stora leveransåtaganden - inte minst kopplat till produktion och leverans av Gripen E.</p><p> </p><p>Arbetsuppgifterna består i korthet av:</p><p> </p><ul><li><p>Definiera åtgärd på flygplan vid felutfall utifrån godkända data.</p></li><li><p>MGSS (ägande och administrationsansvarig).</p></li><li><p>Teknisk briefing och debriefing vid flygning.</p></li><li><p>Upprättar RÖF/RÖM vid flygning.</p></li><li><p>Koordinering av serie- och kundflygningar.</p></li><li><p>Stöttning vid felsökning och funktionskörning till serieproduktion i hangar och slutmontering.</p></li><li><p>Upprätta kontrollflygprotokoll från flygningar.</p></li><li><p>Tillser att funktionsuppkörningsföreskrifter upprättas.</p></li></ul><p> </p>\n\nDin profil\n\n<p>För att trivas i rollen är du en prestigelös lagspelare som gärna delar med dig av din kompetens och stöttar dina kollegor när behov uppstår. Du är flexibel, lösningsorienterad och har ett positivt förhållningssätt, vilket bidrar till ett gott samarbete och ett effektivt arbetssätt.</p><p> </p><p>Du kommer att ingå i avdelningen Production Delivery, där vi värdesätter samarbete, engagemang och en stark teamkänsla. Tillsammans arbetar vi strukturerat och metodiskt för att möta våra utmaningar och leverera resultat med hög kvalitet.</p><p> </p><p> </p><p>Rollen innebär ett nära samarbete med flera av Saabs avdelningar och affärsenheter samt med externa samarbetspartners. Därför ser vi att du är kommunikativ, initiativtagande och har god förmåga att bygga och utveckla professionella relationer.</p><p> </p><p>Tjänsten innebär även internationella resor, vilket förutsätter att du trivs med att resa i tjänsten.</p><p> </p><p>Placeringsort är Linköping.</p><p> </p><p> </p>\n\nKrav:\n\n<ul><li><p>Gymnasial utbildning inom teknik/logistik, YH-utbildning inom flygteknik och/eller tidigare relevant arbetslivserfarenhet inom företrädesvis flygteknik.</p></li><li><p>Goda kunskaper i engelska och svenska, både i tal och skrift.</p></li><li><p>Goda datakunskaper.</p></li><li><p>Körkort B</p></li></ul>\n\nMeriterande:\n\n<ul><li><p>Tidigare arbete inom rollen som systemingenjör.</p></li></ul><ul><li><p>Godkänd typutbildning på Gripen 39 C, D eller E.</p></li><li><p>Dokumenterad erfarenhet och djup systemkunskap inom gripensystemet, gärna i kombination med en bakgrund inom produktion/flygunderhåll samt erfarenhet av provnings- och systemarbete.</p></li><li><p>Erfarenhet av flygunderhållsverksamhet inom militära underhållstillstånd RML/EMAR Part 21G/ 145, Part M eller civilt Part 145, Part M.</p></li><li><p>Dokumenterad erfarenhet från affärssystem, främst ERP, FENIX, AMOS och Sherpa.</p></li><li><p>Erfarenhet av flygtjänst på Gripen som flygtekniker.</p></li><li><p>God social förmåga.</p></li><li><p>Flexibel, förändringsbenägen och öppen för nya idéer.</p></li><li><p>Stort kontaktnät inom system-, konstruktions-, produktions-, och provavdelningar.</p></li><li><p>Koordinationsförmåga.</p></li><li><p>Intresse för att arbeta i grupp, god samarbetsförmåga.</p></li><li><p>Administrativ förmåga - ordningssinne och strukturerad.</p></li><li><p>Problemlösande och ansvarstagande.</p></li></ul><p> </p><p>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. </p><p> </p><p>Välkommen med din ansökan!</p><p> </p>\n\nVad du blir en del av\n\n<p>Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.</p><p> </p><p>Saab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 26,100 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.</p><p>Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här</p><p>\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560360793",
-      "name": "SAAB Aktiebolag",
-      "workplace": "Saab"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=ai5zYW5ncnVkLjIxMTI0LjEzNzY1QHNhYWIuYXBsaXRyYWsuY29t",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "CQse_CRd_snw",
-      "label": "Civilingenjör, systemutveckling",
-      "legacy_ams_taxonomy_id": "6509"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "58723",
-      "city": "Linköping",
-      "coordinates": [
-        15.662157896323846,
-        58.39643660527521
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "58723",
-        "city": "Linköping",
-        "coordinates": [
-          15.662157896323846,
-          58.39643660527521
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-21T09:09:10",
-    "last_publication_date": "2026-10-05T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789974550131
   },
   {
     "relevance": 1,
@@ -26745,17 +26153,17 @@
     },
     "application_contacts": [
       {
-        "name": "Charlott Olsson",
-        "description": null,
-        "email": null,
-        "telephone": "010-4859186",
-        "contact_type": null
-      },
-      {
         "name": "Roger Newman",
         "description": null,
         "email": null,
         "telephone": "010-4852506",
+        "contact_type": null
+      },
+      {
+        "name": "Charlott Olsson",
+        "description": null,
+        "email": null,
+        "telephone": "010-4859186",
         "contact_type": null
       }
     ],
@@ -30138,13 +29546,6 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Mathias Pantzar",
         "description": null,
         "email": "Mathias.Pantzar@kriminalvarden.se",
@@ -30152,16 +29553,23 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -34075,203 +33483,6 @@
   },
   {
     "relevance": 1,
-    "id": "31418841",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31418841",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5568787864/logotyper/logo.png",
-    "headline": "React / Redux - Webbutvecklare till TaxiCaller i Linköping",
-    "application_deadline": "2026-10-03T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vi söker nu en vass webbutvecklare som vill vara med och utveckla vår mobility as a service-plattform.\n\n\nOm dig \nVi söker dig som ständigt håller dig ajour med de senaste teknologierna inom webb-utveckling.\nVi söker dig som passar in på följande beskrivning:\n* Vass på React, Redux och Ajax.\n* Erfarenhet av Node.js.\n* Bra driv och kan jobba självständigt. \n\n\nOm dina arbetsuppgifter\nDu kommer att jobba med utvecklingen av gränssnittet till TaxiCallers dynamiska webb-appar. Dessa innefattar ett trafikledningssystem som körs i realtid på webben, konfigurationssidor och publika sidor.\nDu kommer ha stora möjligheter att påverka dina dagliga arbetsuppgifter och du kommer att jobba mycket tätt med vår CTO.\nVi arbetar agilt enligt Scrum.\n\n\nOm oss\nTaxiCaller grundades 2011 och har utvecklat en mobility as a service-plattform som snabbt har nått internationella framgångar och används idag av transportbolag i hela världen. Inledningsvis var vårt fokus på erbjuda vårt system till taxibolag, men vi har nu breddat oss och erbjuder vårt system till andra typer av transportbolag också, t.ex. bussbolag. \nVårt system är revolutionerande i och med att vi hela tiden använder den senaste teknologin inom både webb-lösningar och smarta mobiler (iPhone och Android). Vi upplever en stark efterfrågan på vår produkt och vi behöver därför utöka vår utvecklingsavdelning.\nVi har vårt huvudkontor på Mjärdevi i Linköping. \nMer information om oss finner du på: www.taxicaller.com och www.linkedin.com/company/taxicaller",
-      "text_formatted": "<p>Vi söker nu en vass webbutvecklare som vill vara med och utveckla vår mobility as a service-plattform.</p><p><br></p><p><strong>Om dig </strong></p><p>Vi söker dig som ständigt håller dig ajour med de senaste teknologierna inom webb-utveckling.</p><p>Vi söker dig som passar in på följande beskrivning:</p><p>* Vass på React, Redux och Ajax.</p><p>* Erfarenhet av Node.js.</p><p>* Bra driv och kan jobba självständigt. </p><p><br></p><p><strong>Om dina arbetsuppgifter</strong></p><p>Du kommer att jobba med utvecklingen av gränssnittet till TaxiCallers dynamiska webb-appar. Dessa innefattar ett trafikledningssystem som körs i realtid på webben, konfigurationssidor och publika sidor.</p><p>Du kommer ha stora möjligheter att påverka dina dagliga arbetsuppgifter och du kommer att jobba mycket tätt med vår CTO.</p><p>Vi arbetar agilt enligt Scrum.</p><p><br></p><p><strong>Om oss</strong></p><p>TaxiCaller grundades 2011 och har utvecklat en mobility as a service-plattform som snabbt har nått internationella framgångar och används idag av transportbolag i hela världen. Inledningsvis var vårt fokus på erbjuda vårt system till taxibolag, men vi har nu breddat oss och erbjuder vårt system till andra typer av transportbolag också, t.ex. bussbolag. </p><p>Vårt system är revolutionerande i och med att vi hela tiden använder den senaste teknologin inom både webb-lösningar och smarta mobiler (iPhone och Android). Vi upplever en stark efterfrågan på vår produkt och vi behöver därför utöka vår utvecklingsavdelning.</p><p>Vi har vårt huvudkontor på Mjärdevi i Linköping. </p><p>Mer information om oss finner du på: www.taxicaller.com och www.linkedin.com/company/taxicaller </p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "http://www.taxicaller.com",
-      "organization_number": "5568787864",
-      "name": "TaxiCaller Nordic AB",
-      "workplace": "Taxicaller Nordic AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": "software.jobs@taxicaller.com",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Diskettgatan 11A",
-      "postcode": "58335",
-      "city": "Linköping",
-      "coordinates": [
-        15.621373,
-        58.41081
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Diskettgatan 11A",
-        "postcode": "58335",
-        "city": "Linköping",
-        "coordinates": [
-          15.621373,
-          58.41081
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "AfJ4_Pvv_YBa",
-          "label": "Webbutveckling",
-          "legacy_ams_taxonomy_id": "607590"
-        },
-        {
-          "weight": null,
-          "concept_id": "D7Ns_RG6_hD2",
-          "label": "Systemutveckling",
-          "legacy_ams_taxonomy_id": "5788"
-        },
-        {
-          "weight": null,
-          "concept_id": "iUew_moc_BRk",
-          "label": "Programmering",
-          "legacy_ams_taxonomy_id": "605702"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "fg7B_yov_smw",
-          "label": "Systemutvecklare/Programmerare",
-          "legacy_ams_taxonomy_id": "2419"
-        }
-      ],
-      "education": [
-        {
-          "weight": 10,
-          "concept_id": "FHxz_HhN_3Mk",
-          "label": "Data",
-          "legacy_ams_taxonomy_id": "14"
-        }
-      ],
-      "education_level": [
-        {
-          "weight": 10,
-          "concept_id": "asZm_TEQ_Srk",
-          "label": "Eftergymnasial utbildning två år eller längre",
-          "legacy_ams_taxonomy_id": "6"
-        }
-      ]
-    },
-    "nice_to_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "euH8_yAp_hiG",
-          "label": "CSS, stilmall",
-          "legacy_ams_taxonomy_id": "605334"
-        },
-        {
-          "weight": null,
-          "concept_id": "K8eq_sEz_eXV",
-          "label": "HTML, programmeringsspråk",
-          "legacy_ams_taxonomy_id": "200029"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-03T00:00:00",
-    "last_publication_date": "2026-10-03T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1788181675677
-  },
-  {
-    "relevance": 1,
     "id": "31429341",
     "external_id": null,
     "original_id": null,
@@ -34722,150 +33933,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1788263411920
-  },
-  {
-    "relevance": 1,
-    "id": "31420858",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31420858",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5565482071/logotyper/logo.png",
-    "headline": "Mjukvaruingenjörer",
-    "application_deadline": "2026-10-03T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Mjukvaruingenjör till IKG\nVill du utveckla framtidens produkter tillsammans med några av Sveriges ledande teknikföretag? På IKG söker vi mjukvaruingenjörer som vill kombinera teknisk utveckling med trygghet, gemenskap och långsiktig karriärutveckling.\nDin roll\nSom mjukvaruingenjör hos IKG blir du en del av våra kunders utvecklingsteam och bidrar till innovativa lösningar inom olika teknikområden. Du arbetar i utvecklande miljöer där du får möjlighet att vara med genom hela utvecklingsprocessen, från kravställning och design till implementation, testning och driftsättning.\nBeroende på uppdrag kan du exempelvis arbeta med:\n\nDesign och utveckling av mjukvarulösningar\n\n\nEmbeddedutveckling och realtidssystem\n\n\nApplikations- och systemutveckling\n\n\nTest, verifiering och kvalitetssäkring\n\n\nSystemintegration och felsökning\n\n\nAgila utvecklingsmetoder och tvärfunktionella team\n\n\nHos oss får du möjlighet att arbeta med varierande tekniker, produkter och system samtidigt som du utvecklar både din kompetens och ditt professionella nätverk.\nVi söker dig som\nÄr civil- eller högskoleingenjör inom datateknik, mjukvaruutveckling, teknisk fysik eller motsvarande\n\n\nHar erfarenhet av mjukvaruutveckling, gärna i produktutvecklande verksamhet\n\n\nHar goda kunskaper i ett eller flera programmeringsspråk, exempelvis C, C++, C#, Python eller Java\n\n\nHar god förståelse för samspelet mellan elektronik, mjukvara och realtidskrav\n\n\nHar ett stort teknikintresse och gillar att lösa komplexa problem\n\n\nKommunicerar obehindrat på svenska och engelska, både i tal och skrift\n\n\nHar svenskt medborgarskap då flera av våra uppdrag finns inom försvarsindustrin\n\n\nVi lägger stor vikt vid dina personliga egenskaper och söker dig som är nyfiken, ansvarstagande och trivs med att samarbeta för att skapa smarta och hållbara lösningar.\nDärför väljer ingenjörer IKG\nPå IKG kombinerar vi tryggheten hos en etablerad arbetsgivare med möjligheten att arbeta i framkant hos spännande kunder. Vi tror att människor utvecklas bäst när de känner delaktighet, får rätt förutsättningar och har kul på vägen.\nHos oss får du bland annat:\n✅ Fast månadslön, oavsett uppdrag ✅ Sex veckors betald semester ✅ Friskvårdsbidrag på 5 000 kronor per år ✅ Bonusmöjligheter på upp till 2 000 kronor per månad ✅ Kollektivavtal med tjänstepension, försäkringar och föräldraledighetstillägg ✅ Företagshälsovård ✅ Spännande och varierande uppdrag hos ledande teknikföretag ✅ Möjlighet att utveckla din kompetens inom olika tekniker, system och branscher ✅ Ett engagerat team och regelbundna aktiviteter, nätverksträffar och IKG-event\nVarför IKG?\nPå IKG är människan lika viktig som tekniken. Vår ambition är att alla konsulter ska ha rätt uppdrag, rätt förutsättningar och möjlighet att utvecklas över tid. Genom nära dialog med din konsultchef och en kultur som präglas av delaktighet, enkelhet, ansvar och resultat skapar vi en arbetsplats där du både kan växa och trivas.\nVi tror på långsiktiga relationer, både med våra kunder och våra medarbetare. Därför är vi måna om att hitta uppdrag som matchar just dina ambitioner, intressen och styrkor.\nVälkommen till IKG\nLåter det som nästa steg i din karriär? Vi ser fram emot att höra från dig!",
-      "text_formatted": "<strong>Mjukvaruingenjör till IKG</strong><p>Vill du utveckla framtidens produkter tillsammans med några av Sveriges ledande teknikföretag? På IKG söker vi mjukvaruingenjörer som vill kombinera teknisk utveckling med trygghet, gemenskap och långsiktig karriärutveckling.</p><strong>Din roll</strong><p>Som mjukvaruingenjör hos IKG blir du en del av våra kunders utvecklingsteam och bidrar till innovativa lösningar inom olika teknikområden. Du arbetar i utvecklande miljöer där du får möjlighet att vara med genom hela utvecklingsprocessen, från kravställning och design till implementation, testning och driftsättning.</p><p>Beroende på uppdrag kan du exempelvis arbeta med:</p><ul><li><p>Design och utveckling av mjukvarulösningar</p></li><li><p>Embeddedutveckling och realtidssystem</p></li><li><p>Applikations- och systemutveckling</p></li><li><p>Test, verifiering och kvalitetssäkring</p></li><li><p>Systemintegration och felsökning</p></li><li><p>Agila utvecklingsmetoder och tvärfunktionella team</p></li></ul><p>Hos oss får du möjlighet att arbeta med varierande tekniker, produkter och system samtidigt som du utvecklar både din kompetens och ditt professionella nätverk.</p><strong>Vi söker dig som</strong><ul><li><p>Är civil- eller högskoleingenjör inom datateknik, mjukvaruutveckling, teknisk fysik eller motsvarande</p></li><li><p>Har erfarenhet av mjukvaruutveckling, gärna i produktutvecklande verksamhet</p></li><li><p>Har goda kunskaper i ett eller flera programmeringsspråk, exempelvis C, C++, C#, Python eller Java</p></li><li><p>Har god förståelse för samspelet mellan elektronik, mjukvara och realtidskrav</p></li><li><p>Har ett stort teknikintresse och gillar att lösa komplexa problem</p></li><li><p>Kommunicerar obehindrat på svenska och engelska, både i tal och skrift</p></li><li><p>Har svenskt medborgarskap då flera av våra uppdrag finns inom försvarsindustrin</p></li></ul><p>Vi lägger stor vikt vid dina personliga egenskaper och söker dig som är nyfiken, ansvarstagande och trivs med att samarbeta för att skapa smarta och hållbara lösningar.</p><strong>Därför väljer ingenjörer IKG</strong><p>På IKG kombinerar vi tryggheten hos en etablerad arbetsgivare med möjligheten att arbeta i framkant hos spännande kunder. Vi tror att människor utvecklas bäst när de känner delaktighet, får rätt förutsättningar och har kul på vägen.</p><p>Hos oss får du bland annat:</p><p>✅ Fast månadslön, oavsett uppdrag ✅ Sex veckors betald semester ✅ Friskvårdsbidrag på 5 000 kronor per år ✅ Bonusmöjligheter på upp till 2 000 kronor per månad ✅ Kollektivavtal med tjänstepension, försäkringar och föräldraledighetstillägg ✅ Företagshälsovård ✅ Spännande och varierande uppdrag hos ledande teknikföretag ✅ Möjlighet att utveckla din kompetens inom olika tekniker, system och branscher ✅ Ett engagerat team och regelbundna aktiviteter, nätverksträffar och IKG-event</p><strong>Varför IKG?</strong><p>På IKG är människan lika viktig som tekniken. Vår ambition är att alla konsulter ska ha rätt uppdrag, rätt förutsättningar och möjlighet att utvecklas över tid. Genom nära dialog med din konsultchef och en kultur som präglas av delaktighet, enkelhet, ansvar och resultat skapar vi en arbetsplats där du både kan växa och trivas.</p><p>Vi tror på långsiktiga relationer, både med våra kunder och våra medarbetare. Därför är vi måna om att hitta uppdrag som matchar just dina ambitioner, intressen och styrkor.</p><strong>Välkommen till IKG</strong><p>Låter det som nästa steg i din karriär? Vi ser fram emot att höra från dig!</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://ikg.teamtailor.com",
-      "organization_number": "5565482071",
-      "name": "IKG Group AB",
-      "workplace": "IKG Group AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8270099-2171642",
-      "email": null,
-      "via_af": false,
-      "url": "https://ikg.teamtailor.com/jobs/8270099-mjukvaruingenjorer?promotion=2171642-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Södra Oskarsgatan 4",
-      "postcode": "58273",
-      "city": "Linkoping",
-      "coordinates": [
-        15.621635712936,
-        58.419756538071
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Södra Oskarsgatan 4",
-        "postcode": "58273",
-        "city": "Linkoping",
-        "coordinates": [
-          15.621635712936,
-          58.419756538071
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-01T08:07:08",
-    "last_publication_date": "2026-10-03T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1788242828431
   },
   {
     "relevance": 1,
