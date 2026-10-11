@@ -5871,18 +5871,18 @@
     },
     "application_contacts": [
       {
-        "name": "Jenny Andersson",
-        "description": null,
-        "email": "jenny.andersson@trafikverket.se",
-        "telephone": "0101243276",
-        "contact_type": "SACO"
-      },
-      {
         "name": "Jerry Onmalm",
         "description": null,
         "email": "jerry.onmalm@trafikverket.se",
         "telephone": "0101231784",
         "contact_type": "Rekryterande chef"
+      },
+      {
+        "name": "Nicklas Carlsson",
+        "description": null,
+        "email": "nicklas.carlsson@trafikverket.se",
+        "telephone": "0101257190",
+        "contact_type": "ST"
       },
       {
         "name": "Tony Ridderstedt",
@@ -5892,11 +5892,11 @@
         "contact_type": "SEKO"
       },
       {
-        "name": "Nicklas Carlsson",
+        "name": "Jenny Andersson",
         "description": null,
-        "email": "nicklas.carlsson@trafikverket.se",
-        "telephone": "0101257190",
-        "contact_type": "ST"
+        "email": "jenny.andersson@trafikverket.se",
+        "telephone": "0101243276",
+        "contact_type": "SACO"
       }
     ],
     "publication_date": "2026-10-07T14:32:35",
@@ -10294,9 +10294,9 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -10308,9 +10308,9 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -12550,18 +12550,18 @@
     },
     "application_contacts": [
       {
-        "name": "Maria Gustafsson",
-        "description": null,
-        "email": "maria.e.gustafsson@linkoping.se",
-        "telephone": "+4613263055",
-        "contact_type": "Områdeschef"
-      },
-      {
         "name": "Linus Wennerqvist",
         "description": null,
         "email": "linus.wennerqvist@linkoping.se",
         "telephone": "+4613205892",
         "contact_type": "HR-konsult"
+      },
+      {
+        "name": "Maria Gustafsson",
+        "description": null,
+        "email": "maria.e.gustafsson@linkoping.se",
+        "telephone": "+4613263055",
+        "contact_type": "Områdeschef"
       },
       {
         "name": "Per Magnusson",
@@ -12716,13 +12716,6 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
@@ -12735,6 +12728,13 @@
         "email": "lliam.segerberg@kriminalvarden.se",
         "telephone": "0767195648",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -13185,18 +13185,18 @@
     },
     "application_contacts": [
       {
-        "name": "Isabelle Aronsson",
-        "description": null,
-        "email": "isabelle.aronsson@friday.se",
-        "telephone": null,
-        "contact_type": "Recruiter"
-      },
-      {
         "name": "Hampus Kindgren",
         "description": null,
         "email": "hampus.kindgren@friday.se",
         "telephone": null,
         "contact_type": null
+      },
+      {
+        "name": "Isabelle Aronsson",
+        "description": null,
+        "email": "isabelle.aronsson@friday.se",
+        "telephone": null,
+        "contact_type": "Recruiter"
       }
     ],
     "publication_date": "2026-10-02T14:14:28",
@@ -14984,16 +14984,9 @@
     },
     "application_contacts": [
       {
-        "name": "Gunilla Togan Murad",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "+46114965297",
-        "contact_type": "Sektionschef"
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -15005,9 +14998,16 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Gunilla Togan Murad",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "+46114965297",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -18043,170 +18043,6 @@
   },
   {
     "relevance": 1,
-    "id": "31534288",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31534288",
-    "logo_url": null,
-    "headline": "Testledare SAP S/4HANA Service",
-    "application_deadline": "2026-10-10T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vi söker en Testledare som ska bygga upp och leda testarbetet inom Service i den svenska utrullningen av ett globalt SAP S/4HANA-program. Uppdraget är hos vår kund i Finspång och innebär att skapa struktur, utveckla teamets testförmåga och säkerställa att lösningen valideras mot verkliga serviceflöden.\n\n\nOm uppdraget\n– Bygga upp testorganisation, planering och arbetssätt för Service i linje med programmets övergripande testupplägg.\n– Identifiera kritiska affärsscenarier tillsammans med processansvariga och omsätta dem till testfall och testtäckning.\n– Säkerställa spårbarhet mellan verksamhetskrav, processer, scenarier och testresultat.\n– Planera och samordna integrationstest och UAT med verksamhet, IT och key users.\n– Driva defekthantering, prioritering, uppföljning och eskalering samt rapportera kvalitetsläge och risker.\n– Samordna beroenden till datamigrering, processdesign och utbildning.\n\n\nVi söker dig som\n– Har omfattande erfarenhet av testledning i större systemimplementationer eller transformationsprogram.\n– Har erfarenhet av SAP och förståelse för hur affärsprocesser, data och integrationer påverkar testarbetet.\n– Har förståelse för S/4HANA och templatebaserade införanden.\n– Har förmåga att omsätta verksamhetsbehov till testscenarier och skapa struktur i ett tvärfunktionellt team.\n– Har vana att samordna flera intressenter och kommunicera status, beroenden och kvalitetsrisker.\n– Har mycket god engelska i tal och skrift.\n\n\nMeriterande\n– Kunskap om serviceprocesser i SAP, särskilt serviceorder, serviceavtal, underhåll eller reparation.\n– Erfarenhet av integrationstest och UAT i större SAP-program.\n\n\nBra att veta\nOrt: Finspång.\n\n\nOBS: För att underlätta urvalet, skriv gärna i ansökan:\n– Nuvarande ort där du bor, och om du kan pendla eller flytta\n– Antal års relevant arbetserfarenhet\n– Tidigaste startdatum / uppsägningstid\n\n\nSkicka CV och några rader om dig till info@ndpconsult.se. Vi går igenom ansökningar löpande.\nRef. 16593",
-      "text_formatted": "<p>Vi söker en Testledare som ska bygga upp och leda testarbetet inom Service i den svenska utrullningen av ett globalt SAP S/4HANA-program. Uppdraget är hos vår kund i Finspång och innebär att skapa struktur, utveckla teamets testförmåga och säkerställa att lösningen valideras mot verkliga serviceflöden.</p><p><br></p><p>Om uppdraget</p><p>– Bygga upp testorganisation, planering och arbetssätt för Service i linje med programmets övergripande testupplägg.</p><p>– Identifiera kritiska affärsscenarier tillsammans med processansvariga och omsätta dem till testfall och testtäckning.</p><p>– Säkerställa spårbarhet mellan verksamhetskrav, processer, scenarier och testresultat.</p><p>– Planera och samordna integrationstest och UAT med verksamhet, IT och key users.</p><p>– Driva defekthantering, prioritering, uppföljning och eskalering samt rapportera kvalitetsläge och risker.</p><p>– Samordna beroenden till datamigrering, processdesign och utbildning.</p><p><br></p><p>Vi söker dig som</p><p>– Har omfattande erfarenhet av testledning i större systemimplementationer eller transformationsprogram.</p><p>– Har erfarenhet av SAP och förståelse för hur affärsprocesser, data och integrationer påverkar testarbetet.</p><p>– Har förståelse för S/4HANA och templatebaserade införanden.</p><p>– Har förmåga att omsätta verksamhetsbehov till testscenarier och skapa struktur i ett tvärfunktionellt team.</p><p>– Har vana att samordna flera intressenter och kommunicera status, beroenden och kvalitetsrisker.</p><p>– Har mycket god engelska i tal och skrift.</p><p><br></p><p>Meriterande</p><p>– Kunskap om serviceprocesser i SAP, särskilt serviceorder, serviceavtal, underhåll eller reparation.</p><p>– Erfarenhet av integrationstest och UAT i större SAP-program.</p><p><br></p><p>Bra att veta</p><p>Ort: Finspång.</p><p><br></p><p>OBS: För att underlätta urvalet, skriv gärna i ansökan:</p><p>– Nuvarande ort där du bor, och om du kan pendla eller flytta</p><p>– Antal års relevant arbetserfarenhet</p><p>– Tidigaste startdatum / uppsägningstid</p><p><br></p><p>Skicka CV och några rader om dig till info@ndpconsult.se. Vi går igenom ansökningar löpande.</p><p>Ref. 16593</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "http://ndpconsult.se",
-      "organization_number": "5593594830",
-      "name": "NDP IT AB",
-      "workplace": "NDP IT AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": "marcus.wannerfeldt95@hotmail.com",
-      "via_af": false,
-      "url": "http://ndpconsult.se",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "sUih_DqP_zQP",
-      "label": "Testledare/QA lead",
-      "legacy_ams_taxonomy_id": null
-    },
-    "occupation_group": {
-      "concept_id": "D9SL_mtn_vGM",
-      "label": "Systemtestare och testledare",
-      "legacy_ams_taxonomy_id": "2514"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Finspång",
-      "municipality_code": "0562",
-      "municipality_concept_id": "dMFe_J6W_iJv",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61230",
-      "city": "FINSPÅNG",
-      "coordinates": [
-        15.773928014465687,
-        58.7067505335797
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Finspång",
-        "municipality_code": "0562",
-        "municipality_concept_id": "dMFe_J6W_iJv",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "61230",
-        "city": "FINSPÅNG",
-        "coordinates": [
-          15.773928014465687,
-          58.7067505335797
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        },
-        {
-          "weight": 10,
-          "concept_id": "NVxJ_hLg_TYS",
-          "label": "Engelska",
-          "legacy_ams_taxonomy_id": "283"
-        }
-      ],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "sUih_DqP_zQP",
-          "label": "Testledare/QA lead",
-          "legacy_ams_taxonomy_id": null
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-29T23:34:50",
-    "last_publication_date": "2026-10-10T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1790717690666
-  },
-  {
-    "relevance": 1,
     "id": "31533848",
     "external_id": null,
     "original_id": null,
@@ -20961,9 +20797,16 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Niklas Aapola",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "niklas.aapola@kriminalvarden.se",
+        "telephone": "0114963681",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -20975,16 +20818,9 @@
         "contact_type": null
       },
       {
-        "name": "Niklas Aapola",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "niklas.aapola@kriminalvarden.se",
-        "telephone": "0114963681",
-        "contact_type": "Sektionschef"
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -21278,11 +21114,11 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Niklas Aapola",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
+        "email": "niklas.aapola@kriminalvarden.se",
+        "telephone": "0114963681",
+        "contact_type": "Sektionschef"
       },
       {
         "name": "Olof Carlstein (SEKO)",
@@ -21292,18 +21128,18 @@
         "contact_type": null
       },
       {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Niklas Aapola",
-        "description": null,
-        "email": "niklas.aapola@kriminalvarden.se",
-        "telephone": "0114963681",
-        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-09-29T10:20:28",
@@ -21451,11 +21287,11 @@
     },
     "application_contacts": [
       {
-        "name": "Niklas Aapola",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "niklas.aapola@kriminalvarden.se",
-        "telephone": "0114963681",
-        "contact_type": "Sektionschef"
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -21465,18 +21301,18 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Niklas Aapola",
+        "description": null,
+        "email": "niklas.aapola@kriminalvarden.se",
+        "telephone": "0114963681",
+        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-09-29T10:18:40",
@@ -21797,18 +21633,18 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Lieanne Sandelius",
         "description": null,
         "email": "Lieanne.Sandelius@kriminalvarden.se",
         "telephone": null,
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -22135,18 +21971,18 @@
     },
     "application_contacts": [
       {
-        "name": "Kim Tedenkvist",
-        "description": null,
-        "email": "kim.tedenkvist@regionostergotland.se",
-        "telephone": null,
-        "contact_type": "enhetschef"
-      },
-      {
         "name": "Magnus Bark, Vision",
         "description": null,
         "email": "magnus.bark@regionostergotland.se",
         "telephone": null,
         "contact_type": null
+      },
+      {
+        "name": "Kim Tedenkvist",
+        "description": null,
+        "email": "kim.tedenkvist@regionostergotland.se",
+        "telephone": null,
+        "contact_type": "enhetschef"
       }
     ],
     "publication_date": "2026-09-28T14:05:35",
@@ -22603,11 +22439,11 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Lieanne Sandelius",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
+        "email": "Lieanne.Sandelius@kriminalvarden.se",
+        "telephone": null,
+        "contact_type": "Gruppchef"
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -22617,18 +22453,18 @@
         "contact_type": null
       },
       {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Lieanne Sandelius",
-        "description": null,
-        "email": "Lieanne.Sandelius@kriminalvarden.se",
-        "telephone": null,
-        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-09-28T10:16:01",
@@ -24732,7 +24568,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519638",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Integration Consultant",
-    "application_deadline": "2026-12-09T23:59:59",
+    "application_deadline": "2026-12-10T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Integration Consultant som ser integration som mer än att flytta data från A till B. Du vill förstå vad som händer före och efter gränssnittet och bygga lösningar som fungerar även när processer, system och krav förändras.\n\nDu gillar tekniken och kan gå på djupet när det behövs, men vet också att en bra integration börjar med rätt problem. Hos oss arbetar du nära både kunden och tekniken, från felsökning av affärskritiska flöden till design av nya integrationer och framtida integrationslandskap.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\ndesigna, bygga och förvalta integrationer i SAP-landskap, ofta med SAP S/4HANA i centrum\narbeta med SAP Integration Suite, CPI och BTP, och ibland även äldre miljöer som SAP PI/PO\nbygga integrationer med API:er, OData, REST, SOAP, IDoc, EDI och eventdrivna mönster\nkoppla ihop SAP med andra affärssystem, molnplattformar, SaaS-tjänster och externa partners\narbeta med integrationsarkitektur och bidra i S/4HANA-transformationer där data, processer och system behöver fungera tillsammans\nta ansvar från behov och design till utveckling, test, driftsättning, felsökning och förvaltning\nsamarbeta med verksamhet, arkitekter och utvecklingsteam och utmana gamla arbetssätt när det finns ett enklare eller smartare sätt\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP-integration. Du känner dig trygg i att självständigt ta dig an integrationsfrågor och kan röra dig mellan verksamhet och teknik.\n\nExakt vilka tekniker du har arbetat mest med är mindre viktigt än att du förstår integration som helhet, kan sätta dig in i nya miljöer och tar ansvar för att lösningen faktiskt fungerar.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP-integration och minst en integrationsplattform eller integrationsstack\nförstår API:er, integrationsmönster, dataformat och hur system kommunicerar med varandra\nhar arbetat kundnära och kan översätta mellan verksamhet och teknik\ndriver saker framåt utan att behöva bli detaljstyrd\när pragmatisk och gillar att lösa riktiga problem, inte bara följa en kravlista\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndelar med dig av det du kan och tycker om att bygga tillsammans med andra\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av SAP S/4HANA, SAP Integration Suite, BTP, API Management, Azure, EDI, integrationsarkitektur eller större transformations- och implementationsprojekt. Erfarenhet av CI/CD, eventdriven integration eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -24861,11 +24697,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:03:46",
-    "last_publication_date": "2026-12-09T23:59:59",
+    "last_publication_date": "2026-12-10T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791602407033
+    "timestamp": 1791688807087
   },
   {
     "relevance": 1,
@@ -24876,7 +24712,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519624",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - Logistics",
-    "application_deadline": "2026-12-09T23:59:59",
+    "application_deadline": "2026-12-10T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom Logistics som gillar att få komplexa flöden att fungera i verkligheten. När material, lager, inköp, transport eller produktion inte hänger ihop vill du förstå hela flödet och vad som faktiskt behöver bli bättre.\n\nDu rör dig gärna mellan verksamheten och SAP. Du kan konfigurera lösningen, men börjar hellre med att förstå processen och var dagens arbetssätt skapar onödig friktion.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP-logistik och Supply Chain-processer, ofta med SAP S/4HANA i centrum\nanalysera behov och designa lösningar inom exempelvis lager, materialflöden, inköp, transport eller produktionsnära logistik\nkonfigurera och vidareutveckla lösningar inom ett eller flera områden som SAP MM, EWM, TM eller WM/LE\ndriva workshops och översätta verksamhetens behov till processdesign, funktionella krav och fungerande lösningar\narbeta enligt fit-to-standard och hjälpa kunder att göra kloka val mellan SAP-standard och kundanpassning\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\narbeta med integrationer och bidra i S/4HANA-transformationer, rollouts och andra förändringar där logistikflöden behöver fungera end-to-end\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP Logistics. Du känner dig trygg i att självständigt ta dig an funktionella frågor och kan röra dig mellan verksamhetsprocess, SAP-konfiguration och tekniska beroenden.\n\nDu behöver inte vara expert på alla logistikmoduler. Vi ser hellre att du har ordentlig erfarenhet inom ett eller flera områden och förstår hur de hänger ihop i ett större flöde.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP S/4HANA eller större SAP-miljöer inom logistik\nhar djupare kompetens inom ett eller flera områden som MM, EWM, TM, WM/LE eller angränsande processer\nförstår lager-, distributions-, material- eller försörjningsprocesser och kan prata om dem med verksamheten\nhar arbetat med krav, lösningsdesign, konfiguration och test\nförstår hur logistiklösningar integrerar med andra SAP-områden och externa system\ndriver saker framåt utan att behöva bli detaljstyrd och är pragmatisk i hur du löser problem\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av EWM, TM, fit-to-standard, tillverkande industri, produktionsintegration, datamigrering eller större S/4HANA-transformationer och rollouts. Erfarenhet av Fiori, BTP, API:er eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -25005,11 +24841,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:02:30",
-    "last_publication_date": "2026-12-09T23:59:59",
+    "last_publication_date": "2026-12-10T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791602408116
+    "timestamp": 1791688808624
   },
   {
     "relevance": 1,
@@ -25020,7 +24856,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519612",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - Finance",
-    "application_deadline": "2026-12-09T23:59:59",
+    "application_deadline": "2026-12-10T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom Finance som vill få ekonomiprocesser och SAP att hänga ihop på riktigt. För dig är en bra lösning inte bara korrekt konfiguration. Den ska gå att förstå, lita på och arbeta vidare med när verksamheten förändras.\n\nDu trivs när du får förstå varför en bokning blev fel, en fakturaprocess stannade eller ett flöde inte fungerar som tänkt. Du kan SAP, men vill lika gärna förstå ekonomifunktionen bakom.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP Finance och Controlling, ofta med SAP S/4HANA i centrum\nanalysera och utveckla processer inom exempelvis huvudbok, kundreskontra, leverantörsreskontra, anläggningar, controlling, bank och betalningar\nkonfigurera och vidareutveckla lösningar inom SAP FI och gärna även CO\ndriva workshops och översätta ekonomiprocesser och verksamhetsbehov till lösningsdesign och funktionella krav\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\narbeta med integrationer mellan Finance, andra SAP-områden och externa lösningar\nbidra i S/4HANA-transformationer, rollouts, datamigrering och andra förändringar där ekonomiprocesser behöver fungera end-to-end\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP Finance. Du känner dig trygg i att självständigt ta dig an funktionella frågor och kan röra dig mellan ekonomiprocess, SAP-konfiguration och tekniska beroenden.\n\nDu behöver inte kunna varje del av FI/CO. Det viktiga är att du har ordentlig erfarenhet inom ett eller flera Finance-områden och förstår hur de hänger ihop med resten av verksamheten.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP FI och gärna SAP CO\nförstår centrala ekonomiprocesser som GL, AP, AR och periodstängning\nhar arbetat med krav, lösningsdesign, konfiguration och test\nkan felsöka funktionella problem och förstå om orsaken ligger i process, konfiguration, masterdata eller integration\nförstår hur Finance integrerar med exempelvis Sales, Procurement, Logistics och externa system\nhar arbetat kundnära och kan prata lika naturligt med ekonomiavdelningen som med IT\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndriver saker framåt och kommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av SAP S/4HANA Finance, CO, Asset Accounting, bank och betalningar, svensk lokalisering, skatt, moms, e-fakturering eller större internationella rollouts. Erfarenhet av datamigrering, Fiori, Central Finance, BTP eller integrationer är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -25149,11 +24985,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:00:50",
-    "last_publication_date": "2026-12-09T23:59:59",
+    "last_publication_date": "2026-12-10T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791602409332
+    "timestamp": 1791688810896
   },
   {
     "relevance": 1,
@@ -25164,7 +25000,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519605",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - SD",
-    "application_deadline": "2026-12-09T23:59:59",
+    "application_deadline": "2026-12-10T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom SD som förstår att Order-to-Cash är mer än att skapa en order i SAP. Det handlar om hela kedjan från kund, pris och order till leverans, fakturering och uppföljning.\n\nDu kan SAP SD, men fastnar inte i transaktionerna. Du vill förstå kundens affär, varför processen ser ut som den gör och hur en bra lösning kan förenkla både vardagen för användarna och systemlandskapet runt omkring.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP Sales/SD och end-to-end-processer inom Order-to-Cash\nanalysera och utveckla processer för kundorder, prissättning, leverans, fakturering och returflöden\nkonfigurera och vidareutveckla SAP SD i S/4HANA och andra SAP-miljöer\ndriva workshops och översätta verksamhetens behov till processdesign, funktionella krav och fungerande lösningar\narbeta tvärfunktionellt med Finance, Logistics, Integration och masterdata\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\nbidra i S/4HANA-transformationer, rollouts och förändringar som kan omfatta datamigrering, test, cutover och hypercare\narbeta med frågor kring output, e-fakturering och andra gränssnitt där Order-to-Cash möter omvärlden\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP SD. Du känner dig trygg i att självständigt ta dig an funktionella frågor och förstår Order-to-Cash som en hel process, inte bara som en uppsättning SAP-transaktioner.\n\nDu kan röra dig mellan verksamhetsdialog, processdesign och hands-on konfiguration och är van att samarbeta över modulgränser.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP SD och gärna SAP S/4HANA\nhar god förståelse för Order-to-Cash från order och prissättning till leverans och fakturering\nhar arbetat med krav, lösningsdesign, konfiguration och test\nförstår integrationerna mellan SD, FI, MM, logistik och externa system\nkan ta fram funktionella specifikationer och arbeta nära utvecklare och integrationsspecialister när standard inte räcker\nhar arbetat kundnära och är trygg i workshops med både verksamhet och IT\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndriver saker framåt och kommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av större S/4HANA-transformationer, globala rollouts, processharmonisering, datamigrering, e-fakturering eller komplex prissättning och billing. Erfarenhet av Fiori, output management, aATP, integrationer, BTP eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -25293,11 +25129,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T09:59:54",
-    "last_publication_date": "2026-12-09T23:59:59",
+    "last_publication_date": "2026-12-10T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791602410365
+    "timestamp": 1791688812342
   },
   {
     "relevance": 1,
@@ -25308,7 +25144,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519307",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "AI Engineer",
-    "application_deadline": "2026-12-09T23:59:59",
+    "application_deadline": "2026-12-10T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en AI Engineer som vill bygga lösningar som faktiskt används i verksamheten. För dig är AI inte en demo vid sidan av, utan ett verktyg för att lösa riktiga problem, automatisera arbete och skapa bättre sätt att jobba.\n\nDu gillar att bygga, testa och få saker i produktion. Hos oss arbetar du nära både kunden och tekniken och behöver därför vara lika nyfiken på problemet som på modellen, arkitekturen eller verktyget som kan lösa det.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\ndesigna, bygga och vidareutveckla lösningar med generativ AI, LLM:er, agents och automation\nkoppla AI till affärssystem, dataplattformar, API:er och andra verksamhetskritiska system\nvälja rätt angreppssätt för exempelvis retrieval, tool use och agentbaserade flöden\nta lösningar från idé och proof of concept till robust implementation och produktion\narbeta med utvärdering, testning, säkerhet, behörigheter och spårbarhet\nsamarbeta nära kunder för att förstå processer, data och behov och omsätta dem till fungerande lösningar\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet inom systemutveckling, data, AI eller liknande och har byggt moderna AI-lösningar i praktiken.\n\nDu behöver inte komma från klassisk machine learning eller forskning. Det viktiga är att du kan bygga fungerande produkter, integrationer och automationer och förstår vad som krävs för att få dem att fungera utanför en demo.\n\nVi tror också att du:\n\när en stark utvecklare och känner dig hemma i exempelvis Python, TypeScript, C# eller liknande\nhar erfarenhet av LLM-baserade lösningar och hur de kopplas till data, verktyg och externa system\när van vid API:er, integrationer och moderna moln- och utvecklingsmiljöer\nförstår hur AI kan kopplas till ERP-miljöer som SAP, datalager och andra affärssystem\nkan resonera kring säkerhet, behörigheter och dataskydd\när pragmatisk, självgående och bekväm med att välja teknik utifrån problemet snarare än leverantören\nkan prata med både verksamheten och tekniska team\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av AI-agenter, moderna integrationsmönster för AI eller plattformar och modeller från exempelvis OpenAI, Anthropic eller Microsoft.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil teknisk grund, är nyfiken och vill fortsätta utvecklas tillsammans med oss.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan AI, affärssystem, integration och automation. Här får du arbeta nära de processer och system där AI faktiskt kan göra skillnad och samtidigt vara med och forma hur vi bygger vårt AI-erbjudande framåt.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -25437,11 +25273,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T09:58:10",
-    "last_publication_date": "2026-12-09T23:59:59",
+    "last_publication_date": "2026-12-10T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791602411408
+    "timestamp": 1791688813823
   },
   {
     "relevance": 1,
@@ -26165,16 +26001,9 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -26186,9 +26015,16 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -26338,13 +26174,6 @@
     },
     "application_contacts": [
       {
-        "name": "Tomas Friberg",
-        "description": null,
-        "email": "tomas.friberg@holmen.com",
-        "telephone": "+46733518252",
-        "contact_type": "IT Chef"
-      },
-      {
         "name": "Jonas Tauberman",
         "description": null,
         "email": "jonas.tauberman@holmen.com",
@@ -26357,6 +26186,13 @@
         "email": "fredrika.ringh@holmen.com",
         "telephone": "+46761195305",
         "contact_type": "HR Business Partner"
+      },
+      {
+        "name": "Tomas Friberg",
+        "description": null,
+        "email": "tomas.friberg@holmen.com",
+        "telephone": "+46733518252",
+        "contact_type": "IT Chef"
       }
     ],
     "publication_date": "2026-09-24T16:34:56",
@@ -26708,18 +26544,18 @@
     },
     "application_contacts": [
       {
-        "name": "Karin Jarheden",
-        "description": null,
-        "email": "karin.jarheden@liu.se",
-        "telephone": "+4613281856",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Andreas Göransson",
         "description": null,
         "email": "andreas.goransson@liu.se",
         "telephone": "+4613281030",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Karin Jarheden",
+        "description": null,
+        "email": "karin.jarheden@liu.se",
+        "telephone": "+4613281856",
+        "contact_type": "HR-partner"
       }
     ],
     "publication_date": "2026-09-24T14:20:49",
@@ -26867,18 +26703,18 @@
     },
     "application_contacts": [
       {
-        "name": "Karin Jarheden",
-        "description": null,
-        "email": "karin.jarheden@liu.se",
-        "telephone": "+4613281856",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Andreas Göransson",
         "description": null,
         "email": "andreas.goransson@liu.se",
         "telephone": "+4613281030",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Karin Jarheden",
+        "description": null,
+        "email": "karin.jarheden@liu.se",
+        "telephone": "+4613281856",
+        "contact_type": "HR-partner"
       }
     ],
     "publication_date": "2026-09-24T13:40:29",
@@ -27026,18 +26862,18 @@
     },
     "application_contacts": [
       {
-        "name": "Karin Jarheden",
-        "description": null,
-        "email": "karin.jarheden@liu.se",
-        "telephone": "+4613281856",
-        "contact_type": "HR-partner"
-      },
-      {
         "name": "Andreas Göransson",
         "description": null,
         "email": "andreas.goransson@liu.se",
         "telephone": "+4613281030",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Karin Jarheden",
+        "description": null,
+        "email": "karin.jarheden@liu.se",
+        "telephone": "+4613281856",
+        "contact_type": "HR-partner"
       }
     ],
     "publication_date": "2026-09-24T13:20:57",
@@ -28080,13 +27916,6 @@
     },
     "application_contacts": [
       {
-        "name": "Joakim Jederström",
-        "description": null,
-        "email": "joakim.jederstrom@linkoping.se",
-        "telephone": null,
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Per Magnusson",
         "description": null,
         "email": "per.o.magnusson@linkoping.se",
@@ -28099,6 +27928,13 @@
         "email": "Viktor.Olofsson@linkoping.se",
         "telephone": "+4613294761",
         "contact_type": "HR-Konsult"
+      },
+      {
+        "name": "Joakim Jederström",
+        "description": null,
+        "email": "joakim.jederstrom@linkoping.se",
+        "telephone": null,
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-09-23T17:11:30",
@@ -28117,7 +27953,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31513067",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "Project Manager – AI & Business Systems",
-    "application_deadline": "2026-12-09T23:59:59",
+    "application_deadline": "2026-12-10T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en Project Manager som vill leda förändring där verksamhet, affärssystem och ny teknik möts. För dig handlar projektledning inte bara om planer och deadlines, utan om att förstå vad som behöver förändras och få människor, teknik och beslut att dra åt samma håll.\n\nDu gillar att skapa struktur i komplexa sammanhang och röra dig mellan verksamheten och tekniska team. Hos oss kan projekten handla om AI, ERP och affärssystem, integrationer, automation eller andra digitala förändringar.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\nleda projekt från förstudie och behovsanalys till implementation och uppföljning\nskapa struktur kring mål, scope, plan, budget, risker, beroenden och beslut\nleda workshops och hjälpa verksamheten att konkretisera behov och målbild\növersätta mellan verksamhet, IT, utvecklingsteam, leverantörer och andra intressenter\narbeta nära tekniska team och förstå hur system, data, processer och integrationer påverkar leveransen\nkoordinera test, införande, förändring och övergång till förvaltning när det behövs\nskapa tydliga beslutsunderlag och kommunicera framdrift, risker och vägval\nutmana krav och arbetssätt när det finns ett bättre sätt att nå målet\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet av projektledning, verksamhetsutveckling eller digital transformation och har lett initiativ där verksamhet och IT behöver fungera tillsammans.\n\nDu behöver inte vara SAP-konsult, utvecklare eller AI Engineer. Däremot är du tekniskt nyfiken, kan snabbt sätta dig in i nya systemmiljöer och är bekväm med att arbeta nära både verksamheten och de som bygger lösningen.\n\nVi tror också att du:\n\nhar drivit IT-, system- eller transformationsprojekt från behov till genomförande\när van vid krav, processer, workshops och intressenthantering\nförstår grunderna i affärssystem, integrationer och data\nkan växla mellan helhet och detaljer och själv ta tag i analys eller krav när det behövs\nförstår att införande av ny teknik också handlar om människor, arbetssätt och förändring\nhar börjat använda AI som ett naturligt verktyg i ditt eget arbete\när tydlig, prestigelös och trygg i dialog med både projektteam och beslutsfattare\ndriver saker framåt utan att behöva bli detaljstyrd\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av ERP- eller affärssystemsprojekt, SAP, AI-initiativ, automation, integrationer, systemimplementationer eller större förändringsprogram.\n\nDet viktiga är inte vilken projektmodell du föredrar eller hur många certifieringar du har. Vi lägger större vikt vid att du kan förstå problemet, skapa förtroende och driva en komplex leverans hela vägen fram.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan AI, affärssystem, integration och automation. Som Project Manager får du arbeta nära både tekniken och verksamheten och vara med där idéer blir till lösningar och nya arbetssätt.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -28246,11 +28082,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-23T17:01:48",
-    "last_publication_date": "2026-12-09T23:59:59",
+    "last_publication_date": "2026-12-10T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791602412353
+    "timestamp": 1791688815439
   },
   {
     "relevance": 1,
@@ -30696,184 +30532,6 @@
   },
   {
     "relevance": 1,
-    "id": "31497412",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31497412",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5564519345/logotyper/logo.png",
-    "headline": "Java-utvecklare med Kotlin Linköping",
-    "application_deadline": "2026-10-11T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.\nMed några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.\nOm de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.\nSom konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.\nVem är du?\nPå Nexer i Linköping fortsätter vi att bygga vårt team – nu söker vi erfarna Javautvecklare med praktisk erfarenhet av Kotlin.\nDu kommer att spela en viktig roll i utvecklingen av moderna och hållbara digitala lösningar för kunder inom olika branscher – från industri till offentlig sektor. Som konsult hos oss arbetar du i varierande uppdrag och systemmiljöer, där du får möjlighet att utveckla såväl nya lösningar som befintliga system.\nVi söker dig som tycker om utveckling, gillar att lösa komplexa problem och ser programmering som ett hantverk. Du har flera års erfarenhet av systemutveckling med Java och har även arbetat professionellt med Kotlin. Du är van vid backendutveckling, API:er och databaser och trivs i miljöer där kvalitet, struktur och långsiktigt hållbar kod är viktigt.\nDu uppskattar också samarbetet runt utvecklingen – att diskutera tekniska lösningar, dela kunskap och tillsammans med andra hitta bra vägar framåt.\nVi ser gärna att du har erfarenhet av flera av följande områden:\n\nSpring/Spring Boot\n\n\nREST API:er och OpenAPI\n\n\nSQL och relationsdatabaser\n\n\nAutomatiserade tester\n\n\nCI/CD, exempelvis GitHub Actions, GitLab CI/CD eller Jenkins\n\n\nDocker och containerbaserade miljöer\n\n\nKubernetes\n\n\nMolnplattformar som Azure, AWS eller GCP\n\n\nFrontendutveckling, exempelvis React eller Angular\n\n\nHar du dessutom erfarenhet av mikrotjänstarkitektur, eventdrivna lösningar eller tekniker som Kafka är det ett plus. Erfarenhet av IoT, OPC UA eller MQTT är också ett plus i vissa av våra uppdrag.\nRollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i tal och skrift. Det är en viktig förutsättning för att lyckas i kunddialoger och i samarbetet med teamet.\nTjänsten är placerad i Linköping.\nVilka är vi på Nexer i Linköping?\nNexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.\nVåra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.\nOm du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.\nAnsökan\nDu är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.\nVi tar emot ansökningar löpande så vänta inte med att söka!\nLäs mer om Nexer här\nwww.nexergroup.com\n\n\n\n\n\n#LI-PS1",
-      "text_formatted": "<p>Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.</p><p>Med några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.</p><p>Om de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.</p><p>Som konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.</p><p><strong>Vem är du?</strong></p><p>På Nexer i Linköping fortsätter vi att bygga vårt team – nu söker vi erfarna Javautvecklare med praktisk erfarenhet av Kotlin.</p><p>Du kommer att spela en viktig roll i utvecklingen av moderna och hållbara digitala lösningar för kunder inom olika branscher – från industri till offentlig sektor. Som konsult hos oss arbetar du i varierande uppdrag och systemmiljöer, där du får möjlighet att utveckla såväl nya lösningar som befintliga system.</p><p>Vi söker dig som tycker om utveckling, gillar att lösa komplexa problem och ser programmering som ett hantverk. Du har flera års erfarenhet av systemutveckling med Java och har även arbetat professionellt med Kotlin. Du är van vid backendutveckling, API:er och databaser och trivs i miljöer där kvalitet, struktur och långsiktigt hållbar kod är viktigt.</p><p>Du uppskattar också samarbetet runt utvecklingen – att diskutera tekniska lösningar, dela kunskap och tillsammans med andra hitta bra vägar framåt.</p><p><strong>Vi ser gärna att du har erfarenhet av flera av följande områden:</strong></p><ul><li><p>Spring/Spring Boot</p></li><li><p>REST API:er och OpenAPI</p></li><li><p>SQL och relationsdatabaser</p></li><li><p>Automatiserade tester</p></li><li><p>CI/CD, exempelvis GitHub Actions, GitLab CI/CD eller Jenkins</p></li><li><p>Docker och containerbaserade miljöer</p></li><li><p>Kubernetes</p></li><li><p>Molnplattformar som Azure, AWS eller GCP</p></li><li><p>Frontendutveckling, exempelvis React eller Angular</p></li></ul><p>Har du dessutom erfarenhet av mikrotjänstarkitektur, eventdrivna lösningar eller tekniker som Kafka är det ett plus. Erfarenhet av IoT, OPC UA eller MQTT är också ett plus i vissa av våra uppdrag.</p><p>Rollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i tal och skrift. Det är en viktig förutsättning för att lyckas i kunddialoger och i samarbetet med teamet.</p><p>Tjänsten är placerad i Linköping.</p><p><strong>Vilka är vi på Nexer i Linköping?</strong></p><p>Nexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.</p><p>Våra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.</p><p>Om du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.</p><p><strong>Ansökan</strong></p><p>Du är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.</p><p>Vi tar emot ansökningar löpande så vänta inte med att söka!</p><p><strong>Läs mer om Nexer här</strong></p><p>www.nexergroup.com</p><p></p><p></p><p></p><p></p><p></p><p><em>#LI-PS1</em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://nexergroup.teamtailor.com",
-      "organization_number": "5564519345",
-      "name": "Nexer AB",
-      "workplace": "Nexer Group"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8405811-2205285",
-      "email": null,
-      "via_af": false,
-      "url": "https://nexergroup.teamtailor.com/jobs/8405811-java-utvecklare-med-kotlin-linkoping/applications/new?promotion=2205285-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": [
-      {
-        "concept_id": "VTK8_WRx_GcM",
-        "label": "B",
-        "legacy_ams_taxonomy_id": "3"
-      }
-    ],
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Ågatan 55A",
-      "postcode": "58222",
-      "city": "Linköping",
-      "coordinates": [
-        15.6201633880785,
-        58.4116310337894
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Ågatan 55A",
-        "postcode": "58222",
-        "city": "Linköping",
-        "coordinates": [
-          15.6201633880785,
-          58.4116310337894
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "jCsR_WQX_CKD",
-          "label": "Java, programmeringsspråk",
-          "legacy_ams_taxonomy_id": "200028"
-        }
-      ],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "fg7B_yov_smw",
-          "label": "Systemutvecklare/Programmerare",
-          "legacy_ams_taxonomy_id": "2419"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "Xakb_qAt_g9u",
-          "label": "Kotlin, programmeringsspråk",
-          "legacy_ams_taxonomy_id": "609327"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-19T13:46:48",
-    "last_publication_date": "2026-10-11T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789819144322
-  },
-  {
-    "relevance": 1,
     "id": "31496155",
     "external_id": null,
     "original_id": null,
@@ -31713,177 +31371,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1789719578534
-  },
-  {
-    "relevance": 1,
-    "id": "31492188",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31492188",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5564519345/logotyper/logo.png",
-    "headline": "Teknisk IT-projektledare Linköping",
-    "application_deadline": "2026-10-11T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.\nMed några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.\nOm de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.\nSom konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.\nVem är du?\nPå Nexer i Linköping fortsätter vi att stärka vårt team – nu söker vi erfarna IT-projektledare med teknisk förståelse och god förmåga att skapa struktur, samarbete och resultat i komplexa uppdrag.\nVi söker dig som har minst fem års erfarenhet av teknisk projektledning i IT-miljö och som vill arbeta nära kundens verksamhet och IT-organisation med att:\n\nLeda IT-projekt från förstudie och planering till genomförande och implementering\n\n\nDriva projekt inom exempelvis systeminföranden, systembyten, integrationer och digitalisering\n\n\nKoordinera olika kompetenser och intressenter inom verksamhet och IT\n\n\nSäkerställa framdrift, kvalitet, riskhantering och leverans mot uppsatta mål\n\n\nStötta kunden genom de förändringar som nya system, digitala lösningar och arbetssätt innebär\n\n\nSom senior projektledare får du en central roll i våra kunders IT-projekt. Du leder komplexa initiativ och fungerar som länken mellan verksamhet, tekniska specialister, leverantörer och andra intressenter. Du behöver inte vara den som utvecklar lösningen själv, men du har tillräcklig teknisk förståelse för att kunna föra kvalificerade dialoger, förstå tekniska beroenden och omsätta verksamhetens behov till genomförbara projekt.\nDu har erfarenhet av att självständigt driva komplexa IT-projekt där verksamhetens behov möter tekniska lösningar. Du är van att ta ansvar för helheten, hantera beroenden och hålla ihop olika kompetenser och intressenter genom projektets olika faser. Vi ser gärna att du har arbetat med etablerade projektmodeller som PPS, PRINCE2 eller motsvarande och har erfarenhet av agila arbetssätt.\nHar du även erfarenhet från offentlig sektor är det ett stort plus.\nRollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i såväl tal som skrift. Det är en förutsättning för att lyckas i våra kunddialoger och i teamet.\nSom person är du strukturerad och lösningsorienterad. Du trivs i en central roll i projekt och har lätt för att skapa förtroende. Du kommunicerar tydligt med olika målgrupper och håller ihop både detaljer och helhet. Du är van att arbeta självständigt, men gillar också att samarbeta med andra för att driva saker framåt.\nTjänsten är placerad i Linköping.\nVilka är vi på Nexer i Linköping?\nNexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.\nVåra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.\nOm du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.\nAnsökan\nDu är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.\nVi tar emot ansökningar löpande så vänta inte med att söka!\nLäs mer om Nexer här\nwww.nexergroup.com\n\n\n\n\n#LI-PS1",
-      "text_formatted": "<p>Sommaren börjar släppa taget och hösten närmar sig. Tempot skruvas upp igen, vardagen hittar tillbaka till sina rutiner – och kanske gör också tankarna på vad du vill framåt det.</p><p>Med några månader kvar av året kan det vara ett bra tillfälle att fundera över nästa steg. Kanske trivs du där du är, eller så börjar det kännas som att det är dags för något nytt. Ett nytt sammanhang, nya utmaningar eller helt enkelt en förändring inför nästa år.</p><p>Om de tankarna känns bekanta kanske det är hos Nexer som ditt nästa kapitel börjar.</p><p>Som konsult på Nexer får du arbeta med varierande uppdrag inom olika tekniker och branscher. Hos oss är varje uppdrag en chans att växa – vi tror stenhårt på utveckling. Vi tror också på en hållbar och långsiktig anställning, där kompetensutveckling och balans mellan arbete och fritid är självklara delar av vardagen.</p><p><strong>Vem är du?</strong></p><p>På Nexer i Linköping fortsätter vi att stärka vårt team – nu söker vi erfarna IT-projektledare med teknisk förståelse och god förmåga att skapa struktur, samarbete och resultat i komplexa uppdrag.</p><p>Vi söker dig som har minst fem års erfarenhet av teknisk projektledning i IT-miljö och som vill arbeta nära kundens verksamhet och IT-organisation med att:</p><ul><li><p>Leda IT-projekt från förstudie och planering till genomförande och implementering</p></li><li><p>Driva projekt inom exempelvis systeminföranden, systembyten, integrationer och digitalisering</p></li><li><p>Koordinera olika kompetenser och intressenter inom verksamhet och IT</p></li><li><p>Säkerställa framdrift, kvalitet, riskhantering och leverans mot uppsatta mål</p></li><li><p>Stötta kunden genom de förändringar som nya system, digitala lösningar och arbetssätt innebär</p></li></ul><p>Som senior projektledare får du en central roll i våra kunders IT-projekt. Du leder komplexa initiativ och fungerar som länken mellan verksamhet, tekniska specialister, leverantörer och andra intressenter. Du behöver inte vara den som utvecklar lösningen själv, men du har tillräcklig teknisk förståelse för att kunna föra kvalificerade dialoger, förstå tekniska beroenden och omsätta verksamhetens behov till genomförbara projekt.</p><p>Du har erfarenhet av att självständigt driva komplexa IT-projekt där verksamhetens behov möter tekniska lösningar. Du är van att ta ansvar för helheten, hantera beroenden och hålla ihop olika kompetenser och intressenter genom projektets olika faser. Vi ser gärna att du har arbetat med etablerade projektmodeller som PPS, PRINCE2 eller motsvarande och har erfarenhet av agila arbetssätt.</p><p>Har du även erfarenhet från offentlig sektor är det ett stort plus.</p><p>Rollen kräver att du obehindrat kan kommunicera på både svenska och engelska, i såväl tal som skrift. Det är en förutsättning för att lyckas i våra kunddialoger och i teamet.</p><p>Som person är du strukturerad och lösningsorienterad. Du trivs i en central roll i projekt och har lätt för att skapa förtroende. Du kommunicerar tydligt med olika målgrupper och håller ihop både detaljer och helhet. Du är van att arbeta självständigt, men gillar också att samarbeta med andra för att driva saker framåt.</p><p>Tjänsten är placerad i Linköping.</p><p><strong>Vilka är vi på Nexer i Linköping?</strong></p><p>Nexer i Linköping är en arbetsplats där kompetens, engagemang och samarbete står i centrum. Här möts du av ett tight och välkomnande team där varje individs unika talanger tas tillvara, och där prestigelöst kunskapsutbyte och stöd genomsyrar kulturen. Vi tror på att skapa rätt förutsättningar med fokus på dig – dina drivkrafter, ambitioner och utveckling. Hos oss får du möjlighet att växa både som person och i din yrkesroll.</p><p>Våra uppdrag finns inom offentlig sektor, industri, försvar och andra teknikdrivande branscher. Ibland arbetar du självständigt, ibland i team – ofta i en hybrid vardag som kombinerar kontor, kund och hemmakontor på ett sätt som passar både uppdraget och livet. Här blir du en del av en trygg och inspirerande gemenskap där balans och personlig utveckling värderas högt.</p><p>Om du gillar spännande uppdrag, trevliga kollegor och att utvecklas i din yrkesroll – då kommer du trivas hos oss på Nexer i Linköping.</p><p><strong>Ansökan</strong></p><p>Du är varmt välkommen att söka tjänsten genom att skicka in din ansökan här nedan. Enligt GDPR hanterar vi inte ansökningar via e-post men har du frågor om tjänsten eller Nexer är du välkommen att höra av dig till ansvarig rekryterare, Petra Sivefäldt, på petra.sivefaldt@nexergroup.com.</p><p>Vi tar emot ansökningar löpande så vänta inte med att söka!</p><p><strong>Läs mer om Nexer här</strong></p><p>www.nexergroup.com</p><p></p><p></p><p></p><p></p><p><em>#LI-PS1</em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://nexergroup.teamtailor.com",
-      "organization_number": "5564519345",
-      "name": "Nexer AB",
-      "workplace": "Nexer Group"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8384084-2202963",
-      "email": null,
-      "via_af": false,
-      "url": "https://nexergroup.teamtailor.com/jobs/8384084-teknisk-it-projektledare-linkoping/applications/new?promotion=2202963-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": [
-      {
-        "concept_id": "VTK8_WRx_GcM",
-        "label": "B",
-        "legacy_ams_taxonomy_id": "3"
-      }
-    ],
-    "occupation": {
-      "concept_id": "z5AM_ayf_WcL",
-      "label": "Projektledare, IT",
-      "legacy_ams_taxonomy_id": "5388"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Ågatan 55A",
-      "postcode": "58222",
-      "city": "Linköping",
-      "coordinates": [
-        15.6201633880785,
-        58.4116310337894
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Ågatan 55A",
-        "postcode": "58222",
-        "city": "Linköping",
-        "coordinates": [
-          15.6201633880785,
-          58.4116310337894
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "Pk2j_jXV_Y3j",
-          "label": "Projektledning, IT",
-          "legacy_ams_taxonomy_id": "607589"
-        }
-      ],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "z5AM_ayf_WcL",
-          "label": "Projektledare, IT",
-          "legacy_ams_taxonomy_id": "5388"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-18T08:43:51",
-    "last_publication_date": "2026-10-11T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789817065462
   },
   {
     "relevance": 1,
@@ -33084,294 +32571,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1789483039780
-  },
-  {
-    "relevance": 1,
-    "id": "31479860",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31479860",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5562473305/logotyper/logo.png",
-    "headline": "Vi söker fler mjukvaruutvecklare till Syntronic i Linköping!",
-    "application_deadline": "2026-10-10T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Syntronic fortsätter att växa och nu söker vi fler mjukvaruutvecklare som vill vara med och skapa framtidens tekniklösningar i Linköping!\nHos oss får du chansen att utvecklas i en miljö där innovation, samarbete och personlig utveckling står i fokus. Vi tror på att kombinera teknikglädje med omtanke, här stöttar vi varandra, delar kunskap och har roligt på vägen mot nya framgångar.\nHar du erfarenhet av mjukvaruutveckling? Grymt! Då kommer du snabbt att bli en viktig del av våra mer avancerade projekt, där du får bidra med din kompetens och inspirera kollegor som vill växa i sin roll.\nDu utgår från vårt kontor i Linköping, medan uppdrag ute hos kund kan finnas i Linköping och närliggande orter.\nVi söker mjukvaruutvecklare som har kunskap eller förståelse i något av dessa programmeringsspråk och verktyg:\n\nC\n\n\nC#\n\n\nC++\n\n\nJava\n\n\nPython\n\n\nGit\n\n\nMatlab\n\n\nVi önskar att du som mjukvaruutvecklare hos oss har:\n\nEn högskole- eller civilingenjörsexamen inom t.ex. Datavetenskap, Systemutveckling, Mjukvaruutveckling eller liknande\n\n\nMinst 3 eller fler års erfarenhet som mjukvaruutvecklare\n\n\nFörmåga att kommunicera flytande på både svenska och engelska i tal och skrift.\n\n\nSyntronic erbjuder en trygg anställning i en dynamisk och framåtriktad miljö. Att vi är ett team är vår styrka, därför ser vi att du arbetar tillsammans på plats med oss på kontoret – när du inte behövs hos någon av våra kunder förstås.\nVi erbjuder\nPå Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. Utöver detta får du förmånliga förmåner och försäkringar. Hos oss får du inte bara ett jobb - du får en plats att växa och trivas både personligt och professionellt. Välkommen till Syntronic!\nAnsökan\nVi ser fram emot din ansökan, som ska vara oss tillhanda senast 10/10. Vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdag.\nAv kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.\nVi kan använda AI och automatiserade verktyg som stöd i vår rekryteringsprocess. Alla beslut om urval och anställning fattas alltid av människor.",
-      "text_formatted": "<p>Syntronic fortsätter att växa och nu söker vi fler <strong>mjukvaruutvecklare</strong> som vill vara med och skapa framtidens tekniklösningar i Linköping!</p><p>Hos oss får du chansen att utvecklas i en miljö där <strong>innovation, samarbete och personlig utveckling</strong> står i fokus. Vi tror på att kombinera teknikglädje med omtanke, här stöttar vi varandra, delar kunskap och har roligt på vägen mot nya framgångar.</p><p>Har du erfarenhet av mjukvaruutveckling? Grymt! Då kommer du snabbt att bli en viktig del av våra mer avancerade projekt, där du får bidra med din kompetens och inspirera kollegor som vill växa i sin roll.</p><p>Du utgår från vårt kontor i Linköping, medan uppdrag ute hos kund kan finnas i Linköping och närliggande orter.</p><p><strong>Vi söker mjukvaruutvecklare som har kunskap eller förståelse i något av dessa programmeringsspråk och verktyg:</strong></p><ul><li><p>C</p></li><li><p>C#</p></li><li><p>C++</p></li><li><p>Java</p></li><li><p>Python</p></li><li><p>Git</p></li><li><p>Matlab</p></li></ul><p><strong>Vi önskar att du som mjukvaruutvecklare hos oss har:</strong></p><ul><li><p>En högskole- eller civilingenjörsexamen inom t.ex. Datavetenskap, Systemutveckling, Mjukvaruutveckling eller liknande</p></li><li><p>Minst 3 eller fler års erfarenhet som mjukvaruutvecklare</p></li><li><p>Förmåga att kommunicera flytande på både svenska och engelska i tal och skrift.</p></li></ul><p>Syntronic erbjuder en trygg anställning i en dynamisk och framåtriktad miljö. Att vi är ett team är vår styrka, därför ser vi att du arbetar tillsammans på plats med oss på kontoret – när du inte behövs hos någon av våra kunder förstås.</p><p><strong>Vi erbjuder</strong></p><p>På Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. Utöver detta får du förmånliga förmåner och försäkringar. Hos oss får du inte bara ett jobb - du får en plats att växa och trivas både personligt och professionellt. Välkommen till Syntronic!</p><p><strong>Ansökan</strong></p><p>Vi ser fram emot din ansökan, som ska vara oss tillhanda senast 10/10. Vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdag.</p><p>Av kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.</p><p>Vi kan använda AI och automatiserade verktyg som stöd i vår rekryteringsprocess. Alla beslut om urval och anställning fattas alltid av människor.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://jobsemea.syntronic.com",
-      "organization_number": "5562473305",
-      "name": "Syntronic Aktiebolag",
-      "workplace": "Syntronic "
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8382368-2197436",
-      "email": null,
-      "via_af": false,
-      "url": "https://jobsemea.syntronic.com/jobs/8382368-vi-soker-fler-mjukvaruutvecklare-till-syntronic-i-linkoping/applications/new?promotion=2197436-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Teknikringen 9",
-      "postcode": "58330",
-      "city": "Linköping",
-      "coordinates": [
-        15.5603999811247,
-        58.3930103636729
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Teknikringen 9",
-        "postcode": "58330",
-        "city": "Linköping",
-        "coordinates": [
-          15.5603999811247,
-          58.3930103636729
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-15T14:22:38",
-    "last_publication_date": "2026-10-10T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789474958927
-  },
-  {
-    "relevance": 1,
-    "id": "31479818",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31479818",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5562473305/logotyper/logo.png",
-    "headline": "Vi söker fler mjukvaruutvecklare till Syntronic i Linköping!",
-    "application_deadline": "2026-10-10T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Syntronic fortsätter att växa och nu söker vi fler mjukvaruutvecklare som vill vara med och skapa framtidens tekniklösningar!\nHos oss får du chansen att utvecklas i en miljö där innovation, samarbete och personlig utveckling står i fokus. Vi tror på att kombinera teknikglädje med omtanke, här stöttar vi varandra, delar kunskap och har roligt på vägen mot nya framgångar.\nHar du erfarenhet av mjukvaruutveckling? Grymt! Då kommer du snabbt att bli en viktig del av våra mer avancerade projekt, där du får bidra med din kompetens och inspirera kollegor som vill växa i sin roll.\nDu utgår från vårt kontor i Linköping, medan uppdrag ute hos kund kan finnas i Linköping och närliggande orter.\nVi söker mjukvaruutvecklare som har kunskap eller förståelse i något av dessa programmeringsspråk och verktyg:\n\nC\n\n\nC#\n\n\nC++\n\n\nJava\n\n\nPython\n\n\nGit\n\n\nMatlab\n\n\nVi önskar att du som mjukvaruutvecklare hos oss har:\n\nEn högskole- eller civilingenjörsexamen inom t.ex. Datavetenskap, Systemutveckling, Mjukvaruutveckling eller liknande\n\n\nMinst 3 eller fler års erfarenhet som mjukvaruutvecklare\n\n\nFörmåga att kommunicera flytande på både svenska och engelska i tal och skrift.\n\n\nSyntronic erbjuder en trygg anställning i en dynamisk och framåtriktad miljö. Att vi är ett team är vår styrka, därför ser vi att du arbetar tillsammans på plats med oss på kontoret – när du inte behövs hos någon av våra kunder förstås.\nVi erbjuder\nPå Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. \nAnsökan\nVi ser fram emot din ansökan, som ska vara oss tillhanda senast 10/10. Vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdag.\nAv kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.\nVi kan använda AI och automatiserade verktyg som stöd i vår rekryteringsprocess. Alla beslut om urval och anställning fattas alltid av människor.",
-      "text_formatted": "<p>Syntronic fortsätter att växa och nu söker vi fler <strong>mjukvaruutvecklare</strong> som vill vara med och skapa framtidens tekniklösningar!</p><p>Hos oss får du chansen att utvecklas i en miljö där <strong>innovation, samarbete och personlig utveckling</strong> står i fokus. Vi tror på att kombinera teknikglädje med omtanke, här stöttar vi varandra, delar kunskap och har roligt på vägen mot nya framgångar.</p><p>Har du erfarenhet av mjukvaruutveckling? Grymt! Då kommer du snabbt att bli en viktig del av våra mer avancerade projekt, där du får bidra med din kompetens och inspirera kollegor som vill växa i sin roll.</p><p>Du utgår från vårt kontor i Linköping, medan uppdrag ute hos kund kan finnas i Linköping och närliggande orter.</p><p><strong>Vi söker mjukvaruutvecklare som har kunskap eller förståelse i något av dessa programmeringsspråk och verktyg:</strong></p><ul><li><p>C</p></li><li><p>C#</p></li><li><p>C++</p></li><li><p>Java</p></li><li><p>Python</p></li><li><p>Git</p></li><li><p>Matlab</p></li></ul><p><strong>Vi önskar att du som mjukvaruutvecklare hos oss har:</strong></p><ul><li><p>En högskole- eller civilingenjörsexamen inom t.ex. Datavetenskap, Systemutveckling, Mjukvaruutveckling eller liknande</p></li><li><p>Minst 3 eller fler års erfarenhet som mjukvaruutvecklare</p></li><li><p>Förmåga att kommunicera flytande på både svenska och engelska i tal och skrift.</p></li></ul><p>Syntronic erbjuder en trygg anställning i en dynamisk och framåtriktad miljö. Att vi är ett team är vår styrka, därför ser vi att du arbetar tillsammans på plats med oss på kontoret – när du inte behövs hos någon av våra kunder förstås.</p><p><strong>Vi erbjuder</strong></p><p>På Syntronic blir du en del av en härlig gemenskap där din röst hörs och dina idéer välkomnas. Vi erbjuder flexibla arbetstider, balans mellan arbete och fritid samt regelbundna karriärutvecklingssamtal och interna workshops för din utveckling. </p><p><strong>Ansökan</strong></p><p>Vi ser fram emot din ansökan, som ska vara oss tillhanda senast 10/10. Vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdag.</p><p>Av kommunikation- och kvalitetssäkringsskäl ber vi dig att skicka in din ansökan digitalt via vårt system och inte via e-post.</p><p>Vi kan använda AI och automatiserade verktyg som stöd i vår rekryteringsprocess. Alla beslut om urval och anställning fattas alltid av människor.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://jobsemea.syntronic.com",
-      "organization_number": "5562473305",
-      "name": "Syntronic Aktiebolag",
-      "workplace": "Syntronic "
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8382291-2197430",
-      "email": null,
-      "via_af": false,
-      "url": "https://jobsemea.syntronic.com/jobs/8382291-vi-soker-fler-mjukvaruutvecklare-till-syntronic-i-linkoping/applications/new?promotion=2197430-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Teknikringen 9",
-      "postcode": "58330",
-      "city": "Linköping",
-      "coordinates": [
-        15.5603999811247,
-        58.3930103636729
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Teknikringen 9",
-        "postcode": "58330",
-        "city": "Linköping",
-        "coordinates": [
-          15.5603999811247,
-          58.3930103636729
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-15T14:18:59",
-    "last_publication_date": "2026-10-10T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789474739693
   },
   {
     "relevance": 1,
@@ -35888,308 +35087,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1790767911339
-  },
-  {
-    "relevance": 1,
-    "id": "31463724",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31463724",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566066048/logotyper/logo.png",
-    "headline": "Head of Product & Fleet Support",
-    "application_deadline": "2026-10-10T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "En ögonblicksbild av din dag\nKliv in i en nyckelroll där du leder Product & Fleet Support inom Installed Fleet Engineering och står i centrum för hanteringen av några av Siemens Energys mest komplexa tekniska utmaningar.\nDu leder en organisation med ansvar för tekniskt produktstöd, fleet support och problemlösning kopplat till den installerade flottan av medelstora gasturbiner. Rollen innebär ett nära samarbete med kunder, regioner, serviceorganisationer, produktägare och konstruktionsorganisationer över hela världen.\nDin vardag präglas av tekniska diskussioner, prioritering av kritiska frågeställningar och samordning av experter från flera olika funktioner. Du förväntas skapa förståelse för komplexa tekniska problem, driva rätt aktiviteter och säkerställa att lösningar håller hög teknisk kvalitet och skapar långsiktigt värde för våra kunder.\nOm du trivs med att kombinera tekniskt ledarskap, problemlösning och samarbete i en internationell miljö är detta en möjlighet att få en avgörande roll i Siemens Energys fortsatta utveckling.\nHur du kommer att påverka\nLeda och utveckla team inom Product & Fleet Support och säkerställa hög teknisk kvalitet i organisationens leveranser.\nVara en drivande kraft i hanteringen av kritiska tekniska frågor och fleet issues kopplade till den installerade flottan.\nSäkerställa att tekniska problem analyseras systematiskt och att grundorsaker identifieras och hanteras på ett hållbart sätt.\nPrioritera tekniska aktiviteter och resurser utifrån affärsbehov, kundpåverkan och risk.\nFungera som en central länk mellan kunder, regioner, serviceorganisationer, produktägare och konstruktionsorganisationer.\nBidra till att erfarenheter från den installerade flottan omsätts till produktförbättringar, serviceerbjudanden och framtida utvecklingsinitiativ.\nStödja organisationen i tekniska beslut och säkerställa att lösningar är väl underbyggda ur ett säkerhets-, kvalitets- och tillförlitlighetsperspektiv.\nDriva en kultur där kvalitet, ansvarstagande och kontinuerliga förbättringar är en naturlig del av det dagliga arbetet.\n\nVad du medför\nCivil- eller högskoleingenjörsexamen inom maskinteknik eller annat relevant tekniskt område, alternativt motsvarande erfarenhet.\nDjup teknisk förståelse och dokumenterad erfarenhet från produktutveckling, teknisk support, serviceverksamhet eller drift av komplexa tekniska produkter.\nErfarenhet från energi-, gasturbin-, process-, flyg- eller annan teknikintensiv industri är meriterande.\nDokumenterad erfarenhet av att leda och utveckla medarbetare och team.\nFörmåga att analysera komplexa tekniska problem och fatta välgrundade beslut även när informationen är ofullständig.\nMycket god kommunikationsförmåga och förmåga att förklara tekniska frågeställningar för olika målgrupper, både internt och externt.\nStark samarbetsförmåga och förmåga att bygga förtroendefulla relationer över organisatoriska och geografiska gränser.\nEtt strukturerat och lösningsorienterat arbetssätt där fokus alltid ligger på långsiktigt hållbara lösningar.\n\nOm teamet\nDu blir en del av Installed Fleet Engineering, en organisation med fokus på att maximera värdet av Siemens Energys installerade gasturbinflotta genom teknisk expertis, innovation och kundfokus.\nProduct & Fleet Support fungerar som en central länk mellan den installerade flottan och produktorganisationen. Teamet ansvarar för tekniskt stöd, fleet issues, produktkunskap och problemlösning kopplad till drift, tillförlitlighet och prestanda.\nOrganisationen arbetar nära kunder, regioner, serviceverksamhet och konstruktionsorganisationer världen över för att säkerställa att tekniska problem hanteras med rätt prioritet, rätt kompetens och med fokus på långsiktiga och hållbara lösningar.\nTillsammans bidrar ni till att våra gasturbiner fortsätter leverera säker, tillförlitlig och konkurrenskraftig energi under många år framöver.\nInom divisionen Gas Services erbjuder vi energilösningar med noll eller låga utsläpp baserat på våra gasturbiner samlade under ett tak och tillsammans med ångturbiner samt generatorer. Genom service, modernisering och digitalisering av den levererade flottan skapar vi möjligheter för ett minskat klimatavtryck.\nVi kan erbjuda dig förmånliga anställningsförmåner såsom arbetstidsförkortning, förskottssemester, friskvårdsbidrag och ev. möjlighet till flexibel arbetsplats.\nVilka är Siemens Energy?\nPå Siemens Energy är vi mer än bara ett energiteknikföretag. Vi möter den ökade efterfrågan på energi i mer än 90 länder samtidigt som vi bidrar till att skydda vårt klimat. Med mer än 100,000 engagerade anställda genererar vi inte bara elektricitet till mer än 16% av världens befolkning, utan vi använder också vår teknologi för att skydda människor och miljön. \nVårt globala team är engagerar sig i att göra hållbar, pålitlig och ekonomiskt överkomlig energi till verklighet genom att tänja på gränserna för vad som är möjligt. Vi förvaltar ett 150-årigt arv av innovation som uppmuntrar oss att söka efter personer som stödjer vårt fokus på reducering av koldioxidutsläpp, nya teknologier och energiomvandling.\nHur kan du göra skillnad på Siemens Energy? Titta här: https://www.siemens-energy.com/employeevideo\nVårt engagemang för mångfald\nSom tur är, så är vi alla olika. Genom mångfald genererar vi kraft. Vi drivs framåt av inkludering och vår gemensamma kreativa energi kommer från ca 130 olika nationaliteter. På Siemens Energy ser vi mångfald som något självklart - oavsett etnisk bakgrund, kön, ålder, religion, identitet eller funktionsvariation. Vi ger samhället energi, hela samhället, och vi diskriminerar inte utifrån våra olikheter.\nAnsökan\nTveka inte – skicka in din ansökan via https://jobs.siemens-energy.com/en_US/jobs , id nr 303156 senast 2026-10-01\nLöpande urval tillämpas, tjänsten kan komma att tillsättas innan sista ansökningsdag.\n<",
-      "text_formatted": "<p ><strong>En ögonblicksbild av din dag</strong></p><p >Kliv in i en nyckelroll där du leder Product & Fleet Support inom Installed Fleet Engineering och står i centrum för hanteringen av några av Siemens Energys mest komplexa tekniska utmaningar.</p><p >Du leder en organisation med ansvar för tekniskt produktstöd, fleet support och problemlösning kopplat till den installerade flottan av medelstora gasturbiner. Rollen innebär ett nära samarbete med kunder, regioner, serviceorganisationer, produktägare och konstruktionsorganisationer över hela världen.</p><p >Din vardag präglas av tekniska diskussioner, prioritering av kritiska frågeställningar och samordning av experter från flera olika funktioner. Du förväntas skapa förståelse för komplexa tekniska problem, driva rätt aktiviteter och säkerställa att lösningar håller hög teknisk kvalitet och skapar långsiktigt värde för våra kunder.</p><p >Om du trivs med att kombinera tekniskt ledarskap, problemlösning och samarbete i en internationell miljö är detta en möjlighet att få en avgörande roll i Siemens Energys fortsatta utveckling.</p><p ><strong>Hur du kommer att påverka</strong></p><ul ><li>Leda och utveckla team inom Product & Fleet Support och säkerställa hög teknisk kvalitet i organisationens leveranser.</li><li>Vara en drivande kraft i hanteringen av kritiska tekniska frågor och fleet issues kopplade till den installerade flottan.</li><li>Säkerställa att tekniska problem analyseras systematiskt och att grundorsaker identifieras och hanteras på ett hållbart sätt.</li><li>Prioritera tekniska aktiviteter och resurser utifrån affärsbehov, kundpåverkan och risk.</li><li>Fungera som en central länk mellan kunder, regioner, serviceorganisationer, produktägare och konstruktionsorganisationer.</li><li>Bidra till att erfarenheter från den installerade flottan omsätts till produktförbättringar, serviceerbjudanden och framtida utvecklingsinitiativ.</li><li>Stödja organisationen i tekniska beslut och säkerställa att lösningar är väl underbyggda ur ett säkerhets-, kvalitets- och tillförlitlighetsperspektiv.</li><li>Driva en kultur där kvalitet, ansvarstagande och kontinuerliga förbättringar är en naturlig del av det dagliga arbetet.</li></ul><p ><strong>Vad du medför</strong></p><ul ><li>Civil- eller högskoleingenjörsexamen inom maskinteknik eller annat relevant tekniskt område, alternativt motsvarande erfarenhet.</li><li>Djup teknisk förståelse och dokumenterad erfarenhet från produktutveckling, teknisk support, serviceverksamhet eller drift av komplexa tekniska produkter.</li><li>Erfarenhet från energi-, gasturbin-, process-, flyg- eller annan teknikintensiv industri är meriterande.</li><li>Dokumenterad erfarenhet av att leda och utveckla medarbetare och team.</li><li>Förmåga att analysera komplexa tekniska problem och fatta välgrundade beslut även när informationen är ofullständig.</li><li>Mycket god kommunikationsförmåga och förmåga att förklara tekniska frågeställningar för olika målgrupper, både internt och externt.</li><li>Stark samarbetsförmåga och förmåga att bygga förtroendefulla relationer över organisatoriska och geografiska gränser.</li><li>Ett strukturerat och lösningsorienterat arbetssätt där fokus alltid ligger på långsiktigt hållbara lösningar.</li></ul><p ><strong>Om teamet</strong></p><p >Du blir en del av Installed Fleet Engineering, en organisation med fokus på att maximera värdet av Siemens Energys installerade gasturbinflotta genom teknisk expertis, innovation och kundfokus.</p><p >Product & Fleet Support fungerar som en central länk mellan den installerade flottan och produktorganisationen. Teamet ansvarar för tekniskt stöd, fleet issues, produktkunskap och problemlösning kopplad till drift, tillförlitlighet och prestanda.</p><p >Organisationen arbetar nära kunder, regioner, serviceverksamhet och konstruktionsorganisationer världen över för att säkerställa att tekniska problem hanteras med rätt prioritet, rätt kompetens och med fokus på långsiktiga och hållbara lösningar.</p><p >Tillsammans bidrar ni till att våra gasturbiner fortsätter leverera säker, tillförlitlig och konkurrenskraftig energi under många år framöver.</p><p >Inom divisionen <strong>Gas Services</strong> erbjuder vi energilösningar med noll eller låga utsläpp baserat på våra gasturbiner samlade under ett tak och tillsammans med ångturbiner samt generatorer. Genom service, modernisering och digitalisering av den levererade flottan skapar vi möjligheter för ett minskat klimatavtryck.</p><p >Vi kan erbjuda dig förmånliga anställningsförmåner såsom arbetstidsförkortning, förskottssemester, friskvårdsbidrag och ev. möjlighet till flexibel arbetsplats.</p><p ><strong>Vilka är Siemens Energy?</strong></p><p >På Siemens Energy är vi mer än bara ett energiteknikföretag. Vi möter den ökade efterfrågan på energi i mer än 90 länder samtidigt som vi bidrar till att skydda vårt klimat. Med mer än 100,000 engagerade anställda genererar vi inte bara elektricitet till mer än 16% av världens befolkning, utan vi använder också vår teknologi för att skydda människor och miljön. </p><p >Vårt globala team är engagerar sig i att göra hållbar, pålitlig och ekonomiskt överkomlig energi till verklighet genom att tänja på gränserna för vad som är möjligt. Vi förvaltar ett 150-årigt arv av innovation som uppmuntrar oss att söka efter personer som stödjer vårt fokus på reducering av koldioxidutsläpp, nya teknologier och energiomvandling.</p><p >Hur kan du göra skillnad på Siemens Energy? Titta här: https://www.siemens-energy.com/employeevideo</p><p ><strong>Vårt engagemang för mångfald</strong></p><p >Som tur är, så är vi alla olika. Genom mångfald genererar vi kraft. Vi drivs framåt av inkludering och vår gemensamma kreativa energi kommer från ca 130 olika nationaliteter. På Siemens Energy ser vi mångfald som något självklart - oavsett etnisk bakgrund, kön, ålder, religion, identitet eller funktionsvariation. Vi ger samhället energi, hela samhället, och vi diskriminerar inte utifrån våra olikheter.</p><p ><strong>Ansökan</strong></p><p >Tveka inte – skicka in din ansökan via <u>https://jobs.siemens-energy.com/en_US/jobs </u>, id nr 303156 senast 2026-10-01</p><p >Löpande urval tillämpas, tjänsten kan komma att tillsättas innan sista ansökningsdag.</p><",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5566066048",
-      "name": "Siemens Energy AB",
-      "workplace": "Finspaang"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "303156",
-      "email": null,
-      "via_af": false,
-      "url": "https://ars2.equest.com/?response_id=7fc1d5b5c8300f5a456e79f44224d237",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "X9jv_K2b_m48",
-      "label": "Manager",
-      "legacy_ams_taxonomy_id": "2998"
-    },
-    "occupation_group": {
-      "concept_id": "dUuh_wwa_FGj",
-      "label": "Övriga förmedlare",
-      "legacy_ams_taxonomy_id": "3339"
-    },
-    "occupation_field": {
-      "concept_id": "RPTn_bxG_ExZ",
-      "label": "Försäljning, inköp, marknadsföring",
-      "legacy_ams_taxonomy_id": "5"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Finspång",
-      "municipality_code": "0562",
-      "municipality_concept_id": "dMFe_J6W_iJv",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61283",
-      "city": "Finspaang",
-      "coordinates": [
-        16.1971381,
-        58.5981079
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Finspång",
-        "municipality_code": "0562",
-        "municipality_concept_id": "dMFe_J6W_iJv",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "61283",
-        "city": "Finspaang",
-        "coordinates": [
-          16.1971381,
-          58.5981079
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "X9jv_K2b_m48",
-          "label": "Manager",
-          "legacy_ams_taxonomy_id": "2998"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-10T20:50:07",
-    "last_publication_date": "2026-10-10T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789066207853
-  },
-  {
-    "relevance": 1,
-    "id": "31463722",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31463722",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566066048/logotyper/logo.png",
-    "headline": "Head of Maintenance",
-    "application_deadline": "2026-10-10T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "En ögonblicksbild av din dag\nKliv in i en central ledarroll där du ansvarar för Maintenance inom Installed Fleet Engineering och bidrar till att säkerställa långsiktig tillförlitlighet, tillgänglighet och konkurrenskraft för Siemens Energys installerade flotta av medelstora gasturbiner.\nDu leder verksamheter inom underhållsstrategier, servicekoncept, refurbishment, reparationsutveckling, reservdelar och special maintenance tools. Din vardag präglas av nära samarbete med specialister, produktstöd, verkstäder, regioner, kunder och konstruktionsorganisationer. Du växlar mellan strategiska beslut, utveckling av medarbetare och operativ problemlösning.\nMed din tekniska förståelse och ditt ledarskap bidrar du till att omsätta erfarenheter från den installerade flottan till förbättrade underhållsplaner, reparationsmetoder och serviceerbjudanden som skapar värde för våra kunder världen över.\nHur du kommer att påverka\nLeda och utveckla team inom maintenance engineering, refurbishment, reservdelar och special maintenance tools.\nSäkerställa konkurrenskraftiga och tekniskt robusta lösningar inom underhåll, reparation och refurbishment för den installerade flottan.\nAnsvara för utveckling och förvaltning av underhållsstrategier, underhållsplaner och servicekoncept för våra gasturbiner.\nSäkerställa att rekommenderade serviceåtgärder, reservdelsbyten och underhållsintervall balanserar tillförlitlighet, säkerhet och livscykelkostnad.\nAnsvara för strategier kopplade till nya och refurbished reservdelar med fokus på tillgänglighet, kvalitet och kostnadseffektivitet.\nDriva utvecklingen av reparationsmetoder, specialverktyg och underhållskoncept som stärker Siemens Energys serviceerbjudande och minskar kundernas livscykelkostnader.\nPrioritera och balansera tekniska, kommersiella och operativa krav i nära samarbete med regioner, verkstäder, inköp, produktstöd och konstruktionsorganisationer.\nSäkerställa att verksamheten levererar enligt uppsatta mål avseende kvalitet, säkerhet, leveransprecision och ekonomi.\n\nVad du medför\nCivil- eller högskoleingenjörsexamen inom maskinteknik eller annat relevant tekniskt område, alternativt motsvarande erfarenhet.\nGedigen erfarenhet från service, underhåll, produktutveckling, teknisk support eller annan relevant verksamhet inom industri, energi, flyg eller liknande teknikintensiva branscher.\nDokumenterad erfarenhet av att leda och utveckla medarbetare och team.\nGod teknisk förståelse och förmåga att diskutera komplexa tekniska frågeställningar med specialister, kunder och andra intressenter.\nErfarenhet av att arbeta med underhållsstrategier, reservdelar, reparationslösningar eller livscykelhantering är meriterande.\nStark samarbetsförmåga och förmåga att skapa resultat genom samverkan över organisationsgränser.\nEtt lösningsorienterat och affärsmässigt arbetssätt med förmåga att kombinera kortsiktiga behov med långsiktig utveckling.\n\nOm teamet\nDu blir en del av Installed Fleet Engineering, en organisation med fokus på att maximera värdet av Siemens Energys installerade gasturbinflotta genom teknisk expertis, innovation och kundfokus.\nMaintenance-funktionen samlar kompetens inom underhållsstrategier, reservdelshantering, refurbishment, reparationsutveckling och special maintenance tools. Teamet ansvarar för att utveckla och förvalta underhållskoncept, reservdelslösningar och reparationsmetoder som säkerställer hög tillförlitlighet och långsiktig konkurrenskraft för den installerade flottan.\nTillsammans driver ni utvecklingen av framtidens underhålls- och reparationslösningar och bidrar till Siemens Energys mål att leverera tillförlitlig och hållbar energi världen över.\nInom divisionen Gas Services erbjuder vi energilösningar med noll eller låga utsläpp baserat på våra gasturbiner samlade under ett tak och tillsammans med ångturbiner samt generatorer. Genom service, modernisering och digitalisering av den levererade flottan skapar vi möjligheter för ett minskat klimatavtryck.\nVi kan erbjuda dig förmånliga anställningsförmåner såsom arbetstidsförkortning, förskottssemester, friskvårdsbidrag och ev. möjlighet till flexibel arbetsplats.\nVilka är Siemens Energy?\nPå Siemens Energy är vi mer än bara ett energiteknikföretag. Vi möter den ökade efterfrågan på energi i mer än 90 länder samtidigt som vi bidrar till att skydda vårt klimat. Med mer än 100,000 engagerade anställda genererar vi inte bara elektricitet till mer än 16% av världens befolkning, utan vi använder också vår teknologi för att skydda människor och miljön. \nVårt globala team är engagerar sig i att göra hållbar, pålitlig och ekonomiskt överkomlig energi till verklighet genom att tänja på gränserna för vad som är möjligt. Vi förvaltar ett 150-årigt arv av innovation som uppmuntrar oss att söka efter personer som stödjer vårt fokus på reducering av koldioxidutsläpp, nya teknologier och energiomvandling.\nHur kan du göra skillnad på Siemens Energy? Titta här: https://www.siemens-energy.com/employeevideo\nVårt engagemang för mångfald\nSom tur är, så är vi alla olika. Genom mångfald genererar vi kraft. Vi drivs framåt av inkludering och vår gemensamma kreativa energi kommer från ca 130 olika nationaliteter. På Siemens Energy ser vi mångfald som något självklart - oavsett etnisk bakgrund, kön, ålder, religion, identitet eller funktionsvariation. Vi ger samhället energi, hela samhället, och vi diskriminerar inte utifrån våra olikheter.\nAnsökan\nTveka inte – skicka in din ansökan via https://jobs.siemens-energy.com/en_US/jobs , id nr 303155 senast 2026-10-01\nLöpande urval tillämpas, tjänsten kan komma att tillsättas innan sista ansökningsdag.\nVi undanber oss all kontakt med bemannings- och rekryteringsföretag, eller annonsförmedlare.\nPlaceringsort: Finspång\nFackliga representanter:\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siem",
-      "text_formatted": "<p ><strong>En ögonblicksbild av din dag</strong></p><p >Kliv in i en central ledarroll där du ansvarar för Maintenance inom Installed Fleet Engineering och bidrar till att säkerställa långsiktig tillförlitlighet, tillgänglighet och konkurrenskraft för Siemens Energys installerade flotta av medelstora gasturbiner.</p><p >Du leder verksamheter inom underhållsstrategier, servicekoncept, refurbishment, reparationsutveckling, reservdelar och special maintenance tools. Din vardag präglas av nära samarbete med specialister, produktstöd, verkstäder, regioner, kunder och konstruktionsorganisationer. Du växlar mellan strategiska beslut, utveckling av medarbetare och operativ problemlösning.</p><p >Med din tekniska förståelse och ditt ledarskap bidrar du till att omsätta erfarenheter från den installerade flottan till förbättrade underhållsplaner, reparationsmetoder och serviceerbjudanden som skapar värde för våra kunder världen över.</p><p ><strong>Hur du kommer att påverka</strong></p><ul ><li>Leda och utveckla team inom maintenance engineering, refurbishment, reservdelar och special maintenance tools.</li><li>Säkerställa konkurrenskraftiga och tekniskt robusta lösningar inom underhåll, reparation och refurbishment för den installerade flottan.</li><li>Ansvara för utveckling och förvaltning av underhållsstrategier, underhållsplaner och servicekoncept för våra gasturbiner.</li><li>Säkerställa att rekommenderade serviceåtgärder, reservdelsbyten och underhållsintervall balanserar tillförlitlighet, säkerhet och livscykelkostnad.</li><li>Ansvara för strategier kopplade till nya och refurbished reservdelar med fokus på tillgänglighet, kvalitet och kostnadseffektivitet.</li><li>Driva utvecklingen av reparationsmetoder, specialverktyg och underhållskoncept som stärker Siemens Energys serviceerbjudande och minskar kundernas livscykelkostnader.</li><li>Prioritera och balansera tekniska, kommersiella och operativa krav i nära samarbete med regioner, verkstäder, inköp, produktstöd och konstruktionsorganisationer.</li><li>Säkerställa att verksamheten levererar enligt uppsatta mål avseende kvalitet, säkerhet, leveransprecision och ekonomi.</li></ul><p ><strong>Vad du medför</strong></p><ul ><li>Civil- eller högskoleingenjörsexamen inom maskinteknik eller annat relevant tekniskt område, alternativt motsvarande erfarenhet.</li><li>Gedigen erfarenhet från service, underhåll, produktutveckling, teknisk support eller annan relevant verksamhet inom industri, energi, flyg eller liknande teknikintensiva branscher.</li><li>Dokumenterad erfarenhet av att leda och utveckla medarbetare och team.</li><li>God teknisk förståelse och förmåga att diskutera komplexa tekniska frågeställningar med specialister, kunder och andra intressenter.</li><li>Erfarenhet av att arbeta med underhållsstrategier, reservdelar, reparationslösningar eller livscykelhantering är meriterande.</li><li>Stark samarbetsförmåga och förmåga att skapa resultat genom samverkan över organisationsgränser.</li><li>Ett lösningsorienterat och affärsmässigt arbetssätt med förmåga att kombinera kortsiktiga behov med långsiktig utveckling.</li></ul><p ><strong>Om teamet</strong></p><p >Du blir en del av Installed Fleet Engineering, en organisation med fokus på att maximera värdet av Siemens Energys installerade gasturbinflotta genom teknisk expertis, innovation och kundfokus.</p><p >Maintenance-funktionen samlar kompetens inom underhållsstrategier, reservdelshantering, refurbishment, reparationsutveckling och special maintenance tools. Teamet ansvarar för att utveckla och förvalta underhållskoncept, reservdelslösningar och reparationsmetoder som säkerställer hög tillförlitlighet och långsiktig konkurrenskraft för den installerade flottan.</p><p >Tillsammans driver ni utvecklingen av framtidens underhålls- och reparationslösningar och bidrar till Siemens Energys mål att leverera tillförlitlig och hållbar energi världen över.</p><p >Inom divisionen <strong>Gas Services</strong> erbjuder vi energilösningar med noll eller låga utsläpp baserat på våra gasturbiner samlade under ett tak och tillsammans med ångturbiner samt generatorer. Genom service, modernisering och digitalisering av den levererade flottan skapar vi möjligheter för ett minskat klimatavtryck.</p><p >Vi kan erbjuda dig förmånliga anställningsförmåner såsom arbetstidsförkortning, förskottssemester, friskvårdsbidrag och ev. möjlighet till flexibel arbetsplats.</p><p ><strong>Vilka är Siemens Energy?</strong></p><p >På Siemens Energy är vi mer än bara ett energiteknikföretag. Vi möter den ökade efterfrågan på energi i mer än 90 länder samtidigt som vi bidrar till att skydda vårt klimat. Med mer än 100,000 engagerade anställda genererar vi inte bara elektricitet till mer än 16% av världens befolkning, utan vi använder också vår teknologi för att skydda människor och miljön. </p><p >Vårt globala team är engagerar sig i att göra hållbar, pålitlig och ekonomiskt överkomlig energi till verklighet genom att tänja på gränserna för vad som är möjligt. Vi förvaltar ett 150-årigt arv av innovation som uppmuntrar oss att söka efter personer som stödjer vårt fokus på reducering av koldioxidutsläpp, nya teknologier och energiomvandling.</p><p >Hur kan du göra skillnad på Siemens Energy? Titta här: https://www.siemens-energy.com/employeevideo</p><p ><strong>Vårt engagemang för mångfald</strong></p><p >Som tur är, så är vi alla olika. Genom mångfald genererar vi kraft. Vi drivs framåt av inkludering och vår gemensamma kreativa energi kommer från ca 130 olika nationaliteter. På Siemens Energy ser vi mångfald som något självklart - oavsett etnisk bakgrund, kön, ålder, religion, identitet eller funktionsvariation. Vi ger samhället energi, hela samhället, och vi diskriminerar inte utifrån våra olikheter.</p><p ><strong>Ansökan</strong></p><p >Tveka inte – skicka in din ansökan via <u>https://jobs.siemens-energy.com/en_US/jobs </u>, id nr 303155 senast 2026-10-01</p><p >Löpande urval tillämpas, tjänsten kan komma att tillsättas innan sista ansökningsdag.</p><p >Vi undanber oss all kontakt med bemannings- och rekryteringsföretag, eller annonsförmedlare.</p><p >Placeringsort: Finspång</p><p ><strong>Fackliga representanter:</strong>\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siem",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5566066048",
-      "name": "Siemens Energy AB",
-      "workplace": "Finspaang"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "303155",
-      "email": null,
-      "via_af": false,
-      "url": "https://ars2.equest.com/?response_id=d5f835442d5ef3b77e5b95a3fc76c96c",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "X9jv_K2b_m48",
-      "label": "Manager",
-      "legacy_ams_taxonomy_id": "2998"
-    },
-    "occupation_group": {
-      "concept_id": "dUuh_wwa_FGj",
-      "label": "Övriga förmedlare",
-      "legacy_ams_taxonomy_id": "3339"
-    },
-    "occupation_field": {
-      "concept_id": "RPTn_bxG_ExZ",
-      "label": "Försäljning, inköp, marknadsföring",
-      "legacy_ams_taxonomy_id": "5"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Finspång",
-      "municipality_code": "0562",
-      "municipality_concept_id": "dMFe_J6W_iJv",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61283",
-      "city": "Finspaang",
-      "coordinates": [
-        16.1971381,
-        58.5981079
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Finspång",
-        "municipality_code": "0562",
-        "municipality_concept_id": "dMFe_J6W_iJv",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "61283",
-        "city": "Finspaang",
-        "coordinates": [
-          16.1971381,
-          58.5981079
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "X9jv_K2b_m48",
-          "label": "Manager",
-          "legacy_ams_taxonomy_id": "2998"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-10T20:50:06",
-    "last_publication_date": "2026-10-10T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1789066206565
   },
   {
     "relevance": 1,
@@ -43296,149 +42193,5 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1776773048032
-  },
-  {
-    "relevance": 1,
-    "id": "30896666",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/30896666",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5567520803/logotyper/logo.png",
-    "headline": "Teamchef Data & Analytics till Dizparc",
-    "application_deadline": "2026-10-10T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Dizparc i Linköping bygger sitt nästa affärsben. Du bygger teamet.\nDizparc Linköping är mitt i en tillväxtresa. Nu tar företaget nästa kliv och satsar på Data & Analytics som eget område – med dig som ansvarig för att bygga det från grunden. Du får uppdraget att forma erbjudandet, rekrytera teamet och leverera i kunduppdrag där du hjälper verksamheter att konsolidera sin data, skapa beslutsstöd och göra sin data redo för AI.\nDet här är inte en roll du kliver in i. Det är en roll du bygger.\n\n\nOm tjänsten Den här tjänsten är en direktrekrytering vilket innebär att rekryteringsprocessen sker genom Bravura och du anställs direkt hos Dizparc Linköping.\nOm företaget\nDizparc Linköping är ett kunskapsdrivet IT-konsultbolag med omkring 20 medarbetare, tre etablerade team inom ERP, Teknik och Försäljning, och en omsättning som passerat 35 MSEK. Företaget kombinerar affärssystem, IT-tjänster och innovation med stark lokal förankring i Östergötland. Nu skapar dem ett fjärde team – och det är här du kommer in.\nHos Dizparc är beslutsvägarna korta, kulturen prestigelös och ambitionen hög. Du arbetar nära VD och ledning med mandat att forma både riktning och arbetssätt.\nHos Dizparc får du:\n• Ett härligt team som hjälper varandra och har kul ihop\n• Frihet under ansvar – och korta beslutsvägar\n• Möjlighet att påverka både din vardag och vår gemensamma resa\n• Ett brett spann av uppdrag, kunder och tekniska utmaningar.\n\nArbetsuppgifter\nDu ansvarar för att bygga upp Data & Analytics både kommersiellt, kompetensmässigt och operativt. Minst hälften av din tid arbetar du själv i kunduppdrag – ofta i miljöer där data är utspridd i flera system och behöver konsolideras, struktureras och tillgängliggöras för att skapa affärsvärde. Resten av tiden bygger du teamet, driver kunddialoger och utvecklar erbjudandet.\nDina huvudsakliga arbetsuppgifter:\n\nBygga och leda Dizparcs Data & Analytics-team från grunden – rekrytering, kompetensutveckling och arbetssätt\n\n\nLeverera som senior konsult i kunduppdrag inom beslutsstöd, datakonsolidering och visualisering (ca 50 %)\n\n\nUtveckla och paketera Dizparcs erbjudande i gränslandet mellan beslutsstöd, datakonsolidering och AI-tillämpningar\n\n\nHjälpa kunder göra sin data strukturerad, tillgänglig och redo för AI – från dataplattform till konkret affärsnytta\n\n\nDriva strategiska kunddialoger kring datadrivna arbetssätt och nästa steg mot AI\n\n\nArbeta i Microsoft-miljö (Azure, Power BI, Fabric m.fl.)\n\n\nFör rätt person finns möjlighet att på sikt ta en mer strategisk position och bli en del av bolagets ledningsgrupp.\n\nUtbildning, erfarenhet och personliga egenskaper\n• Flerårig erfarenhet av beslutsstöd, data analytics eller BI\n• Konsultbakgrund med vana att arbeta affärsnära mot kund\n• Erfarenhet av Microsoft-baserade dataplattformar och verktyg\n• Förmåga och vilja att leda – antingen genom formellt eller informellt ledarskap\nMeriterande\n• Erfarenhet av datakonsolidering och att bygga datalager eller dataplattformar\n• Kunskap om eller intresse för AI-tillämpningar kopplade till strukturerad data\n• Erfarenhet av att bygga upp ett erbjudande eller en verksamhet från grunden\n• Bakgrund från lagidrott, elitidrott eller liknande sammanhang där prestation, samarbete och driv går hand i hand\nDu tar ansvar, skapar förtroende och driver framåt. Du kombinerar affärstänk med teknisk förståelse och trivs med att vara både rådgivare och genomförare. Du har pondus i kunddialoger, vågar fatta beslut och motiveras av att bygga något långsiktigt – ett team, ett erbjudande och en affär. Samtidigt är du prestigelös, har nära till skratt och trivs i ett lag där man hjälper varandra och har kul ihop. Du är trygg i att växla mellan strategi och operativt arbete.\n\nÖvrig information\nStart: Enligt överenskommelse Plats: Linköping Lön: Enligt överenskommelse\n\nVi använder en kompetensbaserad metodik i alla rekryteringsprocesser för att säkerställa fördomsfria urval. Vi jobbar också med löpande urval, vilket innebär att vi tar ner annonsen när tillräckligt många kandidater har ansökt. Om du blir aktuell för tjänsten kommer vi att kontakta dig för en första telefonintervju. Oavsett om du går vidare i processen eller inte så kommer du att få återkoppling på din ansökan.\n\nHar du frågor? Hör gärna av dig!\n📧 info@bravura.se\n📞 010-171 47 10\n \nVi rekommenderar att du skickar in din ansökan omgående då vi gör ett löpande urval.\nVälkommen med din ansökan!  \n#Specialist",
-      "text_formatted": "<p> <strong><em>Dizparc i Linköping bygger sitt nästa affärsben. Du bygger teamet.</em></strong></p><p>Dizparc Linköping är mitt i en tillväxtresa. Nu tar företaget nästa kliv och satsar på Data &amp; Analytics som eget område – med dig som ansvarig för att bygga det från grunden. Du får uppdraget att forma erbjudandet, rekrytera teamet och leverera i kunduppdrag där du hjälper verksamheter att konsolidera sin data, skapa beslutsstöd och göra sin data redo för AI.</p><p><em>Det här är inte en roll du kliver in i. Det är en roll du bygger.</em></p><p></p><p></p><p><strong>Om tjänsten</strong> Den här tjänsten är en direktrekrytering vilket innebär att rekryteringsprocessen sker genom Bravura och du anställs direkt hos <strong>Dizparc Linköping.</strong></p><p><strong>Om företaget</strong></p><p>Dizparc Linköping är ett kunskapsdrivet IT-konsultbolag med omkring 20 medarbetare, tre etablerade team inom ERP, Teknik och Försäljning, och en omsättning som passerat 35 MSEK. Företaget kombinerar affärssystem, IT-tjänster och innovation med stark lokal förankring i Östergötland. Nu skapar dem ett fjärde team – och det är här du kommer in.</p><p>Hos Dizparc är beslutsvägarna korta, kulturen prestigelös och ambitionen hög. Du arbetar nära VD och ledning med mandat att forma både riktning och arbetssätt.</p><p><strong>Hos Dizparc får du:</strong></p><p>• Ett härligt team som hjälper varandra och har kul ihop</p><p>• Frihet under ansvar – och korta beslutsvägar</p><p>• Möjlighet att påverka både din vardag och vår gemensamma resa</p><p>• Ett brett spann av uppdrag, kunder och tekniska utmaningar.</p><p></p><p><strong>Arbetsuppgifter</strong></p><p>Du ansvarar för att bygga upp Data &amp; Analytics både kommersiellt, kompetensmässigt och operativt. Minst hälften av din tid arbetar du själv i kunduppdrag – ofta i miljöer där data är utspridd i flera system och behöver konsolideras, struktureras och tillgängliggöras för att skapa affärsvärde. Resten av tiden bygger du teamet, driver kunddialoger och utvecklar erbjudandet.</p><p><strong>Dina huvudsakliga arbetsuppgifter:</strong></p><ul><li><p>Bygga och leda Dizparcs Data &amp; Analytics-team från grunden – rekrytering, kompetensutveckling och arbetssätt</p></li><li><p>Leverera som senior konsult i kunduppdrag inom beslutsstöd, datakonsolidering och visualisering (ca 50 %)</p></li><li><p>Utveckla och paketera Dizparcs erbjudande i gränslandet mellan beslutsstöd, datakonsolidering och AI-tillämpningar</p></li><li><p>Hjälpa kunder göra sin data strukturerad, tillgänglig och redo för AI – från dataplattform till konkret affärsnytta</p></li><li><p>Driva strategiska kunddialoger kring datadrivna arbetssätt och nästa steg mot AI</p></li><li><p>Arbeta i Microsoft-miljö (Azure, Power BI, Fabric m.fl.)</p></li></ul><p><em>För rätt person finns möjlighet att på sikt ta en mer strategisk position och bli en del av bolagets ledningsgrupp.</em></p><p></p><p><strong>Utbildning, erfarenhet och personliga egenskaper</strong></p><p>• Flerårig erfarenhet av beslutsstöd, data analytics eller BI</p><p>• Konsultbakgrund med vana att arbeta affärsnära mot kund</p><p>• Erfarenhet av Microsoft-baserade dataplattformar och verktyg</p><p>• Förmåga och vilja att leda – antingen genom formellt eller informellt ledarskap</p><p><strong>Meriterande</strong></p><p>• Erfarenhet av datakonsolidering och att bygga datalager eller dataplattformar</p><p>• Kunskap om eller intresse för AI-tillämpningar kopplade till strukturerad data</p><p>• Erfarenhet av att bygga upp ett erbjudande eller en verksamhet från grunden</p><p>• Bakgrund från lagidrott, elitidrott eller liknande sammanhang där prestation, samarbete och driv går hand i hand</p><p>Du tar ansvar, skapar förtroende och driver framåt. Du kombinerar affärstänk med teknisk förståelse och trivs med att vara både rådgivare och genomförare. Du har pondus i kunddialoger, vågar fatta beslut och motiveras av att bygga något långsiktigt – ett team, ett erbjudande och en affär. Samtidigt är du prestigelös, har nära till skratt och trivs i ett lag där man hjälper varandra och har kul ihop. Du är trygg i att växla mellan strategi och operativt arbete.</p><p></p><p><strong>Övrig information</strong></p><p><strong>Start</strong>: Enligt överenskommelse<strong> Plats</strong>: Linköping<strong> Lön</strong>: Enligt överenskommelse</p><p></p><p>Vi använder en kompetensbaserad metodik i alla rekryteringsprocesser för att säkerställa fördomsfria urval. Vi jobbar också med löpande urval, vilket innebär att vi tar ner annonsen när tillräckligt många kandidater har ansökt. Om du blir aktuell för tjänsten kommer vi att kontakta dig för en första telefonintervju. Oavsett om du går vidare i processen eller inte så kommer du att få återkoppling på din ansökan.</p><p></p><p>Har du frågor? Hör gärna av dig!</p><p>📧 info@bravura.se</p><p>📞 010-171 47 10</p><p> </p><p>Vi rekommenderar att du skickar in din ansökan omgående då vi gör ett löpande urval.</p><p>Välkommen med din ansökan! <strong><em> </em></strong></p><p><em>#Specialist </em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://ledigajobb.bravura.se",
-      "organization_number": "5567520803",
-      "name": "Bravura Sverige AB",
-      "workplace": "Bravura"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-7547245-1942991",
-      "email": null,
-      "via_af": false,
-      "url": "https://ledigajobb.bravura.se/jobs/7547245-teamchef-data-analytics-till-dizparc/applications/new?promotion=1942991-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "TT8h_qKk_1iu",
-      "label": "Affärskonsult, IT",
-      "legacy_ams_taxonomy_id": "7579"
-    },
-    "occupation_group": {
-      "concept_id": "UXKZ_3zZ_ipB",
-      "label": "Systemanalytiker och IT-arkitekter m.fl.",
-      "legacy_ams_taxonomy_id": "2511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Bredgränd 2B",
-      "postcode": "55320",
-      "city": "Jönköping",
-      "coordinates": [
-        14.1709635077422,
-        57.7833477075545
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Bredgränd 2B",
-        "postcode": "55320",
-        "city": "Jönköping",
-        "coordinates": [
-          14.1709635077422,
-          57.7833477075545
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-04-13T14:45:16",
-    "last_publication_date": "2026-10-10T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1776084316871
   }
 ]
