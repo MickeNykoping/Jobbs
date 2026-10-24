@@ -137,18 +137,18 @@
     },
     "application_contacts": [
       {
-        "name": "Daniel   Andersson",
-        "description": null,
-        "email": "daniel.andersson.3@nykoping.se",
-        "telephone": "+46730200879",
-        "contact_type": "Rektor - Campus Nyköping"
-      },
-      {
         "name": "Vision   fackförbund",
         "description": null,
         "email": "vision@nykoping.se",
         "telephone": "+46155248000",
         "contact_type": "Fackförbund"
+      },
+      {
+        "name": "Daniel   Andersson",
+        "description": null,
+        "email": "daniel.andersson.3@nykoping.se",
+        "telephone": "+46730200879",
+        "contact_type": "Rektor - Campus Nyköping"
       }
     ],
     "publication_date": "2026-10-22T16:55:05",
@@ -296,18 +296,18 @@
     },
     "application_contacts": [
       {
-        "name": "Mats   Alwnell",
-        "description": null,
-        "email": "mats.alwnell@nykoping.se",
-        "telephone": null,
-        "contact_type": "Enhetschef System & Tjänster"
-      },
-      {
         "name": "Johanna   Kullman Böö",
         "description": null,
         "email": "vision@nykoping.se",
         "telephone": "+46155248665",
         "contact_type": "Vision"
+      },
+      {
+        "name": "Mats   Alwnell",
+        "description": null,
+        "email": "mats.alwnell@nykoping.se",
+        "telephone": null,
+        "contact_type": "Enhetschef System & Tjänster"
       }
     ],
     "publication_date": "2026-10-21T13:25:09",
@@ -1971,336 +1971,6 @@
   },
   {
     "relevance": 1,
-    "id": "31511811",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31511811",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5593074866/logotyper/logo.png",
-    "headline": "Enterprise Architect Salesforce",
-    "application_deadline": "2026-10-23T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "** This role can also be remote within Sweden however travel to Eskilstuna location is required.\nFor our client in the automotive industry we are now looking for someone to lead, support or contribute to the continuous improvement of Business/IT integrated architectures driven by enterprises business vision, strategies and desired outcomes, covering one or several architecture dimensions such as business architecture, information architecture, application architecture, and possibly technology architecture.\n \nArchitecture Lead - Salesforce\nStrategy & Governance\nArchitecture Design Authority Stand Up: Advise regarding governance structure design and formation\nArchitecture Design Authority Repository: Provide guidance on developing operational playbooks on policies and procedures intended to review Salesforce platform best practices across functional design, technical design, and feedback processes within implementations.\nArchitecture Design Principles: Advise on design principles and standards\nRelease Increment Planning Technical Oversight: Provide guidance on ongoing Program Increment planning and prioritization\nPre-Build & Build Processes: Co-create playbooks with Customer across requirements gathering, design, development and deployment\nExecutive Engagement & Visioning: Assist executives to provide visioning and strategic architectural guidance.\nEnterprise Architecture Alignment: Provide guidance to align SFDC solution with enterprise systems to support long term vision\nOverall IT Architecture Roadmap Planning: Review and provide advice on overall IT roadmap\nTechnical & Solution Design\nSolution Architecture: Review and provide guidance on the overall solution architecture\nDiscuss SFDC Product Roadmap\nDesign Reviews: Review of technical designs for adherence to Salesforce platform best practices, tailored to Customer’s needs\nTooling Assessment: Review and, as appropriate, recommend tools used in the implementation\nIntegration Strategy: Advise on integration strategy with other enterprise systems\nSolution Implementation Oversight\nArchitecture Optimization: Provide guidance on architecture optimization and technical debt reduction\nData Governance and Quality Strategy: Support the definition of processes to maintain high data quality\nBuild Best Practices: Review and advise on build best practices\nBuild Reviews: Support build reviews to support quality and compliance\nDevelopment Troubleshooting & Solutioning: Provide guidance on troubleshooting and solutioning of development issues\nStrategic Planning & Execution: Co-create and support Customer’s execution of comprehensive transformation strategy and roadmaps in alignment with the existing technology architecture\nGovernance\nProvide guidance on program governance structures and methodologies for optimal project and program steering, consistent delivery and performance monitoring\nProvide guidance on program reporting processes and co-create program monitoring against the transformation program goals and roadmaps\nStakeholder Engagement\nEngage with Customer key stakeholders, including executives, department heads, and Customer’s external partners for buy-in and support\nAdvise on progress, challenges, and successes to stakeholders, providing periodic updates and reports\nScope Management: Provide guidance on managing program scope\n\n• • Dependencies Management: Support effective management of dependencies across the Salesforce implementation, for smooth, efficient, and predictable outcomes",
-      "text_formatted": "<p>** This role can also be remote within Sweden however travel to Eskilstuna location is required.</p><p>For our client in the automotive industry we are now looking for someone to lead, support or contribute to the continuous improvement of Business/IT integrated architectures driven by enterprises business vision, strategies and desired outcomes, covering one or several architecture dimensions such as business architecture, information architecture, application architecture, and possibly technology architecture.</p><p> </p><ol><li>Architecture Lead - Salesforce</li></ol><ul><li>Strategy &amp; Governance</li><li>Architecture Design Authority Stand Up: Advise regarding governance structure design and formation</li><li>Architecture Design Authority Repository: Provide guidance on developing operational playbooks on policies and procedures intended to review Salesforce platform best practices across functional design, technical design, and feedback processes within implementations.</li><li>Architecture Design Principles: Advise on design principles and standards</li><li>Release Increment Planning Technical Oversight: Provide guidance on ongoing Program Increment planning and prioritization</li><li>Pre-Build &amp; Build Processes: Co-create playbooks with Customer across requirements gathering, design, development and deployment</li><li>Executive Engagement &amp; Visioning: Assist executives to provide visioning and strategic architectural guidance.</li><li>Enterprise Architecture Alignment: Provide guidance to align SFDC solution with enterprise systems to support long term vision</li><li>Overall IT Architecture Roadmap Planning: Review and provide advice on overall IT roadmap</li></ul><ol><li>Technical &amp; Solution Design</li></ol><ul><li>Solution Architecture: Review and provide guidance on the overall solution architecture</li><li>Discuss SFDC Product Roadmap</li><li>Design Reviews: Review of technical designs for adherence to Salesforce platform best practices, tailored to Customer’s needs</li><li>Tooling Assessment: Review and, as appropriate, recommend tools used in the implementation</li><li>Integration Strategy: Advise on integration strategy with other enterprise systems</li></ul><ol><li>Solution Implementation Oversight</li></ol><ul><li>Architecture Optimization: Provide guidance on architecture optimization and technical debt reduction</li><li>Data Governance and Quality Strategy: Support the definition of processes to maintain high data quality</li><li>Build Best Practices: Review and advise on build best practices</li><li>Build Reviews: Support build reviews to support quality and compliance</li><li>Development Troubleshooting &amp; Solutioning: Provide guidance on troubleshooting and solutioning of development issues</li></ul><ol><li>Strategic Planning &amp; Execution: Co-create and support Customer’s execution of comprehensive transformation strategy and roadmaps in alignment with the existing technology architecture</li></ol><ul><li>Governance</li><li>Provide guidance on program governance structures and methodologies for optimal project and program steering, consistent delivery and performance monitoring</li><li>Provide guidance on program reporting processes and co-create program monitoring against the transformation program goals and roadmaps</li><li>Stakeholder Engagement</li><li>Engage with Customer key stakeholders, including executives, department heads, and Customer’s external partners for buy-in and support</li><li>Advise on progress, challenges, and successes to stakeholders, providing periodic updates and reports</li><li>Scope Management: Provide guidance on managing program scope</li></ul><p>• • Dependencies Management: Support effective management of dependencies across the Salesforce implementation, for smooth, efficient, and predictable outcomes</p><p> </p><p> </p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "www.integroconsulting.se",
-      "organization_number": "5593074866",
-      "name": "Integro Consulting AB",
-      "workplace": "Integro Consulting"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "Sr System Architect",
-      "email": "work@integroconsulting.se",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "eSph_tp4_T7Z",
-      "label": "IT-arkitekt",
-      "legacy_ams_taxonomy_id": null
-    },
-    "occupation_group": {
-      "concept_id": "UXKZ_3zZ_ipB",
-      "label": "Systemanalytiker och IT-arkitekter m.fl.",
-      "legacy_ams_taxonomy_id": "2511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "63510",
-      "city": "ESKILSTUNA",
-      "coordinates": [
-        16.41513336360477,
-        59.39940681478222
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Eskilstuna",
-        "municipality_code": "0484",
-        "municipality_concept_id": "kMxr_NiX_YrU",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "63510",
-        "city": "ESKILSTUNA",
-        "coordinates": [
-          16.41513336360477,
-          59.39940681478222
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "NVxJ_hLg_TYS",
-          "label": "Engelska",
-          "legacy_ams_taxonomy_id": "283"
-        }
-      ],
-      "work_experiences": [],
-      "education": [
-        {
-          "weight": 10,
-          "concept_id": "FHxz_HhN_3Mk",
-          "label": "Data",
-          "legacy_ams_taxonomy_id": "14"
-        }
-      ],
-      "education_level": [
-        {
-          "weight": 10,
-          "concept_id": "asZm_TEQ_Srk",
-          "label": "Eftergymnasial utbildning två år eller längre",
-          "legacy_ams_taxonomy_id": "6"
-        }
-      ]
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 5,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "eSph_tp4_T7Z",
-          "label": "IT-arkitekt",
-          "legacy_ams_taxonomy_id": null
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-23T14:37:55",
-    "last_publication_date": "2026-10-23T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1790167075663
-  },
-  {
-    "relevance": 1,
-    "id": "31510172",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31510172",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5569124760/logotyper/logo.png",
-    "headline": "Utvecklare lärspel, Eskilstuna",
-    "application_deadline": "2026-10-23T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Om företaget\nSkolplus AB utvecklar digitala läromedel för grundskolan, upp till årskurs 6. Vårt motto är ”Lärande med glädje”, vilket tar sig uttryck i roliga kunskapsspel, smarta lärverktyg och utskriftsmaterial. Allt ingår i vår webbplats skolplus.se som säljs som en prenumerationstjänst till skolor och privatpersoner. Vi har idag över 90 % av Sveriges grundskolor som kunder, vilket troligen gör oss till den mest spridda webbtjänsten för svenska skolan. Det vi skapar används och gör skillnad för undervisningen ute i skolorna. Kontoret ligger i centrala Eskilstuna och består idag av sju medarbetare. Tack vare den mindre arbetsgruppen har du som anställd stora möjligheter att vara med och påverka det dagliga arbetet.\nArbetsbeskrivning\nVi söker en programmerare som vill bygga nästa generation lärspel och digitala övningar på skolplus.se. Du kommer att utveckla nya spel och interaktiva övningar från idé till färdig funktion, samt förbättra och vidareutveckla det vi redan har.\nDu arbetar nära vårt team och bidrar till att spelet blir pedagogiskt, roligt och tekniskt hållbart. En viktig del av rollen är att använda AI som ett verktyg i både utveckling och idégenerering – till exempel för att snabbare ta fram prototyper, innehåll, grafikunderlag eller kod – utan att släppa kontrollen över kvalitet och pedagogik.\nDu ska kunna visa konkreta exempel på vad du har byggt tidigare, gärna spel, interaktiva övningar eller liknande webbapplikationer.\nKvalifikationer\nVi söker dig som har:\nErfarenhet av webbutveckling med HTML, JavaScript och CSS\nVana att använda AI i det praktiska utvecklingsarbetet (kod, prototyper, innehåll, bilder eller liknande)\nFörmåga att visa upp exempel på tidigare arbete (live-demo eller liknande)\nFörmåga att arbeta självständigt och i team\nRelevant utbildning eller motsvarande erfarenhet\nGod problemlösningsförmåga och vilja att snabbt sätta dig in i nya verktyg och teknologier\n\nMeriterande är erfarenhet av spelutveckling, interaktiva läromedel eller liknande pedagogiska produkter.\nÖvrig information\nStart: Omgående eller enligt överenskommelse.\nOmfattning: Heltid, tillsvidare med 6 månaders provanställning.\nPlacering: Vårt kontor, Eskilsgatan 20, Eskilstuna.\nÖvrigt: Lön efter överenskommelse, tjänstepension, friskvårdsbidrag.\nAnsökan\nAnsökan senast 23 oktober 2026 till  jobb@skolplus.se\nObs! Jobbet är ej distans. Om du inte är bosatt i Eskilstuna kommun, ange om du planerar att pendla till jobbet eller att flytta.\nSkicka din ansökan, CV och exempel på tidigare arbete till jobb@skolplus.se. Ansökningar behandlas löpande.",
-      "text_formatted": "<p><strong>Om företaget</strong></p><p>Skolplus AB utvecklar digitala läromedel för grundskolan, upp till årskurs 6. Vårt motto är ”Lärande med glädje”, vilket tar sig uttryck i roliga kunskapsspel, smarta lärverktyg och utskriftsmaterial. Allt ingår i vår webbplats skolplus.se som säljs som en prenumerationstjänst till skolor och privatpersoner. Vi har idag över 90 % av Sveriges grundskolor som kunder, vilket troligen gör oss till den mest spridda webbtjänsten för svenska skolan. Det vi skapar används och gör skillnad för undervisningen ute i skolorna. Kontoret ligger i centrala Eskilstuna och består idag av sju medarbetare. Tack vare den mindre arbetsgruppen har du som anställd stora möjligheter att vara med och påverka det dagliga arbetet.</p><p><strong>Arbetsbeskrivning</strong></p><p>Vi söker en programmerare som vill bygga nästa generation lärspel och digitala övningar på skolplus.se. Du kommer att utveckla nya spel och interaktiva övningar från idé till färdig funktion, samt förbättra och vidareutveckla det vi redan har.</p><p>Du arbetar nära vårt team och bidrar till att spelet blir pedagogiskt, roligt och tekniskt hållbart. En viktig del av rollen är att använda AI som ett verktyg i både utveckling och idégenerering – till exempel för att snabbare ta fram prototyper, innehåll, grafikunderlag eller kod – utan att släppa kontrollen över kvalitet och pedagogik.</p><p>Du ska kunna visa konkreta exempel på vad du har byggt tidigare, gärna spel, interaktiva övningar eller liknande webbapplikationer.</p><p><strong>Kvalifikationer</strong></p><p>Vi söker dig som har:</p><ul><li>Erfarenhet av webbutveckling med HTML, JavaScript och CSS</li><li>Vana att använda AI i det praktiska utvecklingsarbetet (kod, prototyper, innehåll, bilder eller liknande)</li><li>Förmåga att visa upp exempel på tidigare arbete (live-demo eller liknande)</li><li>Förmåga att arbeta självständigt och i team</li><li>Relevant utbildning eller motsvarande erfarenhet</li><li>God problemlösningsförmåga och vilja att snabbt sätta dig in i nya verktyg och teknologier</li></ul><p>Meriterande är erfarenhet av spelutveckling, interaktiva läromedel eller liknande pedagogiska produkter.</p><p><strong>Övrig information</strong></p><p>Start: Omgående eller enligt överenskommelse.</p><p>Omfattning: Heltid, tillsvidare med 6 månaders provanställning.</p><p>Placering: Vårt kontor, Eskilsgatan 20, Eskilstuna.</p><p>Övrigt: Lön efter överenskommelse, tjänstepension, friskvårdsbidrag.</p><p><strong>Ansökan</strong></p><p>Ansökan senast 23 oktober 2026 till  jobb@skolplus.se</p><p><strong>Obs! Jobbet är ej distans. Om du inte är bosatt i Eskilstuna kommun, ange om du planerar att pendla till jobbet eller att flytta.</strong></p><p>Skicka din ansökan, CV och exempel på tidigare arbete till jobb@skolplus.se. Ansökningar behandlas löpande.</p><p><br></p><p><br></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://skolplus.se",
-      "organization_number": "5569124760",
-      "name": "Skolplus AB",
-      "workplace": "Skolplus AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": "jobb@skolplus.se",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "GDHs_eoz_uKx",
-      "label": "Frontend-utvecklare",
-      "legacy_ams_taxonomy_id": "7633"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Eskilsgatan 20",
-      "postcode": "63356",
-      "city": "Eskilstuna",
-      "coordinates": [
-        16.5171208115822,
-        59.3624525481942
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Eskilstuna",
-        "municipality_code": "0484",
-        "municipality_concept_id": "kMxr_NiX_YrU",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Eskilsgatan 20",
-        "postcode": "63356",
-        "city": "Eskilstuna",
-        "coordinates": [
-          16.5171208115822,
-          59.3624525481942
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "GDHs_eoz_uKx",
-          "label": "Frontend-utvecklare",
-          "legacy_ams_taxonomy_id": "7633"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-09-23T10:50:15",
-    "last_publication_date": "2026-10-23T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1790153415643
-  },
-  {
-    "relevance": 1,
     "id": "31461427",
     "external_id": null,
     "original_id": null,
@@ -2633,6 +2303,459 @@
   },
   {
     "relevance": 1,
+    "id": "31638965",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31638965",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5565595450/logotyper/logo.png",
+    "headline": "Junior Systemingenjör till växande bolag i Linköping! ",
+    "application_deadline": "2027-04-21T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Vill du starta din ingenjörskarriär i ett spännande bolag där du får utvecklas och samtidigt göra skillnad för sjukvården på riktigt? Är du tekniskt nyfiken, trivs i en roll med mycket kundkontakt och har ett intresse för molnlösningar och systemintegration? Då kan rollen som junior systemingenjör vara perfekt för dig!\nOm tjänsten\nI den här rollen blir du en del av ett kompetent ingenjörsteam som tillsammans drivs av att utveckla och förbättra framtidens e-hälsa och sjukvård, där du har ett nära samarbete med andra systemingenjörer, applikationsspecialister och projektledare. Din vardag präglas av spännande kundprojekt där du är med och anpassar, installerar, integrerar och uppgraderar den medicintekniska miljön. Problemlösning och teknisk felsökning en central del i ditt dagliga arbete, och vi ser därför att du är nyfiken med ett stort driv och en vilja att lära.\nDu får en genomtänkt och trygg onboarding, och eftersom verksamheten växer snabbt ser dagarna olika ut, vilket skapar stora möjligheter för professionell utveckling. \nDu erbjuds\nEn meningsfull karriärstart: Arbeta med samhällskritisk teknik som gör skillnad för sjukvården.\nMöjlighet till internationell utveckling: Ett globalt och framgångsrikt företag med karriärvägar både nationellt och internationellt.\nStark gemenskap: En företagskultur med god sammanhållning och regelbundna sociala aktiviteter. \nDedikerad konsultchef: Nära stöd från Academic Work för att säkerställa din personliga och professionella utveckling.\nSom konsult för Academic Work erbjuder vi stora möjligheter för dig att växa professionellt, bygga ditt nätverk och skapa värdefulla kontakter för framtiden. Läs mer om vårt konsulterbjudande\n\nUppdraget inleds som ett konsultuppdrag via oss, med ambition att övergå till en anställning direkt hos kunden.\nArbetsuppgifter\nVara en del i planering och genomförande av kundprojekt  \nKundanpassad installation, systemintegration, konfiguration och uppgradering av medicinska IT-produkter hos kunder   \nLöpande kundkontakt och arbeta mot gemensamma mål   \nHantera felsökning och teknisk problemlösning för att driva projekt framåt  \nSamarbeta tätt i team med projektledare och applikationsspecialister  \nMöjlighet att arbeta och lära dig mer om IT-miljöer, komplexa databaser, virtuella servrar och molnlösningar\n\nVi söker dig som\nCivilingenjörsutbildning inom till exempel Datateknik, Teknisk Fysik, Bioteknik, Medicinteknik, Medieteknik eller motsvarande\nFlytande kunskaper i svenska i både tal och skrift\nGoda kunskaper i engelska i både tal och skrift\nEtt starkt tekniskt intresse och en vilja att ständigt lära dig nytt\n\nFör denna process ber vi dig skicka in dina betyg från universitetet.\nDet är meriterande om du har\nKunskap inom Windows Server, MS SQL Server, Active Directory eller kluster och lagring\nStort engagemang utanför studierna\nErfarenhet av internationella sammanhang\nErfarenhet av eller intresse för molnlösningar och systemintegration\n\nFör att lyckas i rollen har du följande personliga egenskaper:\nHjälpsam\nMålmedveten\nSocial\nIntellektuellt nyfiken\n\nVår rekryteringsprocess\nDenna rekryteringsprocess hanteras av Academic Work och vår kunds önskemål är att alla frågor rörande tjänsten skickas till Academic Work.\nVi tillämpar löpande urval och kommer plocka ner annonsen när tillräckligt många kandidater har nått slutskedet i rekryteringsprocessen. Vid ansökan efterfrågas ett CV. Personligt brev använder vi inte som urvalsmetod och behöver därför inte bifogas. Rekryteringsprocessen innehåller två urvalstest: ett personlighetstest och ett test i kognitiv förmåga. Testerna är ett verktyg för att kunna hitta den kandidat med högst potential för tjänsten samt främja jämlikhet, mångfald och en rättvis rekryteringsprocess.",
+      "text_formatted": "<p>Vill du starta din ingenjörskarriär i ett spännande bolag där du får utvecklas och samtidigt göra skillnad för sjukvården på riktigt? Är du tekniskt nyfiken, trivs i en roll med mycket kundkontakt och har ett intresse för molnlösningar och systemintegration? Då kan rollen som junior systemingenjör vara perfekt för dig!</p><p><strong>Om tjänsten</strong></p><p>I den här rollen blir du en del av ett kompetent ingenjörsteam som tillsammans drivs av att utveckla och förbättra framtidens e-hälsa och sjukvård, där du har ett nära samarbete med andra systemingenjörer, applikationsspecialister och projektledare. Din vardag präglas av spännande kundprojekt där du är med och anpassar, installerar, integrerar och uppgraderar den medicintekniska miljön. Problemlösning och teknisk felsökning en central del i ditt dagliga arbete, och vi ser därför att du är nyfiken med ett stort driv och en vilja att lära.</p><p>Du får en genomtänkt och trygg onboarding, och eftersom verksamheten växer snabbt ser dagarna olika ut, vilket skapar stora möjligheter för professionell utveckling. </p><p><strong>Du erbjuds</strong></p><ul><li><strong>En meningsfull karriärstart:</strong> Arbeta med samhällskritisk teknik som gör skillnad för sjukvården.</li><li><strong>Möjlighet till internationell utveckling:</strong> Ett globalt och framgångsrikt företag med karriärvägar både nationellt och internationellt.</li><li><strong>Stark gemenskap:</strong> En företagskultur med god sammanhållning och regelbundna sociala aktiviteter. </li><li><strong>Dedikerad konsultchef:</strong> Nära stöd från Academic Work för att säkerställa din personliga och professionella utveckling.</li><li>Som konsult för Academic Work erbjuder vi stora möjligheter för dig att växa professionellt, bygga ditt nätverk och skapa värdefulla kontakter för framtiden. Läs mer om <strong>vårt konsulterbjudande</strong></li></ul><p><em>Uppdraget inleds som ett konsultuppdrag via oss, med ambition att övergå till en anställning direkt hos kunden.</em></p><p><strong>Arbetsuppgifter</strong></p><ul><li>Vara en del i planering och genomförande av kundprojekt  </li><li>Kundanpassad installation, systemintegration, konfiguration och uppgradering av medicinska IT-produkter hos kunder   </li><li>Löpande kundkontakt och arbeta mot gemensamma mål   </li><li>Hantera felsökning och teknisk problemlösning för att driva projekt framåt  </li><li>Samarbeta tätt i team med projektledare och applikationsspecialister  </li><li>Möjlighet att arbeta och lära dig mer om IT-miljöer, komplexa databaser, virtuella servrar och molnlösningar</li></ul><p><strong>Vi söker dig som</strong></p><ul><li>Civilingenjörsutbildning inom till exempel Datateknik, Teknisk Fysik, Bioteknik, Medicinteknik, Medieteknik eller motsvarande</li><li>Flytande kunskaper i svenska i både tal och skrift</li><li>Goda kunskaper i engelska i både tal och skrift</li><li>Ett starkt tekniskt intresse och en vilja att ständigt lära dig nytt</li></ul><p><strong>För denna process ber vi dig skicka in dina betyg från universitetet.</strong></p><p><strong>Det är meriterande om du har</strong></p><ul><li>Kunskap inom Windows Server, MS SQL Server, Active Directory eller kluster och lagring</li><li>Stort engagemang utanför studierna</li><li>Erfarenhet av internationella sammanhang</li><li>Erfarenhet av eller intresse för molnlösningar och systemintegration</li></ul><p><strong>För att lyckas i rollen har du följande personliga egenskaper:</strong></p><ul><li>Hjälpsam</li><li>Målmedveten</li><li>Social</li><li>Intellektuellt nyfiken</li></ul><p><strong>Vår rekryteringsprocess</strong></p><p>Denna rekryteringsprocess hanteras av Academic Work och vår kunds önskemål är att alla frågor rörande tjänsten skickas till Academic Work.</p><p>Vi tillämpar löpande urval och kommer plocka ner annonsen när tillräckligt många kandidater har nått slutskedet i rekryteringsprocessen. Vid ansökan efterfrågas ett CV. Personligt brev använder vi inte som urvalsmetod och behöver därför inte bifogas. Rekryteringsprocessen innehåller två urvalstest: ett personlighetstest och ett test i kognitiv förmåga. Testerna är ett verktyg för att kunna hitta den kandidat med högst potential för tjänsten samt främja jämlikhet, mångfald och en rättvis rekryteringsprocess.</p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "asrX_9Df_ukn",
+      "label": "Fast och rörlig lön",
+      "legacy_ams_taxonomy_id": "7"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "qQUd_4qe_NDT",
+      "label": "6 månader eller längre",
+      "legacy_ams_taxonomy_id": "2"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "5565595450",
+      "name": "Academic Work Sweden AB",
+      "workplace": "Academic Work Sweden AB"
+    },
+    "application_details": {
+      "information": null,
+      "reference": "O3UQ17",
+      "email": null,
+      "via_af": false,
+      "url": "https://www.academicwork.se/lediga-jobb/p/platsbanken/O3UQ17",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "i1F4_cZZ_PJu",
+      "label": "Systemarkitekt",
+      "legacy_ams_taxonomy_id": "7601"
+    },
+    "occupation_group": {
+      "concept_id": "UXKZ_3zZ_ipB",
+      "label": "Systemanalytiker och IT-arkitekter m.fl.",
+      "legacy_ams_taxonomy_id": "2511"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": "Gamla Tanneforsvägen 92",
+      "postcode": "58252",
+      "city": "Linköping",
+      "coordinates": [
+        15.633040320229,
+        58.4118587089518
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Gamla Tanneforsvägen 92",
+        "postcode": "58252",
+        "city": "Linköping",
+        "coordinates": [
+          15.633040320229,
+          58.4118587089518
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [
+        {
+          "weight": 10,
+          "concept_id": "NVxJ_hLg_TYS",
+          "label": "Engelska",
+          "legacy_ams_taxonomy_id": "283"
+        },
+        {
+          "weight": 10,
+          "concept_id": "zSLA_vw2_FXN",
+          "label": "Svenska",
+          "legacy_ams_taxonomy_id": "502"
+        }
+      ],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-10-23T15:23:40",
+    "last_publication_date": "2027-04-21T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1792761820365
+  },
+  {
+    "relevance": 1,
+    "id": "31637721",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31637721",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591411326/logotyper/logo.png",
+    "headline": "Teknisk Administratör till Ledande Teknikföretag",
+    "application_deadline": "2026-12-23T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Är du en noggrann och nyfiken person med intresse för teknik och system? Trivs du i roller där du både får strukturera, koordinera och bidra till förbättring? Då kan detta vara din nästa utmaning!\nOM TJÄNSTEN:\nHär blir du en viktig del av ett engagerat team som arbetar med att säkerställa hög datakvalitet för företagets produkter genom hela deras livscykel. Du kommer att spela en central roll i att skapa och underhålla produktförändringar i verksamheten. Du blir ansvarig i hela ledet, från att det uttrycks ett behov om en ändring, till att driva uppstartsmöten till att faktiskt implementera ändringen i verksamheten.\nTeamet är ett sammansvetsat gäng som värdesätter trivsel, humor och samarbete. Här är kulturen hjälpsam och prestigelös, med ett gemensamt fokus på att tillsammans skapa ordning och utveckling. Här får du chansen att växa i en stabil men samtidigt modern organisation, där gemenskap, lärande och utveckling står i fokus.\nARBETSUPPGIFTER:\nKoordinera ändringar i verksamhetens system\nSamordna och styra avdelningen mot att kunna ta beslut\nBidra till förbättring av processer, verktyg och arbetssätt\nDelta i tvärfunktionella utvecklingsprojekt\nPrioritera och driva egna arbetsuppgifter och mindre projekt\n\nVI SÖKER DIG SOM:\nHar erfarenhet av att arbeta i system\nHar erfarenhet av Office-applikationerna, gärna MS Project\nHar ett tekniskt intresse och trivs med administrativa och strukturerade uppgifter\nÄr kommunikativ, samarbetsinriktad och trivs i team\nHar förmågan att driva idéer från tanke till genomförande\n\nFör att trivas i rollen tror vi att du som person är lösningsorienterad, nyfiken och positiv. Du uppskattar struktur men gillar också att tänka i nya banor och utmana arbetssätt. Du ser möjligheter där andra ser hinder och bidrar till en god stämning i teamet. Rollen ställer krav på noggrannhet men också en förmåga att samarbeta, prioritera och hålla flera bollar i luften.\nOM ANSTÄLLNINGEN:\nDenna befattning kräver att du genomgår och blir godkänd vid var tids gällande bestämmelser för säkerhetsskydd. För befattningar där vår kund har krav på säkerhetsklassplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\nDetta är ett konsultuppdrag vilket innebär att du kommer att vara anställd av Friday och arbeta som konsult ute hos vår kund.\nÖVRIG INFO:\nOmfattning: heltid\nStart: enligt överenskommelse\nPlacering: Linköping\nLön: Marknadsmässig månadslön\nAnsök genom att klicka på länken nedan. Kom ihåg att vara snabb med din ansökan då vi gör löpande urval av kandidater och att annonsen kan stängs ner innan tjänsten är tillsatt om vi gått över till urvals och intervjufasen. Vi tar inte emot ansökningar via mail.\nOM FRIDAY:\nPå Friday brinner vi för att ge dig som Tech-talang en riktigt bra start på karriären. Genom att lyssna på vad just du vill och drivs av, matchar vi dig med företag och möjligheter som får dig att se fram emot att gå till jobbet.\nVi värderar ambition och potential högt och arbetar aktivt för en fördomsfri rekrytering, där alla ges samma chans att lyckas.\nVi finns i Stockholm, Göteborg, Malmö, Linköping och Örebro. Varje år genomför vi över 5 000 karriärmöten och matchar kandidater med allt från globala företag till innovativa startups.\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+      "text_formatted": "<p>Är du en noggrann och nyfiken person med intresse för teknik och system? Trivs du i roller där du både får strukturera, koordinera och bidra till förbättring? Då kan detta vara din nästa utmaning!</p><p><strong>OM TJÄNSTEN:</strong></p><p>Här blir du en viktig del av ett engagerat team som arbetar med att säkerställa hög datakvalitet för företagets produkter genom hela deras livscykel. Du kommer att spela en central roll i att skapa och underhålla produktförändringar i verksamheten. Du blir ansvarig i hela ledet, från att det uttrycks ett behov om en ändring, till att driva uppstartsmöten till att faktiskt implementera ändringen i verksamheten.</p><p>Teamet är ett sammansvetsat gäng som värdesätter trivsel, humor och samarbete. Här är kulturen hjälpsam och prestigelös, med ett gemensamt fokus på att tillsammans skapa ordning och utveckling. Här får du chansen att växa i en stabil men samtidigt modern organisation, där gemenskap, lärande och utveckling står i fokus.</p><p><strong>ARBETSUPPGIFTER:</strong></p><ul><li>Koordinera ändringar i verksamhetens system</li><li>Samordna och styra avdelningen mot att kunna ta beslut</li><li>Bidra till förbättring av processer, verktyg och arbetssätt</li><li>Delta i tvärfunktionella utvecklingsprojekt</li><li>Prioritera och driva egna arbetsuppgifter och mindre projekt</li></ul><p><strong>VI SÖKER DIG SOM:</strong></p><ul><li>Har erfarenhet av att arbeta i system</li><li>Har erfarenhet av Office-applikationerna, gärna MS Project</li><li>Har ett tekniskt intresse och trivs med administrativa och strukturerade uppgifter</li><li>Är kommunikativ, samarbetsinriktad och trivs i team</li><li>Har förmågan att driva idéer från tanke till genomförande</li></ul><p>För att trivas i rollen tror vi att du som person är lösningsorienterad, nyfiken och positiv. Du uppskattar struktur men gillar också att tänka i nya banor och utmana arbetssätt. Du ser möjligheter där andra ser hinder och bidrar till en god stämning i teamet. Rollen ställer krav på noggrannhet men också en förmåga att samarbeta, prioritera och hålla flera bollar i luften.</p><p><strong>OM ANSTÄLLNINGEN:</strong></p><p>Denna befattning kräver att du genomgår och blir godkänd vid var tids gällande bestämmelser för säkerhetsskydd. För befattningar där vår kund har krav på säkerhetsklassplacering kan, i förekommande fall, medföra krav på visst medborgarskap.</p><p>Detta är ett konsultuppdrag vilket innebär att du kommer att vara anställd av Friday och arbeta som konsult ute hos vår kund.</p><p><strong>ÖVRIG INFO:</strong></p><p>Omfattning: <em>heltid</em></p><p>Start: <em>enligt överenskommelse</em></p><p>Placering: <em>Linköping</em></p><p>Lön: <em>Marknadsmässig månadslön</em></p><p>Ansök genom att klicka på länken nedan. Kom ihåg att vara snabb med din ansökan då vi gör löpande urval av kandidater och att annonsen kan stängs ner innan tjänsten är tillsatt om vi gått över till urvals och intervjufasen. Vi tar inte emot ansökningar via mail.</p><p><strong>OM FRIDAY:</strong></p><p>På Friday brinner vi för att ge dig som Tech-talang en riktigt bra start på karriären. Genom att lyssna på vad just du vill och drivs av, matchar vi dig med företag och möjligheter som får dig att se fram emot att gå till jobbet.</p><p>Vi värderar ambition och potential högt och arbetar aktivt för en fördomsfri rekrytering, där alla ges samma chans att lyckas.</p><p>Vi finns i Stockholm, Göteborg, Malmö, Linköping och Örebro. Varje år genomför vi över 5 000 karriärmöten och matchar kandidater med allt från globala företag till innovativa startups.</p><p id=\"oppenforalla\">Öppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.</p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "5591411326",
+      "name": "Friday Väst AB",
+      "workplace": "Friday Sydost AB"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": null,
+      "via_af": false,
+      "url": "https://pnty-apply.ponty-system.se/friday?id=5278&pnty_src=platsbanken",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "h643_FdG_96d",
+      "label": "Configuration Manager/CM",
+      "legacy_ams_taxonomy_id": "7689"
+    },
+    "occupation_group": {
+      "concept_id": "UXKZ_3zZ_ipB",
+      "label": "Systemanalytiker och IT-arkitekter m.fl.",
+      "legacy_ams_taxonomy_id": "2511"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": "Ågatan 14",
+      "postcode": "58222",
+      "city": "Linköping",
+      "coordinates": [
+        15.6272026320992,
+        58.4120707353441
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Ågatan 14",
+        "postcode": "58222",
+        "city": "Linköping",
+        "coordinates": [
+          15.6272026320992,
+          58.4120707353441
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [
+      {
+        "name": "Isabelle Aronsson",
+        "description": null,
+        "email": "isabelle.aronsson@friday.se",
+        "telephone": null,
+        "contact_type": "Recruiter"
+      }
+    ],
+    "publication_date": "2026-10-23T13:47:55",
+    "last_publication_date": "2026-12-23T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1792756075852
+  },
+  {
+    "relevance": 1,
+    "id": "31637203",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31637203",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560525833/logotyper/logo.png",
+    "headline": "Project Support",
+    "application_deadline": "2026-11-15T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Företagspresentation\n\nTill vår kund Siemens Energy, en ledande global aktör inom energibranschen, söker vi nu en Project Support för ett uppdrag på deras site i Finspång. \nFöretaget är tack vare högteknologisk och innovativ produktutveckling en etablerad partner inom energisektorn som levererar avancerade samt hållbara lösningar för marknadens nuvarande och framtida behov. \nDu får genom det här uppdraget möjlighet att arbeta i en internationell och framåtsträvande miljö där utvecklingsmöjligheterna är många. \nDet här är inledningsvis ett konsultuppdrag på 6 månader via Unik Resurs med mycket god möjlighet till förlängning. \n\nVi tillämpar löpande urval vilket innebär att uppdraget kan komma att tillsättas tidigare än sista ansökningsdatum.\nDin profil\n\nVi söker dig som är proaktiv, självgående och initiativtagande och som har ett genuint intresse för kommunikation, medarbetarengagemang och organisationsutveckling. Du tycker om att ta ansvar för dina uppgifter och är bekväm med att själv driva arbetet framåt.\n Eftersom rollen innebär många kontaktytor ser vi att du har mycket god kommunikativ förmåga, både i tal och skrift. Du är strukturerad, noggrann och har lätt för att skapa ordning även när flera aktiviteter pågår samtidigt.\n Du trivs i en projektorienterad miljö där förutsättningar och arbetssätt kan förändras längs vägen. Som person är du nyfiken, motiverad och har en vilja att lära dig nya saker och utvecklas i rollen.\n \nVi ser gärna att du har:\n  Ett starkt intresse för kommunikation, medarbetarengagemang och förändringsarbete.\n Förmåga att ta egna initiativ och självständigt driva dina arbetsuppgifter.\n Mycket god kommunikativ förmåga i både tal och skrift.\n Förmåga att arbeta strukturerat och noggrant med flera parallella aktiviteter.\n Förmåga att snabbt anpassa dig när krav eller processer förändras.\n Erfarenhet av Microsoft 365. Erfarenhet av SharePoint är meriterande.\n\n Bli en del av Unik Resurs – Din karriär och utveckling är vår prioritet!\nVi värderar varje individs unika kompetens och engagemang. På Unik Resurs strävar vi efter att inte bara vara din arbetsgivare, utan en partner i din karriärsutveckling. Vi är ett team och genom regelbundna avstämningar jobbar vi tillsammans för att du både ska utvecklas och trivas i din roll som konsult. \n \nVårt erbjudande:\nFast månadslön: Hos oss får du ekonomisk stabilitet med en konkurrenskraftig och pålitlig månadslön.\nTrygga anställningsvillkor: Vi följer kollektivavtal och erbjuder förmånliga försäkringar för din trygghet och välbefinnande.\nPersonlig och professionell utveckling: Du kommer att ha kontinuerlig kontakt med din Konsultchef, som finns där för att ge både personlig support och professionell coachning.\nUnikt nätverk: Som en del av Unik Resurs är du aldrig ensam. Du blir en del av ett nätverk av professionella, där samarbete och stöd står i centrum.\nKompetensutveckling genom Unik Academy: Vi investerar i din framtid genom kontinuerlig utbildning och utvecklingsmöjligheter via vår Unik Academy.\nVi välkomnar dig att ta nästa steg i din karriär med oss på Unik Resurs. Ansök idag för att bli en del av vårt engagerade och framåtsträvande team!\n\n\nAnsök redan idag!\nPassar du in på ovanstående profil, tveka inte att ansöka redan idag! Urval sker löpande vilket innebär att tjänsten kan komma att tillsättas innan sista ansökningsdatum.\nGlöm inte att motivera så utförligt som möjligt varför just du är lämplig för denna tjänst och att uppdatera dina uppgifter i ditt CV.\nSök tjänsten genom att klicka på ansök och registrera dig i vår databas, detta för att följa riktlinjerna som gäller för GDPR. \n\nFör frågor gällande tjänsten eller rekryteringsprocessen vänligen kontakta ansvarigt rekryteringsteam;\nAlexandra Linder\nalexandra.linder@unikresurs.se\n070 727 49 79\n\n\nUnik Resurs\nVälkommen till Unik Resurs!\nDin rekryterings- & utvecklingspartner i med- & motgång\n\nHos oss är du alltid välkommen att kontakta ansvarig rekryterare om du har frågor eller funderingar kring ett annonserat uppdrag.\nOm inte detta uppdrag passar dig är du välkommen att kontakta oss så kanske vi kan hitta ditt drömjobb tillsammans. Vi känner regionen och vet var du kan göra bäst nytta med din profil.\n\nLycka till!\n\n\n#LI-Onsite, #LI-Hybrid eller #LI-Remote.",
+      "text_formatted": "<p><strong>Företagspresentation</strong></p><p></p><p>Till vår kund Siemens Energy, en ledande global aktör inom energibranschen, söker vi nu en Project Support för ett uppdrag på deras site i Finspång. </p><p>Företaget är tack vare högteknologisk och innovativ produktutveckling en etablerad partner inom energisektorn som levererar avancerade samt hållbara lösningar för marknadens nuvarande och framtida behov. </p><p>Du får genom det här uppdraget möjlighet att arbeta i en internationell och framåtsträvande miljö där utvecklingsmöjligheterna är många. </p><p>Det här är inledningsvis ett konsultuppdrag på 6 månader via Unik Resurs med mycket god möjlighet till förlängning. </p><p></p><p>Vi tillämpar löpande urval vilket innebär att uppdraget kan komma att tillsättas tidigare än sista ansökningsdatum.</p><p><strong>Din profil</strong></p><p><p>Vi söker dig som är proaktiv, självgående och initiativtagande och som har ett genuint intresse för kommunikation, medarbetarengagemang och organisationsutveckling. Du tycker om att ta ansvar för dina uppgifter och är bekväm med att själv driva arbetet framåt.</p> <p>Eftersom rollen innebär många kontaktytor ser vi att du har mycket god kommunikativ förmåga, både i tal och skrift. Du är strukturerad, noggrann och har lätt för att skapa ordning även när flera aktiviteter pågår samtidigt.</p> <p>Du trivs i en projektorienterad miljö där förutsättningar och arbetssätt kan förändras längs vägen. Som person är du nyfiken, motiverad och har en vilja att lära dig nya saker och utvecklas i rollen.</p> <p></p><p>Vi ser gärna att du har:</p> <ul> <li>Ett starkt intresse för kommunikation, medarbetarengagemang och förändringsarbete.</li> <li>Förmåga att ta egna initiativ och självständigt driva dina arbetsuppgifter.</li> <li>Mycket god kommunikativ förmåga i både tal och skrift.</li> <li>Förmåga att arbeta strukturerat och noggrant med flera parallella aktiviteter.</li> <li>Förmåga att snabbt anpassa dig när krav eller processer förändras.</li> <li>Erfarenhet av Microsoft 365. Erfarenhet av SharePoint är meriterande.</li></ul></p> <p><strong>Bli en del av Unik Resurs – Din karriär och utveckling är vår prioritet!</strong></p><p>Vi värderar varje individs unika kompetens och engagemang. På Unik Resurs strävar vi efter att inte bara vara din arbetsgivare, utan en partner i din karriärsutveckling. Vi är ett team och genom regelbundna avstämningar jobbar vi tillsammans för att du både ska utvecklas och trivas i din roll som konsult. </p><p> </p><p><strong>Vårt erbjudande:</strong></p><p><ul><li><strong>Fast månadslön: </strong>Hos oss får du ekonomisk stabilitet med en konkurrenskraftig och pålitlig månadslön.</li><li><strong>Trygga anställningsvillkor:</strong> Vi följer kollektivavtal och erbjuder förmånliga försäkringar för din trygghet och välbefinnande.</li><li><strong>Personlig och professionell utveckling:</strong> Du kommer att ha kontinuerlig kontakt med din Konsultchef, som finns där för att ge både personlig support och professionell coachning.</li><li><strong>Unikt nätverk:</strong> Som en del av Unik Resurs är du aldrig ensam. Du blir en del av ett nätverk av professionella, där samarbete och stöd står i centrum.</li><li><strong>Kompetensutveckling genom Unik Academy:</strong> Vi investerar i din framtid genom kontinuerlig utbildning och utvecklingsmöjligheter via vår Unik Academy.</li></ul>Vi välkomnar dig att ta nästa steg i din karriär med oss på Unik Resurs. Ansök idag för att bli en del av vårt engagerade och framåtsträvande team!</p><p></p></p><p><p><strong>Ansök redan idag!</strong></p><p>Passar du in på ovanstående profil, tveka inte att ansöka redan idag! Urval sker löpande vilket innebär att tjänsten kan komma att tillsättas innan sista ansökningsdatum.</p><p>Glöm inte att motivera så utförligt som möjligt varför just du är lämplig för denna tjänst och att uppdatera dina uppgifter i ditt CV.</p><p>Sök tjänsten genom att klicka på ansök och registrera dig i vår databas, detta för att följa riktlinjerna som gäller för GDPR. </p><p></p><p>För frågor gällande tjänsten eller rekryteringsprocessen vänligen kontakta ansvarigt rekryteringsteam;</p><p>Alexandra Linder</p><p>alexandra.linder@unikresurs.se</p><p>070 727 49 79</p></p><p><p><strong>Unik Resurs</strong></p><p><strong>Välkommen till Unik Resurs!</strong></p><p>Din rekryterings- & utvecklingspartner i med- & motgång</p><p></p><p>Hos oss är du alltid välkommen att kontakta ansvarig rekryterare om du har frågor eller funderingar kring ett annonserat uppdrag.</p><p>Om inte detta uppdrag passar dig är du välkommen att kontakta oss så kanske vi kan hitta ditt drömjobb tillsammans. Vi känner regionen och vet var du kan göra bäst nytta med din profil.</p><p></p><p>Lycka till!</p><p></p><p><p>#LI-Onsite, #LI-Hybrid eller #LI-Remote.</p></p><p></p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "1paU_aCR_nGn",
+      "label": "Behovsanställning",
+      "legacy_ams_taxonomy_id": "4"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": null,
+      "label": null,
+      "legacy_ams_taxonomy_id": null
+    },
+    "working_hours_type": {
+      "concept_id": null,
+      "label": null,
+      "legacy_ams_taxonomy_id": null
+    },
+    "scope_of_work": {
+      "min": null,
+      "max": null
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": "https://www.unikresurs.se/lediga-tjanster/?",
+      "organization_number": "5560525833",
+      "name": "UNIK Resurs i Sverige AB",
+      "workplace": "Unik Resurs i Sverige AB"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": null,
+      "via_af": false,
+      "url": "https://www.unikresurs.se/lediga-tjanster/?mtrpage=assignment&mtrt=ams&mtrid=9922",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "KQty_E1u_cia",
+      "label": "Helpdesktekniker/Supporttekniker",
+      "legacy_ams_taxonomy_id": "7020"
+    },
+    "occupation_group": {
+      "concept_id": "hmaC_cfi_UKg",
+      "label": "Supporttekniker, IT",
+      "legacy_ams_taxonomy_id": "3512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Finspång",
+      "municipality_code": "0562",
+      "municipality_concept_id": "dMFe_J6W_iJv",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "61230",
+      "city": "Finspång",
+      "coordinates": [
+        15.773928014465687,
+        58.7067505335797
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Finspång",
+        "municipality_code": "0562",
+        "municipality_concept_id": "dMFe_J6W_iJv",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "61230",
+        "city": "Finspång",
+        "coordinates": [
+          15.773928014465687,
+          58.7067505335797
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-10-23T12:49:24",
+    "last_publication_date": "2026-11-15T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1792752564589
+  },
+  {
+    "relevance": 1,
     "id": "31636518",
     "external_id": null,
     "original_id": null,
@@ -2776,11 +2899,11 @@
         "contact_type": null
       },
       {
-        "name": "Antonia Moberg",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "antonia.moberg@kriminalvarden.se",
-        "telephone": "0114963000",
-        "contact_type": "Systemutvecklare"
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Angelica Oxenby (SACO-S)",
@@ -2790,18 +2913,18 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
         "telephone": "0114963681",
         "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Antonia Moberg",
+        "description": null,
+        "email": "antonia.moberg@kriminalvarden.se",
+        "telephone": "0114963000",
+        "contact_type": "Systemutvecklare"
       }
     ],
     "publication_date": "2026-10-23T11:14:43",
@@ -6926,6 +7049,13 @@
     },
     "application_contacts": [
       {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Sakib Kicic",
         "description": null,
         "email": "sakib.kicic@kriminalvarden.se",
@@ -6936,13 +7066,6 @@
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -7420,163 +7543,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1792475520513
-  },
-  {
-    "relevance": 1,
-    "id": "31616109",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31616109",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5565595450/logotyper/logo.png",
-    "headline": "Junior Systemingenjör till växande bolag i Linköping! ",
-    "application_deadline": "2027-04-17T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du starta din ingenjörskarriär i ett spännande bolag där du får utvecklas och samtidigt göra skillnad för sjukvården på riktigt? Är du tekniskt nyfiken, trivs i en roll med mycket kundkontakt och har ett intresse för molnlösningar och systemintegration? Då kan rollen som junior systemingenjör vara perfekt för dig!\nOm tjänsten\nI den här rollen blir du en del av ett kompetent ingenjörsteam som tillsammans drivs av att utveckla och förbättra framtidens e-hälsa och sjukvård, där du har ett nära samarbete med andra systemingenjörer, applikationsspecialister och projektledare. Din vardag präglas av spännande kundprojekt där du är med och anpassar, installerar, integrerar och uppgraderar den medicintekniska miljön. Problemlösning och teknisk felsökning en central del i ditt dagliga arbete, och vi ser därför att du är nyfiken med ett stort driv och en vilja att lära.\nDu får en genomtänkt och trygg onboarding, och eftersom verksamheten växer snabbt ser dagarna olika ut, vilket skapar stora möjligheter för professionell utveckling. \nDu erbjuds\nEn meningsfull karriärstart: Arbeta med samhällskritisk teknik som gör skillnad för sjukvården.\nMöjlighet till internationell utveckling: Ett globalt och framgångsrikt företag med karriärvägar både nationellt och internationellt.\nStark gemenskap: En företagskultur med god sammanhållning och regelbundna sociala aktiviteter. \nDedikerad konsultchef: Nära stöd från Academic Work för att säkerställa din personliga och professionella utveckling.\nSom konsult för Academic Work erbjuder vi stora möjligheter för dig att växa professionellt, bygga ditt nätverk och skapa värdefulla kontakter för framtiden. Läs mer om vårt konsulterbjudande\n\nUppdraget inleds som ett konsultuppdrag via oss, med ambition att övergå till en anställning direkt hos kunden.\nArbetsuppgifter\nVara en del i planering och genomförande av kundprojekt  \nKundanpassad installation, systemintegration, konfiguration och uppgradering av medicinska IT-produkter hos kunder   \nLöpande kundkontakt och arbeta mot gemensamma mål   \nHantera felsökning och teknisk problemlösning för att driva projekt framåt  \nSamarbeta tätt i team med projektledare och applikationsspecialister  \nMöjlighet att arbeta och lära dig mer om IT-miljöer, komplexa databaser, virtuella servrar och molnlösningar\n\nVi söker dig som\nCivilingenjörsutbildning inom till exempel Datateknik, Teknisk Fysik, Bioteknik, Medicinteknik, Medieteknik eller motsvarande\nFlytande kunskaper i svenska i både tal och skrift\nGoda kunskaper i engelska i både tal och skrift\nEtt starkt tekniskt intresse och en vilja att ständigt lära dig nytt\nHar svenskt medborgarskap. Detta då tjänsten är placerad i säkerhetsklass och kräver en godkänd säkerhetsprövning enligt 3 kap 1§ i Säkerhetsskyddslagen.\n\nFör denna process ber vi dig skicka in dina betyg från universitetet.\nDet är meriterande om du har\nKunskap inom Windows Server, MS SQL Server, Active Directory eller kluster och lagring\nStort engagemang utanför studierna\nErfarenhet av internationella sammanhang\nErfarenhet av eller intresse för molnlösningar och systemintegration\n\nFör att lyckas i rollen har du följande personliga egenskaper:\nHjälpsam\nMålmedveten\nSocial\nIntellektuellt nyfiken\n\nVår rekryteringsprocess\nDenna rekryteringsprocess hanteras av Academic Work och vår kunds önskemål är att alla frågor rörande tjänsten skickas till Academic Work.\nVi tillämpar löpande urval och kommer plocka ner annonsen när tillräckligt många kandidater har nått slutskedet i rekryteringsprocessen. Vid ansökan efterfrågas ett CV. Personligt brev använder vi inte som urvalsmetod och behöver därför inte bifogas. Rekryteringsprocessen innehåller två urvalstest: ett personlighetstest och ett test i kognitiv förmåga. Testerna är ett verktyg för att kunna hitta den kandidat med högst potential för tjänsten samt främja jämlikhet, mångfald och en rättvis rekryteringsprocess.",
-      "text_formatted": "<p>Vill du starta din ingenjörskarriär i ett spännande bolag där du får utvecklas och samtidigt göra skillnad för sjukvården på riktigt? Är du tekniskt nyfiken, trivs i en roll med mycket kundkontakt och har ett intresse för molnlösningar och systemintegration? Då kan rollen som junior systemingenjör vara perfekt för dig!</p><p><strong>Om tjänsten</strong></p><p>I den här rollen blir du en del av ett kompetent ingenjörsteam som tillsammans drivs av att utveckla och förbättra framtidens e-hälsa och sjukvård, där du har ett nära samarbete med andra systemingenjörer, applikationsspecialister och projektledare. Din vardag präglas av spännande kundprojekt där du är med och anpassar, installerar, integrerar och uppgraderar den medicintekniska miljön. Problemlösning och teknisk felsökning en central del i ditt dagliga arbete, och vi ser därför att du är nyfiken med ett stort driv och en vilja att lära.</p><p>Du får en genomtänkt och trygg onboarding, och eftersom verksamheten växer snabbt ser dagarna olika ut, vilket skapar stora möjligheter för professionell utveckling. </p><p><strong>Du erbjuds</strong></p><ul><li><strong>En meningsfull karriärstart:</strong> Arbeta med samhällskritisk teknik som gör skillnad för sjukvården.</li><li><strong>Möjlighet till internationell utveckling:</strong> Ett globalt och framgångsrikt företag med karriärvägar både nationellt och internationellt.</li><li><strong>Stark gemenskap:</strong> En företagskultur med god sammanhållning och regelbundna sociala aktiviteter. </li><li><strong>Dedikerad konsultchef:</strong> Nära stöd från Academic Work för att säkerställa din personliga och professionella utveckling.</li><li>Som konsult för Academic Work erbjuder vi stora möjligheter för dig att växa professionellt, bygga ditt nätverk och skapa värdefulla kontakter för framtiden. Läs mer om <strong>vårt konsulterbjudande</strong></li></ul><p><em>Uppdraget inleds som ett konsultuppdrag via oss, med ambition att övergå till en anställning direkt hos kunden.</em></p><p><strong>Arbetsuppgifter</strong></p><ul><li>Vara en del i planering och genomförande av kundprojekt  </li><li>Kundanpassad installation, systemintegration, konfiguration och uppgradering av medicinska IT-produkter hos kunder   </li><li>Löpande kundkontakt och arbeta mot gemensamma mål   </li><li>Hantera felsökning och teknisk problemlösning för att driva projekt framåt  </li><li>Samarbeta tätt i team med projektledare och applikationsspecialister  </li><li>Möjlighet att arbeta och lära dig mer om IT-miljöer, komplexa databaser, virtuella servrar och molnlösningar</li></ul><p><strong>Vi söker dig som</strong></p><ul><li>Civilingenjörsutbildning inom till exempel Datateknik, Teknisk Fysik, Bioteknik, Medicinteknik, Medieteknik eller motsvarande</li><li>Flytande kunskaper i svenska i både tal och skrift</li><li>Goda kunskaper i engelska i både tal och skrift</li><li>Ett starkt tekniskt intresse och en vilja att ständigt lära dig nytt</li><li>Har svenskt medborgarskap. <em>Detta då tjänsten är placerad i säkerhetsklass och kräver en godkänd säkerhetsprövning enligt 3 kap 1§ i Säkerhetsskyddslagen.</em></li></ul><p><strong>För denna process ber vi dig skicka in dina betyg från universitetet.</strong></p><p><strong>Det är meriterande om du har</strong></p><ul><li>Kunskap inom Windows Server, MS SQL Server, Active Directory eller kluster och lagring</li><li>Stort engagemang utanför studierna</li><li>Erfarenhet av internationella sammanhang</li><li>Erfarenhet av eller intresse för molnlösningar och systemintegration</li></ul><p><strong>För att lyckas i rollen har du följande personliga egenskaper:</strong></p><ul><li>Hjälpsam</li><li>Målmedveten</li><li>Social</li><li>Intellektuellt nyfiken</li></ul><p><strong>Vår rekryteringsprocess</strong></p><p>Denna rekryteringsprocess hanteras av Academic Work och vår kunds önskemål är att alla frågor rörande tjänsten skickas till Academic Work.</p><p>Vi tillämpar löpande urval och kommer plocka ner annonsen när tillräckligt många kandidater har nått slutskedet i rekryteringsprocessen. Vid ansökan efterfrågas ett CV. Personligt brev använder vi inte som urvalsmetod och behöver därför inte bifogas. Rekryteringsprocessen innehåller två urvalstest: ett personlighetstest och ett test i kognitiv förmåga. Testerna är ett verktyg för att kunna hitta den kandidat med högst potential för tjänsten samt främja jämlikhet, mångfald och en rättvis rekryteringsprocess.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "asrX_9Df_ukn",
-      "label": "Fast och rörlig lön",
-      "legacy_ams_taxonomy_id": "7"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "qQUd_4qe_NDT",
-      "label": "6 månader eller längre",
-      "legacy_ams_taxonomy_id": "2"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5565595450",
-      "name": "Academic Work Sweden AB",
-      "workplace": "Academic Work Sweden AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "O3UQ17",
-      "email": null,
-      "via_af": false,
-      "url": "https://www.academicwork.se/lediga-jobb/p/platsbanken/O3UQ17",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "i1F4_cZZ_PJu",
-      "label": "Systemarkitekt",
-      "legacy_ams_taxonomy_id": "7601"
-    },
-    "occupation_group": {
-      "concept_id": "UXKZ_3zZ_ipB",
-      "label": "Systemanalytiker och IT-arkitekter m.fl.",
-      "legacy_ams_taxonomy_id": "2511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Gamla Tanneforsvägen 92",
-      "postcode": "58252",
-      "city": "Linköping",
-      "coordinates": [
-        15.633040320229,
-        58.4118587089518
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Gamla Tanneforsvägen 92",
-        "postcode": "58252",
-        "city": "Linköping",
-        "coordinates": [
-          15.633040320229,
-          58.4118587089518
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "NVxJ_hLg_TYS",
-          "label": "Engelska",
-          "legacy_ams_taxonomy_id": "283"
-        },
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-19T17:28:40",
-    "last_publication_date": "2027-04-17T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1792423720084
   },
   {
     "relevance": 1,
@@ -11334,164 +11300,6 @@
   },
   {
     "relevance": 1,
-    "id": "31604958",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31604958",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
-    "headline": "Systemingenjör inom positionering & navigering",
-    "application_deadline": "2026-10-23T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Drivs du av att se dina idéer bli verklighet? Välkommen till vår spännande och teknikintensiva värld. \n \n\n\nVar med och forma framtidens stridsflygsystem\n\nHar du erfarenhet av positionerings- och navigeringssystem - eller är du en ingenjör med starkt driv och nyfikenhet att utvecklas inom området?\nNu söker vi både erfarna systemingenjörer och yngre talanger som vill vara med och utveckla framtidens uppdragsförmåga inom avancerade stridsflygsystem.\nVåra grundläggande idéer:\nUtforskning och nyfikenhet: Vi bygger inte produkter - vi skapar idéer och prototyper genom experiment och innovation\n \nSnabb väg till demonstration: Kontinuerliga tester och simuleringar för att validera nya tekniska lösningar\n \nVåga prova, våga göra fel: Misstag ses som en lärandeprocess och en del av utvecklingen\n \nUtmaning och förändring: Vi utmanar inte bara teknologiska gränser utan även etablerade arbetssätt och metoder\n\n \n\n\nDin roll\n\nSom systemingenjör inom positionering & navigering arbetar du i produktutvecklingens tidiga skeden med att förstå och bryta ner kunders och användares behov till tekniska koncept och demonstratorer.\nDu kommer att arbeta med framtida användning av positionerings- och navigeringssystem i flygande autonoma farkoster och verka i gränslandet mellan teknik, operativa behov och strategiska mål.\nDu blir en del av ett växande team med både juniora och seniora systemingenjörer inom flera olika teknikdiscipliner där kunskapsutbyte, samarbete och teknisk nyfikenhet står i fokus.\n \nExempel på arbetsuppgifter\nUtforskning av ny teknik och standarder\nIntressent- och behovsanalys\nKonceptframtagning och trade off-analys mellan olika systemegenskaper (noggrannhet, integritet, tillgänglighet, latens, kostnad, med mera).\nSystemarkitektur och framtagning av referensarkitektur för framtida produkter\nModellering, simulering, demonstration och validering av tekniska lösningar\nFramtagning av tekniska rapporter och beslutsunderlag\nKunskapsspridning inom organisationen\n\n \n\n\nDin profil\n\nVi söker både dig som har lång erfarenhet inom området och dig som är i början av karriären men har ett starkt teknikintresse och vilja att utvecklas.\nDu har:\nTeknisk akademisk utbildning inom exempelvis systemteknik, elektroteknik, teknisk fysik eller motsvarande\nErfarenhet av - eller intresse för - positionerings- och navigeringssystem\nIntresse för komplexa system och arbete i tidiga utvecklingsfaser\nErfarenhet av - eller intresse för - tekniskt ledarskap\n\n \nDet är meriterande om du har erfarenhet från försvar, flyg, fordonsindustri eller annan säkerhetskritisk verksamhet samt tekniskt kunnande inom:\ntröghetsnavigeringssystem, GNSS (GPS, Galileo), alternativa positioneringstekniker (bildbaserad, radiosignalbaserad, m.fl.), multisensorfusion, robusthet mot störning, atomur, m.m.\n\n \nAndra erfarenheter och egenskaper vi värdesätter vid rekryteringen är:\nVana av att arbeta i konceptfas, arkitekturmodellering och att lyfta koncept till prototyp\nEtt analytiskt sinne och förmåga att bryta ner komplexa problem\nGod kommunikations- och samarbetsförmåga\n\n \n\n\nVi erbjuder\n\nMöjligheten att forma arkitekturen för framtidens stridsflygsystem\nEn innovativ och tvärfunktionell miljö där nya idéer uppmuntras\nEtt team med djup teknisk kompetens, systemsyn och kreativitet\nInternationella kontaktytor och projekt med global påverkan\n\n \nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n \n\n\nVad blir du en del av?\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\nSaab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här\noss här.",
-      "text_formatted": "<p><em>Drivs du av att se dina idéer bli verklighet? Välkommen till vår spännande och teknikintensiva värld. </em></p><p> </p>\n\nVar med och forma framtidens stridsflygsystem\n\n<p>Har du erfarenhet av positionerings- och navigeringssystem - eller är du en ingenjör med starkt driv och nyfikenhet att utvecklas inom området?\nNu söker vi både erfarna systemingenjörer och yngre talanger som vill vara med och utveckla framtidens uppdragsförmåga inom avancerade stridsflygsystem.</p><p>Våra grundläggande idéer:</p><ul><li><strong>Utforskning och nyfikenhet:</strong> Vi bygger inte produkter - vi skapar idéer och prototyper genom experiment och innovation\n </li><li><strong>Snabb väg till demonstration:</strong> Kontinuerliga tester och simuleringar för att validera nya tekniska lösningar\n </li><li><strong>Våga prova, våga göra fel:</strong> Misstag ses som en lärandeprocess och en del av utvecklingen\n </li><li><strong>Utmaning och förändring:</strong> Vi utmanar inte bara teknologiska gränser utan även etablerade arbetssätt och metoder</li></ul><p> </p>\n\nDin roll\n\n<p>Som systemingenjör inom positionering &amp; navigering arbetar du i produktutvecklingens tidiga skeden med att förstå och bryta ner kunders och användares behov till tekniska koncept och demonstratorer.</p><p>Du kommer att arbeta med framtida användning av positionerings- och navigeringssystem i flygande autonoma farkoster och verka i gränslandet mellan teknik, operativa behov och strategiska mål.</p><p>Du blir en del av ett växande team med både juniora och seniora systemingenjörer inom flera olika teknikdiscipliner där kunskapsutbyte, samarbete och teknisk nyfikenhet står i fokus.</p><p> </p><p><strong>Exempel på arbetsuppgifter</strong></p><ul><li>Utforskning av ny teknik och standarder</li><li>Intressent- och behovsanalys</li><li>Konceptframtagning och trade off-analys mellan olika systemegenskaper (noggrannhet, integritet, tillgänglighet, latens, kostnad, med mera).</li><li>Systemarkitektur och framtagning av referensarkitektur för framtida produkter</li><li>Modellering, simulering, demonstration och validering av tekniska lösningar</li><li>Framtagning av tekniska rapporter och beslutsunderlag</li><li>Kunskapsspridning inom organisationen</li></ul><p> </p>\n\nDin profil\n\n<p>Vi söker både dig som har lång erfarenhet inom området och dig som är i början av karriären men har ett starkt teknikintresse och vilja att utvecklas.</p><p>Du har:</p><ul><li>Teknisk akademisk utbildning inom exempelvis systemteknik, elektroteknik, teknisk fysik eller motsvarande</li><li>Erfarenhet av - eller intresse för - positionerings- och navigeringssystem</li><li>Intresse för komplexa system och arbete i tidiga utvecklingsfaser</li><li>Erfarenhet av - eller intresse för - tekniskt ledarskap</li></ul><p> </p><p>Det är meriterande om du har erfarenhet från försvar, flyg, fordonsindustri eller annan säkerhetskritisk verksamhet samt tekniskt kunnande inom:</p><ul><li>tröghetsnavigeringssystem, GNSS (GPS, Galileo), alternativa positioneringstekniker (bildbaserad, radiosignalbaserad, m.fl.), multisensorfusion, robusthet mot störning, atomur, m.m.</li></ul><p> </p><p>Andra erfarenheter och egenskaper vi värdesätter vid rekryteringen är:</p><ul><li>Vana av att arbeta i konceptfas, arkitekturmodellering och att lyfta koncept till prototyp</li></ul><ul><li>Ett analytiskt sinne och förmåga att bryta ner komplexa problem</li><li>God kommunikations- och samarbetsförmåga</li></ul><p> </p>\n\nVi erbjuder\n\n<ul><li>Möjligheten att forma arkitekturen för framtidens stridsflygsystem</li><li>En innovativ och tvärfunktionell miljö där nya idéer uppmuntras</li><li>Ett team med djup teknisk kompetens, systemsyn och kreativitet</li><li>Internationella kontaktytor och projekt med global påverkan</li></ul><p> </p><p><em>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.</em></p><p> </p>\n\nVad blir du en del av?\n\n<p>Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.</p><p>Saab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.</p><p>Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här</p><p>oss här. </p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560360793",
-      "name": "SAAB Aktiebolag",
-      "workplace": "Saab AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=ci5qYWFzLjM1MTM3LjEzNzY1QHNhYWIuYXBsaXRyYWsuY29t",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "CQse_CRd_snw",
-      "label": "Civilingenjör, systemutveckling",
-      "legacy_ams_taxonomy_id": "6509"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Bröderna Ugglas Gata",
-      "postcode": "58188",
-      "city": "Linköping",
-      "coordinates": [
-        15.6226866,
-        58.4200361
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Bröderna Ugglas Gata",
-        "postcode": "58188",
-        "city": "Linköping",
-        "coordinates": [
-          15.6226866,
-          58.4200361
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "ND2K_ivB_6RA",
-          "label": "Civilingenjörsexamen",
-          "legacy_ams_taxonomy_id": "608325"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "CQse_CRd_snw",
-          "label": "Civilingenjör, systemutveckling",
-          "legacy_ams_taxonomy_id": "6509"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-16T09:45:25",
-    "last_publication_date": "2026-10-23T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1792136725431
-  },
-  {
-    "relevance": 1,
     "id": "31603729",
     "external_id": null,
     "original_id": null,
@@ -13989,17 +13797,17 @@
     },
     "application_contacts": [
       {
-        "name": "Jonas Törnberg",
-        "description": null,
-        "email": "jonas.tornberg@migrationsverket.se",
-        "telephone": "0104852010",
-        "contact_type": null
-      },
-      {
         "name": "Charlott Olsson",
         "description": null,
         "email": "charlott.margareta.olsson@migrationsverket.se",
         "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
+        "name": "Jonas Törnberg",
+        "description": null,
+        "email": "jonas.tornberg@migrationsverket.se",
+        "telephone": "0104852010",
         "contact_type": null
       }
     ],
@@ -14300,9 +14108,9 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -14314,9 +14122,9 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -16248,18 +16056,18 @@
     },
     "application_contacts": [
       {
-        "name": "Vendela Johansson",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "HR-specialist"
-      },
-      {
         "name": "Lena Gripenblad",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Vendela Johansson",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "HR-specialist"
       }
     ],
     "publication_date": "2026-10-09T13:38:22",
@@ -16570,164 +16378,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1791531634166
-  },
-  {
-    "relevance": 1,
-    "id": "31575372",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31575372",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5562536143/logotyper/logo.png",
-    "headline": "Software Developer in Linköping",
-    "application_deadline": "2026-10-23T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Are you a curious developer looking to grow your career? We are looking for a Software Developer to join one of our teams at our R&D site in Linköping. You will help us build and operate video management software for cloud and on-prem solutions, working alongside experienced colleagues in a collaborative environment.\n \n\n\nWho is your future team?\n\nAt Axis in Linköping, we work in small, cross-functional teams. Everyone contributes across the full scope of the team's responsibilities. You get the close collaboration and short decision paths of a smaller site, with the resources and stability of a global company.\nWe take end-to-end responsibility for our services, from development and testing to deployment and maintenance. We learn together, share knowledge, and continuously improve how we work.\n \n\n\nWhat you'll do here\n\nAs a developer, you will build and refine our products while growing your skills across the stack. You will use modern development methods and AI-assisted tools like GitHub Copilot.\nResponsibilities include:\nDesign and implement features across the full stack\nWrite well-structured, testable, and maintainable code\nCollaborate with stakeholders and other development teams\nParticipate in code reviews, testing, and continuous integration\nDrive improvements in our development practices\nParticipate in everyday teamwork and agile ceremonies\nExplore and bring new ideas to the team\n\n \n\n\nWho are you?\n\nYou are a motivated developer who is eager to learn. You enjoy working in a team, you are not afraid to ask questions, and you take pride in quality work. You have a solid foundation in software development and a genuine curiosity for the field. You are also enthusiastic about the shift toward agentic development and AI-native workflows.\n \n\n\nWe'd love to hear that you have:\n\nA relevant engineering degree in Computer Science, Software Engineering, or similar\nA few years of professional experience in software development\nExperience with Go (or a strong desire to master it) and a solid understanding of cloud-native architectures (e.g. AWS)\nExperience with containerization and orchestration, specifically Docker and Kubernetes\nIntegrated agentic development tools like Copilot, Claude Code, or Cursor into your daily workflow to multiply your productivity\nA collaborative mindset and good communication skills\n\n \n\n\nIt's a bonus if you also have:\n\nExperience with a variety of languages and frameworks (e.g. Rust, TypeScript, Node.js)\nExperience with frontend development in React\nA passion for automating the software factory, such as experimenting with LLM-based agents for coding, testing, or deployment\nExperience with advanced CI/CD patterns\n\n \n\n\nWhat Axis has to offer\n\nThis position is based in Linköping, primarily on-site at our office in Ebbepark. Our work environment fosters teamwork and innovation, with plenty of room for fun! Together, we enjoy activities like table tennis, Mario Kart, or a game of pickleball at Campushallen.\nWe are looking forward to welcoming a new teammate to our growing team. Axis is a company that realizes the benefits of a diverse workforce. We know that diversity in groups creates a better working environment and promotes creativity, something that is fundamental for our success. \n\n\nReady to Act?\n\nApply today, we evaluate applications continuously.\nFind out more from Engineering Manager Linus Berglund, +46 (0)76-175 26 94, or HR-generalist Hannah Skog, +46 (0)76-176 24 94.",
-      "text_formatted": "<p><em>Are you a curious developer looking to grow your career? We are looking for a <strong>Software Developer</strong> to join one of our teams at our R&amp;D site in Linköping. You will help us build and operate video management software for cloud and on-prem solutions, working alongside experienced colleagues in a collaborative environment.</em></p><p> </p>\n\nWho is your future team?\n\n<p>At Axis in Linköping, we work in small, cross-functional teams. Everyone contributes across the full scope of the team's responsibilities. You get the close collaboration and short decision paths of a smaller site, with the resources and stability of a global company.</p><p>We take end-to-end responsibility for our services, from development and testing to deployment and maintenance. We learn together, share knowledge, and continuously improve how we work.</p><p> </p>\n\nWhat you'll do here\n\n<p>As a developer, you will build and refine our products while growing your skills across the stack. You will use modern development methods and AI-assisted tools like GitHub Copilot.</p><p><em>Responsibilities include:</em></p><ul><li>Design and implement features across the full stack</li><li>Write well-structured, testable, and maintainable code</li><li>Collaborate with stakeholders and other development teams</li><li>Participate in code reviews, testing, and continuous integration</li><li>Drive improvements in our development practices</li><li>Participate in everyday teamwork and agile ceremonies</li><li>Explore and bring new ideas to the team</li></ul><p> </p>\n\nWho are you?\n\n<p>You are a motivated developer who is eager to learn. You enjoy working in a team, you are not afraid to ask questions, and you take pride in quality work. You have a solid foundation in software development and a genuine curiosity for the field. You are also enthusiastic about the shift toward agentic development and AI-native workflows.</p><p> </p>\n\nWe'd love to hear that you have:\n\n<ul><li>A relevant engineering degree in Computer Science, Software Engineering, or similar</li><li>A few years of professional experience in software development</li><li>Experience with Go (or a strong desire to master it) and a solid understanding of cloud-native architectures (e.g. AWS)</li><li>Experience with containerization and orchestration, specifically Docker and Kubernetes</li><li>Integrated agentic development tools like Copilot, Claude Code, or Cursor into your daily workflow to multiply your productivity</li><li>A collaborative mindset and good communication skills</li></ul><p> </p>\n\nIt's a bonus if you also have:\n\n<ul><li>Experience with a variety of languages and frameworks (e.g. Rust, TypeScript, Node.js)</li><li>Experience with frontend development in React</li><li>A passion for automating the software factory, such as experimenting with LLM-based agents for coding, testing, or deployment</li><li>Experience with advanced CI/CD patterns</li></ul><p> </p>\n\nWhat Axis has to offer\n\n<p>This position is based in Linköping, primarily on-site at our office in Ebbepark. Our work environment fosters teamwork and innovation, with plenty of room for fun! Together, we enjoy activities like table tennis, Mario Kart, or a game of pickleball at Campushallen.</p><p>We are looking forward to welcoming a new teammate to our growing team. Axis is a company that realizes the benefits of a diverse workforce. We know that diversity in groups creates a better working environment and promotes creativity, something that is fundamental for our success. </p>\n\nReady to Act?\n\n<p>Apply today, we evaluate applications continuously.</p><p>Find out more from Engineering Manager Linus Berglund, +46 (0)76-175 26 94, or HR-generalist Hannah Skog, +46 (0)76-176 24 94.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "Sy9J_aRd_ALx",
-      "label": "11 dagar – upp till 3 månader",
-      "legacy_ams_taxonomy_id": "7"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5562536143",
-      "name": "Axis Communications Aktiebolag",
-      "workplace": "Axis Communications AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=aC5za29nLjQ0MDM3LjEzNzY1QGF4aXNjb21tcy5hcGxpdHJhay5jb20",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Ebbegatan 7",
-      "postcode": "58213",
-      "city": "Linköping",
-      "coordinates": [
-        15.6030467405443,
-        58.4038310553788
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Ebbegatan 7",
-        "postcode": "58213",
-        "city": "Linköping",
-        "coordinates": [
-          15.6030467405443,
-          58.4038310553788
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "A5HJ_aMw_BQt",
-          "label": "Mjukvaruutveckling",
-          "legacy_ams_taxonomy_id": "602377"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "rQds_YGd_quU",
-          "label": "Mjukvaruutvecklare",
-          "legacy_ams_taxonomy_id": "80"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-09T09:13:01",
-    "last_publication_date": "2026-10-23T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791529981097
   },
   {
     "relevance": 1,
@@ -17897,18 +17547,18 @@
     },
     "application_contacts": [
       {
-        "name": "Nicklas Carlsson",
-        "description": null,
-        "email": "nicklas.carlsson@trafikverket.se",
-        "telephone": "0101257190",
-        "contact_type": "ST"
-      },
-      {
         "name": "Tony Ridderstedt",
         "description": null,
         "email": "tony.ridderstedt@trafikverket.se",
         "telephone": "0101257441",
         "contact_type": "SEKO"
+      },
+      {
+        "name": "Jerry Onmalm",
+        "description": null,
+        "email": "jerry.onmalm@trafikverket.se",
+        "telephone": "0101231784",
+        "contact_type": "Rekryterande chef"
       },
       {
         "name": "Jenny Andersson",
@@ -17918,11 +17568,11 @@
         "contact_type": "SACO"
       },
       {
-        "name": "Jerry Onmalm",
+        "name": "Nicklas Carlsson",
         "description": null,
-        "email": "jerry.onmalm@trafikverket.se",
-        "telephone": "0101231784",
-        "contact_type": "Rekryterande chef"
+        "email": "nicklas.carlsson@trafikverket.se",
+        "telephone": "0101257190",
+        "contact_type": "ST"
       }
     ],
     "publication_date": "2026-10-07T14:32:35",
@@ -20980,6 +20630,13 @@
     },
     "application_contacts": [
       {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
@@ -20999,13 +20656,6 @@
         "email": "niklas.aapola@kriminalvarden.se",
         "telephone": "0114963681",
         "contact_type": "Sektionschef"
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
       }
     ],
     "publication_date": "2026-10-05T16:13:56",
@@ -22342,6 +21992,13 @@
     },
     "application_contacts": [
       {
+        "name": "Lliam Segerberg",
+        "description": null,
+        "email": "lliam.segerberg@kriminalvarden.se",
+        "telephone": "0767195648",
+        "contact_type": "Gruppchef"
+      },
+      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
@@ -22354,13 +22011,6 @@
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Lliam Segerberg",
-        "description": null,
-        "email": "lliam.segerberg@kriminalvarden.se",
-        "telephone": "0767195648",
-        "contact_type": "Gruppchef"
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -22659,18 +22309,18 @@
     },
     "application_contacts": [
       {
-        "name": "Isabelle Aronsson",
-        "description": null,
-        "email": "isabelle.aronsson@friday.se",
-        "telephone": null,
-        "contact_type": "Recruiter"
-      },
-      {
         "name": "Hampus Kindgren",
         "description": null,
         "email": "hampus.kindgren@friday.se",
         "telephone": null,
         "contact_type": null
+      },
+      {
+        "name": "Isabelle Aronsson",
+        "description": null,
+        "email": "isabelle.aronsson@friday.se",
+        "telephone": null,
+        "contact_type": "Recruiter"
       }
     ],
     "publication_date": "2026-10-02T14:14:28",
@@ -26495,310 +26145,6 @@
   },
   {
     "relevance": 1,
-    "id": "31532495",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31532495",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5564919537/logotyper/logo.png",
-    "headline": "Examensarbete: Mekanisk konstruktion, vibrationer",
-    "application_deadline": "2026-10-27T23:59:59",
-    "number_of_vacancies": 2,
-    "description": {
-      "text": "På Toyota tillverkas truckar där förarens säkerhet och ergonomi är högt prioriterade. I takt med ökande krav på arbetsmiljö. komfort och ergonomi kring helkroppsvibrationer behöver produkternas prestande förbättras. I det här examensarbetet får du analysera helkroppsvibrationer och analysera hur man kan förbättra förarupplevelsen av Toyotas ståtruckar.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nDu kommer att få genomföra en bred analys av vibrationer i truckar\nGenomföra en litteraturstudie inom området helkroppsvibrationer, ergonomi och komfort.\nKartlägga och analysera vilka vibrationstyper och frekvensområden som har störst påverkan på förarens upplevelse och exponering.\nUtvärdera relevanta standarder och riktlinjer för helkroppsvibrationer.\nAnalysera befintliga mätdata och provresultat från truckar.\nUndersöka om befintliga provmetoder kan användas för att bedöma ytterligare aspekter av vibrationer och komfort.\nIdentifiera förbättringsmöjligheter för framtida produktutveckling och verifieringsmetoder.\n\n\nOMFATTNING\nExjobbet är lämpligt för en-två personer inom ramen för ett masterprogram.\nKravspecifikation\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör maskinteknik\nCivilingenjör produktutveckling\nCivilingenjör teknisk mekanik\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\n\nStart\nVT2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nSofia Oskarsson, Manager Machine Compartment, Sofia.Oskarsson@toyota-industries.eu\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
-      "text_formatted": "<p>På Toyota tillverkas truckar där förarens säkerhet och ergonomi är högt prioriterade. I takt med ökande krav på arbetsmiljö. komfort och ergonomi kring helkroppsvibrationer behöver produkternas prestande förbättras. I det här examensarbetet får du analysera helkroppsvibrationer och analysera hur man kan förbättra förarupplevelsen av Toyotas ståtruckar.\n\n<strong>I ditt examensarbete på Toyota kommer du att arbeta med:</strong></p><ul><li>Du kommer att få genomföra en bred analys av vibrationer i truckar</li><li>Genomföra en litteraturstudie inom området helkroppsvibrationer, ergonomi och komfort.</li><li>Kartlägga och analysera vilka vibrationstyper och frekvensområden som har störst påverkan på förarens upplevelse och exponering.</li><li>Utvärdera relevanta standarder och riktlinjer för helkroppsvibrationer.</li><li>Analysera befintliga mätdata och provresultat från truckar.</li><li>Undersöka om befintliga provmetoder kan användas för att bedöma ytterligare aspekter av vibrationer och komfort.</li><li>Identifiera förbättringsmöjligheter för framtida produktutveckling och verifieringsmetoder.</li></ul><p>\nOMFATTNING\nExjobbet är lämpligt för en-två personer inom ramen för ett masterprogram.</p><p><strong>Kravspecifikation</strong>\nTill detta examensarbete söker vi dig/er som läser någon av följande utbildningar eller motsvarande:</p><ul><li>Civilingenjör maskinteknik</li><li>Civilingenjör produktutveckling</li><li>Civilingenjör teknisk mekanik</li></ul><p><strong>Vilka är Toyota Material Handling?</strong>\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare.\n\nStart\nVT2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:</p><ul><li>Sofia Oskarsson, Manager Machine Compartment, Sofia.Oskarsson@toyota-industries.eu</li><li>Josefin Nilsson, HR, josefin.nilsson@toyota-industries.eu</li></ul><p>\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "1paU_aCR_nGn",
-      "label": "Behovsanställning",
-      "legacy_ams_taxonomy_id": "4"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "working_hours_type": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "scope_of_work": {
-      "min": null,
-      "max": null
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5564919537",
-      "name": "Toyota Material Handling Europe AB",
-      "workplace": "Thesis Project"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=VE1ITVMuODYyMTIuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Mjölby",
-      "municipality_code": "0586",
-      "municipality_concept_id": "stqv_JGB_x8A",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Svarvargatan 8",
-      "postcode": "59535",
-      "city": "Mjölby",
-      "coordinates": [
-        15.108936571857,
-        58.3197408320597
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Mjölby",
-        "municipality_code": "0586",
-        "municipality_concept_id": "stqv_JGB_x8A",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Svarvargatan 8",
-        "postcode": "59535",
-        "city": "Mjölby",
-        "coordinates": [
-          15.108936571857,
-          58.3197408320597
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Toyota Material Handling",
-        "description": null,
-        "email": "josefin.nilsson@toyota-industries.eu",
-        "telephone": null,
-        "contact_type": "Contact"
-      }
-    ],
-    "publication_date": "2026-09-29T13:59:48",
-    "last_publication_date": "2026-10-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790683188555
-  },
-  {
-    "relevance": 1,
-    "id": "31532460",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31532460",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5564919537/logotyper/logo.png",
-    "headline": "Examensarbete: Mekanisk konstruktion och beräkning",
-    "application_deadline": "2026-10-27T23:59:59",
-    "number_of_vacancies": 2,
-    "description": {
-      "text": "Nästa generations truckar behöver nästa generations skyddstak med förbättrad funktion och sänkt kostnad. I det här exjobbet får du ta fram nya koncept som löser tekniska utmaningar genom att praktiskt testa produktutvecklingsmetodik och konstruktion för att kunna validera konceptet genom simulering.\n\nI ditt examensarbete på Toyota kommer du att arbeta med:\nNi kommer att självständigt genomföra konceptframtagning och validering av konceptet, med stöd av handledare med djup kompetens inom produkten och metoderna.\nExjobbet innebär att:\nAnalysera kravbild på skyddstak\nGenerera koncept med olika tillverkningstekniker\nKonstruera valda koncept i CAD (Catia V5)\nSimulering av koncept för att validera genomförbarhet\n\n\nOMFATTNING\nExjobbet är lämpligt för två personer inom ramen för ett masterprogram.\nKravspecifikation\nTill detta examensarbete söker vi er som läser någon av följande utbildningar eller motsvarande:\nCivilingenjör maskinteknik\nCivilingenjör produktutveckling\nCivilingenjör teknisk mekanik\nLämpligt är att en person är inriktad mot konstruktion/produktutveckling och en mot beräkning/simulering.\n\nVilka är Toyota Material Handling?\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare. \n\nStart\nVT 2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:\nSofia Oskarsson, Manager Machine Compartment, Sofia.Oskarsson@toyota-industries.eu\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
-      "text_formatted": "<p>Nästa generations truckar behöver nästa generations skyddstak med förbättrad funktion och sänkt kostnad. I det här exjobbet får du ta fram nya koncept som löser tekniska utmaningar genom att praktiskt testa produktutvecklingsmetodik och konstruktion för att kunna validera konceptet genom simulering.\n\n<strong>I ditt examensarbete på Toyota kommer du att arbeta med:</strong></p><ul><li>Ni kommer att självständigt genomföra konceptframtagning och validering av konceptet, med stöd av handledare med djup kompetens inom produkten och metoderna.</li><li>Exjobbet innebär att:</li><li>Analysera kravbild på skyddstak</li><li>Generera koncept med olika tillverkningstekniker</li><li>Konstruera valda koncept i CAD (Catia V5)</li><li>Simulering av koncept för att validera genomförbarhet</li></ul><p>\nOMFATTNING\nExjobbet är lämpligt för två personer inom ramen för ett masterprogram.</p><p><strong>Kravspecifikation</strong>\nTill detta examensarbete söker vi er som läser någon av följande utbildningar eller motsvarande:</p><ul><li>Civilingenjör maskinteknik</li><li>Civilingenjör produktutveckling</li><li>Civilingenjör teknisk mekanik</li><li>Lämpligt är att en person är inriktad mot konstruktion/produktutveckling och en mot beräkning/simulering.</li></ul><p><strong>Vilka är Toyota Material Handling?</strong>\nToyota Material Handling är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår site i Mjölby arbetar 3000 medarbetare med materialhantering från utvecklingskoncept till producerat fordon. Vår produktrange går från manuella handtruckar till självkörande fordon och innovativa energilösningar. \n\nPå Toyota Material Handling eftersträvar vi att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Kulturen bygger på Toyotas värdegrund, där respekt och ett omsorgsfullt agerande är ledord i det dagliga arbetet. Vår ambition är att stärka konkurrenskraften genom att öka mångfalden i verksamheten och ta vara på olikheter. Genom vårt framstående miljöarbete, ambitiösa klimatmål och vår personalpolitik arbetar vi för att vara en hållbar arbetsgivare. \n\nStart\nVT 2027\n\nDin ansökan\nAnsökan är individuell, men det ska tydligt framgå vem du eventuellt avser att utföra examensarbete med. Välkommen med din ansökan senast 2026-11-01.\n\nKontakta gärna våra medarbetare för mer information:</p><ul><li>Sofia Oskarsson, Manager Machine Compartment, Sofia.Oskarsson@toyota-industries.eu</li><li>Josefin Nilsson, HR, josefin.nilsson@toyota-industries.eu</li></ul><p>\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "1paU_aCR_nGn",
-      "label": "Behovsanställning",
-      "legacy_ams_taxonomy_id": "4"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "working_hours_type": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "scope_of_work": {
-      "min": null,
-      "max": null
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5564919537",
-      "name": "Toyota Material Handling Europe AB",
-      "workplace": "Thesis Project"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=VE1ITVMuMDkwODQuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Mjölby",
-      "municipality_code": "0586",
-      "municipality_concept_id": "stqv_JGB_x8A",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Svarvargatan 8",
-      "postcode": "59535",
-      "city": "Mjölby",
-      "coordinates": [
-        15.108936571857,
-        58.3197408320597
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Mjölby",
-        "municipality_code": "0586",
-        "municipality_concept_id": "stqv_JGB_x8A",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Svarvargatan 8",
-        "postcode": "59535",
-        "city": "Mjölby",
-        "coordinates": [
-          15.108936571857,
-          58.3197408320597
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Toyota Material Handling",
-        "description": null,
-        "email": "josefin.nilsson@toyota-industries.eu",
-        "telephone": null,
-        "contact_type": "Contact"
-      }
-    ],
-    "publication_date": "2026-09-29T13:55:29",
-    "last_publication_date": "2026-10-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790682929126
-  },
-  {
-    "relevance": 1,
     "id": "31532411",
     "external_id": null,
     "original_id": null,
@@ -27239,9 +26585,9 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -27253,18 +26599,18 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
         "telephone": "0114963681",
         "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-09-29T10:22:34",
@@ -27419,9 +26765,9 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -27433,9 +26779,9 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -27585,6 +26931,13 @@
     },
     "application_contacts": [
       {
+        "name": "Niklas Aapola",
+        "description": null,
+        "email": "niklas.aapola@kriminalvarden.se",
+        "telephone": "0114963681",
+        "contact_type": "Sektionschef"
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
@@ -27604,13 +26957,6 @@
         "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Niklas Aapola",
-        "description": null,
-        "email": "niklas.aapola@kriminalvarden.se",
-        "telephone": "0114963681",
-        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-09-29T10:18:40",
@@ -28353,158 +27699,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1790579800032
-  },
-  {
-    "relevance": 1,
-    "id": "31522039",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31522039",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5564919537/logotyper/logo.png",
-    "headline": "Software Architect",
-    "application_deadline": "2026-10-23T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du arbeta med avancerad mjukvaruarkitektur i en tekniskt ledande organisation? Hos oss får du en nyckelroll i att utveckla framtidens serviceverktyg och mjukvaruplattformar i nära samarbete med både interna team och internationella partners. Vi söker nu en Software Architect som vill kombinera teknisk spets med helhetsperspektiv.\n\nSom Software Architect kommer du att arbeta med:\nTa fram kravbilder och design av mjukvaruarkitekturer på system-, nod- och modulnivå\nDriva tekniska vägval, komponentval och bidra till roadmap för plattformar\nStötta utvecklingsteam genom vägledning, utbildning och tekniskt ledarskap\nDelta i test, verifiering och releaseplanering av mjukvarulösningar\nUtföra avancerad felsökning samt ha dialog med intressenter\n\nSom Software Architect inom vår mjukvarugrupp med fokus på serviceverktyg har du en central roll i att utveckla, vidareutveckla och säkra kvaliteten på våra mjukvarulösningar och plattformar. Du arbetar genom hela utvecklingskedjan, från att skriva/analysera krav och omsätta dem till hållbara arkitekturlösningar, till att säkerställa implementation, verifiering och vidareutveckling.\nRollen innebär ett nära samarbete med utvecklare, designers och systemingenjörer, där du fungerar som en teknisk ledare och kunskapsbärare. Du bidrar till att skapa struktur och riktning i utvecklingsarbetet genom att definiera arkitekturprinciper, etablera standarder och driva kontinuerliga förbättringar.\nDu har även en viktig roll i kontakten med andra delar av organisationen, såsom produktion, marknad, samt med övriga R&D. Genom denna samverkan säkerställer du att lösningarna möter både tekniska krav och verksamhetens behov.\nTjänsten passar dig som trivs med att arbeta både strategiskt och operativt, har en stark analytisk förmåga och vill ta ett stort ansvar i att forma framtidens mjukvarulösningar. Här får du möjlighet att påverka teknikval, driva innovation och bidra till att skapa effektiva och robusta system med höga krav på kvalitet, säkerhet och funktionalitet\nTill tjänsten som Software Architect söker vi dig som har/är:\nCivilingenjörsutbildning inom mjukvara eller motsvarande\nMinst 5 års erfarenhet av fullstack med Windows-applikationer i C#, .NET och typescript/React\nGod kunskap i engelska tal och skrift, meriterande om du även har goda svenskkunskaper\n\nFör att lyckas i rollen har du god kommunikativ förmåga, både skriftligt och verbalt och trivs med att samarbeta med andra för att nå gemensamma mål. Samtidigt arbetar du självständigt och har förmågan att driva aktiviteter framåt hela vägen till måluppfyllelse.\nVilka är R&D Toyota Material Handling Europe? \n Toyota Material Handling Europe är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår R&D-avdelning i Mjölby arbetar 300 medarbetare med utveckling av våra produkter och tjänster samt nya innovativa lösningar.\n\nDin Framtid på Toyota Material Handling Europe\nPå Toyota Material Handling Europe strävar vi efter att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Vår kultur bygger på Toyotas värdegrund, där respekt och omsorg är centrala i det dagliga arbetet. Vi arbetar aktivt för att öka mångfalden och ta vara på olikheter, vilket stärker vår konkurrenskraft. \nFör att skapa förutsättningar till en hållbar vardag erbjuder vi våra medarbetare flextid och möjlighet till distansarbete på deltid.\n\nLåter det intressant? Ansök i så fall senast 2026-10-25. \n\nDu som söker jobb och har skyddad identitet ska kontakta HR, som kommer guida dig vidare för en säker ansökningsprocess.\n\nKontakta gärna våra medarbetare för mer information:\nSandy Dahl, Rekryterande chef, sandy.dahl@toyota-industries.eu\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturing Sweden AB\n#MS",
-      "text_formatted": "<p>Vill du arbeta med avancerad mjukvaruarkitektur i en tekniskt ledande organisation? Hos oss får du en nyckelroll i att utveckla framtidens serviceverktyg och mjukvaruplattformar i nära samarbete med både interna team och internationella partners. Vi söker nu en Software Architect som vill kombinera teknisk spets med helhetsperspektiv.\n\nSom Software Architect kommer du att arbeta med:</p><ul><li>Ta fram kravbilder och design av mjukvaruarkitekturer på system-, nod- och modulnivå</li><li>Driva tekniska vägval, komponentval och bidra till roadmap för plattformar</li><li>Stötta utvecklingsteam genom vägledning, utbildning och tekniskt ledarskap</li><li>Delta i test, verifiering och releaseplanering av mjukvarulösningar</li><li>Utföra avancerad felsökning samt ha dialog med intressenter</li></ul><p>Som Software Architect inom vår mjukvarugrupp med fokus på serviceverktyg har du en central roll i att utveckla, vidareutveckla och säkra kvaliteten på våra mjukvarulösningar och plattformar. Du arbetar genom hela utvecklingskedjan, från att skriva/analysera krav och omsätta dem till hållbara arkitekturlösningar, till att säkerställa implementation, verifiering och vidareutveckling.\nRollen innebär ett nära samarbete med utvecklare, designers och systemingenjörer, där du fungerar som en teknisk ledare och kunskapsbärare. Du bidrar till att skapa struktur och riktning i utvecklingsarbetet genom att definiera arkitekturprinciper, etablera standarder och driva kontinuerliga förbättringar.\nDu har även en viktig roll i kontakten med andra delar av organisationen, såsom produktion, marknad, samt med övriga R&amp;D. Genom denna samverkan säkerställer du att lösningarna möter både tekniska krav och verksamhetens behov.\nTjänsten passar dig som trivs med att arbeta både strategiskt och operativt, har en stark analytisk förmåga och vill ta ett stort ansvar i att forma framtidens mjukvarulösningar. Här får du möjlighet att påverka teknikval, driva innovation och bidra till att skapa effektiva och robusta system med höga krav på kvalitet, säkerhet och funktionalitet</p><p><strong>Till tjänsten som Software Architect söker vi dig som har/är:</strong></p><ul><li>Civilingenjörsutbildning inom mjukvara eller motsvarande</li><li>Minst 5 års erfarenhet av fullstack med Windows-applikationer i C#, .NET och typescript/React</li><li>God kunskap i engelska tal och skrift, meriterande om du även har goda svenskkunskaper</li></ul><p>För att lyckas i rollen har du god kommunikativ förmåga, både skriftligt och verbalt och trivs med att samarbeta med andra för att nå gemensamma mål. Samtidigt arbetar du självständigt och har förmågan att driva aktiviteter framåt hela vägen till måluppfyllelse.</p><p><strong>Vilka är R&amp;D Toyota Material Handling Europe? </strong>\n Toyota Material Handling Europe är världsledande inom materialhantering och vi gör stora investeringar för att möta framtidens behov. På vår R&amp;D-avdelning i Mjölby arbetar 300 medarbetare med utveckling av våra produkter och tjänster samt nya innovativa lösningar.\n\nDin Framtid på Toyota Material Handling Europe\nPå Toyota Material Handling Europe strävar vi efter att vara en vänskaplig, trygg och framåtsträvande arbetsplats. Vår kultur bygger på Toyotas värdegrund, där respekt och omsorg är centrala i det dagliga arbetet. Vi arbetar aktivt för att öka mångfalden och ta vara på olikheter, vilket stärker vår konkurrenskraft. \nFör att skapa förutsättningar till en hållbar vardag erbjuder vi våra medarbetare flextid och möjlighet till distansarbete på deltid.</p><p>\nLåter det intressant? Ansök i så fall senast 2026-10-25. </p><p>\nDu som söker jobb och har skyddad identitet ska kontakta HR, som kommer guida dig vidare för en säker ansökningsprocess.</p><p>\n<strong>Kontakta gärna våra medarbetare för mer information:</strong></p><ul><li>Sandy Dahl, Rekryterande chef, sandy.dahl@toyota-industries.eu</li><li>Josefin Nilsson, HR, josefin.nilsson@toyota-industries.eu</li></ul><p>\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturing Sweden AB\n#MS</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5564919537",
-      "name": "Toyota Material Handling Europe AB",
-      "workplace": "Thesis Project"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=VE1ITVMuMzYxMjguMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Mjölby",
-      "municipality_code": "0586",
-      "municipality_concept_id": "stqv_JGB_x8A",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Svarvargatan 8",
-      "postcode": "59535",
-      "city": "Mjölby",
-      "coordinates": [
-        15.108936571857,
-        58.3197408320597
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Mjölby",
-        "municipality_code": "0586",
-        "municipality_concept_id": "stqv_JGB_x8A",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Svarvargatan 8",
-        "postcode": "59535",
-        "city": "Mjölby",
-        "coordinates": [
-          15.108936571857,
-          58.3197408320597
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Toyota Material Handling",
-        "description": null,
-        "email": "josefin.nilsson@toyota-industries.eu",
-        "telephone": null,
-        "contact_type": "Contact"
-      }
-    ],
-    "publication_date": "2026-09-25T14:51:47",
-    "last_publication_date": "2026-10-23T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790340707551
   },
   {
     "relevance": 1,
@@ -29682,158 +28876,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1790322134340
-  },
-  {
-    "relevance": 1,
-    "id": "31518660",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31518660",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5564919537/logotyper/logo.png",
-    "headline": "Thesis project: Pallet perception through deep learning and sensor fusion",
-    "application_deadline": "2026-10-23T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Develop methods using deep learning models to improve the current pallet perception system, with a focus on fusing model outputs with data from other sensors. The main focus will be on general pallet identification and localization.\n\nIn your Master Thesis at Toyota, you will work on:\nA modern sensor system featuring:\n2D RGB camera\nTime-of-Flight (ToF) 3D camera\nCorrelation between pixels from the RGB camera and points in the 3D point cloud from the ToF camera\nNVIDIA chip in an embedded environment (GPU) for data processing \n\n\nTasks include:\nTraining and evaluation of deep learning (DL) models using different methodologies\nAlgorithm development for data fusion\nEvaluation using real-world data and comparison with training results from a synthetic environment\n\n\nAt Toyota, we work with innovative technologies to develop our autonomous trucks. The thesis project will investigate training methodologies, model architecture, and the selection of suitable model outputs that can be effectively combined with point cloud data to accurately localize a pallet in relation to the camera position. The training data will be generated in synthetic environments, which will be provided as part of the project. Therefore, the gap between synthetic and real-world data will also need to be considered when evaluating the results. The thesis project will be carried out in close collaboration with one of Toyota's teams specializing in machine learning development.\nSCOPE\n Master thesis 30 hp, 1-2 students\nRequirements\nFor this master thesis, we are looking for students with following education or equivalent:\n3D Computer vision\nDeep learning specialization / Machine Learning specialization\n\nWho is Toyota Material Handling?\n Toyota Material Handling is a global leader in material handling, and we are making significant investments to meet the needs of the future. At our site in Mjölby, 3,000 employees work across the entire material handling value chain, from development concepts to finished vehicles. Our product range spans from manual hand trucks to autonomous vehicles and innovative energy solutions.\n\n At Toyota Material Handling, we strive to create a friendly, safe and forward-thinking workplace. Our culture is built on Toyota's core values, where respect and consideration guide us in our daily work. Our ambition is to strengthen our competitiveness by increasing diversity across the organization and embracing our differences. \n\nStart\nJanuary 2027\nYour application:\n Your application is individual. If you plan to do the master thesis together with another student, please specify name of that person. Latest date for application 2026-11-01.\n\nYour application can be written in English or Swedish.\n\nIf you have any questions, please contact:\nAxel Carlsson, Machine Learning Engineer, 073 052 99 63\nAlbin Sidås , Machine Learning Architect, 072 227 79 31\nJosefin Nilsson, HR, josefin.nilsson@toyota-industries.eu\n\nInstagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS",
-      "text_formatted": "<p>Develop methods using deep learning models to improve the current pallet perception system, with a focus on fusing model outputs with data from other sensors. The main focus will be on general pallet identification and localization.</p><p>\n<strong>In your Master Thesis at Toyota, you will work on:</strong></p><p>A modern sensor system featuring:</p><ul><li>2D RGB camera</li><li>Time-of-Flight (ToF) 3D camera</li><li>Correlation between pixels from the RGB camera and points in the 3D point cloud from the ToF camera</li><li>NVIDIA chip in an embedded environment (GPU) for data processing </li></ul><p>\nTasks include:</p><ul><li>Training and evaluation of deep learning (DL) models using different methodologies</li><li>Algorithm development for data fusion</li><li>Evaluation using real-world data and comparison with training results from a synthetic environment</li></ul><p>\nAt Toyota, we work with innovative technologies to develop our autonomous trucks. The thesis project will investigate training methodologies, model architecture, and the selection of suitable model outputs that can be effectively combined with point cloud data to accurately localize a pallet in relation to the camera position. The training data will be generated in synthetic environments, which will be provided as part of the project. Therefore, the gap between synthetic and real-world data will also need to be considered when evaluating the results. The thesis project will be carried out in close collaboration with one of Toyota's teams specializing in machine learning development.</p><p>SCOPE\n Master thesis 30 hp, 1-2 students</p><p><strong>Requirements</strong>\nFor this master thesis, we are looking for students with following education or equivalent:</p><ul><li>3D Computer vision</li><li>Deep learning specialization / Machine Learning specialization</li></ul><p>Who is Toyota Material Handling?\n Toyota Material Handling is a global leader in material handling, and we are making significant investments to meet the needs of the future. At our site in Mjölby, 3,000 employees work across the entire material handling value chain, from development concepts to finished vehicles. Our product range spans from manual hand trucks to autonomous vehicles and innovative energy solutions.\n\n At Toyota Material Handling, we strive to create a friendly, safe and forward-thinking workplace. Our culture is built on Toyota's core values, where respect and consideration guide us in our daily work. Our ambition is to strengthen our competitiveness by increasing diversity across the organization and embracing our differences. \n\nStart\nJanuary 2027</p><p><strong>Your application:</strong>\n Your application is individual. If you plan to do the master thesis together with another student, please specify name of that person. Latest date for application 2026-11-01.</p><p>\nYour application can be written in English or Swedish.</p><p>\n<strong>If you have any questions, please contact:</strong></p><ul><li>Axel Carlsson, Machine Learning Engineer, 073 052 99 63</li><li>Albin Sidås , Machine Learning Architect, 072 227 79 31</li><li>Josefin Nilsson, HR, josefin.nilsson@toyota-industries.eu</li></ul><p>Instagram: ToyotaMHsweden\nLinkedin: Toyota Material Handling Manufacturering Sweden AB\n#MS</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "1paU_aCR_nGn",
-      "label": "Behovsanställning",
-      "legacy_ams_taxonomy_id": "4"
-    },
-    "salary_type": {
-      "concept_id": "vVtj_qm6_GQu",
-      "label": "Rörlig ackords- eller provisionslön",
-      "legacy_ams_taxonomy_id": "8"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "working_hours_type": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "scope_of_work": {
-      "min": null,
-      "max": null
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5564919537",
-      "name": "Toyota Material Handling Europe AB",
-      "workplace": "Thesis Project"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=VE1ITVMuMDA0NzIuMTM3NjVAdG95b3RhbWhlbWVhLmFwbGl0cmFrLmNvbQ",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Mjölby",
-      "municipality_code": "0586",
-      "municipality_concept_id": "stqv_JGB_x8A",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Svarvargatan 8",
-      "postcode": "59535",
-      "city": "Mjölby",
-      "coordinates": [
-        15.108936571857,
-        58.3197408320597
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Mjölby",
-        "municipality_code": "0586",
-        "municipality_concept_id": "stqv_JGB_x8A",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Svarvargatan 8",
-        "postcode": "59535",
-        "city": "Mjölby",
-        "coordinates": [
-          15.108936571857,
-          58.3197408320597
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Toyota Material Handling",
-        "description": null,
-        "email": "josefin.nilsson@toyota-industries.eu",
-        "telephone": null,
-        "contact_type": "Contact"
-      }
-    ],
-    "publication_date": "2026-09-25T07:57:16",
-    "last_publication_date": "2026-10-23T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790315836089
   },
   {
     "relevance": 1,
