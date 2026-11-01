@@ -8737,6 +8737,27 @@
     },
     "application_contacts": [
       {
+        "name": "Anna-Karin Fällman",
+        "description": null,
+        "email": "anna-karin.fallman@kriminalvarden.se",
+        "telephone": "+46114741476",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Gunilla Togan Murad",
+        "description": null,
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "+46114965297",
+        "contact_type": "Sektionschef"
+      },
+      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
@@ -8749,27 +8770,6 @@
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Gunilla Togan Murad",
-        "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "+46114965297",
-        "contact_type": "Sektionschef"
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Anna-Karin Fällman",
-        "description": null,
-        "email": "anna-karin.fallman@kriminalvarden.se",
-        "telephone": "+46114741476",
-        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-10-27T15:10:32",
@@ -9083,6 +9083,27 @@
     },
     "application_contacts": [
       {
+        "name": "Gunilla Togan Murad",
+        "description": null,
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "+46114965297",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Anna-Karin Fällman",
+        "description": null,
+        "email": "anna-karin.fallman@kriminalvarden.se",
+        "telephone": "+46114741476",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
@@ -9095,27 +9116,6 @@
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Anna-Karin Fällman",
-        "description": null,
-        "email": "anna-karin.fallman@kriminalvarden.se",
-        "telephone": "+46114741476",
-        "contact_type": "Sektionschef"
-      },
-      {
-        "name": "Gunilla Togan Murad",
-        "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "+46114965297",
-        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-10-27T14:34:14",
@@ -11967,25 +11967,18 @@
     },
     "application_contacts": [
       {
-        "name": "Antonia Moberg",
-        "description": null,
-        "email": "antonia.moberg@kriminalvarden.se",
-        "telephone": "0114963000",
-        "contact_type": "Systemutvecklare"
-      },
-      {
-        "name": "Niklas Aapola",
-        "description": null,
-        "email": "niklas.aapola@kriminalvarden.se",
-        "telephone": "0114963681",
-        "contact_type": "Sektionschef"
-      },
-      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Antonia Moberg",
+        "description": null,
+        "email": "antonia.moberg@kriminalvarden.se",
+        "telephone": "0114963000",
+        "contact_type": "Systemutvecklare"
       },
       {
         "name": "Olof Carlstein (SEKO)",
@@ -12000,6 +11993,13 @@
         "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Niklas Aapola",
+        "description": null,
+        "email": "niklas.aapola@kriminalvarden.se",
+        "telephone": "0114963681",
+        "contact_type": "Sektionschef"
       }
     ],
     "publication_date": "2026-10-23T11:14:43",
@@ -12147,18 +12147,18 @@
     },
     "application_contacts": [
       {
-        "name": "Viktoria Martinsson",
-        "description": null,
-        "email": "Viktoria.Martinsson@linkoping.se",
-        "telephone": "+4613263098",
-        "contact_type": "HR-konsult"
-      },
-      {
         "name": "Fredrik Kinberg",
         "description": null,
         "email": "fredrik.kinberg@linkoping.se",
         "telephone": "+46702478177",
         "contact_type": "Enhetschef"
+      },
+      {
+        "name": "Viktoria Martinsson",
+        "description": null,
+        "email": "Viktoria.Martinsson@linkoping.se",
+        "telephone": "+4613263098",
+        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-10-23T10:06:55",
@@ -13567,18 +13567,18 @@
     },
     "application_contacts": [
       {
-        "name": "Martin Eneling",
-        "description": null,
-        "email": "martin.eneling@liu.se",
-        "telephone": "+4613286735",
-        "contact_type": "Enhetschef"
-      },
-      {
         "name": "Karin Jarheden",
         "description": null,
         "email": "karin.jarheden@liu.se",
         "telephone": "+4613281856",
         "contact_type": "HR-partner"
+      },
+      {
+        "name": "Martin Eneling",
+        "description": null,
+        "email": "martin.eneling@liu.se",
+        "telephone": "+4613286735",
+        "contact_type": "Enhetschef"
       }
     ],
     "publication_date": "2026-10-22T13:38:16",
@@ -15836,13 +15836,6 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Sakib Kicic",
         "description": null,
         "email": "sakib.kicic@kriminalvarden.se",
@@ -15853,6 +15846,13 @@
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -18420,172 +18420,6 @@
     "removed_date": null,
     "source_type": "VIA_ANNONSERA",
     "timestamp": 1792371705775
-  },
-  {
-    "relevance": 1,
-    "id": "31610582",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31610582",
-    "logo_url": null,
-    "headline": "Erfaren mjukvaruutvecklare inom Kubernetes sökes",
-    "application_deadline": "2026-10-31T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "För vår kunds räkning söker vi en mjukvaruutvecklare som ska vara del i att effektivisera processer för vidareutveckling och deployment, med höga kvalitet och säkerhetskrav. Arbetet kommer att ske i ett rutinerat team bestående av andra mjukvaruutvecklare samt tekniska specialister inom olika områden. Detta är en roll för dig som tycker om att jobba kvalitetsinriktat, effektivt och som gillar att integrera automatiserade processer.\nKrav:\n5+ års erfarenhet inom modern mjukvaruutveckling.\nMycket god kunskap om Kubernetes och deployments.\nErfarenhet inom utveckling av C++ och/eller Go.\nKunskap inom datasäkerhet. \nFörmåga att både arbeta både självständigt och i nära samarbete med tekniska team.\nSvenska i tal och skrift.\nOmfattning: Heltid\nUppdragsperiod: 6 månader - med god möjlighet till förlängning.\nStart: November.",
-      "text_formatted": "<p>För vår kunds räkning söker vi en mjukvaruutvecklare som ska vara del i att effektivisera processer för vidareutveckling och deployment, med höga kvalitet och säkerhetskrav. Arbetet kommer att ske i ett rutinerat team bestående av andra mjukvaruutvecklare samt tekniska specialister inom olika områden. Detta är en roll för dig som tycker om att jobba kvalitetsinriktat, effektivt och som gillar att integrera automatiserade processer.</p><p>Krav:</p><p>5+ års erfarenhet inom modern mjukvaruutveckling.</p><p>Mycket god kunskap om Kubernetes och deployments.</p><p>Erfarenhet inom utveckling av C++ och/eller Go.</p><p>Kunskap inom datasäkerhet. </p><p>Förmåga att både arbeta både självständigt och i nära samarbete med tekniska team.</p><p>Svenska i tal och skrift.</p><p>Omfattning: Heltid</p><p>Uppdragsperiod: 6 månader - med god möjlighet till förlängning.</p><p>Start: November.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "sTu5_NBQ_udq",
-      "label": "Tidsbegränsad anställning",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "gJRb_akA_95y",
-      "label": "6 månader – upp till 12 månader",
-      "legacy_ams_taxonomy_id": "0"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5595990176",
-      "name": "Inis Creative AB",
-      "workplace": "Linköping"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "Mjukvaruutvecklare Kubernetes",
-      "email": "info@iniscreative.se",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": null,
-      "city": null,
-      "coordinates": [
-        null,
-        null
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": null,
-        "city": null,
-        "coordinates": [
-          null,
-          null
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "rQds_YGd_quU",
-          "label": "Mjukvaruutvecklare",
-          "legacy_ams_taxonomy_id": "80"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Emanuel  Rosenthal",
-        "description": null,
-        "email": "rosenthalius.recruitment@gmail.com",
-        "telephone": null,
-        "contact_type": null
-      }
-    ],
-    "publication_date": "2026-10-18T13:42:25",
-    "last_publication_date": "2026-10-31T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1792323745681
   },
   {
     "relevance": 1,
@@ -21843,16 +21677,16 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -23632,18 +23466,18 @@
     },
     "application_contacts": [
       {
-        "name": "Lena Gripenblad",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
-      },
-      {
         "name": "Vendela Johansson",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "HR-specialist"
+      },
+      {
+        "name": "Lena Gripenblad",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-10-09T13:38:22",
@@ -24382,150 +24216,6 @@
   },
   {
     "relevance": 1,
-    "id": "31569767",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31569767",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566858618/logotyper/logo.png",
-    "headline": "Technical Documentation Editor till Siemens Energy",
-    "application_deadline": "2026-10-31T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Om företaget\nSiemens Energy möter den ökade efterfrågan på energi i över 90 länder och bidrar till att skydda vårt klimat. Med över 94 000 anställda genererar de elektricitet för 16% av världens befolkning och strävar efter hållbar, pålitlig och ekonomiskt överkomlig energi genom innovativa teknologier. Siemens Energy utvecklar gasturbiner och kraftanläggningar för global användning och har en omfattande serviceorganisation. Med 3000 medarbetare i Finspång och en årlig omsättning på cirka 10 miljarder kronor är Siemens Energy en betydande aktör inom energiteknik.\nDina arbetsuppgifter\nVi på Skill söker en noggrann och strukturerad Technical Documentation Editor/Compiling Author till Siemens Energy inom Teknikinformation i Finspång. I rollen får du arbeta med teknisk dokumentation i projektmiljö och ansvara för att sammanställa, strukturera och kvalitetssäkra informationsunderlag från flera tekniska områden. Du blir en viktig del av dokumentationsprocessen och säkerställer att projektens dokumentationsleveranser är kompletta, konsekventa och uppfyller definierade projekt- och kundkrav.\nHuvudsakliga arbetsuppgifter:\n\nSammanställa O&M-manualer och andra tekniska informationsprodukter.\n\n\nSamla in, strukturera och sammanställa dokumentation från olika tekniska områden.\n\n\nKvalitetssäkra dokumentationen med avseende på fullständighet, struktur och konsekvens.\n\n\nIdentifiera saknad, otydlig eller motstridig information och följa upp detta med berörda funktioner.\n\n\nSamordna dokumentationsunderlag tillsammans med Technical Authors, tekniska specialister, Document Controllers, SPM TI och andra projektfunktioner.\n\n\nHantera flera dokumentationsleveranser parallellt och säkerställa att deadlines och kvalitetskrav uppfylls.\n\n\nBidra till att skapa enhetlig och professionell teknisk dokumentation för projekt och kunder.\n\n\nDin profil\n\nHar en eftergymnasial utbildning inom exempelvis teknik, teknisk information, informationshantering eller systemvetenskap, alternativt motsvarande relevant arbetslivserfarenhet.\n\n\nHar erfarenhet av att strukturera, sammanställa eller kvalitetssäkra information och dokumentation.\n\n\nHar mycket god systemvana och lätt för att snabbt sätta dig in i nya verktyg och informationsstrukturer.\n\n\nÄr noggrann, strukturerad och analytisk med ett öga för detaljer.\n\n\nHar god kommunikativ förmåga och trivs med att samarbeta med personer från olika tekniska och organisatoriska funktioner.\n\n\nHar mycket goda kunskaper i svenska och engelska, både i tal och skrift.\n\n\nDet är meriterande om du har erfarenhet av teknisk dokumentation, industriell verksamhet, projektarbete eller dokument- och informationshanteringssystem.\nAnsökningsförfarande\nTjänsten är initialt ett konsultuppdrag via oss på Skill. Det innebär att du är anställd hos oss på Skill och har ditt uppdrag hos Siemens Energy i Finspång.\nUrvalet kommer att ske löpande och tjänsten kan komma att tillsättas innan sista ansökningsdatum så vänta inte med att skicka in CV och personligt brev till oss idag. Vid eventuella frågor eller funderingar, kontakta ansvarig rekryterare Isabella Palm, isabella.palm@skill.se alt. 011-470 53 01.",
-      "text_formatted": "<p><strong>Om företaget</strong></p><p>Siemens Energy möter den ökade efterfrågan på energi i över 90 länder och bidrar till att skydda vårt klimat. Med över 94 000 anställda genererar de elektricitet för 16% av världens befolkning och strävar efter hållbar, pålitlig och ekonomiskt överkomlig energi genom innovativa teknologier. Siemens Energy utvecklar gasturbiner och kraftanläggningar för global användning och har en omfattande serviceorganisation. Med 3000 medarbetare i Finspång och en årlig omsättning på cirka 10 miljarder kronor är Siemens Energy en betydande aktör inom energiteknik.</p><p><strong>Dina arbetsuppgifter</strong></p><p>Vi på Skill söker en noggrann och strukturerad Technical Documentation Editor/Compiling Author till Siemens Energy inom Teknikinformation i Finspång. I rollen får du arbeta med teknisk dokumentation i projektmiljö och ansvara för att sammanställa, strukturera och kvalitetssäkra informationsunderlag från flera tekniska områden. Du blir en viktig del av dokumentationsprocessen och säkerställer att projektens dokumentationsleveranser är kompletta, konsekventa och uppfyller definierade projekt- och kundkrav.</p><p>Huvudsakliga arbetsuppgifter:</p><ul><li><p>Sammanställa O&amp;M-manualer och andra tekniska informationsprodukter.</p></li><li><p>Samla in, strukturera och sammanställa dokumentation från olika tekniska områden.</p></li><li><p>Kvalitetssäkra dokumentationen med avseende på fullständighet, struktur och konsekvens.</p></li><li><p>Identifiera saknad, otydlig eller motstridig information och följa upp detta med berörda funktioner.</p></li><li><p>Samordna dokumentationsunderlag tillsammans med Technical Authors, tekniska specialister, Document Controllers, SPM TI och andra projektfunktioner.</p></li><li><p>Hantera flera dokumentationsleveranser parallellt och säkerställa att deadlines och kvalitetskrav uppfylls.</p></li><li><p>Bidra till att skapa enhetlig och professionell teknisk dokumentation för projekt och kunder.</p></li></ul><p><strong>Din profil</strong></p><ul><li><p>Har en eftergymnasial utbildning inom exempelvis teknik, teknisk information, informationshantering eller systemvetenskap, alternativt motsvarande relevant arbetslivserfarenhet.</p></li><li><p>Har erfarenhet av att strukturera, sammanställa eller kvalitetssäkra information och dokumentation.</p></li><li><p>Har mycket god systemvana och lätt för att snabbt sätta dig in i nya verktyg och informationsstrukturer.</p></li><li><p>Är noggrann, strukturerad och analytisk med ett öga för detaljer.</p></li><li><p>Har god kommunikativ förmåga och trivs med att samarbeta med personer från olika tekniska och organisatoriska funktioner.</p></li><li><p>Har mycket goda kunskaper i svenska och engelska, både i tal och skrift.</p></li></ul><p>Det är meriterande om du har erfarenhet av teknisk dokumentation, industriell verksamhet, projektarbete eller dokument- och informationshanteringssystem.</p><p><strong>Ansökningsförfarande</strong></p><p>Tjänsten är initialt ett konsultuppdrag via oss på Skill. Det innebär att du är anställd hos oss på Skill och har ditt uppdrag hos Siemens Energy i Finspång.</p><p>Urvalet kommer att ske löpande och tjänsten kan komma att tillsättas innan sista ansökningsdatum så vänta inte med att skicka in CV och personligt brev till oss idag. Vid eventuella frågor eller funderingar, kontakta ansvarig rekryterare Isabella Palm, isabella.palm@skill.se alt. 011-470 53 01.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "1paU_aCR_nGn",
-      "label": "Behovsanställning",
-      "legacy_ams_taxonomy_id": "4"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "working_hours_type": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "scope_of_work": {
-      "min": null,
-      "max": null
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://jobb.skill.se",
-      "organization_number": "5566858618",
-      "name": "Skill Kompetenspartner AB",
-      "workplace": "Skill Kompetenspartner AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-8515685-2235795",
-      "email": null,
-      "via_af": false,
-      "url": "https://jobb.skill.se/jobs/8515685-technical-documentation-editor-till-siemens-energy/applications/new?promotion=2235795-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "Lxas_8K9_W1o",
-      "label": "Systemadministratör",
-      "legacy_ams_taxonomy_id": "2918"
-    },
-    "occupation_group": {
-      "concept_id": "MYAz_x9m_2LJ",
-      "label": "Systemadministratörer",
-      "legacy_ams_taxonomy_id": "3513"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Finspång",
-      "municipality_code": "0562",
-      "municipality_concept_id": "dMFe_J6W_iJv",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "612 40",
-      "postcode": "61240",
-      "city": "Finspång",
-      "coordinates": [
-        15.787527725823528,
-        58.70834493469719
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Finspång",
-        "municipality_code": "0562",
-        "municipality_concept_id": "dMFe_J6W_iJv",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "612 40",
-        "postcode": "61240",
-        "city": "Finspång",
-        "coordinates": [
-          15.787527725823528,
-          58.70834493469719
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-08T10:22:43",
-    "last_publication_date": "2026-10-31T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791447763096
-  },
-  {
-    "relevance": 1,
     "id": "31565662",
     "external_id": null,
     "original_id": null,
@@ -24674,172 +24364,6 @@
     "removed_date": null,
     "source_type": "VIA_ANNONSERA",
     "timestamp": 1791369470789
-  },
-  {
-    "relevance": 1,
-    "id": "31565423",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31565423",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2021002163/logotyper/logo.png",
-    "headline": "Informationssäkerhetsexpert – risk, analys och dataskydd",
-    "application_deadline": "2026-10-31T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vad händer när verksamhetens behov, ny teknik, juridik och informationssäkerhet inte pekar åt samma håll? Det är där du kommer in.\nPå Migrationsverket hanterar vi information som ställer höga krav på säkerhet, kvalitet och genomtänkta beslut. Samtidigt befinner vi oss i en omfattande digital utveckling, där nya arbetssätt, system och digitala tjänster skapar både möjligheter och nya risker.\nNu söker vi dig som kan se helheten, identifiera riskerna och ställa de frågor som behöver ställas. Som informationssäkerhetsspecialist leder du analyser och konsekvensbedömningar i frågor där svaren inte alltid är självklara. Du arbetar nära verksamhet, IT, juridik och andra säkerhetsfunktioner och bidrar till att vi kan utvecklas digitalt med rätt skydd för vår information.\nDu blir en del av it-säkerhetsenheten och förstärker den funktion som ansvarar för att samordna Migrationsverkets informationssäkerhetsanalyser och konsekvensbedömningar enligt GDPR. Här får du möjlighet att både arbeta operativt i komplexa frågor och påverka hur vi utvecklar våra gemensamma arbetssätt inom informationssäkerhet och dataskydd.\nDet här kommer du att arbeta med\nI rollen får du ett självständigt och verksamhetsnära uppdrag där du driver analyser från start till färdigt beslutsunderlag. Du kommer bland annat att:\nleda och samordna informationssäkerhetsanalyser och konsekvensbedömningar enligt GDPR\ngenomföra riskanalyser inom informationssäkerhetsområdet och omsätta resultat till tydliga rekommendationer\nanalysera och kvalitetssäkra underlag från verksamheten\nstödja verksamheten i informationsklassificering och andra informationssäkerhetsfrågor\nutveckla våra metoder och processer för informationssäkerhetsanalyser och konsekvensbedömningar\nutbilda och vägleda verksamheten i frågor som rör cyber- och informationssäkerhet\nsamverka med verksamhet, IT, juridik och andra säkerhetsfunktioner.\n\nRollen passar dig som tycker om kombinationen av analys, struktur och samarbete. Du behöver kunna sätta dig in i komplexa verksamhetsfrågor, identifiera vad som är viktigt ur ett informationssäkerhetsperspektiv och hjälpa olika kompetenser att komma framåt tillsammans.\nVem är du?\nFör oss är hur du tar dig an uppdraget lika viktigt som din specialistkompetens. För att lyckas i rollen behöver du vara omdömesgill, analytisk och strukturerad, samtidigt som du har förmågan att skapa förtroende och få människor med olika perspektiv att arbeta mot samma mål.\nDu behöver inte vara den som kan mest om tekniken. För oss är det viktigare att du förstår informationssäkerhet, kan se risker och beroenden och vet vilka frågor som behöver ställas för att verksamhet och teknik ska utvecklas på ett säkert sätt.\nDu trivs med att självständigt driva komplexa frågor framåt och kan både se detaljer och förstå hur de hänger ihop med en större helhet. Du är trygg i att leda dialoger, ställa frågor och göra komplexa säkerhetsfrågor begripliga för olika målgrupper.\nDu är lyhörd för verksamhetens behov samtidigt som du har integritet och står stadigt i ditt professionella perspektiv. Du tar ansvar, gör välgrundade prioriteringar och driver ditt arbete framåt inom givna tidsramar.\nVi kommer därför att lägga stor vikt vid dina personliga egenskaper och hur de kompletterar din kompetens och erfarenhet.\nVi söker dig som har\nakademisk utbildning inom exempelvis informationssäkerhet, cybersäkerhet, juridik eller riskhantering, alternativt annan utbildning i kombination med erfarenhet som Migrationsverket bedömer relevant\nminst tre års relevant arbetslivserfarenhet inom exempelvis informationssäkerhet, cybersäkerhet, riskanalys, regelefterlevnad eller annat säkerhetsrelaterat arbete som Migrationsverket bedömer relevant\ndokumenterad erfarenhet av att leda eller samordna analyser eller utredningar\nmycket god förmåga att uttrycka dig i tal och skrift på svenska samt god förmåga på engelska.\n\nDet är meriterande om du har\nerfarenhet av informationssäkerhetsanalyser, konsekvensbedömningar enligt GDPR (DPIA) eller motsvarande risk- och säkerhetsanalyser\nerfarenhet av regelverk och lagstiftning inom området, exempelvis GDPR, NIS2 eller CER\nerfarenhet av etablerade ramverk och metoder inom informationssäkerhet, exempelvis ISO 2700x\nerfarenhet av uppdrags- eller projektledning\nerfarenhet av att arbeta i gränslandet mellan verksamhet, IT, juridik och säkerhet\nerfarenhet från offentlig sektor eller annan stor och komplex organisation.\n\nEtt uppdrag med betydelse\nHos oss arbetar du med informationssäkerhet i en verksamhet där stora informationsmängder, komplexa processer och höga krav på säkerhet är en del av vardagen.\nDet betyder att informationssäkerhet inte är en fråga vid sidan av verksamheten. Den är en förutsättning för att vi ska kunna utveckla våra tjänster och arbetssätt och samtidigt värna den information som människor och samhället anförtror oss.\nHär får du använda din specialistkompetens i frågor som har verklig betydelse – och samtidigt vara med och utveckla hur en stor myndighet arbetar med informationssäkerhet, riskhantering och dataskydd.\nTjänsten är säkerhetsklassad och kräver inplacering i säkerhetsklass samt godkänd lämplighetsprövning av Migrationsverkets säkerhetsavdelning. För tjänsten krävs svenskt medborgarskap.\nUpplysningar\nAnställningsform: Tillsvidareanställning med sex månaders provanställning\nArbetstider: Kontorsarbetstid. Distansarbete kan tillämpas enligt överenskommelse\nLön: Individuell lönesättning\nPlaceringsort: Flexibelt bland Migrationsverkets orter, företrädesvis Norrköping eller Linköping\nTillträde: Enligt överenskommelse\nAnsökan\nVälkommen med din ansökan senast 31 oktober 2026. Vi tar emot din ansökan via vårt rekryteringssystem.",
-      "text_formatted": "<p><p><strong>Vad händer när verksamhetens behov, ny teknik, juridik och informationssäkerhet inte pekar åt samma håll? Det är där du kommer in.</strong></p><p>På Migrationsverket hanterar vi information som ställer höga krav på säkerhet, kvalitet och genomtänkta beslut. Samtidigt befinner vi oss i en omfattande digital utveckling, där nya arbetssätt, system och digitala tjänster skapar både möjligheter och nya risker.</p><p><strong>Nu söker vi dig som kan se helheten, identifiera riskerna och ställa de frågor som behöver ställas. Som informationssäkerhetsspecialist leder du analyser och konsekvensbedömningar i frågor där svaren inte alltid är självklara. Du arbetar nära verksamhet, IT, juridik och andra säkerhetsfunktioner och bidrar till att vi kan utvecklas digitalt med rätt skydd för vår information.</strong></p><p>Du blir en del av it-säkerhetsenheten och förstärker den funktion som ansvarar för att samordna Migrationsverkets informationssäkerhetsanalyser och konsekvensbedömningar enligt GDPR. Här får du möjlighet att både arbeta operativt i komplexa frågor och påverka hur vi utvecklar våra gemensamma arbetssätt inom informationssäkerhet och dataskydd.</p><p><strong>Det här kommer du att arbeta med</strong></p><p>I rollen får du ett självständigt och verksamhetsnära uppdrag där du driver analyser från start till färdigt beslutsunderlag. Du kommer bland annat att:</p><ul><li>leda och samordna informationssäkerhetsanalyser och konsekvensbedömningar enligt GDPR</li><li>genomföra riskanalyser inom informationssäkerhetsområdet och omsätta resultat till tydliga rekommendationer</li><li>analysera och kvalitetssäkra underlag från verksamheten</li><li>stödja verksamheten i informationsklassificering och andra informationssäkerhetsfrågor</li><li>utveckla våra metoder och processer för informationssäkerhetsanalyser och konsekvensbedömningar</li><li>utbilda och vägleda verksamheten i frågor som rör cyber- och informationssäkerhet</li><li>samverka med verksamhet, IT, juridik och andra säkerhetsfunktioner.</li></ul><p>Rollen passar dig som tycker om kombinationen av <strong>analys, struktur och samarbete</strong>. Du behöver kunna sätta dig in i komplexa verksamhetsfrågor, identifiera vad som är viktigt ur ett informationssäkerhetsperspektiv och hjälpa olika kompetenser att komma framåt tillsammans.</p><p><strong>Vem är du?</strong></p><p><strong>För oss är hur du tar dig an uppdraget lika viktigt som din specialistkompetens.</strong> För att lyckas i rollen behöver du vara omdömesgill, analytisk och strukturerad, samtidigt som du har förmågan att skapa förtroende och få människor med olika perspektiv att arbeta mot samma mål.</p><p><strong>Du behöver inte vara den som kan mest om tekniken. För oss är det viktigare att du förstår informationssäkerhet, kan se risker och beroenden och vet vilka frågor som behöver ställas för att verksamhet och teknik ska utvecklas på ett säkert sätt.</strong></p><p>Du trivs med att självständigt driva komplexa frågor framåt och kan både se detaljer och förstå hur de hänger ihop med en större helhet. Du är trygg i att leda dialoger, ställa frågor och göra komplexa säkerhetsfrågor begripliga för olika målgrupper.</p><p>Du är lyhörd för verksamhetens behov samtidigt som du har integritet och står stadigt i ditt professionella perspektiv. Du tar ansvar, gör välgrundade prioriteringar och driver ditt arbete framåt inom givna tidsramar.</p><p><strong>Vi kommer därför att lägga stor vikt vid dina personliga egenskaper och hur de kompletterar din kompetens och erfarenhet.</strong></p><p><strong>Vi söker dig som har</strong></p><ul><li>akademisk utbildning inom exempelvis informationssäkerhet, cybersäkerhet, juridik eller riskhantering, alternativt annan utbildning i kombination med erfarenhet som Migrationsverket bedömer relevant</li><li>minst tre års relevant arbetslivserfarenhet inom exempelvis informationssäkerhet, cybersäkerhet, riskanalys, regelefterlevnad eller annat säkerhetsrelaterat arbete som Migrationsverket bedömer relevant</li><li>dokumenterad erfarenhet av att leda eller samordna analyser eller utredningar</li><li>mycket god förmåga att uttrycka dig i tal och skrift på svenska samt god förmåga på engelska.</li></ul><p><strong>Det är meriterande om du har</strong></p><ul><li>erfarenhet av informationssäkerhetsanalyser, konsekvensbedömningar enligt GDPR (DPIA) eller motsvarande risk- och säkerhetsanalyser</li><li>erfarenhet av regelverk och lagstiftning inom området, exempelvis GDPR, NIS2 eller CER</li><li>erfarenhet av etablerade ramverk och metoder inom informationssäkerhet, exempelvis ISO 2700x</li><li>erfarenhet av uppdrags- eller projektledning</li><li>erfarenhet av att arbeta i gränslandet mellan verksamhet, IT, juridik och säkerhet</li><li>erfarenhet från offentlig sektor eller annan stor och komplex organisation.</li></ul><p><strong>Ett uppdrag med betydelse</strong></p><p>Hos oss arbetar du med informationssäkerhet i en verksamhet där stora informationsmängder, komplexa processer och höga krav på säkerhet är en del av vardagen.</p><p>Det betyder att informationssäkerhet inte är en fråga vid sidan av verksamheten. Den är en förutsättning för att vi ska kunna utveckla våra tjänster och arbetssätt och samtidigt värna den information som människor och samhället anförtror oss.</p><p>Här får du använda din specialistkompetens i frågor som har verklig betydelse – och samtidigt vara med och utveckla hur en stor myndighet arbetar med informationssäkerhet, riskhantering och dataskydd.</p><p><em>Tjänsten är säkerhetsklassad och kräver inplacering i säkerhetsklass samt godkänd lämplighetsprövning av Migrationsverkets säkerhetsavdelning. För tjänsten krävs svenskt medborgarskap.</em></p><p><strong>Upplysningar</strong></p><p><strong>Anställningsform:</strong> Tillsvidareanställning med sex månaders provanställning</p><p><strong>Arbetstider:</strong> Kontorsarbetstid. Distansarbete kan tillämpas enligt överenskommelse</p><p><strong>Lön:</strong> Individuell lönesättning</p><p><strong>Placeringsort:</strong> Flexibelt bland Migrationsverkets orter, företrädesvis Norrköping eller Linköping</p><p><strong>Tillträde:</strong> Enligt överenskommelse</p><p><strong>Ansökan</strong></p><p>Välkommen med din ansökan senast 31<strong> oktober 2026</strong>. Vi tar emot din ansökan via vårt rekryteringssystem.</p></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.migrationsverket.se",
-      "organization_number": "2021002163",
-      "name": "Migrationsverket",
-      "workplace": "Migrationsverket, Huvudkontor, Digitaliserings- och utvecklingsavdelningen"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://migrationsverket.varbi.com/se/what:job/jobID:969354/type:job/where:125/apply:1",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "MGCL_TYX_EUA",
-      "label": "Datasäkerhetsansvarig",
-      "legacy_ams_taxonomy_id": "5944"
-    },
-    "occupation_group": {
-      "concept_id": "BAeH_eg8_T2d",
-      "label": "IT-säkerhetsspecialister",
-      "legacy_ams_taxonomy_id": "2516"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Slottsgatan 82",
-      "postcode": "60222",
-      "city": "Norrköping",
-      "coordinates": [
-        16.1882786934935,
-        58.5954538795261
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Slottsgatan 82",
-        "postcode": "60222",
-        "city": "Norrköping",
-        "coordinates": [
-          16.1882786934935,
-          58.5954538795261
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "MGCL_TYX_EUA",
-          "label": "Datasäkerhetsansvarig",
-          "legacy_ams_taxonomy_id": "5944"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Charlott Olsson",
-        "description": null,
-        "email": "charlott.margareta.olsson@migrationsverket.se",
-        "telephone": "010-4859186",
-        "contact_type": null
-      },
-      {
-        "name": "Andreas Åberg",
-        "description": null,
-        "email": null,
-        "telephone": "010-4854028",
-        "contact_type": null
-      }
-    ],
-    "publication_date": "2026-10-07T11:54:42",
-    "last_publication_date": "2026-10-31T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791366882582
   },
   {
     "relevance": 1,
@@ -26642,20 +26166,6 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
@@ -26663,9 +26173,23 @@
         "contact_type": "Sektionschef"
       },
       {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Olof Carlstein (SEKO)",
         "description": null,
         "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -27255,18 +26779,18 @@
     },
     "application_contacts": [
       {
-        "name": "Hampus Kindgren",
-        "description": null,
-        "email": "hampus.kindgren@friday.se",
-        "telephone": null,
-        "contact_type": null
-      },
-      {
         "name": "Isabelle Aronsson",
         "description": null,
         "email": "isabelle.aronsson@friday.se",
         "telephone": null,
         "contact_type": "Recruiter"
+      },
+      {
+        "name": "Hampus Kindgren",
+        "description": null,
+        "email": "hampus.kindgren@friday.se",
+        "telephone": null,
+        "contact_type": null
       }
     ],
     "publication_date": "2026-10-02T14:14:28",
@@ -27742,165 +27266,6 @@
   },
   {
     "relevance": 1,
-    "id": "31541842",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31541842",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5568551104/logotyper/logo.png",
-    "headline": "Embedded Software Engineer / Scrum Master (C/C++)",
-    "application_deadline": "2026-10-31T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Är du en mjukvaruutvecklare som vill kombinera teknisk utveckling med ett agilt ledarskap? Trivs du med att arbeta nära tekniken samtidigt som du skapar struktur, stärker samarbetet i teamet och bidrar till effektiva leveranser? Då kan detta vara rollen för dig.\n \n\nVi söker nu en Mjukvaruutvecklare / Scrum Master till ett spännande uppdrag i Linköping. Här får du möjlighet att arbeta i en högteknologisk miljö där avancerad mjukvaruutveckling kombineras med moderna agila arbetssätt. Du blir en viktig del av ett erfaret utvecklingsteam som arbetar med komplexa produkter och lösningar med höga krav på kvalitet, innovation och långsiktighet.\n\n \n\n\nOm rollen\n\nI rollen som Mjukvaruutvecklare / Scrum Master kommer du att ha ett delat fokus mellan teknisk utveckling och teamutveckling. Du arbetar aktivt med design, implementation, test och vidareutveckling av mjukvarulösningar samtidigt som du ansvarar för att stötta teamet i dess agila arbetssätt. Som utvecklare bidrar du med teknisk kompetens inom C/C++ och embeddedutveckling. Som Scrum Master fungerar du som facilitator och coach för teamet genom att driva Scrum-processen, undanröja hinder och skapa de bästa förutsättningarna för framgångsrika leveranser. Du kommer att samarbeta nära utvecklare, systemingenjörer, testingenjörer och andra intressenter i projekt där teknisk komplexitet, kvalitet och samarbete står i centrum.\n\n\nDin vardag kommer bland annat innebära att:\n\nSom mjukvaruutvecklare\n\nUtveckla och underhålla mjukvara i C och C++\nDelta i kravarbete, design och tekniska diskussioner\nImplementera nya funktioner och vidareutveckla befintliga system\nArbeta med testning, verifiering och felsökning\nGenomföra kodgranskningar och bidra till ett högt kvalitetsfokus\nSamarbeta med andra utvecklingsteam för att skapa robusta tekniska lösningar\nBidra till hela utvecklingslivscykeln, från idé till färdig produkt\nArbeta i Linuxbaserade utvecklingsmiljöer\n\n\nSom Scrum Master\n\nPlanera, leda och facilitera Scrum-ceremonier\nSäkerställa att teamet arbetar enligt agila principer och Scrum-ramverket\nStödja teamet i planering, prioritering och kontinuerlig förbättring\nIdentifiera och undanröja hinder som påverkar teamets framdrift\nSamarbeta med Product Owner och andra intressenter kring planering och leveranser\nFölja upp teamets arbetsflöde, kapacitet och förbättringsinitiativ\nBidra till ett positivt, engagerat och inkluderande teamklimat\nVara ett stöd i förändrings- och förbättringsarbete\n\n\nVi söker dig som\n\nHar en högskole- eller civilingenjörsutbildning inom datateknik, mjukvaruutveckling eller liknande område\nHar erfarenhet av mjukvaruutveckling i C och C++\nHar arbetat med agila metoder och Scrum\nHar ett genuint teknikintresse och drivs av problemlösning\nKommunicerar obehindrat på svenska och engelska\nTrivs med att arbeta i tvärfunktionella team\nÄr van att samarbeta med olika tekniska kompetenser\nHar förmåga att kombinera tekniskt arbete med struktur och ledarskap\n\n\nMeriterande är om du även har\n\nErfarenhet som Scrum Master, Team Lead eller motsvarande roll\nScrum-certifiering (PSM, CSM eller liknande)\nErfarenhet av embeddedutveckling\nErfarenhet av Linuxmiljöer\nKunskap inom Git och versionshantering\nErfarenhet av Python eller Bash-scriptning\nErfarenhet av CI/CD och Jenkins\nKunskap inom Qt\nErfarenhet av test och verifiering\nErfarenhet från säkerhetskritiska eller högteknologiska utvecklingsmiljöer\n\n\n\n\n\nFör att lyckas i rollen tror vi att du är\n\nEn engagerad och driven utvecklare som vill fortsätta växa tekniskt\nEn naturlig lagspelare som får människor att samarbeta effektivt\nStrukturerad och lösningsorienterad\nKommunikativ och förtroendeingivande\nAnsvarstagande och initiativrik\nKvalitetsmedveten och noggrann\nNyfiken på både ny teknik och nya arbetssätt\nBekväm med att ta ansvar för såväl tekniska som organisatoriska utmaningar\n\n\n\n\n\nOm Experis\n\nExperis är ett ledande konsult- och rekryteringsbolag inom IT, teknik och ingenjörsområdet. Genom vårt breda nätverk och vår specialistkompetens hjälper vi företag att hitta rätt kompetens samtidigt som vi erbjuder våra konsulter spännande karriärmöjligheter hos några av Sveriges mest attraktiva arbetsgivare.\nPlaceringsort: Linköping\n Omfattning: Heltid\n Start: Enligt överenskommelse\n\n\nAnsökan\n\nLåter detta som ett uppdrag för dig? Skicka in din ansökan redan idag då urval och intervjuer sker löpande.\nVid frågor, kontakta:\nDaniel Jordacijevic\nTalent Acquisition Specialist, Experis\ndaniel.jordacijevic@se.experis.com\n\n \n \nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
-      "text_formatted": "<p></p>Är du en mjukvaruutvecklare som vill kombinera teknisk utveckling med ett agilt ledarskap? Trivs du med att arbeta nära tekniken samtidigt som du skapar struktur, stärker samarbetet i teamet och bidrar till effektiva leveranser? Då kan detta vara rollen för dig.\n<p> </p><p></p>Vi söker nu en <strong>Mjukvaruutvecklare / Scrum Master</strong> till ett spännande uppdrag i Linköping. Här får du möjlighet att arbeta i en högteknologisk miljö där avancerad mjukvaruutveckling kombineras med moderna agila arbetssätt. Du blir en viktig del av ett erfaret utvecklingsteam som arbetar med komplexa produkter och lösningar med höga krav på kvalitet, innovation och långsiktighet.\n<p> </p>\n\nOm rollen\n\n<p>I rollen som Mjukvaruutvecklare / Scrum Master kommer du att ha ett delat fokus mellan teknisk utveckling och teamutveckling. Du arbetar aktivt med design, implementation, test och vidareutveckling av mjukvarulösningar samtidigt som du ansvarar för att stötta teamet i dess agila arbetssätt. Som utvecklare bidrar du med teknisk kompetens inom C/C++ och embeddedutveckling. Som Scrum Master fungerar du som facilitator och coach för teamet genom att driva Scrum-processen, undanröja hinder och skapa de bästa förutsättningarna för framgångsrika leveranser. Du kommer att samarbeta nära utvecklare, systemingenjörer, testingenjörer och andra intressenter i projekt där teknisk komplexitet, kvalitet och samarbete står i centrum.</p>\n\nDin vardag kommer bland annat innebära att:\n\nSom mjukvaruutvecklare\n\n<ul><li>Utveckla och underhålla mjukvara i C och C++</li><li>Delta i kravarbete, design och tekniska diskussioner</li><li>Implementera nya funktioner och vidareutveckla befintliga system</li><li>Arbeta med testning, verifiering och felsökning</li><li>Genomföra kodgranskningar och bidra till ett högt kvalitetsfokus</li><li>Samarbeta med andra utvecklingsteam för att skapa robusta tekniska lösningar</li><li>Bidra till hela utvecklingslivscykeln, från idé till färdig produkt</li><li>Arbeta i Linuxbaserade utvecklingsmiljöer</li></ul>\n\nSom Scrum Master\n\n<ul><li>Planera, leda och facilitera Scrum-ceremonier</li><li>Säkerställa att teamet arbetar enligt agila principer och Scrum-ramverket</li><li>Stödja teamet i planering, prioritering och kontinuerlig förbättring</li><li>Identifiera och undanröja hinder som påverkar teamets framdrift</li><li>Samarbeta med Product Owner och andra intressenter kring planering och leveranser</li><li>Följa upp teamets arbetsflöde, kapacitet och förbättringsinitiativ</li><li>Bidra till ett positivt, engagerat och inkluderande teamklimat</li><li>Vara ett stöd i förändrings- och förbättringsarbete</li></ul>\n\nVi söker dig som\n\n<ul><li>Har en högskole- eller civilingenjörsutbildning inom datateknik, mjukvaruutveckling eller liknande område</li><li>Har erfarenhet av mjukvaruutveckling i <strong>C och C++</strong></li><li>Har arbetat med agila metoder och Scrum</li><li>Har ett genuint teknikintresse och drivs av problemlösning</li><li>Kommunicerar obehindrat på svenska och engelska</li><li>Trivs med att arbeta i tvärfunktionella team</li><li>Är van att samarbeta med olika tekniska kompetenser</li><li>Har förmåga att kombinera tekniskt arbete med struktur och ledarskap</li></ul>\n\nMeriterande är om du även har\n\n<ul><li>Erfarenhet som Scrum Master, Team Lead eller motsvarande roll</li><li>Scrum-certifiering (PSM, CSM eller liknande)</li><li>Erfarenhet av embeddedutveckling</li><li>Erfarenhet av Linuxmiljöer</li><li>Kunskap inom Git och versionshantering</li><li>Erfarenhet av Python eller Bash-scriptning</li><li>Erfarenhet av CI/CD och Jenkins</li><li>Kunskap inom Qt</li><li>Erfarenhet av test och verifiering</li><li>Erfarenhet från säkerhetskritiska eller högteknologiska utvecklingsmiljöer</li></ul>\n<p></p>\n\nFör att lyckas i rollen tror vi att du är\n\n<ul><li>En engagerad och driven utvecklare som vill fortsätta växa tekniskt</li><li>En naturlig lagspelare som får människor att samarbeta effektivt</li><li>Strukturerad och lösningsorienterad</li><li>Kommunikativ och förtroendeingivande</li><li>Ansvarstagande och initiativrik</li><li>Kvalitetsmedveten och noggrann</li><li>Nyfiken på både ny teknik och nya arbetssätt</li><li>Bekväm med att ta ansvar för såväl tekniska som organisatoriska utmaningar</li></ul>\n<p></p>\n\nOm Experis\n\n<p>Experis är ett ledande konsult- och rekryteringsbolag inom IT, teknik och ingenjörsområdet. Genom vårt breda nätverk och vår specialistkompetens hjälper vi företag att hitta rätt kompetens samtidigt som vi erbjuder våra konsulter spännande karriärmöjligheter hos några av Sveriges mest attraktiva arbetsgivare.</p><p><strong>Placeringsort:</strong> Linköping\n <strong>Omfattning:</strong> Heltid\n <strong>Start:</strong> Enligt överenskommelse</p>\n\nAnsökan\n\n<p>Låter detta som ett uppdrag för dig? Skicka in din ansökan redan idag då urval och intervjuer sker löpande.</p><p>Vid frågor, kontakta:</p><p><strong>Daniel Jordacijevic</strong>\nTalent Acquisition Specialist, Experis\ndaniel.jordacijevic@se.experis.com</p>\n<p> </p><p> </p><p>På Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "qQUd_4qe_NDT",
-      "label": "6 månader eller längre",
-      "legacy_ams_taxonomy_id": "2"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5568551104",
-      "name": "Experis AB",
-      "workplace": "Experis"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=REpvcmRhLjUyNTk2LjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "7wdX_4rv_33z",
-      "label": "Backend-utvecklare",
-      "legacy_ams_taxonomy_id": "7632"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Industrigatan 5",
-      "postcode": "58277",
-      "city": "Linköping",
-      "coordinates": [
-        15.6182141225798,
-        58.4196607604609
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Industrigatan 5",
-        "postcode": "58277",
-        "city": "Linköping",
-        "coordinates": [
-          15.6182141225798,
-          58.4196607604609
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "7wdX_4rv_33z",
-          "label": "Backend-utvecklare",
-          "legacy_ams_taxonomy_id": "7632"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Daniel Jordacijevic",
-        "description": null,
-        "email": "Daniel.Jordacijevic@se.experis.com",
-        "telephone": null,
-        "contact_type": "Contact"
-      }
-    ],
-    "publication_date": "2026-10-01T13:20:12",
-    "last_publication_date": "2026-10-31T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790853612583
-  },
-  {
-    "relevance": 1,
     "id": "31540850",
     "external_id": null,
     "original_id": null,
@@ -28042,157 +27407,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1790844989156
-  },
-  {
-    "relevance": 1,
-    "id": "31540791",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31540791",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566066048/logotyper/logo.png",
-    "headline": "Control System Development Engineer",
-    "application_deadline": "2026-10-31T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "We are seeking a hands-on Control Systems Engineer to lead and support the development and sustaining of SIMATIC SPPA-T3000 and PCS 7 control system for our medium gas turbines. As a part of our team, you will develop and maintain control system software applications for our medium gas turbines to ensure our products meet the requirements set in the market. The position requires close collaboration and working alongside other departments and designers to integrate control system into the overall design of MGT products.\nHow You Will Make an Impact\nBe a part of a highly skilled development team responsible for the development and maintenance of control system software applications for the MGT products.\nBe responsible for the engineering work and technical solutions in the assigned development projects, working closely with the project team and project manager to ensure that the design meets specified requirements aligned with the technical road map.\nDesign and configure T3000 and PCS 7 control systems, including control logic, hardware setup, server and computer networks, safety systems, trip chains, and HMI/OS displays, while adhering to configuration management, version control, and rigorous testing to ensure system integrity.\nIntegrate field instrumentation and subsystems; manage communications via common industrial protocols (e.g., ProfNet, Profibus, Modbus TCP, and OPC).\nApply industry standards and best practices for safety, quality, and cybersecurity.\nConsistently acquire new skills and knowledge while sharing them by mentoring and assisting others over time. Contribute to enhancing our processes and methods to improve team performance and project outcomes within the team’s responsibilities.\n\nWhat You Will Bring\nBachelor’s or master’s degree in control engineering, electrical engineering, or a related field.\n3+ years of experience working with automation and control technologies, with an interest in new technologies and the use of existing technologies in new contexts.\nProficient English skills, allowing you to express yourself fluently and communicate effectively at a professional level.\nExcellent interpersonal skills combined with experience working with colleagues and customers in international settings.\n\nExperience in the following areas is advantageous:\nSPPA-T3000 and/or PCS 7\nModeling and simulation in MATLAB or a related tool\nFunctional Safety (SIL)\nCybersecurity\nSystem networking and VMware\n\nOur Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.\nWe can offer you employment benefits such as: reduction of working hours, advance vacation, health care allowance and an eventual possibility to a flexible working place.\nWho is Siemens Energy?\nAt Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. \nOur global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. \nFind out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo\nOur Commitment to Diversity\nLucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.\nApplication\nDon’t hesitate – apply via https://jobs.siemens-energy.com/en_US/jobs , id nr 301066 not later than 2026-10-15\nOngoing selection is applied, the role might be filled before last application date.\nWe refrain from all contact with staffing and recruitment companies, or advertising brokers.\nLocation: Finspång\nTrade Union Representatives:\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siemens-energy.com\nLedarna, Anders Fors, ledarnaklubbenseab@siemens-energy.com\nIF Metall, Mikael Malmgren, mikael.malmgren@siemens-energy.com\n#LI-MN1",
-      "text_formatted": "<p >We are seeking a hands-on Control Systems Engineer to lead and support the development and sustaining of SIMATIC SPPA-T3000 and PCS 7 control system for our medium gas turbines. As a part of our team, you will develop and maintain control system software applications for our medium gas turbines to ensure our products meet the requirements set in the market. The position requires close collaboration and working alongside other departments and designers to integrate control system into the overall design of MGT products.</p><p ><strong>How You Will Make an Impact</strong></p><ul ><li>Be a part of a highly skilled development team responsible for the development and maintenance of control system software applications for the MGT products.</li><li>Be responsible for the engineering work and technical solutions in the assigned development projects, working closely with the project team and project manager to ensure that the design meets specified requirements aligned with the technical road map.</li><li>Design and configure T3000 and PCS 7 control systems, including control logic, hardware setup, server and computer networks, safety systems, trip chains, and HMI/OS displays, while adhering to configuration management, version control, and rigorous testing to ensure system integrity.</li><li>Integrate field instrumentation and subsystems; manage communications via common industrial protocols (e.g., ProfNet, Profibus, Modbus TCP, and OPC).</li><li>Apply industry standards and best practices for safety, quality, and cybersecurity.</li><li>Consistently acquire new skills and knowledge while sharing them by mentoring and assisting others over time. Contribute to enhancing our processes and methods to improve team performance and project outcomes within the team’s responsibilities.</li></ul><p ><strong>What You Will Bring</strong></p><ul ><li>Bachelor’s or master’s degree in control engineering, electrical engineering, or a related field.</li><li>3+ years of experience working with automation and control technologies, with an interest in new technologies and the use of existing technologies in new contexts.</li><li>Proficient English skills, allowing you to express yourself fluently and communicate effectively at a professional level.</li><li>Excellent interpersonal skills combined with experience working with colleagues and customers in international settings.</li></ul><p ><strong>Experience in the following areas is advantageous:</strong></p><ul ><li>SPPA-T3000 and/or PCS 7</li><li>Modeling and simulation in MATLAB or a related tool</li><li>Functional Safety (SIL)</li><li>Cybersecurity</li><li>System networking and VMware</li></ul><p >Our <strong>Gas Services division</strong> offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.</p><p >We can offer you employment benefits such as: reduction of working hours, advance vacation, health care allowance and an eventual possibility to a flexible working place.</p><p ><strong>Who is Siemens Energy?</strong></p><p >At Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. </p><p >Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. </p><p >Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo</p><p ><strong>Our Commitment to Diversity</strong></p><p >Lucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.</p><p ><strong>Application</strong></p><p >Don’t hesitate – apply via https://jobs.siemens-energy.com/en_US/jobs , id nr 301066 not later than 2026-10-15</p><p >Ongoing selection is applied, the role might be filled before last application date.</p><p >We refrain from all contact with staffing and recruitment companies, or advertising brokers.</p><p >Location: Finspång</p><p ><strong>Trade Union Representatives:</strong>\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siemens-energy.com\nLedarna, Anders Fors, ledarnaklubbenseab@siemens-energy.com\nIF Metall, Mikael Malmgren, mikael.malmgren@siemens-energy.com</p><p ><strong>#LI-MN1</strong></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5566066048",
-      "name": "Siemens Energy AB",
-      "workplace": "Finspaang"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "301066",
-      "email": null,
-      "via_af": false,
-      "url": "https://ars2.equest.com/?response_id=b07da43e596a3b44e8968a4befb2083b",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "CQse_CRd_snw",
-      "label": "Civilingenjör, systemutveckling",
-      "legacy_ams_taxonomy_id": "6509"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Finspång",
-      "municipality_code": "0562",
-      "municipality_concept_id": "dMFe_J6W_iJv",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61283",
-      "city": "Finspaang",
-      "coordinates": [
-        16.1971381,
-        58.5981079
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Finspång",
-        "municipality_code": "0562",
-        "municipality_concept_id": "dMFe_J6W_iJv",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "61283",
-        "city": "Finspaang",
-        "coordinates": [
-          16.1971381,
-          58.5981079
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "CQse_CRd_snw",
-          "label": "Civilingenjör, systemutveckling",
-          "legacy_ams_taxonomy_id": "6509"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-01T10:50:05",
-    "last_publication_date": "2026-10-31T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1790844605128
   },
   {
     "relevance": 1,
@@ -29219,7 +28433,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519638",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Integration Consultant",
-    "application_deadline": "2026-12-30T23:59:59",
+    "application_deadline": "2026-12-31T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Integration Consultant som ser integration som mer än att flytta data från A till B. Du vill förstå vad som händer före och efter gränssnittet och bygga lösningar som fungerar även när processer, system och krav förändras.\n\nDu gillar tekniken och kan gå på djupet när det behövs, men vet också att en bra integration börjar med rätt problem. Hos oss arbetar du nära både kunden och tekniken, från felsökning av affärskritiska flöden till design av nya integrationer och framtida integrationslandskap.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\ndesigna, bygga och förvalta integrationer i SAP-landskap, ofta med SAP S/4HANA i centrum\narbeta med SAP Integration Suite, CPI och BTP, och ibland även äldre miljöer som SAP PI/PO\nbygga integrationer med API:er, OData, REST, SOAP, IDoc, EDI och eventdrivna mönster\nkoppla ihop SAP med andra affärssystem, molnplattformar, SaaS-tjänster och externa partners\narbeta med integrationsarkitektur och bidra i S/4HANA-transformationer där data, processer och system behöver fungera tillsammans\nta ansvar från behov och design till utveckling, test, driftsättning, felsökning och förvaltning\nsamarbeta med verksamhet, arkitekter och utvecklingsteam och utmana gamla arbetssätt när det finns ett enklare eller smartare sätt\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP-integration. Du känner dig trygg i att självständigt ta dig an integrationsfrågor och kan röra dig mellan verksamhet och teknik.\n\nExakt vilka tekniker du har arbetat mest med är mindre viktigt än att du förstår integration som helhet, kan sätta dig in i nya miljöer och tar ansvar för att lösningen faktiskt fungerar.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP-integration och minst en integrationsplattform eller integrationsstack\nförstår API:er, integrationsmönster, dataformat och hur system kommunicerar med varandra\nhar arbetat kundnära och kan översätta mellan verksamhet och teknik\ndriver saker framåt utan att behöva bli detaljstyrd\när pragmatisk och gillar att lösa riktiga problem, inte bara följa en kravlista\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndelar med dig av det du kan och tycker om att bygga tillsammans med andra\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av SAP S/4HANA, SAP Integration Suite, BTP, API Management, Azure, EDI, integrationsarkitektur eller större transformations- och implementationsprojekt. Erfarenhet av CI/CD, eventdriven integration eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -29348,11 +28562,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:03:46",
-    "last_publication_date": "2026-12-30T23:59:59",
+    "last_publication_date": "2026-12-31T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793420409086
+    "timestamp": 1793506807767
   },
   {
     "relevance": 1,
@@ -29363,7 +28577,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519624",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - Logistics",
-    "application_deadline": "2026-12-30T23:59:59",
+    "application_deadline": "2026-12-31T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom Logistics som gillar att få komplexa flöden att fungera i verkligheten. När material, lager, inköp, transport eller produktion inte hänger ihop vill du förstå hela flödet och vad som faktiskt behöver bli bättre.\n\nDu rör dig gärna mellan verksamheten och SAP. Du kan konfigurera lösningen, men börjar hellre med att förstå processen och var dagens arbetssätt skapar onödig friktion.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP-logistik och Supply Chain-processer, ofta med SAP S/4HANA i centrum\nanalysera behov och designa lösningar inom exempelvis lager, materialflöden, inköp, transport eller produktionsnära logistik\nkonfigurera och vidareutveckla lösningar inom ett eller flera områden som SAP MM, EWM, TM eller WM/LE\ndriva workshops och översätta verksamhetens behov till processdesign, funktionella krav och fungerande lösningar\narbeta enligt fit-to-standard och hjälpa kunder att göra kloka val mellan SAP-standard och kundanpassning\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\narbeta med integrationer och bidra i S/4HANA-transformationer, rollouts och andra förändringar där logistikflöden behöver fungera end-to-end\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP Logistics. Du känner dig trygg i att självständigt ta dig an funktionella frågor och kan röra dig mellan verksamhetsprocess, SAP-konfiguration och tekniska beroenden.\n\nDu behöver inte vara expert på alla logistikmoduler. Vi ser hellre att du har ordentlig erfarenhet inom ett eller flera områden och förstår hur de hänger ihop i ett större flöde.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP S/4HANA eller större SAP-miljöer inom logistik\nhar djupare kompetens inom ett eller flera områden som MM, EWM, TM, WM/LE eller angränsande processer\nförstår lager-, distributions-, material- eller försörjningsprocesser och kan prata om dem med verksamheten\nhar arbetat med krav, lösningsdesign, konfiguration och test\nförstår hur logistiklösningar integrerar med andra SAP-områden och externa system\ndriver saker framåt utan att behöva bli detaljstyrd och är pragmatisk i hur du löser problem\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av EWM, TM, fit-to-standard, tillverkande industri, produktionsintegration, datamigrering eller större S/4HANA-transformationer och rollouts. Erfarenhet av Fiori, BTP, API:er eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -29492,11 +28706,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:02:30",
-    "last_publication_date": "2026-12-30T23:59:59",
+    "last_publication_date": "2026-12-31T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793420410866
+    "timestamp": 1793506809791
   },
   {
     "relevance": 1,
@@ -29507,7 +28721,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519612",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - Finance",
-    "application_deadline": "2026-12-30T23:59:59",
+    "application_deadline": "2026-12-31T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom Finance som vill få ekonomiprocesser och SAP att hänga ihop på riktigt. För dig är en bra lösning inte bara korrekt konfiguration. Den ska gå att förstå, lita på och arbeta vidare med när verksamheten förändras.\n\nDu trivs när du får förstå varför en bokning blev fel, en fakturaprocess stannade eller ett flöde inte fungerar som tänkt. Du kan SAP, men vill lika gärna förstå ekonomifunktionen bakom.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP Finance och Controlling, ofta med SAP S/4HANA i centrum\nanalysera och utveckla processer inom exempelvis huvudbok, kundreskontra, leverantörsreskontra, anläggningar, controlling, bank och betalningar\nkonfigurera och vidareutveckla lösningar inom SAP FI och gärna även CO\ndriva workshops och översätta ekonomiprocesser och verksamhetsbehov till lösningsdesign och funktionella krav\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\narbeta med integrationer mellan Finance, andra SAP-områden och externa lösningar\nbidra i S/4HANA-transformationer, rollouts, datamigrering och andra förändringar där ekonomiprocesser behöver fungera end-to-end\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP Finance. Du känner dig trygg i att självständigt ta dig an funktionella frågor och kan röra dig mellan ekonomiprocess, SAP-konfiguration och tekniska beroenden.\n\nDu behöver inte kunna varje del av FI/CO. Det viktiga är att du har ordentlig erfarenhet inom ett eller flera Finance-områden och förstår hur de hänger ihop med resten av verksamheten.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP FI och gärna SAP CO\nförstår centrala ekonomiprocesser som GL, AP, AR och periodstängning\nhar arbetat med krav, lösningsdesign, konfiguration och test\nkan felsöka funktionella problem och förstå om orsaken ligger i process, konfiguration, masterdata eller integration\nförstår hur Finance integrerar med exempelvis Sales, Procurement, Logistics och externa system\nhar arbetat kundnära och kan prata lika naturligt med ekonomiavdelningen som med IT\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndriver saker framåt och kommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av SAP S/4HANA Finance, CO, Asset Accounting, bank och betalningar, svensk lokalisering, skatt, moms, e-fakturering eller större internationella rollouts. Erfarenhet av datamigrering, Fiori, Central Finance, BTP eller integrationer är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -29636,11 +28850,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T10:00:50",
-    "last_publication_date": "2026-12-30T23:59:59",
+    "last_publication_date": "2026-12-31T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793420412685
+    "timestamp": 1793506811767
   },
   {
     "relevance": 1,
@@ -29651,7 +28865,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519605",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "SAP Application Consultant - SD",
-    "application_deadline": "2026-12-30T23:59:59",
+    "application_deadline": "2026-12-31T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en SAP Application Consultant inom SD som förstår att Order-to-Cash är mer än att skapa en order i SAP. Det handlar om hela kedjan från kund, pris och order till leverans, fakturering och uppföljning.\n\nDu kan SAP SD, men fastnar inte i transaktionerna. Du vill förstå kundens affär, varför processen ser ut som den gör och hur en bra lösning kan förenkla både vardagen för användarna och systemlandskapet runt omkring.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\narbeta med SAP Sales/SD och end-to-end-processer inom Order-to-Cash\nanalysera och utveckla processer för kundorder, prissättning, leverans, fakturering och returflöden\nkonfigurera och vidareutveckla SAP SD i S/4HANA och andra SAP-miljöer\ndriva workshops och översätta verksamhetens behov till processdesign, funktionella krav och fungerande lösningar\narbeta tvärfunktionellt med Finance, Logistics, Integration och masterdata\nta ansvar från analys och design till konfiguration, test, driftsättning och förvaltning\nbidra i S/4HANA-transformationer, rollouts och förändringar som kan omfatta datamigrering, test, cutover och hypercare\narbeta med frågor kring output, e-fakturering och andra gränssnitt där Order-to-Cash möter omvärlden\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet och en stabil grund inom SAP SD. Du känner dig trygg i att självständigt ta dig an funktionella frågor och förstår Order-to-Cash som en hel process, inte bara som en uppsättning SAP-transaktioner.\n\nDu kan röra dig mellan verksamhetsdialog, processdesign och hands-on konfiguration och är van att samarbeta över modulgränser.\n\nVi tror också att du:\n\nhar praktisk erfarenhet av SAP SD och gärna SAP S/4HANA\nhar god förståelse för Order-to-Cash från order och prissättning till leverans och fakturering\nhar arbetat med krav, lösningsdesign, konfiguration och test\nförstår integrationerna mellan SD, FI, MM, logistik och externa system\nkan ta fram funktionella specifikationer och arbeta nära utvecklare och integrationsspecialister när standard inte räcker\nhar arbetat kundnära och är trygg i workshops med både verksamhet och IT\nhar börjat använda AI som ett naturligt verktyg i ditt arbete och är nyfiken på hur det kan skapa mer nytta för kunden\ndriver saker framåt och kommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av större S/4HANA-transformationer, globala rollouts, processharmonisering, datamigrering, e-fakturering eller komplex prissättning och billing. Erfarenhet av Fiori, output management, aATP, integrationer, BTP eller Clean Core är också ett plus.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil grund, ett eget driv och vill fortsätta utvecklas.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan affärssystem, integration, AI och automation. Det betyder att du får möjlighet att både fördjupa dig inom SAP och bredda dig när det finns ett problem som är värt att lösa.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -29780,11 +28994,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T09:59:54",
-    "last_publication_date": "2026-12-30T23:59:59",
+    "last_publication_date": "2026-12-31T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793420414353
+    "timestamp": 1793506813898
   },
   {
     "relevance": 1,
@@ -29795,7 +29009,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31519307",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "AI Engineer",
-    "application_deadline": "2026-12-30T23:59:59",
+    "application_deadline": "2026-12-31T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en AI Engineer som vill bygga lösningar som faktiskt används i verksamheten. För dig är AI inte en demo vid sidan av, utan ett verktyg för att lösa riktiga problem, automatisera arbete och skapa bättre sätt att jobba.\n\nDu gillar att bygga, testa och få saker i produktion. Hos oss arbetar du nära både kunden och tekniken och behöver därför vara lika nyfiken på problemet som på modellen, arkitekturen eller verktyget som kan lösa det.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\ndesigna, bygga och vidareutveckla lösningar med generativ AI, LLM:er, agents och automation\nkoppla AI till affärssystem, dataplattformar, API:er och andra verksamhetskritiska system\nvälja rätt angreppssätt för exempelvis retrieval, tool use och agentbaserade flöden\nta lösningar från idé och proof of concept till robust implementation och produktion\narbeta med utvärdering, testning, säkerhet, behörigheter och spårbarhet\nsamarbeta nära kunder för att förstå processer, data och behov och omsätta dem till fungerande lösningar\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet inom systemutveckling, data, AI eller liknande och har byggt moderna AI-lösningar i praktiken.\n\nDu behöver inte komma från klassisk machine learning eller forskning. Det viktiga är att du kan bygga fungerande produkter, integrationer och automationer och förstår vad som krävs för att få dem att fungera utanför en demo.\n\nVi tror också att du:\n\när en stark utvecklare och känner dig hemma i exempelvis Python, TypeScript, C# eller liknande\nhar erfarenhet av LLM-baserade lösningar och hur de kopplas till data, verktyg och externa system\när van vid API:er, integrationer och moderna moln- och utvecklingsmiljöer\nförstår hur AI kan kopplas till ERP-miljöer som SAP, datalager och andra affärssystem\nkan resonera kring säkerhet, behörigheter och dataskydd\när pragmatisk, självgående och bekväm med att välja teknik utifrån problemet snarare än leverantören\nkan prata med både verksamheten och tekniska team\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av AI-agenter, moderna integrationsmönster för AI eller plattformar och modeller från exempelvis OpenAI, Anthropic eller Microsoft.\n\nDu behöver inte kunna allt. Det viktiga är att du har en stabil teknisk grund, är nyfiken och vill fortsätta utvecklas tillsammans med oss.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan AI, affärssystem, integration och automation. Här får du arbeta nära de processer och system där AI faktiskt kan göra skillnad och samtidigt vara med och forma hur vi bygger vårt AI-erbjudande framåt.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -29924,11 +29138,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-25T09:58:10",
-    "last_publication_date": "2026-12-30T23:59:59",
+    "last_publication_date": "2026-12-31T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793420415917
+    "timestamp": 1793506815636
   },
   {
     "relevance": 1,
@@ -30287,7 +29501,7 @@
     "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31513067",
     "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5594936055/logotyper/logo.png",
     "headline": "Project Manager – AI & Business Systems",
-    "application_deadline": "2026-12-30T23:59:59",
+    "application_deadline": "2026-12-31T23:59:59",
     "number_of_vacancies": 1,
     "description": {
       "text": "Vi söker en Project Manager som vill leda förändring där verksamhet, affärssystem och ny teknik möts. För dig handlar projektledning inte bara om planer och deadlines, utan om att förstå vad som behöver förändras och få människor, teknik och beslut att dra åt samma håll.\n\nDu gillar att skapa struktur i komplexa sammanhang och röra dig mellan verksamheten och tekniska team. Hos oss kan projekten handla om AI, ERP och affärssystem, integrationer, automation eller andra digitala förändringar.\n\nVad du kommer att göra\n\nDu kommer bland annat att:\n\nleda projekt från förstudie och behovsanalys till implementation och uppföljning\nskapa struktur kring mål, scope, plan, budget, risker, beroenden och beslut\nleda workshops och hjälpa verksamheten att konkretisera behov och målbild\növersätta mellan verksamhet, IT, utvecklingsteam, leverantörer och andra intressenter\narbeta nära tekniska team och förstå hur system, data, processer och integrationer påverkar leveransen\nkoordinera test, införande, förändring och övergång till förvaltning när det behövs\nskapa tydliga beslutsunderlag och kommunicera framdrift, risker och vägval\nutmana krav och arbetssätt när det finns ett bättre sätt att nå målet\n\n\nVem vi tror att du är\n\nDu har minst fyra års relevant erfarenhet av projektledning, verksamhetsutveckling eller digital transformation och har lett initiativ där verksamhet och IT behöver fungera tillsammans.\n\nDu behöver inte vara SAP-konsult, utvecklare eller AI Engineer. Däremot är du tekniskt nyfiken, kan snabbt sätta dig in i nya systemmiljöer och är bekväm med att arbeta nära både verksamheten och de som bygger lösningen.\n\nVi tror också att du:\n\nhar drivit IT-, system- eller transformationsprojekt från behov till genomförande\när van vid krav, processer, workshops och intressenthantering\nförstår grunderna i affärssystem, integrationer och data\nkan växla mellan helhet och detaljer och själv ta tag i analys eller krav när det behövs\nförstår att införande av ny teknik också handlar om människor, arbetssätt och förändring\nhar börjat använda AI som ett naturligt verktyg i ditt eget arbete\när tydlig, prestigelös och trygg i dialog med både projektteam och beslutsfattare\ndriver saker framåt utan att behöva bli detaljstyrd\nkommunicerar obehindrat på svenska och engelska\n\n\nDet är meriterande om du har erfarenhet av ERP- eller affärssystemsprojekt, SAP, AI-initiativ, automation, integrationer, systemimplementationer eller större förändringsprogram.\n\nDet viktiga är inte vilken projektmodell du föredrar eller hur många certifieringar du har. Vi lägger större vikt vid att du kan förstå problemet, skapa förtroende och driva en komplex leverans hela vägen fram.\n\nVarför Norrminds?\n\nDu börjar inte på Norrminds bara för att få ett nytt jobb.\n\nVi bygger ett bolag där människor med olika styrkor får stort ansvar, kan påverka hur vi arbetar och hjälper varandra att bli bättre. Vi tror på modet att testa gränser, på att göra saker tillsammans och på att teknik ska skapa nytta, inte bara mer teknik.\n\nVi arbetar i gränslandet mellan AI, affärssystem, integration och automation. Som Project Manager får du arbeta nära både tekniken och verksamheten och vara med där idéer blir till lösningar och nya arbetssätt.\n\nRollen kan utgå från Malmö, Linköping eller Stockholm. I dessa städer vill vi bygga något långsiktigt, så du ska tycka om tanken på att vara nära både kunder och framtida kollegor och vara med och forma Norrminds lokalt.\n\nKänner du igen dig? Då vill vi gärna höra från dig.",
@@ -30416,11 +29630,11 @@
     },
     "application_contacts": [],
     "publication_date": "2026-09-23T17:01:48",
-    "last_publication_date": "2026-12-30T23:59:59",
+    "last_publication_date": "2026-12-31T23:59:59",
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793420417530
+    "timestamp": 1793506817392
   },
   {
     "relevance": 1,
