@@ -2277,158 +2277,6 @@
   },
   {
     "relevance": 1,
-    "id": "31613673",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31613673",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566747449/logotyper/logo.png",
-    "headline": "Vi söker nu servicehandläggare på heltid till SWECONS Uptime center!",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Söker du ett heltidsarbete? Är du kommunikativ och har en hög servicekänsla? Då kan rollen som servicehandläggare vara något för dig!\n\n\nFör att lyckas i rollen behöver du som söker besitta en hög serviceförmåga och ha lätt för att etablera och förvalta kundrelationer. Det är positivt om du kommer från en roll där du jobbat med resursplanering och/eller med kundkontakt. Utöver detta ser vi gärna att du är självständig i ditt arbetssätt då du kommer att ansvara för vissa geografiska områden.\nHuvudsakliga uppgifter är att via datasystem motta information från fordon och proaktivt kontakta kunder för att boka in service för fordonet till Swecons serviceanläggningar runt om i landet.\nDina arbetsuppgifter i korthet;\nAnsvara för att proaktivt kontakta SWECONS kunder när det gäller att boka service med mera.\nHantera inkomna ärenden från SWECONS plattform my Swecon och Active Care\nHantera datasystem så som Caretrack för att planera kommande dagars arbeten\nDialog med SWECONS personal så som platschef, kundmottagare, etc på våra anläggningar runt om i landet\nSälja kompletterande tjänster och produkter\n\nDETTA SÖKER VI\nVi söker dig:\nRelevant bakgrund och erfarenhet av liknande arbetsuppgifter\nGoda kunskaper i svenska och engelska i tal och skrift\nGod förmåga att hantera olika typer av kunder och kunders behov\nGod dator och administrations vana\nEtt extra plus är det om du även har erfarenhet från fordonsbranchen, men det är inget krav.\nTillgänglig omgående\n\nTjänsten är lokaliserad till SWECONS huvudkontor i Eskilstuna.\nVi arbetar löpande med urval och beräknar att tillsätta tjänsten så snart vi hittar rätt kandidat.",
-      "text_formatted": "Söker du ett heltidsarbete? Är du kommunikativ och har en hög servicekänsla? Då kan rollen som servicehandläggare vara något för dig!\n\n<p>För att lyckas i rollen behöver du som söker besitta en hög serviceförmåga och ha lätt för att etablera och förvalta kundrelationer. Det är positivt om du kommer från en roll där du jobbat med resursplanering och/eller med kundkontakt. Utöver detta ser vi gärna att du är självständig i ditt arbetssätt då du kommer att ansvara för vissa geografiska områden.</p><p>Huvudsakliga uppgifter är att via datasystem motta information från fordon och proaktivt kontakta kunder för att boka in service för fordonet till Swecons serviceanläggningar runt om i landet.</p><p>Dina arbetsuppgifter i korthet;</p><ul><li>Ansvara för att proaktivt kontakta SWECONS kunder när det gäller att boka service med mera.</li><li>Hantera inkomna ärenden från SWECONS plattform my Swecon och Active Care</li><li>Hantera datasystem så som Caretrack för att planera kommande dagars arbeten</li><li>Dialog med SWECONS personal så som platschef, kundmottagare, etc på våra anläggningar runt om i landet</li><li>Sälja kompletterande tjänster och produkter</li></ul><p><strong>DETTA SÖKER VI</strong></p><p>Vi söker dig:</p><ul><li>Relevant bakgrund och erfarenhet av liknande arbetsuppgifter</li><li>Goda kunskaper i svenska och engelska i tal och skrift</li><li>God förmåga att hantera olika typer av kunder och kunders behov</li><li>God dator och administrations vana</li><li>Ett extra plus är det om du även har erfarenhet från fordonsbranchen, men det är inget krav.</li><li>Tillgänglig omgående</li></ul><p>Tjänsten är lokaliserad till SWECONS huvudkontor i Eskilstuna.</p><p>Vi arbetar löpande med urval och beräknar att tillsätta tjänsten så snart vi hittar rätt kandidat.&nbsp;</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "qQUd_4qe_NDT",
-      "label": "6 månader eller längre",
-      "legacy_ams_taxonomy_id": "2"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.studentconsulting.com",
-      "organization_number": "5566747449",
-      "name": "StudentConsulting Sweden AB (publ)",
-      "workplace": "StudentConsulting"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.studentconsulting.com/sv/lediga-jobb/eskilstuna/vi-soker-nu-servicehandlaggare-pa-heltid-till-swecons-uptime-center/87810",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "KQty_E1u_cia",
-      "label": "Helpdesktekniker/Supporttekniker",
-      "legacy_ams_taxonomy_id": "7020"
-    },
-    "occupation_group": {
-      "concept_id": "hmaC_cfi_UKg",
-      "label": "Supporttekniker, IT",
-      "legacy_ams_taxonomy_id": "3512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Bolindervägen 104",
-      "postcode": "63510",
-      "city": "Eskilstuna",
-      "coordinates": [
-        16.4278241433805,
-        59.4092211861125
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Eskilstuna",
-        "municipality_code": "0484",
-        "municipality_concept_id": "kMxr_NiX_YrU",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Bolindervägen 104",
-        "postcode": "63510",
-        "city": "Eskilstuna",
-        "coordinates": [
-          16.4278241433805,
-          59.4092211861125
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Isac Iselsjö",
-        "description": null,
-        "email": "vasteras@studentconsulting.com",
-        "telephone": null,
-        "contact_type": null
-      }
-    ],
-    "publication_date": "2026-10-19T12:25:09",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1792405509978
-  },
-  {
-    "relevance": 1,
     "id": "31599435",
     "external_id": null,
     "original_id": null,
@@ -2877,6 +2725,604 @@
   },
   {
     "relevance": 1,
+    "id": "31699199",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31699199",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5567542633/logotyper/logo.png",
+    "headline": "IT-tekniker",
+    "application_deadline": "2026-11-22T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Vill du arbeta brett med IT i en verksamhet där teknik möter människor varje dag?Nu söker vi en IT-tekniker till Releasy Customer Management AB i Linköping.\n\nHos oss får du en central roll i att säkerställa att våra IT-miljöer fungerar stabilt, effektivt och användarvänligt – både lokalt och över flera länder.\n\nOm rollen\n\nSom IT-tekniker arbetar du både operativt och proaktivt med vår IT-miljö. Du ansvarar för att lösa incidenter, stötta användare och samtidigt bidra till att förbättra våra tekniska lösningar över tid.\n\nDu kommer bland annat att arbeta med:\n\nIT-support och felsökning i klientmiljöer och system\nAdministration och utveckling av Microsoft-miljöer\nHantering av användare, behörigheter och enheter\nGrundläggande nätverksrelaterad felsökning\nIdentifiering och analys av återkommande problem\nFörbättringsarbete för att öka stabilitet och effektivitet\n\n\nEn viktig del av rollen är också att arbeta nära verksamheten på plats. Därför ingår resor till våra kontor i Sverige, Norge, Finland och Spanien som en naturlig del av arbetet.\n\nVi ser att du har\n\nErfarenhet av arbete som IT-tekniker eller inom IT-support\nGod kunskap inom Microsoft-miljöer, exempelvis Microsoft 365, Azure / Entra ID, Windows-klienter\nGrundläggande kunskap inom nätverk (IP, DNS, VPN, brandväggar)\nB-körkort\nKommunicerar obehindrat på svenska och engelska, i både tal och skrift\n\n\nMeriterande erfarenheter\n\nErfarenhet av IT i contact center-miljöer\nErfarenhet av Genesys Cloud\nErfarenhet av Intune och större, distribuerade IT-miljöer\nSpråkkunskaper i norska och/eller finska\n\n\nSom person är du\n\nServiceinriktad och trivs med att hjälpa andra\nLösningsorienterad och tekniskt nyfiken\nSjälvständig men också en lagspelare\nAnalytisk – du vill förstå rotorsaken, inte bara lösa symptomet\nStrukturerad - förmåga att felsöka strukturerat och arbeta metodiskt\n\n\nVi erbjuder\n\nEn bred och utvecklande roll inom IT\nMöjlighet att arbeta med moderna molnbaserade lösningar\nEtt engagerat team med hög teknisk kompetens\nEn dynamisk miljö där du får påverka och förbättra\n\n\nAnsökan och process\n\nSkicka in din ansökan redan idag - vi hanterar ansökningar löpande och tjänsten kan tillsättas innan sista ansökningsdatum.\n\nPlacering: LinköpingStart: Enligt överenskommelse\n\nVi använder en strukturerad rekryteringsprocess för att säkerställa rättvisa och kvalitet. Processen börjar med urvalsfrågor för att kontrollera grundkraven. Därefter följer en bakgrundskontroll som du själv tar del av innan du väljer om du vill dela den med oss. Automatiska system kan förekomma, men alla beslut fattas av människor. Bakgrundskontroller görs för att skapa en trygg arbetsmiljö för både kunder och medarbetare.\n\nGår du vidare i processen blir du kallad till intervju, kompletterad med tester och referenstagning för att få en helhetsbild av din kompetens.\n\nVid frågor om tjänsten, kontakta ansvarig rekryterare på thommy.andersson@releasy.se\n\nReleasy Customer Management AB är en outsourcingpartner inom kundservice med flertalet uppdragsgivare inom branscher som telekom, media, e-handel, resor och offentlig verksamhet. Releasy tar hand om sina uppdragsgivares kundservice och försäljning i alla kanaler, exempelvis sociala medier, chatt, mail och telefon. Vi har över 40 års erfarenhet inom branschen och ca 1500 medarbetare i Sverige, Norge och Finland.",
+      "text_formatted": "<p>Vill du arbeta brett med IT i en verksamhet där teknik möter människor varje dag?Nu söker vi en <strong>IT-tekniker</strong> till <strong>Releasy Customer Management AB</strong> i <strong>Linköping</strong>.</p>\n<p>Hos oss får du en central roll i att säkerställa att våra IT-miljöer fungerar stabilt, effektivt och användarvänligt – både lokalt och över flera länder.</p>\n<p><strong>Om rollen</strong></p>\n<p>Som IT-tekniker arbetar du både operativt och proaktivt med vår IT-miljö. Du ansvarar för att lösa incidenter, stötta användare och samtidigt bidra till att förbättra våra tekniska lösningar över tid.</p>\n<p>Du kommer bland annat att arbeta med:</p>\n<ul><li>IT-support och felsökning i klientmiljöer och system</li><li>Administration och utveckling av Microsoft-miljöer</li><li>Hantering av användare, behörigheter och enheter</li><li>Grundläggande nätverksrelaterad felsökning</li><li>Identifiering och analys av återkommande problem</li><li>Förbättringsarbete för att öka stabilitet och effektivitet</li></ul>\n<p>En viktig del av rollen är också att arbeta nära verksamheten på plats. Därför ingår <strong>resor till våra kontor i Sverige, Norge, Finland och Spanien</strong> som en naturlig del av arbetet.</p>\n\n<p><strong>Vi ser att du har</strong></p>\n<ul><li>Erfarenhet av arbete som <strong>IT-tekniker eller inom IT-support</strong></li><li>God kunskap inom <strong>Microsoft-miljöer</strong>, exempelvis Microsoft 365, Azure / Entra ID, Windows-klienter</li><li>Grundläggande kunskap inom <strong>nätverk</strong> (IP, DNS, VPN, brandväggar)</li><li><strong>B-körkort</strong></li><li>Kommunicerar obehindrat på svenska och engelska, i både tal och skrift</li></ul>\n<p><strong>Meriterande erfarenheter</strong></p>\n<ul><li>Erfarenhet av IT i <strong>contact center-miljöer</strong></li><li>Erfarenhet av <strong>Genesys Cloud</strong></li><li>Erfarenhet av <strong>Intune</strong> och större, distribuerade IT-miljöer</li><li>Språkkunskaper i norska och/eller finska</li></ul>\n<p><strong>Som person är du</strong></p>\n<ul><li>Serviceinriktad och trivs med att hjälpa andra</li><li>Lösningsorienterad och tekniskt nyfiken</li><li>Självständig men också en lagspelare</li><li>Analytisk – du vill förstå rotorsaken, inte bara lösa symptomet</li><li>Strukturerad - förmåga att felsöka strukturerat och arbeta metodiskt</li></ul>\n<p><strong>Vi erbjuder</strong></p>\n<ul><li>En bred och utvecklande roll inom IT</li><li>Möjlighet att arbeta med moderna molnbaserade lösningar</li><li>Ett engagerat team med hög teknisk kompetens</li><li>En dynamisk miljö där du får påverka och förbättra</li></ul>\n<p><strong>Ansökan och process</strong></p>\n<p>Skicka in din ansökan redan idag - vi hanterar ansökningar löpande och tjänsten kan tillsättas innan sista ansökningsdatum.</p>\n<p><strong>Placering</strong>: Linköping<strong>Start</strong>: Enligt överenskommelse</p>\n<p>Vi använder en strukturerad rekryteringsprocess för att säkerställa rättvisa och kvalitet. Processen börjar med urvalsfrågor för att kontrollera grundkraven. Därefter följer en bakgrundskontroll som du själv tar del av innan du väljer om du vill dela den med oss. Automatiska system kan förekomma, men alla beslut fattas av människor. Bakgrundskontroller görs för att skapa en trygg arbetsmiljö för både kunder och medarbetare.</p>\n<p>Går du vidare i processen blir du kallad till intervju, kompletterad med tester och referenstagning för att få en helhetsbild av din kompetens.</p>\n\n<p>Vid frågor om tjänsten, kontakta ansvarig rekryterare på thommy.andersson@releasy.se</p>\n\n<p>Releasy Customer Management AB är en outsourcingpartner inom kundservice med flertalet uppdragsgivare inom branscher som telekom, media, e-handel, resor och offentlig verksamhet. Releasy tar hand om sina uppdragsgivares kundservice och försäljning i alla kanaler, exempelvis sociala medier, chatt, mail och telefon. Vi har över 40 års erfarenhet inom branschen och ca 1500 medarbetare i Sverige, Norge och Finland.</p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "5567542633",
+      "name": "Releasy Customer Management AB",
+      "workplace": "Releasy Customer Management AB"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": null,
+      "via_af": false,
+      "url": "https://easyapply.jobs/r/DKG0tCD27yF1iD4dwcMy",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": true,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "tdCZ_6Pn_VzT",
+      "label": "IT-tekniker/Datatekniker",
+      "legacy_ams_taxonomy_id": "6625"
+    },
+    "occupation_group": {
+      "concept_id": "13md_uyV_BNG",
+      "label": "Drifttekniker, IT",
+      "legacy_ams_taxonomy_id": "3511"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "58330",
+      "city": "Linköping",
+      "coordinates": [
+        15.572729209759821,
+        58.396711535264544
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "58330",
+        "city": "Linköping",
+        "coordinates": [
+          15.572729209759821,
+          58.396711535264544
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-11-06T16:42:43",
+    "last_publication_date": "2026-11-22T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1793979763806
+  },
+  {
+    "relevance": 1,
+    "id": "31699167",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31699167",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2120000456/logotyper/logo.png",
+    "headline": "Webbstrateg till Avdelningen för digitalisering och IT",
+    "application_deadline": "2026-11-29T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Är du Norrköpings kommuns nya strateg till Webbteamet? Vi söker dig som tror på utveckling, driv och långsiktigt tänkande! \nVilka är vi?  \nNorrköpings kommun har höga ambitioner avseende digitalisering och strävar efter att hitta effektiva, innovativa lösningar för alla som lever, verkar och besöker Norrköping. \nAvdelningen för digitalisering och IT har cirka 95 anställda som arbetar brett inom IT- och verksamhetsutveckling med hjälp av teknik. Vi leder, styr och stödjer kommunens IT och digitalisering. Avdelningen har fem enheter och ansvarar för allt från webb, utveckling, infrastruktur, objektförvaltning, support till arkitektur, IT- och informationssäkerhet till e-tjänster, idé- och innovationsutveckling samt systemutveckling i agila utvecklingsteam. \nPå enheten tjänsteförvaltning arbetar 21 engagerade medarbetare med förvaltning, drift och nyutveckling av kommungemensamma system, varav fyra tillhör webbteamet som arbetar med kommunens webbplatser och intranät. \nArbetsuppgifter \nI rollen som strateg i webbteamet kommer du tillsammans med övriga teammedlemmar att ansvara för förvaltning och utveckling av kommunens webbplatser. Du kommer att ha ett nära samarbete med bland annat redaktörer, kommunikatörer och medarbetare i kommunens övriga verksamheter. \nI tjänsten ingår både operativa och strategiska arbetsuppgifter som exempelvis att stötta organisationen i att ta fram webbsidor, informera om hur lagkrav påverkar webbplatserna och delta i olika webbrelaterade projekt. I arbetet kan det också ingå att hålla utbildningar, workshops och leda eller delta i utvecklingsuppdrag.  \n \n \n \nDu erbjuds en varierad roll kring kommunens webbplatser och intranät, med fokus på att skapa bästa möjliga förutsättningar framåt.  \nVem är du? \nVi söker dig som har eftergymnasial utbildning inom webb, kommunikation, systemvetenskap eller annan utbildning som arbetsgivaren bedömer som likvärdig. \nFör att lyckas i rollen bör du ha tidigare erfarenhet av webbrelaterade projekt i roller som exempelvis digital strateg, webbansvarig, webbredaktör eller i en liknande roll. \nDu har god kunskap om Sitevision eller annat CMS samt erfarenhet av sökmotoroptimering, uppföljning och webbanalys i tidigare roller. Vi ser gärna att du har erfarenhet av förvaltning av webbplatser i offentlig sektor och kunskap om lagen om tillgänglighet till digital offentlig service (DOS-lagen). Har du dessutom erfarenhet av utveckling av webbplatser eller andra digitala tjänster är det positivt \nDu är van vid att fånga upp frågeställningar, följa upp insatser och driva förbättrings- och utvecklingsarbete. Du har ett strategiskt förhållningssätt, kan se helheten och omsätta verksamhetens behov i långsiktiga lösningar och konkreta aktiviteter. Du är lyhörd för nya trender, omvärldsförändringar och framtida tekniska lösningar. \nSom person är du strukturerad och har förmåga att arbeta både självständigt och tillsammans med andra. Du har en god kommunikativ och pedagogisk förmåga och delar gärna med dig av dina kunskaper och erfarenheter. Du trivs i en roll med många kontaktytor och har lätt för att skapa och utveckla goda relationer och samarbeten. \nDu har mycket goda kunskaper i svenska, både i tal och skrift.  \nVälkommen att skicka in din ansökan!  \nInformation om tjänsten \nAntal lediga tjänster: 1   \n \nAnställningsform: Tillsvidareanställning på heltid    \n \nTillträdesdatum: Enligt överenskommelse    \n \nArbetstid: Dag   \n \nMöjlighet till distansarbete: Delvis, när verksamheten tillåter \n \nSista ansökningsdatum: 29 november \n \nKontakt: Enhetschef Mia Segerberg, mia.segerberg@norrkoping.se eller HR-konsult Jakob Alsén, jakob.alsen@norrkoping.se, +46 11 15 21 31 \n \nÖvrig information: Vi har valt att ta bort det personliga brevet, och ersätta det med urvalsfrågor som är relevanta för tjänsten. Det gör det lättare att göra en objektiv bedömning av din kompetens. Du skickar in ditt CV som vanligt.  \n \nRegisterutdrag: För tjänster inom äldreomsorg, verksamhet för personer med funktionsnedsättning, vuxenutbildning samt verksamhet för barn och ungdomar, ingår kontroll av registerutdrag som en del av rekryteringsprocessen.   \n \nKÄNSLAN AV ATT BIDRA. MÖJLIGHETEN ATT PÅVERKA \n Att arbeta i Norrköpings kommun betyder att du är med och skapar välfärden. Våra 11 000 medarbetare bidrar och gör skillnad. Varje dag. Vi erbjuder en kreativ och dynamisk arbetsplats för nyfikna och öppna människor som vill ha mer än ett jobb. Tillsammans skapar vi Norrköpings framtid.Vi söker dig som har kompetens att bidra till våra verksamheter oavsett kön, könsidentitet eller könsuttryck, ålder, etnisk tillhörighet, religion eller annan trosuppfattning, sexuell läggning eller funktionsnedsättning.När du söker jobb hos oss i Norrköpings kommun använder du dig av vårt rekryteringsverktyg. Du påbörjar din ansökan genom att klicka på ansök längst ner i annonsen. Du som har skyddade personuppgifter ska inte skicka in din ansökan via vår hemsida. Ta en direktkontakt med rekryterande chef alternativt rekryteringsspecialist för att diskutera hur du bäst ansöker utifrån ditt skyddsbehov. Kontaktuppgifter finner du i annonsen. Vi undanber oss alla erbjudanden om annonserings- och rekryteringshjälp i samband med denna annons.",
+      "text_formatted": "<p><strong><strong>Är du Norrköpings kommuns nya strateg till Webbteamet? Vi söker dig som tror på utveckling, driv och långsiktigt tänkande!</strong>&nbsp;</strong></p><p><strong><strong>Vilka är vi? </strong>&nbsp;</strong></p><p>Norrköpings kommun har höga ambitioner avseende digitalisering och strävar efter att hitta effektiva, innovativa lösningar för alla som lever, verkar och besöker Norrköping.&nbsp;</p><p>Avdelningen för digitalisering och IT har cirka 95 anställda som arbetar brett inom IT- och verksamhetsutveckling med hjälp av teknik. Vi leder, styr och stödjer kommunens IT och digitalisering. Avdelningen har fem enheter och ansvarar för allt från webb, utveckling, infrastruktur, objektförvaltning, support till arkitektur, IT- och informationssäkerhet till e-tjänster, idé- och innovationsutveckling samt systemutveckling i agila utvecklingsteam.&nbsp;</p><p>På enheten tjänsteförvaltning arbetar 21 engagerade medarbetare med förvaltning, drift och nyutveckling av kommungemensamma system, varav fyra tillhör webbteamet som arbetar med kommunens webbplatser och intranät.&nbsp;</p><p><strong><strong>Arbetsuppgifter</strong>&nbsp;</strong></p><p>I rollen som strateg i webbteamet kommer du tillsammans med övriga teammedlemmar att ansvara för förvaltning och utveckling av kommunens webbplatser. Du kommer att ha ett nära samarbete med bland annat redaktörer, kommunikatörer och medarbetare i kommunens övriga verksamheter.&nbsp;</p><p>I tjänsten ingår både operativa och strategiska arbetsuppgifter som exempelvis att stötta organisationen i att ta fram webbsidor, informera om hur lagkrav påverkar webbplatserna och delta i olika webbrelaterade&nbsp;projekt. I arbetet kan det också ingå att hålla utbildningar, workshops och leda eller delta i utvecklingsuppdrag. &nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Du erbjuds en varierad roll kring kommunens webbplatser och intranät, med fokus på att skapa bästa möjliga förutsättningar framåt. &nbsp;</p><p><strong><strong>Vem är du?</strong>&nbsp;</strong></p><p>Vi söker dig som har eftergymnasial utbildning inom webb, kommunikation, systemvetenskap eller annan utbildning som arbetsgivaren bedömer som likvärdig.&nbsp;</p><p>För att lyckas i rollen bör du ha tidigare erfarenhet av webbrelaterade projekt i roller som exempelvis digital strateg, webbansvarig, webbredaktör eller i en liknande roll.&nbsp;</p><p>Du har god kunskap om Sitevision eller annat CMS samt erfarenhet av sökmotoroptimering, uppföljning och webbanalys i tidigare roller. Vi ser gärna att du har erfarenhet av förvaltning av webbplatser i offentlig sektor och kunskap om lagen om tillgänglighet till digital offentlig service (DOS-lagen). Har du dessutom erfarenhet av utveckling&nbsp;av webbplatser eller andra digitala tjänster&nbsp;är det positivt&nbsp;</p><p>Du är van vid att fånga upp frågeställningar, följa upp insatser och driva förbättrings- och utvecklingsarbete. Du har ett strategiskt förhållningssätt, kan se helheten och omsätta verksamhetens behov i långsiktiga lösningar och konkreta aktiviteter. Du är lyhörd för nya trender, omvärldsförändringar och framtida tekniska lösningar.&nbsp;</p><p>Som person är du strukturerad och har förmåga att arbeta både självständigt och tillsammans med andra. Du har en god kommunikativ och pedagogisk förmåga och delar gärna med dig av dina kunskaper och erfarenheter. Du trivs i en roll med många kontaktytor och har lätt för att skapa och utveckla goda relationer och samarbeten.&nbsp;</p><p>Du har mycket goda kunskaper i svenska, både i tal och skrift. &nbsp;</p><p>Välkommen att skicka&nbsp;in din ansökan! &nbsp;</p><p><strong>Information om tjänsten&nbsp;</strong></p><p><strong>Antal lediga tjänster:</strong> 1 &nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Anställningsform:</strong> Tillsvidareanställning på heltid&nbsp; &nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Tillträdesdatum:</strong> Enligt överenskommelse&nbsp; &nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Arbetstid:</strong> Dag &nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Möjlighet till distansarbete:</strong> Delvis, när verksamheten tillåter&nbsp;</p><p>&nbsp;</p><p><strong>Sista ansökningsdatum:</strong>&nbsp;29 november&nbsp;</p><p>&nbsp;</p><p><strong>Kontakt:</strong> Enhetschef Mia Segerberg,&nbsp;mia.segerberg@norrkoping.se eller HR-konsult Jakob Alsén, jakob.alsen@norrkoping.se, +46 11 15 21 31&nbsp;</p><p>&nbsp;</p><p><strong>Övrig information:</strong> Vi har valt att ta bort det personliga brevet, och ersätta det med urvalsfrågor som är relevanta för tjänsten. Det gör det lättare att göra en objektiv bedömning av din kompetens. Du skickar in ditt CV som vanligt.&nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>Registerutdrag:</strong> För tjänster inom äldreomsorg, verksamhet för personer med funktionsnedsättning, vuxenutbildning samt verksamhet för barn och ungdomar, ingår kontroll av registerutdrag som en del av rekryteringsprocessen.&nbsp; &nbsp;</p><p>&nbsp;</p>KÄNSLAN AV ATT BIDRA. MÖJLIGHETEN ATT PÅVERKA<p>&nbsp;</p> Att arbeta i Norrköpings kommun betyder att du är med och skapar välfärden. Våra 11 000 medarbetare bidrar och gör skillnad. Varje dag. Vi erbjuder en kreativ och dynamisk arbetsplats för nyfikna och öppna människor som vill ha mer än ett jobb. Tillsammans skapar vi Norrköpings framtid.Vi söker dig som har kompetens att bidra till våra verksamheter oavsett kön, könsidentitet eller könsuttryck, ålder, etnisk tillhörighet, religion eller annan trosuppfattning, sexuell läggning eller funktionsnedsättning.När du söker jobb hos oss i Norrköpings kommun använder du dig av vårt rekryteringsverktyg. Du påbörjar din ansökan genom att klicka på ansök längst ner i annonsen. Du som har skyddade personuppgifter ska inte skicka in din ansökan via vår hemsida. Ta en direktkontakt med rekryterande chef alternativt rekryteringsspecialist för att diskutera hur du bäst ansöker utifrån ditt skyddsbehov. Kontaktuppgifter finner du i annonsen. Vi undanber oss alla erbjudanden om annonserings- och rekryteringshjälp i samband med denna annons.",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": "https://norrkoping.se/",
+      "organization_number": "2120000456",
+      "name": "Norrköpings kommun",
+      "workplace": "Norrköpings kommun"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": null,
+      "via_af": false,
+      "url": "https://norrkoping.se/jobba-hos-oss/sok-jobb/lediga-jobb?rmpage=job&rmjob=20038&utm_medium=talentech_publishing&utm_source=jobtip",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "mBMU_HvW_LMY",
+      "label": "IT-strateg",
+      "legacy_ams_taxonomy_id": "5432"
+    },
+    "occupation_group": {
+      "concept_id": "UxT1_tPF_Kbg",
+      "label": "Övriga IT-specialister",
+      "legacy_ams_taxonomy_id": "2519"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Norrköping",
+      "municipality_code": "0581",
+      "municipality_concept_id": "SYty_Yho_JAF",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "60224",
+      "city": "Norrköping",
+      "coordinates": [
+        16.185753107684057,
+        58.59135554156009
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Norrköping",
+        "municipality_code": "0581",
+        "municipality_concept_id": "SYty_Yho_JAF",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "60224",
+        "city": "Norrköping",
+        "coordinates": [
+          16.185753107684057,
+          58.59135554156009
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-11-06T16:40:57",
+    "last_publication_date": "2026-11-29T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1793979657422
+  },
+  {
+    "relevance": 1,
+    "id": "31698312",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31698312",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
+    "headline": "System Administrator Windows",
+    "application_deadline": "2026-11-27T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Vill du vara en del av vårt team som utvecklar och förvaltar Saabs serverplattformar, både nya och befintliga? Är du en person med ett genuint teknikintresse inom WINDOWS området? Om ja, tveka inte att ta nästa steg i din karriär! Läs mer nedan och ansök!\n \n\n\nDin roll\n\nVi söker efter en System administrator Windows med erfarenhet av applikationspaketering, SCCM, Horizon till vårt DevOps team. Tillsammans med dina kollegor ansvarar du för utveckling och förvaltning inom vårt Windowsteam med Saabs olika applikationer.\n \nHuvudsakliga arbetsuppgifter vid drift och underhåll av IT-Infrastrukturen: \nLeverera klient- och servertjänster och vara en del i drift- och supportteamet \nPatchhantering och uppgradering av klient- och servermiljön \nUtveckla script och arbeta med automationsverktyg för effektivisering av arbetssätt \nUtveckling kopplat till infrastruktursystem \nSäkerställa att de säkerhetskrav som finns uppfylls \nAktivt delta i teknikförbättringsarbete \nDriva och dokumentera arbetet enligt rutiner och processer vi ska efterleva\n\n\nDin Profil\n\n\nSocial kompetens och en förmåga att arbeta under varierande grad av belastning är viktigt för oss. Viktigt också att kunna ta eget ansvar vad gäller att ständigt förbättra vårt arbetssätt, våra processer och rutiner. Dokumentation är en viktig del av vårt arbete varför det är ett krav på flytande svenska och engelska, både i tal och skrift för att kunna förmedla kunskaper till användare och kollegor.\nDå merparten av systemen har höga säkerhetskrav så kommer arbete med IT-säkerhet vara en naturlig del av din vardag.\n\nFör att trivas i rollen och leva upp till förväntningarna tror vi att du har:\nEtt par års erfarenhet inom teknikområdet Windows server och klient\nEtt genuint tekniskt intresse och gillar att arbeta med den senaste tekniken och hänga med i branschens utveckling\nGoda kunskaper i vanligt förekommande scriptspråk, t ex PowerShell\n\n \nDet är meriterande om du har:\nErfarenhet av Horizon \nErfarenhet kring SCCM\nErfarenhet av Microsoft standardprodukter såsom Active Directory, DNS, WDS osv\nErfarenhet av MSI, App Volume\n\n \nMycket meriterande:\nTeradici \nVMware Vsphere \nGIT\n\n \nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. Utannonserad tjänst kräver svenskt medborgarskap.\n \n\n\nVad du blir en del av\n\nDu kommer att tillhöra SAAB IT, den del av Saab-koncernen som ansvarar för utveckling, installation, underhåll och förvaltning av företagets utvecklings och produktionsmiljöer samt dess ingående komponenter som servrar, lagring, nät, databaser och klienter mm. Verksamheten präglas av systematisk drift och förvaltningsarbete samt teknikbevakning inom angränsande verksamhetsområden. \n\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan ansökningstiden har gått ut.\n\nArbetsplatsen är placerad på någon av våra verksamhetsorter: Linköping, Stockholm, Göteborg eller Lund. Hemarbete är begränsat i denna roll och arbetet sker på plats.",
+      "text_formatted": "<p>Vill du vara en del av vårt team som utvecklar och förvaltar Saabs serverplattformar, både nya och befintliga? Är du en person med ett genuint teknikintresse inom WINDOWS området? Om ja, tveka inte att ta nästa steg i din karriär! Läs mer nedan och ansök!</p><p> </p>\n\nDin roll\n\n<p>Vi söker efter en System administrator Windows med erfarenhet av applikationspaketering, SCCM, Horizon till vårt DevOps team. Tillsammans med dina kollegor ansvarar du för utveckling och förvaltning inom vårt Windowsteam med Saabs olika applikationer.</p><p> </p><p>Huvudsakliga arbetsuppgifter vid drift och underhåll av IT-Infrastrukturen: </p><ul><li>Leverera klient- och servertjänster och vara en del i drift- och supportteamet </li><li>Patchhantering och uppgradering av klient- och servermiljön </li><li>Utveckla script och arbeta med automationsverktyg för effektivisering av arbetssätt </li><li>Utveckling kopplat till infrastruktursystem </li><li>Säkerställa att de säkerhetskrav som finns uppfylls </li><li>Aktivt delta i teknikförbättringsarbete </li><li>Driva och dokumentera arbetet enligt rutiner och processer vi ska efterleva</li></ul>\n\nDin Profil\n\n<p>Social kompetens och en förmåga att arbeta under varierande grad av belastning är viktigt för oss. Viktigt också att kunna ta eget ansvar vad gäller att ständigt förbättra vårt arbetssätt, våra processer och rutiner. Dokumentation är en viktig del av vårt arbete varför det är ett krav på flytande svenska och engelska, både i tal och skrift för att kunna förmedla kunskaper till användare och kollegor.\nDå merparten av systemen har höga säkerhetskrav så kommer arbete med IT-säkerhet vara en naturlig del av din vardag.\n\nFör att trivas i rollen och leva upp till förväntningarna tror vi att du har:</p><ul><li>Ett par års erfarenhet inom teknikområdet Windows server och klient</li><li>Ett genuint tekniskt intresse och gillar att arbeta med den senaste tekniken och hänga med i branschens utveckling</li><li>Goda kunskaper i vanligt förekommande scriptspråk, t ex PowerShell</li></ul><p> </p><p>Det är meriterande om du har:</p><ul><li>Erfarenhet av Horizon </li><li>Erfarenhet kring SCCM</li><li>Erfarenhet av Microsoft standardprodukter såsom Active Directory, DNS, WDS osv</li><li>Erfarenhet av MSI, App Volume</li></ul><p> </p><p>Mycket meriterande:</p><ul><li>Teradici </li><li>VMware Vsphere </li><li>GIT</li></ul><p> </p><p>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. Utannonserad tjänst kräver svenskt medborgarskap.</p><p> </p>\n\nVad du blir en del av\n\n<p>Du kommer att tillhöra SAAB IT, den del av Saab-koncernen som ansvarar för utveckling, installation, underhåll och förvaltning av företagets utvecklings och produktionsmiljöer samt dess ingående komponenter som servrar, lagring, nät, databaser och klienter mm. Verksamheten präglas av systematisk drift och förvaltningsarbete samt teknikbevakning inom angränsande verksamhetsområden. \n\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan ansökningstiden har gått ut.\n\nArbetsplatsen är placerad på någon av våra verksamhetsorter: Linköping, Stockholm, Göteborg eller Lund. Hemarbete är begränsat i denna roll och arbetet sker på plats.</p><p>\n\n</p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "5560360793",
+      "name": "SAAB Aktiebolag",
+      "workplace": "Saab"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": null,
+      "via_af": false,
+      "url": "https://www.aplitrak.com/?adid=bC5saW5kZXJzam8uOTk0ODIuMTM3NjVAc2FhYi5hcGxpdHJhay5jb20",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "Lxas_8K9_W1o",
+      "label": "Systemadministratör",
+      "legacy_ams_taxonomy_id": "2918"
+    },
+    "occupation_group": {
+      "concept_id": "MYAz_x9m_2LJ",
+      "label": "Systemadministratörer",
+      "legacy_ams_taxonomy_id": "3513"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": "Bröderna Ugglas gata",
+      "postcode": "58188",
+      "city": "Linköping",
+      "coordinates": [
+        15.6226866,
+        58.4200361
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Bröderna Ugglas gata",
+        "postcode": "58188",
+        "city": "Linköping",
+        "coordinates": [
+          15.6226866,
+          58.4200361
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [
+        {
+          "weight": null,
+          "concept_id": "SnKF_v7d_qUH",
+          "label": "Windows Powershell, systemutvecklingsverktyg",
+          "legacy_ams_taxonomy_id": "609417"
+        }
+      ],
+      "languages": [],
+      "work_experiences": [
+        {
+          "weight": 5,
+          "concept_id": "Lxas_8K9_W1o",
+          "label": "Systemadministratör",
+          "legacy_ams_taxonomy_id": "2918"
+        }
+      ],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-11-06T15:22:01",
+    "last_publication_date": "2026-11-27T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1793974921680
+  },
+  {
+    "relevance": 1,
+    "id": "31698100",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31698100",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566865142/logotyper/logo.png",
+    "headline": "Junior systemingenjör inom AI till flyg- och försvarsindustrin!",
+    "application_deadline": "2026-12-06T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Vill du vara med och forma framtidens arbetssätt inom systemutveckling och AI? Nu söker vi en Systemingenjör inom AI till en ny spännande roll där du får bidra till utvecklingen av nästa generations komplexa tekniska system. Här erbjuds du en unik möjlighet att kombinera teknik, innovation och AI i en verksamhet som ligger i framkant.\nOm tjänsten\nI den nya spännande tjänsten som Systemingenjör inom AI blir du en del av ett team som utvecklar framtidens systemteknikförmågor för komplexa och mjukvarudefinierade system.\n\nRollen handlar om att utforska hur AI kan användas för att skapa bättre processer, metodik och informationsflöden inom systemutveckling. Du kommer att vara med och utveckla nya arbetssätt, stödja projekt och bidra till att skapa effektiva metoder för samarbete mellan olika teknikdiscipliner.\n\nExempel på arbetsuppgifter:\n•\tUtveckla och förbättra processer och metodik inom systems engineering\n•\tArbeta med AI-stödda arbetssätt och verktyg\n•\tHantera och strukturera informationsmängder\n•\tBidra till teknisk dokumentation och spårbarhet\n•\tDelta i utvecklingsprojekt och förändringsinitiativ\n•\tStötta verksamheten i införandet av nya arbetssätt\n•\tTesta och utvärdera AI-relaterade metoder och lösningar\nDu blir en del av ett växande team där du får stora möjligheter att påverka både arbetssätt och framtida utveckling.\n\nSkallkrav\n•\tStort intresse för AI och dess användningsområden\n•\tHögskole- eller civilingenjörsexamen inom exempelvis kognitionsvetenskap, systemvetenskap, datateknik eller annat relevant tekniskt område.\n•\tMinst 1 års arbetslivserfarenhet inom exempelvis AI-arbete, kvalitetsarbete, systemingenjörsarbete, programmering eller processutveckling\n\nMeriterande\n•\tErfarenhet från reglerad verksamhet\n•\tErfarenhet av att använda AI-verktyg för att effektivisera arbetssätt, lösa problem eller driva egna initiativ, antingen professionellt eller i privata projekt\n•\tErfarenhet av förändringsarbete eller förändringsledning\n\nVem är du?\nEftersom verksamheten befinner sig i en spännande utvecklingsfas känner du dig bekväm i en föränderlig miljö och lockas av att utforska nya arbetssätt och möjligheterna med AI. Du trivs när du får ta egna initiativ, driva frågor framåt och samarbeta med människor från olika kompetensområden. Som person är du kommunikativ och har lätt för att bygga relationer.\n\nOm vår kund\nVår kund är en ledande aktör inom högteknologisk utveckling av avancerade system med stor betydelse för samhälle och säkerhet. Verksamheten präglas av innovation, teknisk spetskompetens och långsiktiga satsningar på framtidens lösningar.\nDu blir en del av en växande organisation där nya idéer, utveckling av arbetssätt och tekniska innovationer står i fokus.\n\nOm oss på Framtiden\nFramtiden är ett rekryterings- och bemanningsföretag med kontor på åtta orter i Sverige. Vi finns för att fler ska älska måndagar! Inom Tech People är vi experter på ingenjörer, med roller för både juniora och seniora profiler inom IT och teknik. Inom Business People är vi experter på ekonomer på alla erfarenhetsnivåer, från specialister, chefer och interimsledare till juniora talanger inom ekonomi/finans, HR, lön och administration.\n\nVår rekrytering bygger på evidensbaserade metoder för en rättvis och träffsäker matchning. Vi gör skillnad genom att hjälpa människor att hitta rätt jobb och rätt kollega.\n\nDetta är ett konsultuppdrag där du blir anställd av Framtiden och arbetar som konsult hos vår kund.\n\nÖvrig information\nUrval sker löpande\nOrt: Linköping\nStartdatum: Omgående\nUppdraget är placerat i säkerhetsklass. Inför anställning krävs att du genomgår en säkerhetsprövning och godkänns enligt gällande bestämmelser för säkerhetsskydd. Detta kan medföra krav på visst medborgarskap.\nRekryteringsprocess\n1.\tTelefonintervju\n2.\tIntervju och referenstagning\n3.\tPersonlighet- och problemlösningstest\n4.\tIntervju med vår kund",
+      "text_formatted": "<em>Vill du vara med och forma framtidens arbetssätt inom systemutveckling och AI? Nu söker vi en Systemingenjör inom AI till en ny spännande roll där du får bidra till utvecklingen av nästa generations komplexa tekniska system. Här erbjuds du en unik möjlighet att kombinera teknik, innovation och AI i en verksamhet som ligger i framkant.</em> \n\n<strong>Om tjänsten</strong>\nI den nya spännande tjänsten som Systemingenjör inom AI blir du en del av ett team som utvecklar framtidens systemteknikförmågor för komplexa och mjukvarudefinierade system.\n\nRollen handlar om att utforska hur AI kan användas för att skapa bättre processer, metodik och informationsflöden inom systemutveckling. Du kommer att vara med och utveckla nya arbetssätt, stödja projekt och bidra till att skapa effektiva metoder för samarbete mellan olika teknikdiscipliner.\n\nExempel på arbetsuppgifter:\n•\tUtveckla och förbättra processer och metodik inom systems engineering\n•\tArbeta med AI-stödda arbetssätt och verktyg\n•\tHantera och strukturera informationsmängder\n•\tBidra till teknisk dokumentation och spårbarhet\n•\tDelta i utvecklingsprojekt och förändringsinitiativ\n•\tStötta verksamheten i införandet av nya arbetssätt\n•\tTesta och utvärdera AI-relaterade metoder och lösningar\nDu blir en del av ett växande team där du får stora möjligheter att påverka både arbetssätt och framtida utveckling.\n<strong>\n</strong><strong>Skallkrav</strong>\n•\tStort intresse för AI och dess användningsområden\n•\tHögskole- eller civilingenjörsexamen inom exempelvis kognitionsvetenskap, systemvetenskap, datateknik eller annat relevant tekniskt område.\n•\tMinst 1 års arbetslivserfarenhet inom exempelvis AI-arbete, kvalitetsarbete, systemingenjörsarbete, programmering eller processutveckling\n<strong>\n</strong><strong>Meriterande</strong>\n•\tErfarenhet från reglerad verksamhet\n•\tErfarenhet av att använda AI-verktyg för att effektivisera arbetssätt, lösa problem eller driva egna initiativ, antingen professionellt eller i privata projekt\n•\tErfarenhet av förändringsarbete eller förändringsledning\n\n<strong>Vem är du?</strong>\nEftersom verksamheten befinner sig i en spännande utvecklingsfas känner du dig bekväm i en föränderlig miljö och lockas av att utforska nya arbetssätt och möjligheterna med AI. Du trivs när du får ta egna initiativ, driva frågor framåt och samarbeta med människor från olika kompetensområden. Som person är du kommunikativ och har lätt för att bygga relationer.\n\n<strong>Om vår kund</strong>\nVår kund är en ledande aktör inom högteknologisk utveckling av avancerade system med stor betydelse för samhälle och säkerhet. Verksamheten präglas av innovation, teknisk spetskompetens och långsiktiga satsningar på framtidens lösningar.\nDu blir en del av en växande organisation där nya idéer, utveckling av arbetssätt och tekniska innovationer står i fokus.\n\n<strong>Om oss på Framtiden</strong>\nFramtiden är ett rekryterings- och bemanningsföretag med kontor på åtta orter i Sverige. Vi finns för att fler ska älska måndagar! Inom Tech People är vi experter på ingenjörer, med roller för både juniora och seniora profiler inom IT och teknik. Inom Business People är vi experter på ekonomer på alla erfarenhetsnivåer, från specialister, chefer och interimsledare till juniora talanger inom ekonomi/finans, HR, lön och administration.\n\nVår rekrytering bygger på evidensbaserade metoder för en rättvis och träffsäker matchning. Vi gör skillnad genom att hjälpa människor att hitta rätt jobb och rätt kollega.\n\nDetta är ett konsultuppdrag där du blir anställd av Framtiden och arbetar som konsult hos vår kund.\n\n<strong>Övrig information</strong>\nUrval sker löpande\nOrt: Linköping\nStartdatum: Omgående\n<em>Uppdraget är placerat i säkerhetsklass. Inför anställning krävs att du genomgår en säkerhetsprövning och godkänns enligt gällande bestämmelser för säkerhetsskydd. Detta kan medföra krav på visst medborgarskap.</em>\n\n<strong>Rekryteringsprocess</strong>\n1.\tTelefonintervju\n2.\tIntervju och referenstagning\n3.\tPersonlighet- och problemlösningstest\n4.\tIntervju med vår kund",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": "https://www.framtiden.com",
+      "organization_number": "5566865142",
+      "name": "Framtiden i Sverige AB",
+      "workplace": "Framtiden AB"
+    },
+    "application_details": {
+      "information": null,
+      "reference": "ZR_53396_JOB",
+      "email": null,
+      "via_af": false,
+      "url": "https://jobb.framtiden.com/jobs/Careers/35955000201126383",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "fg7B_yov_smw",
+      "label": "Systemutvecklare/Programmerare",
+      "legacy_ams_taxonomy_id": "2419"
+    },
+    "occupation_group": {
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": "58219",
+      "city": "Linköping",
+      "coordinates": [
+        15.623878911274394,
+        58.41017049931107
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "58219",
+        "city": "Linköping",
+        "coordinates": [
+          15.623878911274394,
+          58.41017049931107
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [
+      {
+        "name": "Hilda Gissy",
+        "description": null,
+        "email": "hilda.gissy@framtiden.com",
+        "telephone": null,
+        "contact_type": null
+      }
+    ],
+    "publication_date": "2026-11-06T15:06:14",
+    "last_publication_date": "2026-12-06T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1793973974332
+  },
+  {
+    "relevance": 1,
     "id": "31697489",
     "external_id": null,
     "original_id": null,
@@ -3020,18 +3466,18 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Emelie Ring Grau",
         "description": null,
         "email": "emelie.ringgrau@kriminalvarden.se",
         "telephone": "+46114741315",
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -3041,9 +3487,9 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -4993,18 +5439,18 @@
     },
     "application_contacts": [
       {
-        "name": "Emeli Vanhanen",
-        "description": null,
-        "email": "emeli.vanhanen@finspang.se",
-        "telephone": "0122-85498",
-        "contact_type": "HR-konsult"
-      },
-      {
         "name": "Ann-Christin Ahl Vallgren",
         "description": null,
         "email": "ann-christin.ahl-vallgren@finspang.se",
         "telephone": "0122-85423",
         "contact_type": "Ekonomichef och styrningschef"
+      },
+      {
+        "name": "Emeli Vanhanen",
+        "description": null,
+        "email": "emeli.vanhanen@finspang.se",
+        "telephone": "0122-85498",
+        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-11-06T08:55:35",
@@ -5311,20 +5757,6 @@
     },
     "application_contacts": [
       {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Anna Therese Ehnsiö",
         "description": null,
         "email": "AnnaTherese.Ehnsio@kriminalvarden.se",
@@ -5337,6 +5769,20 @@
         "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-11-06T00:00:26",
@@ -5345,150 +5791,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1793919626929
-  },
-  {
-    "relevance": 1,
-    "id": "31693001",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31693001",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591302780/logotyper/logo.png",
-    "headline": "Systemutvecklare  Alfa-ramverket (Kotlin/Agil coach),",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vi söker systemutvecklare till ett konsultuppdrag i Linköping hos en statlig myndighet inom rättsväsendet, för vidareutveckling av ett egenutvecklat ramverk för automatisk bild- och videoanalys.\nOm uppdraget\nDu blir en del av ett agilt och självorganiserande team med hög utvecklingstakt och frekventa leveranser, integrerat mot en stor systemflora. Detta avrop fokuserar på Kotlin, TypeScript/Angular, AI-videoanalys samt agil coachning.\nObligatoriska krav\nMinst 9 års erfarenhet av Kotlin-utveckling\n Minst 4 års erfarenhet av video-/bildanalyssystem och AI-algoritmramverk\n Minst 5 års erfarenhet av TypeScript/Angular\n Minst 5 års erfarenhet som agil coach\n God förmåga att uttrycka sig på svenska i tal och skrift\n Säkerhetsprövning krävs (i vissa fall svenskt medborgarskap)\n\nUppdragsinformation\nStart: 2026-12-27\n Slut: 2027-11-26 (option 1+1 år)\n Omfattning: 100%, minst 3 dagar/vecka på plats\n Plats: Linköping\n Sista ansökningsdag: 2026-11-05\n\nOm Soros Consulting\nSoros Consulting AB tillsätter erfarna specialister inom energi, elkraft, säkerhet och samhällsviktig infrastruktur. Vi matchar rätt kompetens med uppdrag där den gör verklig skillnad. Vårt fokus är kvalitet, långsiktighet och hållbara relationer och vi skapar goda förutsättningar för både konsulter och uppdragsgivare genom tydlighet och professionalism i varje steg.\nTveka inte på att skicka in din ansökan redan idag!\nHar du frågor om uppdraget? Kontakta oss på jobb@sorosconsulting.se\nfölj oss på Linkedin för fler jobbmöjligheter:\nHemsida – https://sorosconsulting.se/\nInstagram – https://www.instagram.com/sorosconsulting\nLinkedIn – https://www.linkedin.com/company/soros-consulting-ab",
-      "text_formatted": "<p>Vi söker systemutvecklare till ett konsultuppdrag i Linköping hos en statlig myndighet inom rättsväsendet, för vidareutveckling av ett egenutvecklat ramverk för automatisk bild- och videoanalys.</p><p>Om uppdraget</p><p>Du blir en del av ett agilt och självorganiserande team med hög utvecklingstakt och frekventa leveranser, integrerat mot en stor systemflora. Detta avrop fokuserar på Kotlin, TypeScript/Angular, AI-videoanalys samt agil coachning.</p><p>Obligatoriska krav</p><ul><li>Minst 9 års erfarenhet av Kotlin-utveckling</li><li> Minst 4 års erfarenhet av video-/bildanalyssystem och AI-algoritmramverk</li><li> Minst 5 års erfarenhet av TypeScript/Angular</li><li> Minst 5 års erfarenhet som agil coach</li><li> God förmåga att uttrycka sig på svenska i tal och skrift</li><li> Säkerhetsprövning krävs (i vissa fall svenskt medborgarskap)</li></ul><p>Uppdragsinformation</p><ul><li>Start: 2026-12-27</li><li> Slut: 2027-11-26 (option 1+1 år)</li><li> Omfattning: 100%, minst 3 dagar/vecka på plats</li><li> Plats: Linköping</li><li> Sista ansökningsdag: 2026-11-05</li></ul><p>Om Soros Consulting</p><p>Soros Consulting AB tillsätter erfarna specialister inom energi, elkraft, säkerhet och samhällsviktig infrastruktur. Vi matchar rätt kompetens med uppdrag där den gör verklig skillnad. Vårt fokus är kvalitet, långsiktighet och hållbara relationer och vi skapar goda förutsättningar för både konsulter och uppdragsgivare genom tydlighet och professionalism i varje steg.</p><p><strong>Tveka inte på att skicka in din ansökan redan idag!</strong></p><p>Har du frågor om uppdraget? Kontakta oss på jobb@sorosconsulting.se</p><p><strong>följ oss på Linkedin för fler jobbmöjligheter:</strong></p><p>Hemsida – https://sorosconsulting.se/</p><p>Instagram – https://www.instagram.com/sorosconsulting</p><p>LinkedIn – https://www.linkedin.com/company/soros-consulting-ab</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5591302780",
-      "name": "Soros Consulting AB",
-      "workplace": "Soros Consulting AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://sorosconsulting.se/2026/11/05/systemutvecklare-alfa-ramverket-kotlin-agil-coach-linkoping/",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": null,
-      "city": null,
-      "coordinates": [
-        null,
-        null
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": null,
-        "city": null,
-        "coordinates": [
-          null,
-          null
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-05T17:14:05",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1793895245663
   },
   {
     "relevance": 1,
@@ -5787,150 +6089,6 @@
   },
   {
     "relevance": 1,
-    "id": "31689085",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31689085",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591302780/logotyper/logo.png",
-    "headline": "Systemutvecklare  Alfa-ramverket (Java/Kotlin), Linköping",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vi söker nu en Systemutvecklare till Alfa-ramverket, ett egenutvecklat ramverk för automatisk bild- och videoanalys, i ett konsultuppdrag i Linköping hos en statlig myndighet inom rättsväsendet.\nDu blir en del av ett agilt och självorganiserande team med hög utvecklingstakt, där ramverket är integrerat mot en stor systemflora.\nOm uppdraget\nI rollen vidareutvecklar du Alfa-ramverket för automatisk bild- och videoanalys med AI-baserade algoritmer, i nära samarbete med ett agilt team. Uppdraget kräver säkerhetsprövning på grund av verksamhetens karaktär.\nArbetsuppgifter\nVidareutveckla Alfa-ramverket för bild- och videoanalys\n Arbeta med AI-baserade algoritmer och integrationer mot en stor systemflora\n Delta aktivt i ett agilt, självorganiserande team\n Säkerställa hög kvalitet i en miljö med hög utvecklingstakt\n\nVi söker dig som har:\nMinst 10 års erfarenhet av Java/Kotlin, Spring/SpringBoot och MySQL eller motsvarande SQL-databas (de senaste 12 åren)\n Minst 8 års erfarenhet av installation och administration av Linux-servrar (RHEL)\n Mycket goda kunskaper i svenska i tal och skrift\n\nSom person är du:\nNoggrann och kvalitetsmedveten\n Nyfiken på AI och ny teknik\n Van att arbeta självständigt i ett agilt team\n\nSäkerhetsprövning genomförs för uppdraget.\nUppdragsinformation\nUppdragslängd: ca 12 månader\n Omfattning: heltid\n Plats: Linköping\n Sista ansökningsdag: 5 november 2026\n\nOm Soros Consulting\nSoros Consulting AB tillsätter erfarna specialister inom energi, elkraft, säkerhet och samhällsviktig infrastruktur. Vi matchar rätt kompetens med uppdrag där den gör verklig skillnad. Vårt fokus är kvalitet, långsiktighet och hållbara relationer och vi skapar goda förutsättningar för både konsulter och uppdragsgivare genom tydlighet och professionalism i varje steg.\nTveka inte på att skicka in din ansökan redan idag!\nFölj oss på LinkedIn för fler jobbmöjligheter:\nHemsida – https://sorosconsulting.se/\nInstagram – https://www.instagram.com/sorosconsulting\nLinkedIn – https://www.linkedin.com/company/soros-consulting-ab\nAnsök idag, urval sker löpande!",
-      "text_formatted": "<p>Vi söker nu en Systemutvecklare till Alfa-ramverket, ett egenutvecklat ramverk för automatisk bild- och videoanalys, i ett konsultuppdrag i Linköping hos en statlig myndighet inom rättsväsendet.</p><p>Du blir en del av ett agilt och självorganiserande team med hög utvecklingstakt, där ramverket är integrerat mot en stor systemflora.</p><p>Om uppdraget</p><p>I rollen vidareutvecklar du Alfa-ramverket för automatisk bild- och videoanalys med AI-baserade algoritmer, i nära samarbete med ett agilt team. Uppdraget kräver säkerhetsprövning på grund av verksamhetens karaktär.</p><p>Arbetsuppgifter</p><ul><li>Vidareutveckla Alfa-ramverket för bild- och videoanalys</li><li> Arbeta med AI-baserade algoritmer och integrationer mot en stor systemflora</li><li> Delta aktivt i ett agilt, självorganiserande team</li><li> Säkerställa hög kvalitet i en miljö med hög utvecklingstakt</li></ul><p>Vi söker dig som har:</p><ul><li>Minst 10 års erfarenhet av Java/Kotlin, Spring/SpringBoot och MySQL eller motsvarande SQL-databas (de senaste 12 åren)</li><li> Minst 8 års erfarenhet av installation och administration av Linux-servrar (RHEL)</li><li> Mycket goda kunskaper i svenska i tal och skrift</li></ul><p>Som person är du:</p><ul><li>Noggrann och kvalitetsmedveten</li><li> Nyfiken på AI och ny teknik</li><li> Van att arbeta självständigt i ett agilt team</li></ul><p>Säkerhetsprövning genomförs för uppdraget.</p><p>Uppdragsinformation</p><ul><li>Uppdragslängd: ca 12 månader</li><li> Omfattning: heltid</li><li> Plats: Linköping</li><li> Sista ansökningsdag: 5 november 2026</li></ul><p>Om Soros Consulting</p><p>Soros Consulting AB tillsätter erfarna specialister inom energi, elkraft, säkerhet och samhällsviktig infrastruktur. Vi matchar rätt kompetens med uppdrag där den gör verklig skillnad. Vårt fokus är kvalitet, långsiktighet och hållbara relationer och vi skapar goda förutsättningar för både konsulter och uppdragsgivare genom tydlighet och professionalism i varje steg.</p><p>Tveka inte på att skicka in din ansökan redan idag!</p><p>Följ oss på LinkedIn för fler jobbmöjligheter:</p><p>Hemsida – https://sorosconsulting.se/</p><p>Instagram – https://www.instagram.com/sorosconsulting</p><p>LinkedIn – https://www.linkedin.com/company/soros-consulting-ab</p><p>Ansök idag, urval sker löpande!</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "sTu5_NBQ_udq",
-      "label": "Tidsbegränsad anställning",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "9RGe_UxD_FZw",
-      "label": "12 månader – upp till 2 år",
-      "legacy_ams_taxonomy_id": "9"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5591302780",
-      "name": "Soros Consulting AB",
-      "workplace": "Soros Consulting AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://sorosconsulting.se/2026/11/02/systemutvecklare-alfa-ramverket-bild-videoanalys-jr-55800/",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "58002",
-      "city": "LINKÖPING",
-      "coordinates": [
-        15.6226866,
-        58.4200361
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "58002",
-        "city": "LINKÖPING",
-        "coordinates": [
-          15.6226866,
-          58.4200361
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-05T11:14:11",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1793873651058
-  },
-  {
-    "relevance": 1,
     "id": "31689062",
     "external_id": null,
     "original_id": null,
@@ -6224,150 +6382,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1793970816895
-  },
-  {
-    "relevance": 1,
-    "id": "31688758",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31688758",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591302780/logotyper/logo.png",
-    "headline": "Systemutvecklare  Alfa-ramverket (C++/GStreamer), Linköping",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vi söker nu en Systemutvecklare till Alfa-ramverket, ett egenutvecklat ramverk för automatisk bild- och videoanalys, i ett konsultuppdrag i Linköping hos en statlig myndighet inom rättsväsendet.\nDu blir en del av ett agilt och självorganiserande team med hög utvecklingstakt, där ramverket är integrerat mot en stor systemflora.\nOm uppdraget\nI rollen vidareutvecklar du Alfa-ramverket för automatisk bild- och videoanalys med AI-baserade algoritmer, i nära samarbete med ett agilt team. Uppdraget kräver säkerhetsprövning på grund av verksamhetens karaktär.\nArbetsuppgifter\nVidareutveckla Alfa-ramverket för bild- och videoanalys\n Arbeta med AI-baserade algoritmer och integrationer mot en stor systemflora\n Delta aktivt i ett agilt, självorganiserande team\n Säkerställa hög kvalitet i en miljö med hög utvecklingstakt\n\nVi söker dig som har:\nMinst 10 års erfarenhet av MySQL eller motsvarande SQL-databas och C++ (de senaste 15 åren)\n Praktisk erfarenhet av Python\n Minst 3 års erfarenhet av GStreamer\n Dokumenterad erfarenhet av video-/bildanalysutveckling\n Mycket goda kunskaper i svenska i tal och skrift\n\nSom person är du:\nNoggrann och kvalitetsmedveten\n Nyfiken på AI och ny teknik\n Van att arbeta självständigt i ett agilt team\n\nSäkerhetsprövning genomförs för uppdraget.\nUppdragsinformation\nUppdragslängd: ca 12 månader\n Omfattning: heltid\n Plats: Linköping\n Sista ansökningsdag: 5 november 2026\n\nOm Soros Consulting\nSoros Consulting AB tillsätter erfarna specialister inom energi, elkraft, säkerhet och samhällsviktig infrastruktur. Vi matchar rätt kompetens med uppdrag där den gör verklig skillnad. Vårt fokus är kvalitet, långsiktighet och hållbara relationer och vi skapar goda förutsättningar för både konsulter och uppdragsgivare genom tydlighet och professionalism i varje steg.\nTveka inte på att skicka in din ansökan redan idag!\nFölj oss på LinkedIn för fler jobbmöjligheter:\nHemsida – https://sorosconsulting.se/\nInstagram – https://www.instagram.com/sorosconsulting\nLinkedIn – https://www.linkedin.com/company/soros-consulting-ab\nAnsök idag, urval sker löpande!",
-      "text_formatted": "<p>Vi söker nu en Systemutvecklare till Alfa-ramverket, ett egenutvecklat ramverk för automatisk bild- och videoanalys, i ett konsultuppdrag i Linköping hos en statlig myndighet inom rättsväsendet.</p><p>Du blir en del av ett agilt och självorganiserande team med hög utvecklingstakt, där ramverket är integrerat mot en stor systemflora.</p><p>Om uppdraget</p><p>I rollen vidareutvecklar du Alfa-ramverket för automatisk bild- och videoanalys med AI-baserade algoritmer, i nära samarbete med ett agilt team. Uppdraget kräver säkerhetsprövning på grund av verksamhetens karaktär.</p><p>Arbetsuppgifter</p><ul><li>Vidareutveckla Alfa-ramverket för bild- och videoanalys</li><li> Arbeta med AI-baserade algoritmer och integrationer mot en stor systemflora</li><li> Delta aktivt i ett agilt, självorganiserande team</li><li> Säkerställa hög kvalitet i en miljö med hög utvecklingstakt</li></ul><p>Vi söker dig som har:</p><ul><li>Minst 10 års erfarenhet av MySQL eller motsvarande SQL-databas och C++ (de senaste 15 åren)</li><li> Praktisk erfarenhet av Python</li><li> Minst 3 års erfarenhet av GStreamer</li><li> Dokumenterad erfarenhet av video-/bildanalysutveckling</li><li> Mycket goda kunskaper i svenska i tal och skrift</li></ul><p>Som person är du:</p><ul><li>Noggrann och kvalitetsmedveten</li><li> Nyfiken på AI och ny teknik</li><li> Van att arbeta självständigt i ett agilt team</li></ul><p>Säkerhetsprövning genomförs för uppdraget.</p><p>Uppdragsinformation</p><ul><li>Uppdragslängd: ca 12 månader</li><li> Omfattning: heltid</li><li> Plats: Linköping</li><li> Sista ansökningsdag: 5 november 2026</li></ul><p>Om Soros Consulting</p><p>Soros Consulting AB tillsätter erfarna specialister inom energi, elkraft, säkerhet och samhällsviktig infrastruktur. Vi matchar rätt kompetens med uppdrag där den gör verklig skillnad. Vårt fokus är kvalitet, långsiktighet och hållbara relationer och vi skapar goda förutsättningar för både konsulter och uppdragsgivare genom tydlighet och professionalism i varje steg.</p><p>Tveka inte på att skicka in din ansökan redan idag!</p><p>Följ oss på LinkedIn för fler jobbmöjligheter:</p><p>Hemsida – https://sorosconsulting.se/</p><p>Instagram – https://www.instagram.com/sorosconsulting</p><p>LinkedIn – https://www.linkedin.com/company/soros-consulting-ab</p><p>Ansök idag, urval sker löpande!</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "sTu5_NBQ_udq",
-      "label": "Tidsbegränsad anställning",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "9RGe_UxD_FZw",
-      "label": "12 månader – upp till 2 år",
-      "legacy_ams_taxonomy_id": "9"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5591302780",
-      "name": "Soros Consulting AB",
-      "workplace": "Soros Consulting AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://sorosconsulting.se/2026/11/02/systemutvecklare-alfa-ramverket-bild-videoanalys-jr-55798/",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": null,
-      "city": null,
-      "coordinates": [
-        null,
-        null
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": null,
-        "city": null,
-        "coordinates": [
-          null,
-          null
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-05T10:40:30",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1793871630662
   },
   {
     "relevance": 1,
@@ -10777,18 +10791,18 @@
     },
     "application_contacts": [
       {
-        "name": "Cristian Spjuth",
-        "description": null,
-        "email": "cristian.spjuth@trafikverket.se",
-        "telephone": "0101244155",
-        "contact_type": "Rekryterande chef"
-      },
-      {
         "name": "Dick Sandell",
         "description": null,
         "email": "dick.sandell@trafikverket.se",
         "telephone": "0101235896",
         "contact_type": "Operativ ledare"
+      },
+      {
+        "name": "Cristian Spjuth",
+        "description": null,
+        "email": "cristian.spjuth@trafikverket.se",
+        "telephone": "0101244155",
+        "contact_type": "Rekryterande chef"
       }
     ],
     "publication_date": "2026-11-03T08:44:25",
@@ -11623,18 +11637,18 @@
     },
     "application_contacts": [
       {
-        "name": "Lena Gripenblad",
-        "description": null,
-        "email": "fornamn.efternamn@smhi.se",
-        "telephone": "+46114958000",
-        "contact_type": "Gruppchef"
-      },
-      {
         "name": "Vendela Johansson",
         "description": null,
         "email": "fornamn.efternamn@smhi.se",
         "telephone": "+46114958000",
         "contact_type": "HR-specialist"
+      },
+      {
+        "name": "Lena Gripenblad",
+        "description": null,
+        "email": "fornamn.efternamn@smhi.se",
+        "telephone": "+46114958000",
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-11-02T16:14:12",
@@ -13176,17 +13190,17 @@
     },
     "application_contacts": [
       {
-        "name": "Charlott Olsson",
-        "description": null,
-        "email": null,
-        "telephone": "010-4859186",
-        "contact_type": null
-      },
-      {
         "name": "Roger Newman",
         "description": null,
         "email": null,
         "telephone": "010-4852506",
+        "contact_type": null
+      },
+      {
+        "name": "Charlott Olsson",
+        "description": null,
+        "email": null,
+        "telephone": "010-4859186",
         "contact_type": null
       }
     ],
@@ -13494,9 +13508,9 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -13508,9 +13522,9 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -14135,164 +14149,6 @@
     "removed_date": null,
     "source_type": "VIA_ANNONSERA",
     "timestamp": 1793557335667
-  },
-  {
-    "relevance": 1,
-    "id": "31669514",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31669514",
-    "logo_url": null,
-    "headline": "Systemtekniker: Linux & Solaris",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Denna roll passar dig som tycker om att arbeta med datorplattformar från grunden, med både hårdvara och kod. En kedja som innefattar design, inställning och konfiguration av utrustning och operativsystem, att skriva kod, bygga open-source produkter, felsöka när något inte fungerar och dokumentera hela processen och de tekniska lösningarna. Arbetsmässigt är det en mycket självständig roll med ett stort eget ansvar. \n \nKrav\nLinux och Solaris\nPython, C och C++.\n\nErfarenhet av att:\nBygga open source-produkter.\nAnvända säkerhetsfunktioner.\nDesigna och felsöka datorplattformar\nSvenskt medborgarskap.",
-      "text_formatted": "<p>Denna roll passar dig som tycker om att arbeta med datorplattformar från grunden, med både hårdvara och kod. En kedja som innefattar design, inställning och konfiguration av utrustning och operativsystem, att skriva kod, bygga open-source produkter, felsöka när något inte fungerar och dokumentera hela processen och de tekniska lösningarna. Arbetsmässigt är det en mycket självständig roll med ett stort eget ansvar. </p><p> </p><p><strong>Krav</strong></p><ul><li>Linux och Solaris</li><li>Python, C och C++.</li></ul><p>Erfarenhet av att:</p><ul><li>Bygga open source-produkter.</li><li>Använda säkerhetsfunktioner.</li><li>Designa och felsöka datorplattformar</li><li>Svenskt medborgarskap.</li></ul><p><br></p><p><br></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "sTu5_NBQ_udq",
-      "label": "Tidsbegränsad anställning",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "gJRb_akA_95y",
-      "label": "6 månader – upp till 12 månader",
-      "legacy_ams_taxonomy_id": "0"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": null,
-      "name": "Rosenthal, Emanuel",
-      "workplace": "Linköping"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "Solaris",
-      "email": "rosenthalius.recruitment@gmail.com",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "oSg4_2uU_wpN",
-      "label": "Devops utvecklare",
-      "legacy_ams_taxonomy_id": null
-    },
-    "occupation_group": {
-      "concept_id": "cBBa_ngH_fCx",
-      "label": "Systemförvaltare m.fl.",
-      "legacy_ams_taxonomy_id": "2515"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": null,
-      "city": null,
-      "coordinates": [
-        null,
-        null
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": null,
-        "city": null,
-        "coordinates": [
-          null,
-          null
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        }
-      ],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "oSg4_2uU_wpN",
-          "label": "Devops utvecklare",
-          "legacy_ams_taxonomy_id": null
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-01T17:54:00",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1793552040672
   },
   {
     "relevance": 1,
@@ -19243,10 +19099,10 @@
     },
     "application_contacts": [
       {
-        "name": "Anna-Karin Fällman",
+        "name": "Gunilla Togan Murad",
         "description": null,
-        "email": "anna-karin.fallman@kriminalvarden.se",
-        "telephone": "+46114741476",
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "+46114965297",
         "contact_type": "Sektionschef"
       },
       {
@@ -19257,18 +19113,18 @@
         "contact_type": null
       },
       {
+        "name": "Anna-Karin Fällman",
+        "description": null,
+        "email": "anna-karin.fallman@kriminalvarden.se",
+        "telephone": "+46114741476",
+        "contact_type": "Sektionschef"
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
-      },
-      {
-        "name": "Gunilla Togan Murad",
-        "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "+46114965297",
-        "contact_type": "Sektionschef"
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -19596,20 +19452,6 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Anna-Karin Fällman",
         "description": null,
         "email": "anna-karin.fallman@kriminalvarden.se",
@@ -19617,9 +19459,23 @@
         "contact_type": "Sektionschef"
       },
       {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -22321,6 +22177,13 @@
     },
     "application_contacts": [
       {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
@@ -22328,9 +22191,9 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -22342,16 +22205,9 @@
         "contact_type": "Systemutvecklare"
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -25743,11 +25599,11 @@
     },
     "application_contacts": [
       {
-        "name": "Sakib Kicic",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "sakib.kicic@kriminalvarden.se",
-        "telephone": null,
-        "contact_type": "Gruppchef"
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Olof Carlstein (SEKO)",
@@ -25764,11 +25620,11 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Sakib Kicic",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
+        "email": "sakib.kicic@kriminalvarden.se",
+        "telephone": null,
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-10-20T09:55:26",
@@ -29663,156 +29519,6 @@
   },
   {
     "relevance": 1,
-    "id": "31592398",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31592398",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560525833/logotyper/logo.png",
-    "headline": "Service Manager Cloud och Development",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Företagspresentation\n Toyota Material Handling Europe (TMHE) är en ledande aktör inom materialhantering med närvaro i över 30 europeiska länder. TMHE erbjuder ett brett spektrum av produkter och tjänster – från manuella till automatiserade lösningar – och strävar efter att leverera kvalitet, innovation och kundanpassning. Kulturen genomsyras av engagemang, öppenhet, stabilitet och utvecklingsfokus – med ett tydligt internationellt samarbete och ett arbetsklimat präglat av hög vilja. IS/IT-organisationen omfattar ett 90-tal i Mjölby och ansvarar, tillsammans med vår outsourcing partner, för support, drift och vidareutveckling av omkring 300 applikationer varav många är affärskritiska. \n\n\nArbetsuppgifter och ansvarsområden\n \nOm rollen\nSom Service Manager Cloud and Development får du ett end-to-end-ansvar för tjänster inom privata datacenter, Azure-baserade molnmiljöer, utvecklingsplattformar och DevOps. Du blir tjänsteägare och en central kontaktyta mellan verksamhetens intressenter, interna IS/IT-funktioner och den strategiska sourcingpartnern. I rollen ansvarar du för att säkerställa stabila och säkra tjänster och för att kontinuerligt utveckla dem utifrån verksamhetens behov, styrningskrav och överenskomna servicenivåer.\n  \n Det här är en roll för dig som trivs i gränslandet mellan verksamhet och teknik. Du arbetar främst strategiskt med att fånga behov och omsätta dem i krav, prioriteringar, roadmaps och aktiviteter. Samtidigt behöver du vara beredd att bidra i operativa frågor och incidenter, exempelvis i samband med rotorsaksanalyser. En viktig del blir också att skapa relevanta forum och bygga community, framför allt inom utvecklingsområdet.\n  \n Du rapporterar till Business System Manager.\n  \n TMHE satsar stort på R&D, vilket innebär ökade krav på plattformarna som stödjer utvecklingsverksamheten. Du får en betydelsefull roll i att skapa förtroende för IT och bidra till verksamhetens utveckling genom dialog, förankring och tydlig kommunikation.\n  \n Dina huvudsakliga arbetsuppgifter är att:\n  Ansvara för den dagliga tjänsteleveransen och driva kontinuerliga förbättringar inom moln- och utvecklingsområdet.\n Arbeta strategiskt men även bidra i operativa frågor och incidenter, exempelvis rotorsaksanalyser.\n Bygga upp ett community, främst inom utvecklingsområdet, för att överbrygga gap, fånga behov och stärka kravinsamlingen.\n Ta fram och förvalta roadmap för ansvarsområdet.\n Omsätta krav i planer, prioriteringar och konkreta aktiviteter.\n Självständigt formulera vägen framåt och presentera förslag till prioriteringar för rekryterande chef.\n Vidareutveckla befintliga övergripande roadmaps för teknikskiften genom ökad input från verksamheten och tydligare forum för användare och interna kunder.\n Leda governance-möten med tekniska team och andra relevanta parter.\n Säkerställa stabila, säkra och ändamålsenliga tjänster som uppfyller verksamhetens behov, styrningskrav och överenskomna servicenivåer.\n Driva nya lösningar från initial idé och kravanalys till prioritering, implementering och förvaltning.\n Samverka med verksamhetsintressenter, interna IS/IT-funktioner och strategiska partners i kravarbete, problemlösning och uppföljning.\nAnsvara för regelbunden uppföljning av leverans, åtaganden och budget inom området.\n\n\n\n\n\nDin profil\n \nFör att lyckas i rollen ser vi att du är positiv, strukturerad och proaktiv. Du trivs med att arbeta självständigt och tar ansvar för både framdrift och prioriteringar. Samtidigt behöver du uppskatta samarbete över team- och organisationsgränser. Du kommunicerar tydligt och professionellt och har förmågan att skapa förtroende hos olika typer av intressenter. \n\nSkallkrav\n  Kandidatexamen inom IT eller annan relevant akademisk utbildning, alternativt motsvarande kompetens förvärvad genom arbetslivserfarenhet.\n Minst fem års praktisk erfarenhet av infrastrukturbaserade molntjänster i, eller levererade till, större IT-miljöer.Erfarenhet av samverkan med verksamhetsintressenter, interna IT-funktioner samt externa strategiska partners eller leverantörer, med fokus på kravställning och uppföljning av leverans.\n God förståelse för mjukvaruutveckling och arkitektur i större organisationers IT-miljöer, exempelvis förvärvad genom att ha lett utvecklingsteam. Förståelse för relevanta verktyg och metodiker för att kunna föra en kvalificerad dialog med utvecklingsverksamheten.\n God förståelse för Infrastructure as Code (IaC) och hur automatisering och standardisering skapar skalbara, enhetliga och tillförlitliga molnplattformar. \n Förmåga att planera roadmap, koordinera och prioritera aktiviteter samt följa upp leverans och budget.\n God kommunikativ förmåga och vana att skapa förtroende hos intressenter på olika nivåer i organisationen.\n Mycket god engelska i tal och skrift.\n God svenska i tal och skrift.\n  \n\n\n\nAnsök redan idag!\n\nAnsökan \nFör frågor gällande tjänsten eller rekryteringsprocessen vänligen kontakta ansvarig rekryteringskonsult nedan.\n  Vi kommer i urvalet att nyttja arbetspsykologiska tester. Du kommer också att tidigt i urvalet få del av och svara på hur du anser dig möta de skallkrav och meriterande aspekter som finns för tjänsten avseende utbildning, erfarenhet och kunskap. Vårt fokus kommer i ett första läge vara skallkraven och din personliga potential. Senare i urvalet kommer personliga intervjuer med både oss och kund samt referenstagning och bakgrundskontroll ske.  Sök tjänsten genom att klicka på ”ansök” och registrera dig i vår databas, detta för att följa riktlinjerna som gäller för GDPR.  Peter Undén, 070-340 81 41, peter.unden@unikresurs.se Karolin Loström, 072-147 92 36, karolin.lostrom@unikresurs.se Jessica Ferm, 070-410 63 91, jessica.ferm@unikresurs.se",
-      "text_formatted": "<p><strong>Företagspresentation</strong></p><p> Toyota Material Handling Europe (TMHE) är en ledande aktör inom materialhantering med närvaro i över 30 europeiska länder. TMHE erbjuder ett brett spektrum av produkter och tjänster – från manuella till automatiserade lösningar – och strävar efter att leverera kvalitet, innovation och kundanpassning. Kulturen genomsyras av engagemang, öppenhet, stabilitet och utvecklingsfokus – med ett tydligt internationellt samarbete och ett arbetsklimat präglat av hög vilja. IS/IT-organisationen omfattar ett 90-tal i Mjölby och ansvarar, tillsammans med vår outsourcing partner, för support, drift och vidareutveckling av omkring 300 applikationer varav många är affärskritiska. <p></p></p><p><strong>Arbetsuppgifter och ansvarsområden</strong></p><p> <p><strong>Om rollen</strong></p><p>Som Service Manager Cloud and Development får du ett end-to-end-ansvar för tjänster inom privata datacenter, Azure-baserade molnmiljöer, utvecklingsplattformar och DevOps. Du blir tjänsteägare och en central kontaktyta mellan verksamhetens intressenter, interna IS/IT-funktioner och den strategiska sourcingpartnern. I rollen ansvarar du för att säkerställa stabila och säkra tjänster och för att kontinuerligt utveckla dem utifrån verksamhetens behov, styrningskrav och överenskomna servicenivåer.</p> <p> </p> <p>Det här är en roll för dig som trivs i gränslandet mellan verksamhet och teknik. Du arbetar främst strategiskt med att fånga behov och omsätta dem i krav, prioriteringar, roadmaps och aktiviteter. Samtidigt behöver du vara beredd att bidra i operativa frågor och incidenter, exempelvis i samband med rotorsaksanalyser. En viktig del blir också att skapa relevanta forum och bygga community, framför allt inom utvecklingsområdet.</p> <p> </p> <p>Du rapporterar till Business System Manager.</p> <p> </p> <p>TMHE satsar stort på R&D, vilket innebär ökade krav på plattformarna som stödjer utvecklingsverksamheten. Du får en betydelsefull roll i att skapa förtroende för IT och bidra till verksamhetens utveckling genom dialog, förankring och tydlig kommunikation.</p> <p> </p> <p><strong>Dina huvudsakliga arbetsuppgifter är att:</strong></p> <ul> <li>Ansvara för den dagliga tjänsteleveransen och driva kontinuerliga förbättringar inom moln- och utvecklingsområdet.</li> <li>Arbeta strategiskt men även bidra i operativa frågor och incidenter, exempelvis rotorsaksanalyser.</li> <li>Bygga upp ett community, främst inom utvecklingsområdet, för att överbrygga gap, fånga behov och stärka kravinsamlingen.</li> <li>Ta fram och förvalta roadmap för ansvarsområdet.</li> <li>Omsätta krav i planer, prioriteringar och konkreta aktiviteter.</li> <li>Självständigt formulera vägen framåt och presentera förslag till prioriteringar för rekryterande chef.</li> <li>Vidareutveckla befintliga övergripande roadmaps för teknikskiften genom ökad input från verksamheten och tydligare forum för användare och interna kunder.</li> <li>Leda governance-möten med tekniska team och andra relevanta parter.</li> <li>Säkerställa stabila, säkra och ändamålsenliga tjänster som uppfyller verksamhetens behov, styrningskrav och överenskomna servicenivåer.</li> <li>Driva nya lösningar från initial idé och kravanalys till prioritering, implementering och förvaltning.</li> <li>Samverka med verksamhetsintressenter, interna IS/IT-funktioner och strategiska partners i kravarbete, problemlösning och uppföljning.</li><li>Ansvara för regelbunden uppföljning av leverans, åtaganden och budget inom området.</p><p></li></ul><p><strong></strong></p><p></p></p><p><strong>Din profil</strong></p><p> <p>För att lyckas i rollen ser vi att du är positiv, strukturerad och proaktiv. Du trivs med att arbeta självständigt och tar ansvar för både framdrift och prioriteringar. Samtidigt behöver du uppskatta samarbete över team- och organisationsgränser. Du kommunicerar tydligt och professionellt och har förmågan att skapa förtroende hos olika typer av intressenter. </p><p></p><p><strong>Skallkrav</strong></p> <ul> <li>Kandidatexamen inom IT eller annan relevant akademisk utbildning, alternativt motsvarande kompetens förvärvad genom arbetslivserfarenhet.</li> <li>Minst fem års praktisk erfarenhet av infrastrukturbaserade molntjänster i, eller levererade till, större IT-miljöer.Erfarenhet av samverkan med verksamhetsintressenter, interna IT-funktioner samt externa strategiska partners eller leverantörer, med fokus på kravställning och uppföljning av leverans.</li> <li>God förståelse för mjukvaruutveckling och arkitektur i större organisationers IT-miljöer, exempelvis förvärvad genom att ha lett utvecklingsteam. Förståelse för relevanta verktyg och metodiker för att kunna föra en kvalificerad dialog med utvecklingsverksamheten.</li> <li>God förståelse för Infrastructure as Code (IaC) och hur automatisering och standardisering skapar skalbara, enhetliga och tillförlitliga molnplattformar. </li> <li>Förmåga att planera roadmap, koordinera och prioritera aktiviteter samt följa upp leverans och budget.</li> <li>God kommunikativ förmåga och vana att skapa förtroende hos intressenter på olika nivåer i organisationen.</li> <li>Mycket god engelska i tal och skrift.</li> <li>God svenska i tal och skrift.<strong></strong></li> </ul> <p><strong></strong></p><p></p></p><p><strong>Ansök redan idag!</strong></p><p><p><strong>Ansökan</strong> </p>För frågor gällande tjänsten eller rekryteringsprocessen vänligen kontakta ansvarig rekryteringskonsult nedan.</p> </p> Vi kommer i urvalet att nyttja arbetspsykologiska tester. Du kommer också att tidigt i urvalet få del av och svara på hur du anser dig möta de skallkrav och meriterande aspekter som finns för tjänsten avseende utbildning, erfarenhet och kunskap. Vårt fokus kommer i ett första läge vara skallkraven och din personliga potential. Senare i urvalet kommer personliga intervjuer med både oss och kund samt referenstagning och bakgrundskontroll ske.</p> </p> Sök tjänsten genom att klicka på ”ansök” och registrera dig i vår databas, detta för att följa riktlinjerna som gäller för GDPR.</p> </p> Peter Undén, 070-340 81 41, peter.unden@unikresurs.se</p> Karolin Loström, 072-147 92 36, karolin.lostrom@unikresurs.se</p> Jessica Ferm, 070-410 63 91, jessica.ferm@unikresurs.se</p> <p></p></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.unikresurs.se/lediga-tjanster/?",
-      "organization_number": "5560525833",
-      "name": "UNIK Resurs i Sverige AB",
-      "workplace": "Unik Resurs i Sverige AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.unikresurs.se/lediga-tjanster/?mtrpage=assignment&mtrt=ams&mtrid=9907",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": [
-      {
-        "concept_id": "VTK8_WRx_GcM",
-        "label": "B",
-        "legacy_ams_taxonomy_id": "3"
-      }
-    ],
-    "occupation": {
-      "concept_id": "mBMU_HvW_LMY",
-      "label": "IT-strateg",
-      "legacy_ams_taxonomy_id": "5432"
-    },
-    "occupation_group": {
-      "concept_id": "UxT1_tPF_Kbg",
-      "label": "Övriga IT-specialister",
-      "legacy_ams_taxonomy_id": "2519"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Mjölby",
-      "municipality_code": "0586",
-      "municipality_concept_id": "stqv_JGB_x8A",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "59535",
-      "city": "Mjölby",
-      "coordinates": [
-        15.10068903789447,
-        58.318143409516274
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Mjölby",
-        "municipality_code": "0586",
-        "municipality_concept_id": "stqv_JGB_x8A",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "59535",
-        "city": "Mjölby",
-        "coordinates": [
-          15.10068903789447,
-          58.318143409516274
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-13T20:24:50",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791915890071
-  },
-  {
-    "relevance": 1,
     "id": "31591709",
     "external_id": null,
     "original_id": null,
@@ -29954,156 +29660,6 @@
     "removed_date": null,
     "source_type": "VIA_ANNONSERA",
     "timestamp": 1791901555655
-  },
-  {
-    "relevance": 1,
-    "id": "31591345",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31591345",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560525833/logotyper/logo.png",
-    "headline": "Enterprise Architect AI & Data",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Företagspresentation\n Toyota Material Handling Europe (TMHE) är en ledande aktör inom materialhantering med närvaro i över 30 europeiska länder. TMHE erbjuder ett brett spektrum av produkter och tjänster – från manuella till automatiserade lösningar – och strävar efter att leverera kvalitet, innovation och kundanpassning. Kulturen genomsyras av engagemang, öppenhet, stabilitet och utvecklingsfokus – med ett tydligt internationellt samarbete och ett arbetsklimat präglat av hög vilja. IS/IT-organisationen omfattar ett 90-tal i Mjölby och ansvarar, tillsammans med vår outsourcing partner, för support, drift och vidareutveckling av omkring 300 applikationer varav många är affärskritiska. \n\n\nArbetsuppgifter och ansvarsområden\n \nOm rollen\n TMHE söker en strategisk Enterprise Architect med fokus på AI och data. Rollen har en central position i arbetet med att forma riktning, principer, målarkitektur och styrande ramar för en skalbar, harmoniserad och affärsnära utveckling inom AI och data. Du skapar samsyn mellan verksamheten, AI-initiativ, dataplattformar och den övergripande Enterprise Architecture-modellen samt bidrar med vägledning och beslutsunderlag i relevanta styrnings- och investeringsforum.\n\nDu rapporterar till Head of Enterprise Architecture och blir en del av TMHE:s Enterprise Architecture-team.\n\nArbetsuppgifter\n Rollen är strategisk och innebär inte att du själv implementerar datapipelines eller AI-modeller. Ditt uppdrag är i stället att skapa samsyn, ge struktur och riktning samt stödja arkitektur- och investeringsbeslut i nära samarbete med AI-programmet, Data-teamet, Solution Architects och verksamhetens intressenter.\n\n Bidra till och forma övergripande arkitekturprinciper, målbilder och referensmönster för AI och data.\n Driva riktningen för informations- och dataarkitektur, inklusive datadomäner, informationsstruktur, interoperabilitet och modeller för dataägarskap.\n Säkerställa samstämmighet mellan verksamhetsbehov, AI-initiativ, dataplattformar och TMHE:s samlade Enterprise Architecture-modell.\n Översätta verksamhets- och transformationsbehov till arkitekturell vägledning och beslutsunderlag i relevanta styrnings- och investeringsforum.\n Samverka med AI-programmet, Data-teamet, Solution Architects, CISO och Legal för att stödja skalbara, säkra och regelefterlevande lösningar.\n Stödja verksamhetsområden i att utforska och skala datadrivna och AI-baserade förmågor.\nBidra till arkitekturstyrning och arkitekturgranskningar ur ett AI- och dataperspektiv.\nStärka organisationens arkitekturella förståelse, arbetssätt och mognad.\n\n  \n\n\n\nDin profil\n\n\n Din profil\n Du är en strukturerad, kommunikativ och proaktiv person som motiveras av att skapa tydlighet och riktning i komplexa miljöer. Du är nyfiken, samarbetsorienterad och trygg i att ta ledning när situationen kräver det. För att lyckas i rollen behöver du kunna se helheten, koppla samman olika perspektiv och omsätta strategiska ambitioner till praktisk vägledning. Du bygger förtroende genom ett pedagogiskt och prestigelöst arbetssätt och trivs i en miljö där frihet under ansvar är en naturlig del av vardagen. \n\nSkallkrav\n Du behöver inte vara den djupaste specialisten inom samtliga områden, men du ska ha förmåga att förena verksamhets-, data-, AI-, säkerhets- och arkitekturperspektiv till en sammanhållen riktning.\n\n Relevant akademisk examen, alternativt en lång erfarenhet som kompenserar detta.\nBred och dokumenterad erfarenhet av Enterprise Architecture eller närliggande strategiska arkitekturroller.\nErfarenhet av att arbeta med verksamhetsintressenter, leda strukturerade dialoger och omsätta behov till arkitekturell vägledning och beslutsunderlag.\nErfarenhet av arbete i datadrivna miljöer där data- och AI-förmågor påverkar verksamhetsprocesser, styrning och regelefterlevnad (exempelvis EU:s AI Act).\nGod förståelse för datadriven arkitektur samt för hur processer, data, applikationer och plattformar samverkar för att skapa affärsvärde.\nGod kommunikativ förmåga och vana av att förklara komplexa frågor tydligt och pragmatiskt samt påverka och skapa förtroende hos intressenter på olika nivåer.\nFörmåga och intresse att vägleda, utbilda och bygga arkitekturell mognad i organisationen.\nFlytande engelska i tal och skrift.\n  \n\n\n\nAnsök redan idag!\n\n\n Ansökan\n För frågor gällande tjänsten eller rekryteringsprocessen vänligen kontakta ansvarig rekryteringskonsult nedan.\n\nVi kommer i urvalet att nyttja arbetspsykologiska tester. Du kommer också att tidigt i urvalet få del av och svara på hur du anser dig möta de skallkrav och meriterande aspekter som finns för tjänsten avseende utbildning, erfarenhet och kunskap. Vårt fokus kommer i ett första läge vara skallkraven och din personliga potential. Senare i urvalet sker personliga intervjuer med både oss och kund samt referenstagning och bakgrundskontroll.\n \nSök tjänsten genom att klicka på ”ansök” och registrera dig i vår databas, detta för att följa riktlinjerna som gäller för GDPR.\n  \n Peter Undén, 070-340 81 41, peter.unden@unikresurs.se\n Karolin Loström, 072-147 92 36, karolin.lostrom@unikresurs.se\n Jessica Ferm, 070-410 63 91, jessica.ferm@unikresurs.se\n \n\nUnik Resurs\n\nVälkommen till Unik Resurs!\nDin partner för kompetenssäkring i med- & motgång\nHos oss är du alltid välkommen att kontakta ansvarig rekryterare om du har frågor eller funderingar kring ett annonserat uppdrag.\nOm inte detta uppdrag passar dig är du välkommen att kontakta oss så kanske vi kan hitta ditt drömjobb tillsammans. Vi känner regionen och vet var du kan göra bäst nytta med din profil.\nLycka till!\n\nRelaterade taggar: #LI-Onsite",
-      "text_formatted": "<p><strong>Företagspresentation</strong></p><p> Toyota Material Handling Europe (TMHE) är en ledande aktör inom materialhantering med närvaro i över 30 europeiska länder. TMHE erbjuder ett brett spektrum av produkter och tjänster – från manuella till automatiserade lösningar – och strävar efter att leverera kvalitet, innovation och kundanpassning. Kulturen genomsyras av engagemang, öppenhet, stabilitet och utvecklingsfokus – med ett tydligt internationellt samarbete och ett arbetsklimat präglat av hög vilja. IS/IT-organisationen omfattar ett 90-tal i Mjölby och ansvarar, tillsammans med vår outsourcing partner, för support, drift och vidareutveckling av omkring 300 applikationer varav många är affärskritiska. <p></p></p><p><strong>Arbetsuppgifter och ansvarsområden</strong></p><p> <p><strong>Om rollen</strong></p> <p>TMHE söker en strategisk Enterprise Architect med fokus på AI och data. Rollen har en central position i arbetet med att forma riktning, principer, målarkitektur och styrande ramar för en skalbar, harmoniserad och affärsnära utveckling inom AI och data. Du skapar samsyn mellan verksamheten, AI-initiativ, dataplattformar och den övergripande Enterprise Architecture-modellen samt bidrar med vägledning och beslutsunderlag i relevanta styrnings- och investeringsforum.</p><p></p><p>Du rapporterar till Head of Enterprise Architecture och blir en del av TMHE:s Enterprise Architecture-team.</p><p></p><p><strong>Arbetsuppgifter</strong></p> <p>Rollen är strategisk och innebär inte att du själv implementerar datapipelines eller AI-modeller. Ditt uppdrag är i stället att skapa samsyn, ge struktur och riktning samt stödja arkitektur- och investeringsbeslut i nära samarbete med AI-programmet, Data-teamet, Solution Architects och verksamhetens intressenter.</p><p></p><ul> <li>Bidra till och forma övergripande arkitekturprinciper, målbilder och referensmönster för AI och data.</li> <li>Driva riktningen för informations- och dataarkitektur, inklusive datadomäner, informationsstruktur, interoperabilitet och modeller för dataägarskap.</li> <li>Säkerställa samstämmighet mellan verksamhetsbehov, AI-initiativ, dataplattformar och TMHE:s samlade Enterprise Architecture-modell.</li> <li>Översätta verksamhets- och transformationsbehov till arkitekturell vägledning och beslutsunderlag i relevanta styrnings- och investeringsforum.</li> <li>Samverka med AI-programmet, Data-teamet, Solution Architects, CISO och Legal för att stödja skalbara, säkra och regelefterlevande lösningar.</li> <li>Stödja verksamhetsområden i att utforska och skala datadrivna och AI-baserade förmågor.</li><li>Bidra till arkitekturstyrning och arkitekturgranskningar ur ett AI- och dataperspektiv.</li><li>Stärka organisationens arkitekturella förståelse, arbetssätt och mognad.</p><p></li> </ul> <p><strong></strong></p><p></p></p><p><strong>Din profil</strong></p><p><p><strong></strong></p> <p><strong>Din profil</strong></p> <p>Du är en strukturerad, kommunikativ och proaktiv person som motiveras av att skapa tydlighet och riktning i komplexa miljöer. Du är nyfiken, samarbetsorienterad och trygg i att ta ledning när situationen kräver det. För att lyckas i rollen behöver du kunna se helheten, koppla samman olika perspektiv och omsätta strategiska ambitioner till praktisk vägledning. Du bygger förtroende genom ett pedagogiskt och prestigelöst arbetssätt och trivs i en miljö där frihet under ansvar är en naturlig del av vardagen. </p><p></p><p><strong>Skallkrav</strong></p> <p>Du behöver inte vara den djupaste specialisten inom samtliga områden, men du ska ha förmåga att förena verksamhets-, data-, AI-, säkerhets- och arkitekturperspektiv till en sammanhållen riktning.</p><p></p><ul> <li>Relevant akademisk examen, alternativt en lång erfarenhet som kompenserar detta.</li><li>Bred och dokumenterad erfarenhet av Enterprise Architecture eller närliggande strategiska arkitekturroller.</li><li>Erfarenhet av att arbeta med verksamhetsintressenter, leda strukturerade dialoger och omsätta behov till arkitekturell vägledning och beslutsunderlag.</li><li>Erfarenhet av arbete i datadrivna miljöer där data- och AI-förmågor påverkar verksamhetsprocesser, styrning och regelefterlevnad (exempelvis EU:s AI Act).</li><li>God förståelse för datadriven arkitektur samt för hur processer, data, applikationer och plattformar samverkar för att skapa affärsvärde.</li><li>God kommunikativ förmåga och vana av att förklara komplexa frågor tydligt och pragmatiskt samt påverka och skapa förtroende hos intressenter på olika nivåer.</li><li>Förmåga och intresse att vägleda, utbilda och bygga arkitekturell mognad i organisationen.</li><li>Flytande engelska i tal och skrift.</li> </ul> <p><strong></p><p></strong></p></p><p><strong>Ansök redan idag!</strong></p><p><p><strong></strong></p> <p><strong>Ansökan</strong></p> <p>För frågor gällande tjänsten eller rekryteringsprocessen vänligen kontakta ansvarig rekryteringskonsult nedan.</p><p></p><p>Vi kommer i urvalet att nyttja arbetspsykologiska tester. Du kommer också att tidigt i urvalet få del av och svara på hur du anser dig möta de skallkrav och meriterande aspekter som finns för tjänsten avseende utbildning, erfarenhet och kunskap. Vårt fokus kommer i ett första läge vara skallkraven och din personliga potential. Senare i urvalet sker personliga intervjuer med både oss och kund samt referenstagning och bakgrundskontroll.</p> <p></p><p>Sök tjänsten genom att klicka på ”ansök” och registrera dig i vår databas, detta för att följa riktlinjerna som gäller för GDPR.</p> <p> </p> <p>Peter Undén, 070-340 81 41, peter.unden@unikresurs.se</p> <p>Karolin Loström, 072-147 92 36, karolin.lostrom@unikresurs.se</p> <p>Jessica Ferm, 070-410 63 91, jessica.ferm@unikresurs.se</p> <p></p></p><p><strong>Unik Resurs</strong></p><p><p><strong>Välkommen till Unik Resurs!</strong></p><p>Din partner för kompetenssäkring i med- & motgång</p><p>Hos oss är du alltid välkommen att kontakta ansvarig rekryterare om du har frågor eller funderingar kring ett annonserat uppdrag.</p><p>Om inte detta uppdrag passar dig är du välkommen att kontakta oss så kanske vi kan hitta ditt drömjobb tillsammans. Vi känner regionen och vet var du kan göra bäst nytta med din profil.</p><p>Lycka till!</p><p></p><p>Relaterade taggar: #LI-Onsite </p></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.unikresurs.se/lediga-tjanster/?",
-      "organization_number": "5560525833",
-      "name": "UNIK Resurs i Sverige AB",
-      "workplace": "Unik Resurs i Sverige AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.unikresurs.se/lediga-tjanster/?mtrpage=assignment&mtrt=ams&mtrid=9905",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": [
-      {
-        "concept_id": "VTK8_WRx_GcM",
-        "label": "B",
-        "legacy_ams_taxonomy_id": "3"
-      }
-    ],
-    "occupation": {
-      "concept_id": "QsNj_UkQ_Hg5",
-      "label": "Enterprise Architect",
-      "legacy_ams_taxonomy_id": "7600"
-    },
-    "occupation_group": {
-      "concept_id": "UXKZ_3zZ_ipB",
-      "label": "Systemanalytiker och IT-arkitekter m.fl.",
-      "legacy_ams_taxonomy_id": "2511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Mjölby",
-      "municipality_code": "0586",
-      "municipality_concept_id": "stqv_JGB_x8A",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "59535",
-      "city": "Mjölby",
-      "coordinates": [
-        15.10068903789447,
-        58.318143409516274
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Mjölby",
-        "municipality_code": "0586",
-        "municipality_concept_id": "stqv_JGB_x8A",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "59535",
-        "city": "Mjölby",
-        "coordinates": [
-          15.10068903789447,
-          58.318143409516274
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-13T15:46:14",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791899174727
   },
   {
     "relevance": 1,
@@ -31047,150 +30603,6 @@
   },
   {
     "relevance": 1,
-    "id": "31582302",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31582302",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5569982167/logotyper/logo.png",
-    "headline": "Onsite-tekniker (80 %) via Barona",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Onsite-tekniker (80 %) via Barona\nDescription\n📍 Plats: Linköping och Motala\n📅 Start: Upplärning sker i början/mitten av november. Startdatum enligt överenskommelse.\nÄr du tekniskt intresserad och trivs med att arbeta självständigt med IT-support? Som Onsite-tekniker via Barona får du möjlighet att arbeta på plats hos två olika kunder inom IT, där du blir en viktig del av den dagliga supporten och bidrar till en välfungerande IT-miljö.\nTjänsten är en 80 %-anställning, där arbetet fördelas mellan två kunduppdrag i Linköping och Motala. Du arbetar självständigt på respektive arbetsplats samtidigt som du har kollegor inom andra funktioner nära till hands.\nOm rollen\nI rollen som Onsite-tekniker ansvarar du för användarsupport på plats och hanterar IT-relaterade ärenden från registrering till lösning via kundernas ärendehanteringssystem.\nDina arbetsuppgifter inkluderar bland annat:\n\nFelsökning och support av datorer, skrivare, telefoner, nätverk och annan kringutrustning\n\nInstallation, konfiguration och uppsättning av ny hårdvara och mjukvara\n\nGrundläggande nätverksfelsökning, exempelvis switchportar, IP-adresser och trådlösa nätverk\n\nSupport och underhåll av konferensrum, AV-utrustning och videokonferenslösningar\n\nDokumentation samt utveckling och förbättring av rutiner och arbetssätt\n\n\nEftersom du arbetar självständigt på respektive site är det viktigt att du känner dig trygg i att felsöka och lösa problem på egen hand. Samtidigt har du förmågan att avgöra när det är lämpligt att involvera andra IT-funktioner för att säkerställa en effektiv lösning.\nVi söker dig som\nHar erfarenhet av IT-support, onsite-support eller annan relevant teknisk bakgrund. Du har god förståelse för datorer, nätverk och kringutrustning.\nFör att lyckas i rollen ser vi att du är:\n\nServiceinriktad och lösningsorienterad\n\nSjälvständig och ansvarstagande\n\nStrukturerad och noggrann\n\nBekväm med att kommunicera med användare på olika tekniska nivåer\n\nDuktig på att prioritera och hantera flera ärenden samtidigt\n\nIntresserad av att utvecklas vidare inom IT\n\n\nDu kommunicerar obehindrat på svenska, både i tal och skrift. Körkort är meriterande.\nArbetstider\nTjänsten omfattar 80 % (32 timmar per vecka) och arbetstiden är fördelad enligt följande:\nMotala\n\nMåndag: 08.00-12.00\n\nTorsdag: 08.00-12.00\n\n\nLinköping\n\nTisdag: 08.00-17.00\n\nOnsdag: 08.00-17.00\n\nFredag: 08.00-17.00\n\n\nVi erbjuder\nSom Onsite-tekniker via Barona får du möjlighet att utvecklas inom IT och samla erfarenhet från två olika kundmiljöer.\nDu erbjuds en varierad arbetsdag som kombinerar användarkontakt, teknisk problemlösning och praktiskt arbete med IT-utrustning. Samtidigt blir du en del av Barona och får möjlighet att arbeta nära våra kunder i professionella IT-miljöer där service, kvalitet och problemlösning står i fokus.\nVälkommen med din ansökan!\nINDTECH\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-      "text_formatted": "<p>Onsite-tekniker (80 %) via Barona</p><p><strong>Description</strong></p><p>📍 Plats: Linköping och Motala</p><p>📅 Start: Upplärning sker i början/mitten av november. Startdatum enligt överenskommelse.</p><p>Är du tekniskt intresserad och trivs med att arbeta självständigt med IT-support? Som Onsite-tekniker via Barona får du möjlighet att arbeta på plats hos två olika kunder inom IT, där du blir en viktig del av den dagliga supporten och bidrar till en välfungerande IT-miljö.</p><p>Tjänsten är en 80 %-anställning, där arbetet fördelas mellan två kunduppdrag i Linköping och Motala. Du arbetar självständigt på respektive arbetsplats samtidigt som du har kollegor inom andra funktioner nära till hands.</p><p><strong>Om rollen</strong></p><p>I rollen som Onsite-tekniker ansvarar du för användarsupport på plats och hanterar IT-relaterade ärenden från registrering till lösning via kundernas ärendehanteringssystem.</p><p><em>Dina arbetsuppgifter inkluderar bland annat:</em></p><ul>\n<li>Felsökning och support av datorer, skrivare, telefoner, nätverk och annan kringutrustning</li>\n<li>Installation, konfiguration och uppsättning av ny hårdvara och mjukvara</li>\n<li>Grundläggande nätverksfelsökning, exempelvis switchportar, IP-adresser och trådlösa nätverk</li>\n<li>Support och underhåll av konferensrum, AV-utrustning och videokonferenslösningar</li>\n<li>Dokumentation samt utveckling och förbättring av rutiner och arbetssätt</li>\n</ul><p>Eftersom du arbetar självständigt på respektive site är det viktigt att du känner dig trygg i att felsöka och lösa problem på egen hand. Samtidigt har du förmågan att avgöra när det är lämpligt att involvera andra IT-funktioner för att säkerställa en effektiv lösning.</p><p><strong>Vi söker dig som</strong></p><p>Har erfarenhet av IT-support, onsite-support eller annan relevant teknisk bakgrund. Du har god förståelse för datorer, nätverk och kringutrustning.</p><p><em>För att lyckas i rollen ser vi att du är:</em></p><ul>\n<li>Serviceinriktad och lösningsorienterad</li>\n<li>Självständig och ansvarstagande</li>\n<li>Strukturerad och noggrann</li>\n<li>Bekväm med att kommunicera med användare på olika tekniska nivåer</li>\n<li>Duktig på att prioritera och hantera flera ärenden samtidigt</li>\n<li>Intresserad av att utvecklas vidare inom IT</li>\n</ul><p>Du kommunicerar obehindrat på svenska, både i tal och skrift. Körkort är meriterande.</p><p><strong>Arbetstider</strong></p><p>Tjänsten omfattar 80 % (32 timmar per vecka) och arbetstiden är fördelad enligt följande:</p><p>Motala</p><ul>\n<li>Måndag: 08.00-12.00</li>\n<li>Torsdag: 08.00-12.00</li>\n</ul><p>Linköping</p><ul>\n<li>Tisdag: 08.00-17.00</li>\n<li>Onsdag: 08.00-17.00</li>\n<li>Fredag: 08.00-17.00</li>\n</ul><p><strong>Vi erbjuder</strong></p><p>Som Onsite-tekniker via Barona får du möjlighet att utvecklas inom IT och samla erfarenhet från två olika kundmiljöer.</p><p>Du erbjuds en varierad arbetsdag som kombinerar användarkontakt, teknisk problemlösning och praktiskt arbete med IT-utrustning. Samtidigt blir du en del av Barona och får möjlighet att arbeta nära våra kunder i professionella IT-miljöer där service, kvalitet och problemlösning står i fokus.</p><p>Välkommen med din ansökan!</p><p>INDTECH</p><p id=\"oppenforalla\">Öppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "1paU_aCR_nGn",
-      "label": "Behovsanställning",
-      "legacy_ams_taxonomy_id": "4"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "working_hours_type": {
-      "concept_id": null,
-      "label": null,
-      "legacy_ams_taxonomy_id": null
-    },
-    "scope_of_work": {
-      "min": null,
-      "max": null
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5569982167",
-      "name": "Barona Professionals AB",
-      "workplace": "Barona Professionals AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.baronacareers.com/se/en/jobs/onsite-tekniker-80-via-barona-barona-professionals-ab-d67a5ab2",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "tdCZ_6Pn_VzT",
-      "label": "IT-tekniker/Datatekniker",
-      "legacy_ams_taxonomy_id": "6625"
-    },
-    "occupation_group": {
-      "concept_id": "13md_uyV_BNG",
-      "label": "Drifttekniker, IT",
-      "legacy_ams_taxonomy_id": "3511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "58278",
-      "city": "Linköping",
-      "coordinates": [
-        15.664678354843966,
-        58.42019600166897
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "58278",
-        "city": "Linköping",
-        "coordinates": [
-          15.664678354843966,
-          58.42019600166897
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-12T09:22:13",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791789733388
-  },
-  {
-    "relevance": 1,
     "id": "31582232",
     "external_id": null,
     "original_id": null,
@@ -31764,150 +31176,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1791552814748
-  },
-  {
-    "relevance": 1,
-    "id": "31575734",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31575734",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2120000456/logotyper/logo.png",
-    "headline": "Linuxspecialist till Digitalisering och IT!",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vilka är vi?\nPå Digitalisering och IT i Norrköpings kommun är vi cirka 110 medarbetare som tillsammans driver kommunens digitala utveckling. Vi arbetar för att hitta moderna och innovativa lösningar som förenklar vardagen för alla som lever, verkar och besöker Norrköping.\nVår Linuxmiljö är en kombinationen av en modern, automatiserad plattform, med stort tekniskt ägarskap och möjligheten att bidra till samhällsviktig IT. Här får du arbeta med teknik som gör verklig skillnad – i en miljö där kvalitet, säkerhet och långsiktig utveckling står i centrum. \n \nVarför välja oss?\nAutomation från grunden. Du tar över en automatiserad plattform, inte ett museum av handkonfigurerade servrar.\nVerkligt tekniskt ägarskap. Du är med och fattar tekniska beslut och har frihet att hitta hållbara lösningar.\nTeknik som spelar roll. Våra plattformar stödjer bland annat skolor, omsorg, vatten och avlopp och andra samhällsviktiga tjänster.\nStabilitet med utvecklingsmöjligheter. Du får tryggheten hos en offentlig arbetsgivare och möjlighet att arbeta med modern teknik i en miljö med höga ambitioner\n\n \nDina arbetsuppgifter\nSom Linuxspecialist får du ett centralt ansvar för drift, utveckling och vidareutveckling av kommunens Linuxplattform. Tillsammans med din Linuxkollega äger du Linuxmiljön, som huvudsakligen består av Debian och Rocky Linux.\nVi använder Ansible för konfigurationshantering och patchning. Vår ambition är tydlig: servrar ska hanteras genom kod och automation, inte genom manuella ändringar som är svåra att följa upp och återskapa.\nDu arbetar både med den dagliga driften och med att förbättra plattformen över tid. Det innebär bland annat att du:\n \nUtvecklar, förbättrar och underhåller Ansible-playbooks och roller.\nSkriver script i Bash och Python för att automatisera arbetsflöden och integrera mot API:er.\nFelsöker komplexa problem genom hela kedjan – från DNS och nätverk till brandväggar och applikationer.\nArbetar systematiskt med patchning, säkerhetshärdning och sårbarhetshantering.\nBidrar till en robust och skalbar infrastruktur med fokus på Infrastructure as Code, standardisering och kvalitet.\nUtvärderar nya tekniker och driver förbättringar av våra arbetssätt och plattformar.\n\n\nDu ingår i ett större driftteam med kompetens inom bland annat Windows och virtualisering. Linuxplattformen har ett gemensamt ägarskap där vi bollar idéer, granskar kod och lösningar och hjälps åt att hitta rätt väg framåt.\nHär får du möjlighet att påverka både hur vi arbetar och hur vår infrastruktur utvecklas.\n \nVem är du?\nDu har ett genuint intresse för Linux, automation och infrastruktur. Du trivs med att förstå hur saker hänger ihop, hitta grundorsaken till problem och bygga lösningar som fungerar över tid. Du vill inte bara hålla systemen igång – du vill göra dem bättre.\nVi söker dig som har en teknisk högskoleutbildning eller motsvarande arbetslivserfarenhet som vi bedömer relevant för tjänsten. Du har flerårig erfarenhet av Linuxdrift i större IT-miljöer och känner dig trygg i arbetet med stabilitet, säkerhet och automatisering.\n \nVi ser att du har erfarenhet av:\nLinuxadministration och drift i större miljöer.\nKonfigurationshantering med exempelvis Ansible, Puppet, SaltStack eller Chef.\nSkriptning i Bash och Python.\nInfrastructure as Code, Configuration as Code och versionshantering med Git.\nGrundläggande nätverk, inklusive DNS, brandväggsregler och nätverkssegmentering.\nVirtualisering och containerisering.\nSystematisk patchning, säkerhetshärdning och sårbarhetshantering\n\n \nDet är meriterande om du även har erfarenhet av:\nDebian- och RHEL-baserade Linuxdistributioner.\nKubernetes och CI/CD-pipelines, GitOps eller liknande arbetssätt.\nÖvervakning och observability med exempelvis Zabbix, OpenTelemetry eller Grafana.\nWebbservrar, proxy och lastbalansering, exempelvis Nginx, Caddy eller F5 BIG-IP.\nDatabaser som PostgreSQL, PostGIS, MariaDB eller MySQL.\nVMware och vCenter.\nSäkerhetsramverk och verktyg som CIS Benchmarks och OpenSCAP.\n\n \nDu är analytisk och lösningsorienterad, med förmåga att se samband, identifiera grundorsaker och hitta hållbara lösningar. Du trivs med att samarbeta och dela kunskap med andra, samtidigt som du har förmåga att se helheten och tänka långsiktigt. Du kommunicerar tydligt och anpassar din kommunikation efter mottagaren för att skapa förståelse och ett gott samarbete. Framför allt drivs du av att bygga plattformar som är säkra, automatiserade och enkla att förvalta och vidareutveckla.\n \nDu behöver inte kunna allt på listan. Vi värdesätter din erfarenhet, din problemlösningsförmåga och din vilja att utveckla både tekniken och arbetssätten. Du behärskar svenska flytande i tal och skrift.\n \nVälkommen med din ansökan!\n \nInformation om tjänsten\n \nAntal lediga tjänster: 1\n \n Anställningsform: Tillsvidareanställning på heltid \n \n Tillträdesdatum: Enligt överenskommelse\n \n Arbetstid: Dag\n \nMöjlighet till distansarbete: Ja, delvis\n \n Sista ansökningsdatum: 6 november\n \n Kontakt: För frågor rörande tjänsten kontakta Enhetschef Anders Hallestig på anders.hallestig@norrkoping.se och för frågor rörande rekryteringsprocessen kontakta HR-konsult Lajla Dzebic på lajla.dzebic@norrkoping.se\n \nÖvrig information: Vi har valt att ta bort det personliga brevet, och ersätta det med urvalsfrågor relevanta för tjänsten. Det gör det lättare att göra en objektiv bedömning av din kompetens. Du skickar in ditt CV som vanligt.\n \nRegisterutdrag: För tjänster inom äldreomsorg, verksamhet för personer med funktionsnedsättning, vuxenutbildning samt verksamhet för barn och ungdomar, ingår kontroll av registerutdrag som en del av rekryteringsprocessen",
-      "text_formatted": "<p><strong><strong>Vilka är vi?</strong></strong></p><p>På Digitalisering och IT i Norrköpings kommun är vi cirka 110 medarbetare som tillsammans driver kommunens digitala utveckling. Vi arbetar för att hitta moderna och innovativa lösningar som förenklar vardagen för alla som lever, verkar och besöker Norrköping.</p><p>Vår Linuxmiljö är en kombinationen av en modern, automatiserad plattform, med stort tekniskt ägarskap och möjligheten att bidra till samhällsviktig IT. Här får du arbeta med teknik som gör verklig skillnad – i en miljö där kvalitet, säkerhet och långsiktig utveckling står i centrum.&nbsp;</p><p>&nbsp;</p><p><strong>Varför välja oss?</strong></p><ul><li><strong>Automation från grunden.</strong> Du tar över en automatiserad plattform, inte ett museum av handkonfigurerade servrar.</li><li><strong>Verkligt tekniskt ägarskap.</strong> Du är med och fattar tekniska beslut och har frihet att hitta hållbara lösningar.</li><li><strong>Teknik som spelar roll.</strong> Våra plattformar stödjer bland annat skolor, omsorg, vatten och avlopp och andra samhällsviktiga tjänster.</li><li><strong>Stabilitet med utvecklingsmöjligheter.</strong> Du får tryggheten hos en offentlig arbetsgivare och möjlighet att arbeta med modern teknik i en miljö med höga ambitioner</li></ul><p>&nbsp;</p><p><strong><strong>Dina arbetsuppgifter</strong></strong></p><p>Som Linuxspecialist får du ett centralt ansvar för drift, utveckling och vidareutveckling av kommunens Linuxplattform. Tillsammans med din Linuxkollega äger du Linuxmiljön, som huvudsakligen består av Debian och Rocky Linux.</p><p>Vi använder Ansible för konfigurationshantering och patchning. Vår ambition är tydlig: servrar ska hanteras genom kod och automation, inte genom manuella ändringar som är svåra att följa upp och återskapa.</p><p>Du arbetar både med den dagliga driften och med att förbättra plattformen över tid. Det innebär bland annat att du:</p><p>&nbsp;</p><ul><li>Utvecklar, förbättrar och underhåller Ansible-playbooks och roller.</li><li>Skriver script i Bash och Python för att automatisera arbetsflöden och integrera mot API:er.</li><li>Felsöker komplexa problem genom hela kedjan – från DNS och nätverk till brandväggar och applikationer.</li><li>Arbetar systematiskt med patchning, säkerhetshärdning och sårbarhetshantering.</li><li>Bidrar till en robust och skalbar infrastruktur med fokus på Infrastructure as Code, standardisering och kvalitet.</li><li>Utvärderar nya tekniker och driver förbättringar av våra arbetssätt och plattformar.</li><li></li></ul><p>Du ingår i ett större driftteam med kompetens inom bland annat Windows och virtualisering. Linuxplattformen har ett gemensamt ägarskap där vi bollar idéer, granskar kod och lösningar och hjälps åt att hitta rätt väg framåt.</p><p>Här får du möjlighet att påverka både hur vi arbetar och hur vår infrastruktur utvecklas.</p><p>&nbsp;</p><p><strong><strong>Vem är du?</strong></strong></p><p>Du har ett genuint intresse för Linux, automation och infrastruktur. Du trivs med att förstå hur saker hänger ihop, hitta grundorsaken till problem och bygga lösningar som fungerar över tid. Du vill inte bara hålla systemen igång – du vill göra dem bättre.</p><p>Vi söker dig som har en teknisk högskoleutbildning eller motsvarande arbetslivserfarenhet som vi bedömer relevant för tjänsten. Du har flerårig erfarenhet av Linuxdrift i större IT-miljöer och känner dig trygg i arbetet med stabilitet, säkerhet och automatisering.</p><p>&nbsp;</p><p>Vi ser att du har erfarenhet av:</p><ul><li>Linuxadministration och drift i större miljöer.</li><li>Konfigurationshantering med exempelvis Ansible, Puppet, SaltStack eller Chef.</li><li>Skriptning i Bash och Python.</li><li>Infrastructure as Code, Configuration as Code och versionshantering med Git.</li><li>Grundläggande nätverk, inklusive DNS, brandväggsregler och nätverkssegmentering.</li><li>Virtualisering och containerisering.</li><li>Systematisk patchning, säkerhetshärdning och sårbarhetshantering</li></ul><p>&nbsp;</p><p>Det är meriterande om du även har erfarenhet av:</p><ul><li>Debian- och RHEL-baserade Linuxdistributioner.</li><li>Kubernetes och CI/CD-pipelines, GitOps eller liknande arbetssätt.</li><li>Övervakning och observability med exempelvis Zabbix, OpenTelemetry eller Grafana.</li><li>Webbservrar, proxy och lastbalansering, exempelvis Nginx, Caddy eller F5 BIG-IP.</li><li>Databaser som PostgreSQL, PostGIS, MariaDB eller MySQL.</li><li>VMware och vCenter.</li><li>Säkerhetsramverk och verktyg som CIS Benchmarks och OpenSCAP.</li></ul><p>&nbsp;</p><p>Du är analytisk och lösningsorienterad, med förmåga att se samband, identifiera grundorsaker och hitta hållbara lösningar. Du trivs med att samarbeta och dela kunskap med andra, samtidigt som du har förmåga att se helheten och tänka långsiktigt. Du kommunicerar tydligt och anpassar din kommunikation efter mottagaren för att skapa förståelse och ett gott samarbete. Framför allt drivs du av att bygga plattformar som är säkra, automatiserade och enkla att förvalta och vidareutveckla.</p><p>&nbsp;</p><p>Du behöver inte kunna allt på listan. Vi värdesätter din erfarenhet, din problemlösningsförmåga och din vilja att utveckla både tekniken och arbetssätten. Du behärskar svenska flytande i tal och skrift.</p><p>&nbsp;</p><p>Välkommen med din ansökan!</p><p>&nbsp;</p><p><strong><strong>Information om tjänsten</strong></strong></p><p><strong>&nbsp;</strong></p><p><strong>Antal lediga tjänster:</strong> 1</p><p>&nbsp;</p><p><strong>&nbsp;Anställningsform:</strong> Tillsvidareanställning på heltid&nbsp;</p><p>&nbsp;</p><p><strong>&nbsp;Tillträdesdatum:</strong> Enligt överenskommelse</p><p>&nbsp;</p><p><strong>&nbsp;Arbetstid:</strong> Dag</p><p>&nbsp;</p><p><strong>Möjlighet till distansarbete:</strong> Ja, delvis</p><p>&nbsp;</p><p><strong>&nbsp;Sista ansökningsdatum:&nbsp;</strong>6 november</p><p>&nbsp;</p><p><strong>&nbsp;Kontakt:</strong> För frågor rörande tjänsten kontakta Enhetschef Anders Hallestig på anders.hallestig@norrkoping.se och för frågor rörande rekryteringsprocessen kontakta HR-konsult Lajla Dzebic på lajla.dzebic@norrkoping.se</p><p>&nbsp;</p><p><strong>Övrig information:</strong> Vi har valt att ta bort det personliga brevet, och ersätta det med urvalsfrågor relevanta för tjänsten. Det gör det lättare att göra en objektiv bedömning av din kompetens. Du skickar in ditt CV som vanligt.</p><p>&nbsp;</p><p><strong>Registerutdrag:</strong> För tjänster inom äldreomsorg, verksamhet för personer med funktionsnedsättning, vuxenutbildning samt verksamhet för barn och ungdomar, ingår kontroll av registerutdrag som en del av rekryteringsprocessen</p><p>&nbsp;</p><p>&nbsp;</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://norrkoping.se/",
-      "organization_number": "2120000456",
-      "name": "Norrköpings kommun",
-      "workplace": "Norrköpings kommun"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://norrkoping.se/jobba-hos-oss/sok-jobb/lediga-jobb?rmpage=job&rmjob=19884&utm_medium=talentech_publishing&utm_source=jobtip",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "60224",
-      "city": "Norrköping",
-      "coordinates": [
-        16.185753107684057,
-        58.59135554156009
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "60224",
-        "city": "Norrköping",
-        "coordinates": [
-          16.185753107684057,
-          58.59135554156009
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-09T09:58:03",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1791970815856
   },
   {
     "relevance": 1,
@@ -32491,157 +31759,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1791447772934
-  },
-  {
-    "relevance": 1,
-    "id": "31565662",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31565662",
-    "logo_url": null,
-    "headline": "Fullstackutecklare till spännade SaaS-Bolag.",
-    "application_deadline": "2026-11-06T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Om tjänsten\nGetDig är ett mjukvaru- och digitalannonseringsföretag som utvecklar en plattform för digital annonsering med flera aktörstyper. Plattformen kopplar samman annonsörer, skärmägare och samarbetspartners och hanterar bland annat kampanjer, digitala skärmar, bokningar, schemaläggning, medieinnehåll, betalningar och administration.\nVi söker nu en Fullstackutvecklare som vill vara med och utveckla och underhålla GetDigs plattform. Rollen innebär arbete med både frontend och backend samt API-utveckling, databaser, systemintegrationer och utveckling av nya funktioner.\nArbetsuppgifter\nUtveckla och underhålla fullstackbaserade webbapplikationer.\nUtveckla funktionalitet för en plattform med flera olika användarroller och behörigheter.\nBygga moderna frontendgränssnitt och backend-API:er.\nArbeta med databaser och applikationsarkitektur.\nUtveckla funktioner för kampanjer, digitala skärmar, bokningar och schemaläggning.\nIntegrera externa API:er och tjänster.\nArbeta med bild- och videomaterial.\nTesta, felsöka och förbättra applikationens prestanda.\nDelta i teknisk design och utveckling av nya mjukvarulösningar.\n\nKvalifikationer\nVi söker dig som har:\nProfessionell erfarenhet av fullstackutveckling.\nGoda kunskaper i JavaScript, TypeScript, React och Next.js.\nErfarenhet av backend- och API-utveckling.\nErfarenhet av PostgreSQL eller annan relationsdatabas.\nKunskap om autentisering, auktorisering och rollbaserad åtkomstkontroll.\nErfarenhet av Git och moderna utvecklingsmetoder.\nGod analytisk förmåga och ett strukturerat sätt att lösa problem.\nGrundläggande kunskaper inom elektronik, exempelvis elektroniska komponenter, digitala system, sensorer samt samspelet mellan hårdvara och mjukvara.\nFörmåga att arbeta självständigt såväl som tillsammans med ett team.\n\nMeriterande erfarenhet\nDet är meriterande om du har erfarenhet av:\nSaaS-plattformar.\nMulti-vendor- eller marketplace-lösningar.\nMolntjänster och cloud-baserade system.\nBetalningsintegrationer.\nDigitala annonseringsplattformar.\nApplikationer som kommunicerar med eller styr hårdvara.\nBild- och videohantering i större system.\n\nVi erbjuder\nGetDig AB erbjuder en heltidsanställning med tillsvidareanställning och en kunkurrenskaftig lön engligt erfaranhet och kompetens.\nHos oss får du möjlighet att arbeta brett inom mjukvaruutveckling och vara delaktig i hela utvecklingskedjan – från frontend och backend till API:er, databaser, integrationer och teknik kopplad till digitala annonseringsskärmar.\nTillträde sker enligt överenskommelse.",
-      "text_formatted": "<p><strong>Om tjänsten</strong></p><p>GetDig är ett mjukvaru- och digitalannonseringsföretag som utvecklar en plattform för digital annonsering med flera aktörstyper. Plattformen kopplar samman annonsörer, skärmägare och samarbetspartners och hanterar bland annat kampanjer, digitala skärmar, bokningar, schemaläggning, medieinnehåll, betalningar och administration.</p><p>Vi söker nu en <strong>Fullstackutvecklare</strong> som vill vara med och utveckla och underhålla GetDigs plattform. Rollen innebär arbete med både frontend och backend samt API-utveckling, databaser, systemintegrationer och utveckling av nya funktioner.</p><p><strong>Arbetsuppgifter</strong></p><ul><li>Utveckla och underhålla fullstackbaserade webbapplikationer.</li><li>Utveckla funktionalitet för en plattform med flera olika användarroller och behörigheter.</li><li>Bygga moderna frontendgränssnitt och backend-API:er.</li><li>Arbeta med databaser och applikationsarkitektur.</li><li>Utveckla funktioner för kampanjer, digitala skärmar, bokningar och schemaläggning.</li><li>Integrera externa API:er och tjänster.</li><li>Arbeta med bild- och videomaterial.</li><li>Testa, felsöka och förbättra applikationens prestanda.</li><li>Delta i teknisk design och utveckling av nya mjukvarulösningar.</li></ul><p><strong>Kvalifikationer</strong></p><p>Vi söker dig som har:</p><ul><li>Professionell erfarenhet av fullstackutveckling.</li><li>Goda kunskaper i <strong>JavaScript, TypeScript, React och Next.js</strong>.</li><li>Erfarenhet av backend- och API-utveckling.</li><li>Erfarenhet av <strong>PostgreSQL</strong> eller annan relationsdatabas.</li><li>Kunskap om autentisering, auktorisering och rollbaserad åtkomstkontroll.</li><li>Erfarenhet av Git och moderna utvecklingsmetoder.</li><li>God analytisk förmåga och ett strukturerat sätt att lösa problem.</li><li>Grundläggande kunskaper inom elektronik, exempelvis elektroniska komponenter, digitala system, sensorer samt samspelet mellan hårdvara och mjukvara.</li><li>Förmåga att arbeta självständigt såväl som tillsammans med ett team.</li></ul><p><strong>Meriterande erfarenhet</strong></p><p>Det är meriterande om du har erfarenhet av:</p><ul><li>SaaS-plattformar.</li><li>Multi-vendor- eller marketplace-lösningar.</li><li>Molntjänster och cloud-baserade system.</li><li>Betalningsintegrationer.</li><li>Digitala annonseringsplattformar.</li><li>Applikationer som kommunicerar med eller styr hårdvara.</li><li>Bild- och videohantering i större system.</li></ul><p><strong>Vi erbjuder</strong></p><p>GetDig AB erbjuder en <strong>heltidsanställning med tillsvidareanställning </strong>och en kunkurrenskaftig lön engligt erfaranhet och kompetens.</p><p>Hos oss får du möjlighet att arbeta brett inom mjukvaruutveckling och vara delaktig i hela utvecklingskedjan – från frontend och backend till API:er, databaser, integrationer och teknik kopplad till digitala annonseringsskärmar.</p><p><strong>Tillträde sker enligt överenskommelse.</strong></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "www.getdig.se",
-      "organization_number": "5592220817",
-      "name": "Getdig AB",
-      "workplace": "Norrköping"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": "info@getdig.se",
-      "via_af": false,
-      "url": "www.getdig.se",
-      "other": "Tar emot ansökningar på mail"
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "71Ji_irM_rSJ",
-      "label": "Fullstack-utvecklare",
-      "legacy_ams_taxonomy_id": "7829"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "60599",
-      "city": "NORRKÖPING",
-      "coordinates": [
-        16.059255553936154,
-        58.66275528305542
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "60599",
-        "city": "NORRKÖPING",
-        "coordinates": [
-          16.059255553936154,
-          58.66275528305542
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "71Ji_irM_rSJ",
-          "label": "Fullstack-utvecklare",
-          "legacy_ams_taxonomy_id": "7829"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-07T12:37:50",
-    "last_publication_date": "2026-11-06T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1791369470789
   },
   {
     "relevance": 1,
@@ -34143,7 +33260,7 @@
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793938809390
+    "timestamp": 1793979308666
   },
   {
     "relevance": 1,
