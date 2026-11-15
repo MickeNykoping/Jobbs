@@ -3189,13 +3189,6 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
@@ -3203,16 +3196,23 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -4545,18 +4545,18 @@
     },
     "application_contacts": [
       {
-        "name": "Moa Almarsson",
-        "description": null,
-        "email": "moa.almarsson@nibe.se",
-        "telephone": "+46433273000",
-        "contact_type": "NIBE Group Webteam Manager"
-      },
-      {
         "name": "Madeleine Johannesson",
         "description": null,
         "email": "madeleine.johannesson@nibe.se",
         "telephone": "+46433273000",
         "contact_type": "HR-Specialist"
+      },
+      {
+        "name": "Moa Almarsson",
+        "description": null,
+        "email": "moa.almarsson@nibe.se",
+        "telephone": "+46433273000",
+        "contact_type": "NIBE Group Webteam Manager"
       }
     ],
     "publication_date": "2026-11-13T07:11:12",
@@ -6899,17 +6899,17 @@
     },
     "application_contacts": [
       {
-        "name": "Ajla Dulic",
-        "description": null,
-        "email": null,
-        "telephone": "010-4850319",
-        "contact_type": null
-      },
-      {
         "name": "Charlott Olsson",
         "description": null,
         "email": "charlott.margareta.olsson@migrationsverket.se",
         "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
+        "name": "Ajla Dulic",
+        "description": null,
+        "email": null,
+        "telephone": "010-4850319",
         "contact_type": null
       }
     ],
@@ -13277,13 +13277,6 @@
     },
     "application_contacts": [
       {
-        "name": "Emelie Ring Grau",
-        "description": null,
-        "email": "emelie.ringgrau@kriminalvarden.se",
-        "telephone": "+46114741315",
-        "contact_type": "Gruppchef"
-      },
-      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
@@ -13303,6 +13296,13 @@
         "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
+      },
+      {
+        "name": "Emelie Ring Grau",
+        "description": null,
+        "email": "emelie.ringgrau@kriminalvarden.se",
+        "telephone": "+46114741315",
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-11-06T14:26:13",
@@ -15106,18 +15106,18 @@
     },
     "application_contacts": [
       {
-        "name": "Emeli Vanhanen",
-        "description": null,
-        "email": "emeli.vanhanen@finspang.se",
-        "telephone": "0122-85498",
-        "contact_type": "HR-konsult"
-      },
-      {
         "name": "Ann-Christin Ahl Vallgren",
         "description": null,
         "email": "ann-christin.ahl-vallgren@finspang.se",
         "telephone": "0122-85423",
         "contact_type": "Ekonomichef och styrningschef"
+      },
+      {
+        "name": "Emeli Vanhanen",
+        "description": null,
+        "email": "emeli.vanhanen@finspang.se",
+        "telephone": "0122-85498",
+        "contact_type": "HR-konsult"
       }
     ],
     "publication_date": "2026-11-06T08:55:35",
@@ -15265,18 +15265,18 @@
     },
     "application_contacts": [
       {
-        "name": "Richard Blagus",
-        "description": null,
-        "email": "richard.blagus@linkoping.se",
-        "telephone": "+4613205695",
-        "contact_type": "Enhetschef IT"
-      },
-      {
         "name": "Elin Rehn",
         "description": null,
         "email": "Elin.Rehn@linkoping.se",
         "telephone": null,
         "contact_type": "HR-konsult"
+      },
+      {
+        "name": "Richard Blagus",
+        "description": null,
+        "email": "richard.blagus@linkoping.se",
+        "telephone": "+4613205695",
+        "contact_type": "Enhetschef IT"
       }
     ],
     "publication_date": "2026-11-06T08:27:11",
@@ -15431,16 +15431,16 @@
         "contact_type": "Tf sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -19416,18 +19416,18 @@
     },
     "application_contacts": [
       {
-        "name": "Cristian Spjuth",
-        "description": null,
-        "email": "cristian.spjuth@trafikverket.se",
-        "telephone": "0101244155",
-        "contact_type": "Rekryterande chef"
-      },
-      {
         "name": "Dick Sandell",
         "description": null,
         "email": "dick.sandell@trafikverket.se",
         "telephone": "0101235896",
         "contact_type": "Operativ ledare"
+      },
+      {
+        "name": "Cristian Spjuth",
+        "description": null,
+        "email": "cristian.spjuth@trafikverket.se",
+        "telephone": "0101244155",
+        "contact_type": "Rekryterande chef"
       }
     ],
     "publication_date": "2026-11-03T08:44:25",
@@ -21126,17 +21126,17 @@
     },
     "application_contacts": [
       {
-        "name": "Roger Newman",
-        "description": null,
-        "email": null,
-        "telephone": "010-4852506",
-        "contact_type": null
-      },
-      {
         "name": "Charlott Olsson",
         "description": null,
         "email": null,
         "telephone": "010-4859186",
+        "contact_type": null
+      },
+      {
+        "name": "Roger Newman",
+        "description": null,
+        "email": null,
+        "telephone": "010-4852506",
         "contact_type": null
       }
     ],
@@ -21444,16 +21444,9 @@
     },
     "application_contacts": [
       {
-        "name": "Karoline Hammarström",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "karoline.hammarstrom@kriminalvarden.se",
-        "telephone": "+46114962579",
-        "contact_type": "Sektionschef"
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -21465,9 +21458,16 @@
         "contact_type": null
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Karoline Hammarström",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
+        "email": "karoline.hammarstrom@kriminalvarden.se",
+        "telephone": "+46114962579",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -26147,13 +26147,6 @@
         "contact_type": null
       },
       {
-        "name": "Gunilla Togan Murad",
-        "description": null,
-        "email": "gunilla.togan.murad@kriminalvarden.se",
-        "telephone": "+46114965297",
-        "contact_type": "Sektionschef"
-      },
-      {
         "name": "Anna-Karin Fällman",
         "description": null,
         "email": "anna-karin.fallman@kriminalvarden.se",
@@ -26161,16 +26154,23 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Gunilla Togan Murad",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "gunilla.togan.murad@kriminalvarden.se",
+        "telephone": "+46114965297",
+        "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -26500,18 +26500,18 @@
         "contact_type": "Sektionschef"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Anna-Karin Fällman",
         "description": null,
         "email": "anna-karin.fallman@kriminalvarden.se",
         "telephone": "+46114741476",
         "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       },
       {
         "name": "Nilla Mölk (OFR/ST)",
@@ -29066,20 +29066,6 @@
         "contact_type": "Systemutvecklare"
       },
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
@@ -29090,6 +29076,20 @@
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -33986,165 +33986,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1792065118133
-  },
-  {
-    "relevance": 1,
-    "id": "31597891",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31597891",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2321000040/logotyper/logo.png",
-    "headline": "Teknisk systemförvaltare",
-    "application_deadline": "2026-11-14T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Bakom varje välfungerande verksamhet finns stabila och säkra IT-lösningar. Som teknisk systemförvaltare hos oss får du en nyckelroll i att utveckla, förvalta och förbättra de system och tjänster som verksamheten är beroende av. Här får du möjlighet att använda din tekniska kompetens där den gör nytta på riktigt – varje dag.\nHar du en hög teknisk kunskap och en stark vilja att se till att tekniken kommer till bra nytta? Vill du göra världen bättre samtidigt som du har kul på jobbet?\nVi behöver utöka vår verksamhet med en teknisk systemförvaltare som vill jobba för att göra skillnad på riktigt, och för livet framåt!\nPå applikationssidan ser vi till att regionens stora och små IT-system är tillgängliga och fungerar. \nI denna roll fokuserar du främst på system vilka hanterar patientnära uppgifter och du jobbar i ett team av tekniska resurser.\nVårt erbjudande\nFör livet framåt. Region Östergötland har höga ambitioner och ett ansvarsfullt uppdrag. Det handlar om hälsa och vård, om vår regions utveckling och om dem som lever och vistas här. Vi vill fortsätta att vara i framkant, med vård, forskning och utbildning. Det handlar om att våga tänka nytt – och att ha de bästa medarbetarna. Därför erbjuder vi unika möjligheter till vidare lärande och satsar på moderna miljöer med effektiva system och verktyg. Många av oss möter patienter och närstående, andra skapar förutsättningarna för livsviktiga insatser. Hos oss jobbar fantastiska människor mot samma mål – att göra skillnad på riktigt, och för livet framåt.\nLäs gärna om dina förmåner hos oss, här hittar du även information om bestämmelser gällande lön och ersättningar.\nArbetsbeskrivning\nSom teknisk systemförvaltare ansvarar du för att våra system är stabila, säkra och fungerar effektivt över tid. Du arbetar med systemens tekniska funktionalitet, systemförbättringar, drift, underhåll, nyinstallationer, uppgraderingar och andra typer av förbättringsarbeten. Du löser ärenden som en del av vår tredje linje och stöttar andra linjen med kunskap, rutiner och dokumentation för att arbeta effektivare. Ett nära samarbete med dina kollegor i teamet är viktigt och du arbetar även med många olika personer och funktioner i våra olika verksamheter inom Region Östergötland. Vidare ingår du i projekt och/eller utredningar för att ständigt förbättra och optimera vårt IT-landskap.\nArbetet sker i nära samarbete med kollegor inom CMIT (Centrum för medicinsk teknik och IT) och med olika verksamheter inom hälso- och sjukvården samt med olika leverantörer. Du deltar även i projekt, tvärfunktionella team och utredningar där du bidrar med teknisk kompetens för att utveckla, förbättra och framtidssäkra vårt IT-landskap.\nDet är krav på erfarenhet av Windows Server samt meriterande gällande SQL och Linux.\nArbetsgrupp\nDu blir en del av ett team med bred teknisk kompetens och ett gemensamt ansvar för drift, förvaltning och utveckling av vår IT-miljö. Gruppen präglas av samarbete, kunskapsutbyte och en vilja att tillsammans hitta lösningar på både vardagliga och mer komplexa tekniska utmaningar.\nVi arbetar nära varandra och delar med oss av erfarenheter och kompetens. Hos oss får du möjlighet att fördjupa dig inom ditt specialistområde samtidigt som du bidrar till helheten och utvecklingen av vår IT-verksamhet.\nOm dig\nDu är en person med erfarenhet inom IT-branschen med inriktning mot IT-drift. Du känner dig trygg i dina tekniska kompetenser men drivs också av att utvecklas och håller dig uppdaterad på ny teknik. Du är en person som har en naturlig problemlösningsförmåga och känner dig trygg i din roll som tekniker. Du är engagerad i ditt arbete, bidrar till en positiv stämning på arbetsplatsen och tycker att det är kul att både arbeta i team såväl som självständigt.\nDå du arbetar med olika personer och funktioner i organisationen så har du en god förmåga att beskriva och presentera komplexa strukturer på ett pedagogiskt sätt. Du är kvalitetsmedveten och lösningsfokuserad vilket märks genom att du planerar, organiserar och prioriterar ditt arbete på ett effektivt sätt för att nå mål och resultat.\nDu är kvalitetsmedveten och tar ansvar för att det du levererar fungerar långsiktigt, inte bara för stunden. Du arbetar strukturerat, har ett öga för detaljer och drivs av att skapa stabila, säkra och hållbara lösningar. Tidigare erfarenhet av tekniskt arbete med vårdnära journalsystem är meriterande. Du har goda kunskaper i svenska och engelska, i både tal och skrift. Tjänsten är OnSite.\nAnsökan och anställning\nInför anställning i ett patientnära arbete inom Region Östergötland kommer du att få fylla i en hälsodeklaration.\nVarmt välkommen in med din ansökan! Om du behöver hjälp med att registrera i systemet, kontakta kundtjänst Stöd och service, 010-103 60 00, under kontorstid.\nTill bemannings-, förmedlings- och rekryteringsföretag och till dig som är försäljare:\nVi undanber oss vänligen men bestämt direktkontakt med bemannings-, förmedlings- och rekryteringsföretag samt andra externa aktörer och försäljare av ytterligare jobbannonser. Region Östergötland har upphandlade avtal.",
-      "text_formatted": "<p><p><em></em></p><p><em>Bakom varje välfungerande verksamhet finns stabila och säkra IT-lösningar. Som teknisk systemförvaltare hos oss får du en nyckelroll i att utveckla, förvalta och förbättra de system och tjänster som verksamheten är beroende av. Här får du möjlighet att använda din tekniska kompetens där den gör nytta på riktigt – varje dag.</em></p><p><em>Har du en hög teknisk kunskap och en stark vilja att se till att tekniken kommer till bra nytta? Vill du göra världen bättre samtidigt som du har kul på jobbet?</em></p><p><em>Vi behöver utöka vår verksamhet med en teknisk systemförvaltare som vill jobba för att göra skillnad på riktigt, och för livet framåt!</em></p><p><em>På applikationssidan ser vi till att regionens stora och små IT-system är tillgängliga och fungerar. </em></p><p><em>I denna roll fokuserar du främst på system vilka hanterar patientnära uppgifter och du jobbar i ett team av tekniska resurser.</em></p><p><strong><strong>Vårt erbjudande</strong></strong></p><p>För livet framåt. Region Östergötland har höga ambitioner och ett ansvarsfullt uppdrag. Det handlar om hälsa och vård, om vår regions utveckling och om dem som lever och vistas här. Vi vill fortsätta att vara i framkant, med vård, forskning och utbildning. Det handlar om att våga tänka nytt – och att ha de bästa medarbetarna. Därför erbjuder vi unika möjligheter till vidare lärande och satsar på moderna miljöer med effektiva system och verktyg. Många av oss möter patienter och närstående, andra skapar förutsättningarna för livsviktiga insatser. Hos oss jobbar fantastiska människor mot samma mål – att göra skillnad på riktigt, och för livet framåt.</p><p>Läs gärna om dina förmåner hos oss, här hittar du även information om bestämmelser gällande lön och ersättningar.</p><p><strong><strong>Arbetsbeskrivning</strong></strong></p><p>Som teknisk systemförvaltare ansvarar du för att våra system är stabila, säkra och fungerar effektivt över tid. Du arbetar med systemens tekniska funktionalitet, systemförbättringar, drift, underhåll, nyinstallationer, uppgraderingar och andra typer av förbättringsarbeten. Du löser ärenden som en del av vår tredje linje och stöttar andra linjen med kunskap, rutiner och dokumentation för att arbeta effektivare. Ett nära samarbete med dina kollegor i teamet är viktigt och du arbetar även med många olika personer och funktioner i våra olika verksamheter inom Region Östergötland. Vidare ingår du i projekt och/eller utredningar för att ständigt förbättra och optimera vårt IT-landskap.</p><p>Arbetet sker i nära samarbete med kollegor inom CMIT (Centrum för medicinsk teknik och IT) och med olika verksamheter inom hälso- och sjukvården samt med olika leverantörer. Du deltar även i projekt, tvärfunktionella team och utredningar där du bidrar med teknisk kompetens för att utveckla, förbättra och framtidssäkra vårt IT-landskap.</p><p>Det är krav på erfarenhet av Windows Server samt meriterande gällande SQL och Linux.</p><p><strong><strong>Arbetsgrupp</strong></strong></p><p>Du blir en del av ett team med bred teknisk kompetens och ett gemensamt ansvar för drift, förvaltning och utveckling av vår IT-miljö. Gruppen präglas av samarbete, kunskapsutbyte och en vilja att tillsammans hitta lösningar på både vardagliga och mer komplexa tekniska utmaningar.</p><p>Vi arbetar nära varandra och delar med oss av erfarenheter och kompetens. Hos oss får du möjlighet att fördjupa dig inom ditt specialistområde samtidigt som du bidrar till helheten och utvecklingen av vår IT-verksamhet.</p><p><strong><strong>Om dig</strong></strong></p><p>Du är en person med erfarenhet inom IT-branschen med inriktning mot IT-drift. Du känner dig trygg i dina tekniska kompetenser men drivs också av att utvecklas och håller dig uppdaterad på ny teknik. Du är en person som har en naturlig problemlösningsförmåga och känner dig trygg i din roll som tekniker. Du är engagerad i ditt arbete, bidrar till en positiv stämning på arbetsplatsen och tycker att det är kul att både arbeta i team såväl som självständigt.</p><p>Då du arbetar med olika personer och funktioner i organisationen så har du en god förmåga att beskriva och presentera komplexa strukturer på ett pedagogiskt sätt. Du är kvalitetsmedveten och lösningsfokuserad vilket märks genom att du planerar, organiserar och prioriterar ditt arbete på ett effektivt sätt för att nå mål och resultat.</p><p>Du är kvalitetsmedveten och tar ansvar för att det du levererar fungerar långsiktigt, inte bara för stunden. Du arbetar strukturerat, har ett öga för detaljer och drivs av att skapa stabila, säkra och hållbara lösningar. Tidigare erfarenhet av tekniskt arbete med vårdnära journalsystem är meriterande. Du har goda kunskaper i svenska och engelska, i både tal och skrift. Tjänsten är OnSite.</p><p><strong><strong>Ansökan och anställning</strong></strong></p><p>Inför anställning i ett patientnära arbete inom Region Östergötland kommer du att få fylla i en hälsodeklaration.</p><p>Varmt välkommen in med din ansökan! Om du behöver hjälp med att registrera i systemet, kontakta kundtjänst Stöd och service, 010-103 60 00, under kontorstid.</p><p><strong>Till bemannings-, förmedlings- och rekryteringsföretag och till dig som är försäljare:</strong></p><p>Vi undanber oss vänligen men bestämt direktkontakt med bemannings-, förmedlings- och rekryteringsföretag samt andra externa aktörer och försäljare av ytterligare jobbannonser. Region Östergötland har upphandlade avtal.</p></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.regionostergotland.se/ro/jobb-och-utbildning/lediga-jobb",
-      "organization_number": "2321000040",
-      "name": "REGION ÖSTERGÖTLAND",
-      "workplace": "Användarnära IT"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://regionostergotland.varbi.com/se/what:job/jobID:979371/type:job/where:125/apply:1",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "nFJR_WkF_ir7",
-      "label": "Systemförvaltare",
-      "legacy_ams_taxonomy_id": "2919"
-    },
-    "occupation_group": {
-      "concept_id": "cBBa_ngH_fCx",
-      "label": "Systemförvaltare m.fl.",
-      "legacy_ams_taxonomy_id": "2515"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Region Östergötland",
-      "postcode": "58191",
-      "city": "Linköping",
-      "coordinates": [
-        15.6226866,
-        58.4200361
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Region Östergötland",
-        "postcode": "58191",
-        "city": "Linköping",
-        "coordinates": [
-          15.6226866,
-          58.4200361
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "nFJR_WkF_ir7",
-          "label": "Systemförvaltare",
-          "legacy_ams_taxonomy_id": "2919"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Carina Engerström",
-        "description": null,
-        "email": "carina.engerstrom@regionostergotland.se",
-        "telephone": "010-1030145",
-        "contact_type": "enhetchef"
-      }
-    ],
-    "publication_date": "2026-10-14T18:04:52",
-    "last_publication_date": "2026-11-14T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1792061901394
   },
   {
     "relevance": 1,
