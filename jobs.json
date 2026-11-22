@@ -930,18 +930,18 @@
     },
     "application_contacts": [
       {
-        "name": "Phoebe   Kennedy",
-        "description": null,
-        "email": "phoebe.kennedy@eskilstuna.se",
-        "telephone": null,
-        "contact_type": "Rekryteringskonsult"
-      },
-      {
         "name": "Mari   Asplund",
         "description": null,
         "email": "mari.asplund5@eskilstuna.se",
         "telephone": null,
         "contact_type": "Biträdande enhetschef"
+      },
+      {
+        "name": "Phoebe   Kennedy",
+        "description": null,
+        "email": "phoebe.kennedy@eskilstuna.se",
+        "telephone": null,
+        "contact_type": "Rekryteringskonsult"
       }
     ],
     "publication_date": "2026-11-13T15:20:11",
@@ -4708,18 +4708,18 @@
     },
     "application_contacts": [
       {
-        "name": "Robert Gideland",
-        "description": null,
-        "email": "robert.gideland@lfv.se",
-        "telephone": null,
-        "contact_type": "Gruppchef"
-      },
-      {
         "name": "Pernilla Melkersson",
         "description": null,
         "email": "pernilla.melkersson@lfv.se",
         "telephone": null,
         "contact_type": "HRBP Rekrytering"
+      },
+      {
+        "name": "Robert Gideland",
+        "description": null,
+        "email": "robert.gideland@lfv.se",
+        "telephone": null,
+        "contact_type": "Gruppchef"
       }
     ],
     "publication_date": "2026-11-20T10:20:37",
@@ -7896,179 +7896,6 @@
   },
   {
     "relevance": 1,
-    "id": "31744786",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31744786",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2021000225/logotyper/logo.png",
-    "headline": "IT-tekniker inom Windows Server",
-    "application_deadline": "2026-12-09T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Om Kriminalvården\nKriminalvården växer – vi bygger nytt, bygger om och bygger till och söker nu fler medarbetare. Vårt viktigaste mål är att minska återfall i brott – att bryta den onda cirkeln. Lyckas vi med det blir samhället tryggare och säkrare för alla. Vi är den myndighet som ansvarar för anstalter, frivård, häkten och klienttransporter.\nVill du vara med och bidra till ett tryggare samhälle? Vår IT-avdelning genomför en stor satsning med fokus på en digital Kriminalvård. Tillsammans jobbar vi för att skapa förutsättningar och lösningar som gör skillnad i vår verksamhet. IT-avdelningen är under stark tillväxt. Vi söker dig som har ett stort IT-intresse, kunskaper och erfarenheter som kan berika vår digitaliseringsresa och som vill vara med och göra skillnad i samhället inom just din profession.\nGruppen Datacenter är ett team som består av en stabil stomme av It-tekniker, systemansvarig och Tekniska Arkitekter. Vi ansvarar för Kriminalvårdens serverlösningar, virtualisering och kringliggande system. Kriminalvården är under växande expansion och vi behöver planera för en miljö som uppfyller både dagens och morgondagens krav.\nSom en del av denna grupp jobbar du med positiva, engagerade och kunniga kollegor som har ett starkt driv att göra ett bra jobb och göra nytta för vår verksamhet. Gruppen jobbar tillsammans med att myndigheten ska ha moderna, användarvänliga och säkra lösningar som underlättar vardagen för vår verksamhet. \nArbetsbeskrivning\nVi söker nu fler nya kollegor för att stärka vårt serverteam i den Windows-baserade delen. Vi tror att du är en skicklig och engagerad It-tekniker som vill stödja och underhålla våra servar och kringliggande stödsystem. Som It-tekniker kommer du att vara ansvarig för att säkerställa att servermiljön fungerar korrekt och effektivt för våra användare. Du kommer att arbeta nära andra teammedlemmar och externa leverantörer för att lösa tekniska problem och implementera förbättringar i systemet.\nKvalifikationer\nVi söker dig som självständigt planerar, organiserar och prioriterar ditt arbete utifrån komplexa frågeställningar. Du har en god analytisk förmåga och identifierar effektiva angreppssätt och lösningar för att nå uppsatta mål med hög kvalitet. Du är serviceinriktad, lyhörd och har en genuin vilja att hjälpa andra. Vidare samarbetar du väl med andra och har förmåga att hantera komplexa problem på ett konstruktivt och lösningsorienterat sätt.\nFör att trivas och lyckas i ditt uppdrag är det viktigt att du delar Kriminalvårdens grundläggande värderingar om en human människosyn, respekt för individen och tron på att människan är utvecklingsbar. Du är även medveten om och har förståelse för hur bakgrund, kultur och grupptillhörighet påverkar dig själv och andra. Vidare förväntas du med ditt förhållningssätt bidra till att alla blir likvärdigt bemötta. Vi lägger stor vikt vid personlig lämplighet.\nVi söker dig som har:\nFullständig gymnasieutbildning alternativt annan utbildning i kombination med arbetslivserfarenhet som Kriminalvården bedömer relevant\nArbete med Microsoft serverplattform\nVMware’s produkter, t.ex ESXi och VMware Vcenter\nArbete med djupare felsökning på mjukvara och hårdvara\nArbetat och konfigurerat SCCM (Sites, collections med mera)\nMycket god kunskap kring SCCM\nGod kunskap om Microsoft serverplattform\nGod kunskap om VMware produkter\nKunskap om behörighetssystem\nKunskap kring IT-säkerhet\nFörmåga att uttrycka dig väl i tal och skrift på svenska och engelska\n\nDet är även meriterande med:\nUtbildning inom IT infrastrukturområden\nProcessdrivet arbete (ITIL\nOlika lagringslösningar\nSäkerhetstekniska frågor\nEnterprise IT-miljöer\nProducera teknisk dokumentation\nServermiljö i Linux\nKunskap om nätverk och kommunikationsteknik\n\nOBS! Intervjuer sker vecka 3.\nÖvrigt\nKriminalvården har valt att ta bort det personliga brevet och ersatt det med urvalsfrågor som är relevanta för tjänsten. Svaren i urvalsfrågorna och CV ligger till grund för om du är kvalificerad att gå vidare i processen.\nFör att bli aktuell för anställning inom Kriminalvården krävs att du motsvarar högt ställda krav gällande lämplighet, omdöme, säkerhets- och sekretessmedvetande och att du följer gällande lagar. Det innebär att du står upp för demokratiska värderingar och den statliga värdegrund som gäller för Kriminalvårdens verksamhet.\nVissa befattningar är placerade i säkerhetsklass och då kommer en säkerhetsprövning med registerkontroll att genomföras innan beslut om anställning fattas. För vissa säkerhetsklassade tjänster krävs svenskt medborgarskap. Kriminalvården välkomnar sökande med olika bakgrund och erfarenheter. Läs mer om säkerhetsprövning här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/sakerhetsprovning-vid-rekrytering/\nBefattningen kan innebära krigsplacering vid Kriminalvården. Läs mer om krigsplacering här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/krigsplacering/\nIndividuell lönesättning tillämpas.\nProvanställning kan komma att tillämpas.\nKriminalvården strävar efter en jämn könsfördelning och ökad mångfald. \nFör att skicka in din ansökan, klicka på ansökningslänken i annonsen. Frågor om hur du ansöker och lägger in ditt CV ställer du direkt till Varbi. Frågor om specifika jobb besvaras av den kontaktperson som anges i annonsen. \nVi undanber oss vänligen men bestämt direktkontakt med bemannings- och rekryteringsföretag samt försäljare av rekryteringsannonser. Kriminalvården har upphandlade avtal.",
-      "text_formatted": "<p><p><strong>Om Kriminalvården</strong></p><p>Kriminalvården växer – vi bygger nytt, bygger om och bygger till och söker nu fler medarbetare. Vårt viktigaste mål är att minska återfall i brott – att bryta den onda cirkeln. Lyckas vi med det blir samhället tryggare och säkrare för alla. Vi är den myndighet som ansvarar för anstalter, frivård, häkten och klienttransporter.</p><p>Vill du vara med och bidra till ett tryggare samhälle? Vår IT-avdelning genomför en stor satsning med fokus på en digital Kriminalvård. Tillsammans jobbar vi för att skapa förutsättningar och lösningar som gör skillnad i vår verksamhet. IT-avdelningen är under stark tillväxt. Vi söker dig som har ett stort IT-intresse, kunskaper och erfarenheter som kan berika vår digitaliseringsresa och som vill vara med och göra skillnad i samhället inom just din profession.</p><p>Gruppen Datacenter är ett team som består av en stabil stomme av It-tekniker, systemansvarig och Tekniska Arkitekter. Vi ansvarar för Kriminalvårdens serverlösningar, virtualisering och kringliggande system. Kriminalvården är under växande expansion och vi behöver planera för en miljö som uppfyller både dagens och morgondagens krav.</p><p>Som en del av denna grupp jobbar du med positiva, engagerade och kunniga kollegor som har ett starkt driv att göra ett bra jobb och göra nytta för vår verksamhet. Gruppen jobbar tillsammans med att myndigheten ska ha moderna, användarvänliga och säkra lösningar som underlättar vardagen för vår verksamhet. </p><p><strong>Arbetsbeskrivning</strong></p><p>Vi söker nu fler nya kollegor för att stärka vårt serverteam i den Windows-baserade delen. Vi tror att du är en skicklig och engagerad It-tekniker som vill stödja och underhålla våra servar och kringliggande stödsystem. Som It-tekniker kommer du att vara ansvarig för att säkerställa att servermiljön fungerar korrekt och effektivt för våra användare. Du kommer att arbeta nära andra teammedlemmar och externa leverantörer för att lösa tekniska problem och implementera förbättringar i systemet.</p><p><strong>Kvalifikationer</strong></p><p>Vi söker dig som självständigt planerar, organiserar och prioriterar ditt arbete utifrån komplexa frågeställningar. Du har en god analytisk förmåga och identifierar effektiva angreppssätt och lösningar för att nå uppsatta mål med hög kvalitet. Du är serviceinriktad, lyhörd och har en genuin vilja att hjälpa andra. Vidare samarbetar du väl med andra och har förmåga att hantera komplexa problem på ett konstruktivt och lösningsorienterat sätt.</p><p>För att trivas och lyckas i ditt uppdrag är det viktigt att du delar Kriminalvårdens grundläggande värderingar om en human människosyn, respekt för individen och tron på att människan är utvecklingsbar. Du är även medveten om och har förståelse för hur bakgrund, kultur och grupptillhörighet påverkar dig själv och andra. Vidare förväntas du med ditt förhållningssätt bidra till att alla blir likvärdigt bemötta. Vi lägger stor vikt vid personlig lämplighet.</p><p><strong>Vi söker dig som har:</strong></p><ul><li>Fullständig gymnasieutbildning alternativt annan utbildning i kombination med arbetslivserfarenhet som Kriminalvården bedömer relevant</li><li>Arbete med Microsoft serverplattform</li><li>VMware’s produkter, t.ex ESXi och VMware Vcenter</li><li>Arbete med djupare felsökning på mjukvara och hårdvara</li><li>Arbetat och konfigurerat SCCM (Sites, collections med mera)</li><li>Mycket god kunskap kring SCCM</li><li>God kunskap om Microsoft serverplattform</li><li>God kunskap om VMware produkter</li><li>Kunskap om behörighetssystem</li><li>Kunskap kring IT-säkerhet</li><li>Förmåga att uttrycka dig väl i tal och skrift på svenska och engelska</li></ul><p><strong>Det är även meriterande med:</strong></p><ul><li>Utbildning inom IT infrastrukturområden</li><li>Processdrivet arbete (ITIL</li><li>Olika lagringslösningar</li><li>Säkerhetstekniska frågor</li><li>Enterprise IT-miljöer</li><li>Producera teknisk dokumentation</li><li>Servermiljö i Linux</li><li>Kunskap om nätverk och kommunikationsteknik</li></ul><p>OBS! Intervjuer sker vecka 3.</p><p><strong>Övrigt</strong></p><p>Kriminalvården har valt att ta bort det personliga brevet och ersatt det med urvalsfrågor som är relevanta för tjänsten. Svaren i urvalsfrågorna och CV ligger till grund för om du är kvalificerad att gå vidare i processen.</p><p>För att bli aktuell för anställning inom Kriminalvården krävs att du motsvarar högt ställda krav gällande lämplighet, omdöme, säkerhets- och sekretessmedvetande och att du följer gällande lagar. Det innebär att du står upp för demokratiska värderingar och den statliga värdegrund som gäller för Kriminalvårdens verksamhet.</p><p>Vissa befattningar är placerade i säkerhetsklass och då kommer en säkerhetsprövning med registerkontroll att genomföras innan beslut om anställning fattas. För vissa säkerhetsklassade tjänster krävs svenskt medborgarskap. Kriminalvården välkomnar sökande med olika bakgrund och erfarenheter. Läs mer om säkerhetsprövning här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/sakerhetsprovning-vid-rekrytering/</p><p>Befattningen kan innebära krigsplacering vid Kriminalvården. Läs mer om krigsplacering här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/krigsplacering/</p><p>Individuell lönesättning tillämpas.</p><p>Provanställning kan komma att tillämpas.</p><p>Kriminalvården strävar efter en jämn könsfördelning och ökad mångfald. </p><p>För att skicka in din ansökan, klicka på ansökningslänken i annonsen. Frågor om hur du ansöker och lägger in ditt CV ställer du direkt till Varbi. Frågor om specifika jobb besvaras av den kontaktperson som anges i annonsen. </p><p>Vi undanber oss vänligen men bestämt direktkontakt med bemannings- och rekryteringsföretag samt försäljare av rekryteringsannonser. Kriminalvården har upphandlade avtal. </p></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "http://kriminalvarden.varbi.com",
-      "organization_number": "2021000225",
-      "name": "Kriminalvården",
-      "workplace": "IT-avdelningen, Enheten för drift och infrastruktur, Gruppen för datacenter"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://kriminalvarden.varbi.com/se/what:job/jobID:990682/type:job/where:125/apply:1",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "tdCZ_6Pn_VzT",
-      "label": "IT-tekniker/Datatekniker",
-      "legacy_ams_taxonomy_id": "6625"
-    },
-    "occupation_group": {
-      "concept_id": "13md_uyV_BNG",
-      "label": "Drifttekniker, IT",
-      "legacy_ams_taxonomy_id": "3511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Slottsgatan 78",
-      "postcode": "60222",
-      "city": "Norrköping",
-      "coordinates": [
-        16.18985666,
-        58.59571223
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Slottsgatan 78",
-        "postcode": "60222",
-        "city": "Norrköping",
-        "coordinates": [
-          16.18985666,
-          58.59571223
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Lieanne Sandelius",
-        "description": null,
-        "email": "lieanne.sandelius@kriminalvarden.se",
-        "telephone": null,
-        "contact_type": "Gruppchef"
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      }
-    ],
-    "publication_date": "2026-11-18T00:00:23",
-    "last_publication_date": "2026-12-09T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1794956423631
-  },
-  {
-    "relevance": 1,
     "id": "31744788",
     "external_id": null,
     "original_id": null,
@@ -8212,9 +8039,182 @@
         "contact_type": null
       },
       {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Lieanne Sandelius",
+        "description": null,
+        "email": "lieanne.sandelius@kriminalvarden.se",
+        "telephone": null,
+        "contact_type": "Gruppchef"
+      }
+    ],
+    "publication_date": "2026-11-18T00:00:23",
+    "last_publication_date": "2026-12-09T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_JOBPOSTING",
+    "timestamp": 1794956423711
+  },
+  {
+    "relevance": 1,
+    "id": "31744786",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31744786",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2021000225/logotyper/logo.png",
+    "headline": "IT-tekniker inom Windows Server",
+    "application_deadline": "2026-12-09T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Om Kriminalvården\nKriminalvården växer – vi bygger nytt, bygger om och bygger till och söker nu fler medarbetare. Vårt viktigaste mål är att minska återfall i brott – att bryta den onda cirkeln. Lyckas vi med det blir samhället tryggare och säkrare för alla. Vi är den myndighet som ansvarar för anstalter, frivård, häkten och klienttransporter.\nVill du vara med och bidra till ett tryggare samhälle? Vår IT-avdelning genomför en stor satsning med fokus på en digital Kriminalvård. Tillsammans jobbar vi för att skapa förutsättningar och lösningar som gör skillnad i vår verksamhet. IT-avdelningen är under stark tillväxt. Vi söker dig som har ett stort IT-intresse, kunskaper och erfarenheter som kan berika vår digitaliseringsresa och som vill vara med och göra skillnad i samhället inom just din profession.\nGruppen Datacenter är ett team som består av en stabil stomme av It-tekniker, systemansvarig och Tekniska Arkitekter. Vi ansvarar för Kriminalvårdens serverlösningar, virtualisering och kringliggande system. Kriminalvården är under växande expansion och vi behöver planera för en miljö som uppfyller både dagens och morgondagens krav.\nSom en del av denna grupp jobbar du med positiva, engagerade och kunniga kollegor som har ett starkt driv att göra ett bra jobb och göra nytta för vår verksamhet. Gruppen jobbar tillsammans med att myndigheten ska ha moderna, användarvänliga och säkra lösningar som underlättar vardagen för vår verksamhet. \nArbetsbeskrivning\nVi söker nu fler nya kollegor för att stärka vårt serverteam i den Windows-baserade delen. Vi tror att du är en skicklig och engagerad It-tekniker som vill stödja och underhålla våra servar och kringliggande stödsystem. Som It-tekniker kommer du att vara ansvarig för att säkerställa att servermiljön fungerar korrekt och effektivt för våra användare. Du kommer att arbeta nära andra teammedlemmar och externa leverantörer för att lösa tekniska problem och implementera förbättringar i systemet.\nKvalifikationer\nVi söker dig som självständigt planerar, organiserar och prioriterar ditt arbete utifrån komplexa frågeställningar. Du har en god analytisk förmåga och identifierar effektiva angreppssätt och lösningar för att nå uppsatta mål med hög kvalitet. Du är serviceinriktad, lyhörd och har en genuin vilja att hjälpa andra. Vidare samarbetar du väl med andra och har förmåga att hantera komplexa problem på ett konstruktivt och lösningsorienterat sätt.\nFör att trivas och lyckas i ditt uppdrag är det viktigt att du delar Kriminalvårdens grundläggande värderingar om en human människosyn, respekt för individen och tron på att människan är utvecklingsbar. Du är även medveten om och har förståelse för hur bakgrund, kultur och grupptillhörighet påverkar dig själv och andra. Vidare förväntas du med ditt förhållningssätt bidra till att alla blir likvärdigt bemötta. Vi lägger stor vikt vid personlig lämplighet.\nVi söker dig som har:\nFullständig gymnasieutbildning alternativt annan utbildning i kombination med arbetslivserfarenhet som Kriminalvården bedömer relevant\nArbete med Microsoft serverplattform\nVMware’s produkter, t.ex ESXi och VMware Vcenter\nArbete med djupare felsökning på mjukvara och hårdvara\nArbetat och konfigurerat SCCM (Sites, collections med mera)\nMycket god kunskap kring SCCM\nGod kunskap om Microsoft serverplattform\nGod kunskap om VMware produkter\nKunskap om behörighetssystem\nKunskap kring IT-säkerhet\nFörmåga att uttrycka dig väl i tal och skrift på svenska och engelska\n\nDet är även meriterande med:\nUtbildning inom IT infrastrukturområden\nProcessdrivet arbete (ITIL\nOlika lagringslösningar\nSäkerhetstekniska frågor\nEnterprise IT-miljöer\nProducera teknisk dokumentation\nServermiljö i Linux\nKunskap om nätverk och kommunikationsteknik\n\nOBS! Intervjuer sker vecka 3.\nÖvrigt\nKriminalvården har valt att ta bort det personliga brevet och ersatt det med urvalsfrågor som är relevanta för tjänsten. Svaren i urvalsfrågorna och CV ligger till grund för om du är kvalificerad att gå vidare i processen.\nFör att bli aktuell för anställning inom Kriminalvården krävs att du motsvarar högt ställda krav gällande lämplighet, omdöme, säkerhets- och sekretessmedvetande och att du följer gällande lagar. Det innebär att du står upp för demokratiska värderingar och den statliga värdegrund som gäller för Kriminalvårdens verksamhet.\nVissa befattningar är placerade i säkerhetsklass och då kommer en säkerhetsprövning med registerkontroll att genomföras innan beslut om anställning fattas. För vissa säkerhetsklassade tjänster krävs svenskt medborgarskap. Kriminalvården välkomnar sökande med olika bakgrund och erfarenheter. Läs mer om säkerhetsprövning här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/sakerhetsprovning-vid-rekrytering/\nBefattningen kan innebära krigsplacering vid Kriminalvården. Läs mer om krigsplacering här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/krigsplacering/\nIndividuell lönesättning tillämpas.\nProvanställning kan komma att tillämpas.\nKriminalvården strävar efter en jämn könsfördelning och ökad mångfald. \nFör att skicka in din ansökan, klicka på ansökningslänken i annonsen. Frågor om hur du ansöker och lägger in ditt CV ställer du direkt till Varbi. Frågor om specifika jobb besvaras av den kontaktperson som anges i annonsen. \nVi undanber oss vänligen men bestämt direktkontakt med bemannings- och rekryteringsföretag samt försäljare av rekryteringsannonser. Kriminalvården har upphandlade avtal.",
+      "text_formatted": "<p><p><strong>Om Kriminalvården</strong></p><p>Kriminalvården växer – vi bygger nytt, bygger om och bygger till och söker nu fler medarbetare. Vårt viktigaste mål är att minska återfall i brott – att bryta den onda cirkeln. Lyckas vi med det blir samhället tryggare och säkrare för alla. Vi är den myndighet som ansvarar för anstalter, frivård, häkten och klienttransporter.</p><p>Vill du vara med och bidra till ett tryggare samhälle? Vår IT-avdelning genomför en stor satsning med fokus på en digital Kriminalvård. Tillsammans jobbar vi för att skapa förutsättningar och lösningar som gör skillnad i vår verksamhet. IT-avdelningen är under stark tillväxt. Vi söker dig som har ett stort IT-intresse, kunskaper och erfarenheter som kan berika vår digitaliseringsresa och som vill vara med och göra skillnad i samhället inom just din profession.</p><p>Gruppen Datacenter är ett team som består av en stabil stomme av It-tekniker, systemansvarig och Tekniska Arkitekter. Vi ansvarar för Kriminalvårdens serverlösningar, virtualisering och kringliggande system. Kriminalvården är under växande expansion och vi behöver planera för en miljö som uppfyller både dagens och morgondagens krav.</p><p>Som en del av denna grupp jobbar du med positiva, engagerade och kunniga kollegor som har ett starkt driv att göra ett bra jobb och göra nytta för vår verksamhet. Gruppen jobbar tillsammans med att myndigheten ska ha moderna, användarvänliga och säkra lösningar som underlättar vardagen för vår verksamhet. </p><p><strong>Arbetsbeskrivning</strong></p><p>Vi söker nu fler nya kollegor för att stärka vårt serverteam i den Windows-baserade delen. Vi tror att du är en skicklig och engagerad It-tekniker som vill stödja och underhålla våra servar och kringliggande stödsystem. Som It-tekniker kommer du att vara ansvarig för att säkerställa att servermiljön fungerar korrekt och effektivt för våra användare. Du kommer att arbeta nära andra teammedlemmar och externa leverantörer för att lösa tekniska problem och implementera förbättringar i systemet.</p><p><strong>Kvalifikationer</strong></p><p>Vi söker dig som självständigt planerar, organiserar och prioriterar ditt arbete utifrån komplexa frågeställningar. Du har en god analytisk förmåga och identifierar effektiva angreppssätt och lösningar för att nå uppsatta mål med hög kvalitet. Du är serviceinriktad, lyhörd och har en genuin vilja att hjälpa andra. Vidare samarbetar du väl med andra och har förmåga att hantera komplexa problem på ett konstruktivt och lösningsorienterat sätt.</p><p>För att trivas och lyckas i ditt uppdrag är det viktigt att du delar Kriminalvårdens grundläggande värderingar om en human människosyn, respekt för individen och tron på att människan är utvecklingsbar. Du är även medveten om och har förståelse för hur bakgrund, kultur och grupptillhörighet påverkar dig själv och andra. Vidare förväntas du med ditt förhållningssätt bidra till att alla blir likvärdigt bemötta. Vi lägger stor vikt vid personlig lämplighet.</p><p><strong>Vi söker dig som har:</strong></p><ul><li>Fullständig gymnasieutbildning alternativt annan utbildning i kombination med arbetslivserfarenhet som Kriminalvården bedömer relevant</li><li>Arbete med Microsoft serverplattform</li><li>VMware’s produkter, t.ex ESXi och VMware Vcenter</li><li>Arbete med djupare felsökning på mjukvara och hårdvara</li><li>Arbetat och konfigurerat SCCM (Sites, collections med mera)</li><li>Mycket god kunskap kring SCCM</li><li>God kunskap om Microsoft serverplattform</li><li>God kunskap om VMware produkter</li><li>Kunskap om behörighetssystem</li><li>Kunskap kring IT-säkerhet</li><li>Förmåga att uttrycka dig väl i tal och skrift på svenska och engelska</li></ul><p><strong>Det är även meriterande med:</strong></p><ul><li>Utbildning inom IT infrastrukturområden</li><li>Processdrivet arbete (ITIL</li><li>Olika lagringslösningar</li><li>Säkerhetstekniska frågor</li><li>Enterprise IT-miljöer</li><li>Producera teknisk dokumentation</li><li>Servermiljö i Linux</li><li>Kunskap om nätverk och kommunikationsteknik</li></ul><p>OBS! Intervjuer sker vecka 3.</p><p><strong>Övrigt</strong></p><p>Kriminalvården har valt att ta bort det personliga brevet och ersatt det med urvalsfrågor som är relevanta för tjänsten. Svaren i urvalsfrågorna och CV ligger till grund för om du är kvalificerad att gå vidare i processen.</p><p>För att bli aktuell för anställning inom Kriminalvården krävs att du motsvarar högt ställda krav gällande lämplighet, omdöme, säkerhets- och sekretessmedvetande och att du följer gällande lagar. Det innebär att du står upp för demokratiska värderingar och den statliga värdegrund som gäller för Kriminalvårdens verksamhet.</p><p>Vissa befattningar är placerade i säkerhetsklass och då kommer en säkerhetsprövning med registerkontroll att genomföras innan beslut om anställning fattas. För vissa säkerhetsklassade tjänster krävs svenskt medborgarskap. Kriminalvården välkomnar sökande med olika bakgrund och erfarenheter. Läs mer om säkerhetsprövning här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/sakerhetsprovning-vid-rekrytering/</p><p>Befattningen kan innebära krigsplacering vid Kriminalvården. Läs mer om krigsplacering här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/krigsplacering/</p><p>Individuell lönesättning tillämpas.</p><p>Provanställning kan komma att tillämpas.</p><p>Kriminalvården strävar efter en jämn könsfördelning och ökad mångfald. </p><p>För att skicka in din ansökan, klicka på ansökningslänken i annonsen. Frågor om hur du ansöker och lägger in ditt CV ställer du direkt till Varbi. Frågor om specifika jobb besvaras av den kontaktperson som anges i annonsen. </p><p>Vi undanber oss vänligen men bestämt direktkontakt med bemannings- och rekryteringsföretag samt försäljare av rekryteringsannonser. Kriminalvården har upphandlade avtal. </p></p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "PFZr_Syz_cUq",
+      "label": "Vanlig anställning",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": "http://kriminalvarden.varbi.com",
+      "organization_number": "2021000225",
+      "name": "Kriminalvården",
+      "workplace": "IT-avdelningen, Enheten för drift och infrastruktur, Gruppen för datacenter"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": null,
+      "via_af": false,
+      "url": "https://kriminalvarden.varbi.com/se/what:job/jobID:990682/type:job/where:125/apply:1",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "tdCZ_6Pn_VzT",
+      "label": "IT-tekniker/Datatekniker",
+      "legacy_ams_taxonomy_id": "6625"
+    },
+    "occupation_group": {
+      "concept_id": "13md_uyV_BNG",
+      "label": "Drifttekniker, IT",
+      "legacy_ams_taxonomy_id": "3511"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": null,
+      "label": null
+    },
+    "workplace_address": {
+      "municipality": "Norrköping",
+      "municipality_code": "0581",
+      "municipality_concept_id": "SYty_Yho_JAF",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": "Slottsgatan 78",
+      "postcode": "60222",
+      "city": "Norrköping",
+      "coordinates": [
+        16.18985666,
+        58.59571223
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Norrköping",
+        "municipality_code": "0581",
+        "municipality_concept_id": "SYty_Yho_JAF",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Slottsgatan 78",
+        "postcode": "60222",
+        "city": "Norrköping",
+        "coordinates": [
+          16.18985666,
+          58.59571223
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -8238,7 +8238,7 @@
     "removed": false,
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1794956423711
+    "timestamp": 1794956423631
   },
   {
     "relevance": 1,
@@ -8378,9 +8378,16 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -8392,16 +8399,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -8551,23 +8551,9 @@
     },
     "application_contacts": [
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Nilla Mölk (OFR/ST)",
         "description": null,
         "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -8577,6 +8563,20 @@
         "email": "lieanne.sandelius@kriminalvarden.se",
         "telephone": null,
         "contact_type": "Gruppchef"
+      },
+      {
+        "name": "Angelica Oxenby (SACO-S)",
+        "description": null,
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-11-18T00:00:21",
@@ -10872,18 +10872,18 @@
     },
     "application_contacts": [
       {
-        "name": "Elin Ånell",
-        "description": null,
-        "email": "elin.anell@liu.se",
-        "telephone": null,
-        "contact_type": "HR-administratör"
-      },
-      {
         "name": "Arne Jönsson",
         "description": null,
         "email": "arne.jonsson@liu.se",
         "telephone": null,
         "contact_type": "Professor emeritus"
+      },
+      {
+        "name": "Elin Ånell",
+        "description": null,
+        "email": "elin.anell@liu.se",
+        "telephone": null,
+        "contact_type": "HR-administratör"
       }
     ],
     "publication_date": "2026-11-17T07:57:22",
@@ -14625,18 +14625,18 @@
     },
     "application_contacts": [
       {
-        "name": "Patricia Hultkrantz",
-        "description": null,
-        "email": "patricia.hultkrantz@regionostergotland.se",
-        "telephone": "010-1037549",
-        "contact_type": "enhetschef"
-      },
-      {
         "name": "Magnus Bark",
         "description": null,
         "email": "magnus.bark@regionostergotland.se",
         "telephone": null,
         "contact_type": null
+      },
+      {
+        "name": "Patricia Hultkrantz",
+        "description": null,
+        "email": "patricia.hultkrantz@regionostergotland.se",
+        "telephone": "010-1037549",
+        "contact_type": "enhetschef"
       }
     ],
     "publication_date": "2026-11-13T15:34:49",
@@ -14942,9 +14942,9 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -14956,18 +14956,18 @@
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
         "name": "Niklas Aapola",
         "description": null,
         "email": "niklas.aapola@kriminalvarden.se",
         "telephone": "0728626891",
         "contact_type": "Sektionschef"
+      },
+      {
+        "name": "Nilla Mölk (OFR/ST)",
+        "description": null,
+        "email": "Nilla.Molk@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-11-13T15:31:06",
@@ -16146,18 +16146,18 @@
     },
     "application_contacts": [
       {
-        "name": "Madeleine Johannesson",
-        "description": null,
-        "email": "madeleine.johannesson@nibe.se",
-        "telephone": "+46433273000",
-        "contact_type": "HR-Specialist"
-      },
-      {
         "name": "Moa Almarsson",
         "description": null,
         "email": "moa.almarsson@nibe.se",
         "telephone": "+46433273000",
         "contact_type": "NIBE Group Webteam Manager"
+      },
+      {
+        "name": "Madeleine Johannesson",
+        "description": null,
+        "email": "madeleine.johannesson@nibe.se",
+        "telephone": "+46433273000",
+        "contact_type": "HR-Specialist"
       }
     ],
     "publication_date": "2026-11-13T07:11:12",
@@ -18971,16 +18971,16 @@
         "contact_type": null
       },
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
       {
-        "name": "Olof Carlstein (SEKO)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -24128,9 +24128,16 @@
     },
     "application_contacts": [
       {
-        "name": "Nilla Mölk (OFR/ST)",
+        "name": "Angelica Oxenby (SACO-S)",
         "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
+        "email": "angelica.oxenby@kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
+      },
+      {
+        "name": "Olof Carlstein (SEKO)",
+        "description": null,
+        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -24142,16 +24149,9 @@
         "contact_type": "Gruppchef"
       },
       {
-        "name": "Angelica Oxenby (SACO-S)",
+        "name": "Nilla Mölk (OFR/ST)",
         "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "email": "Nilla.Molk@kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       }
@@ -30458,16 +30458,16 @@
     },
     "application_contacts": [
       {
+        "name": "Karoline Hammarström",
+        "description": null,
+        "email": "karoline.hammarstrom@kriminalvarden.se",
+        "telephone": "+46114962579",
+        "contact_type": "Sektionschef"
+      },
+      {
         "name": "Angelica Oxenby (SACO-S)",
         "description": null,
         "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
         "telephone": "077-2280800",
         "contact_type": null
       },
@@ -30479,11 +30479,11 @@
         "contact_type": null
       },
       {
-        "name": "Karoline Hammarström",
+        "name": "Olof Carlstein (SEKO)",
         "description": null,
-        "email": "karoline.hammarstrom@kriminalvarden.se",
-        "telephone": "+46114962579",
-        "contact_type": "Sektionschef"
+        "email": "Olof.Carlstein@Kriminalvarden.se",
+        "telephone": "077-2280800",
+        "contact_type": null
       }
     ],
     "publication_date": "2026-11-02T08:27:57",
@@ -35493,540 +35493,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1792756075852
-  },
-  {
-    "relevance": 1,
-    "id": "31632329",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31632329",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566498902/logotyper/logo.png",
-    "headline": "Dokumentation och testning",
-    "application_deadline": "2026-11-21T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Arbetsbeskrivning \nDu kommer att ingå i vår produktorganisation där du deltar i att ta fram vår programvara. Du kommer jobba med publikationer kring våra produkter, allt från produktinformation på nätet, marknadskampanjer till produktmanualen. I rollen ingår även att vara en del att säkerhetsställa kvalité i leveranser. Detta innebär att du kommer testa produkten vilket leder till bättre förståelse och möjligheter att göra manualen bättre.\nDin profil och bakgrund \nI grunden har du lämplig utbildning samt erfarenhet av teknisk dokumentation. Eftersom vi är en internationell produktleverantör är det viktigt att du talar och skriver engelska.\nSom person värdesätter vi att du är noggrann, ansvarstagande, och trivs bra med att arbeta i grupp och kan göra teknisk information lättbegriplig och smakfull. Du är van att planera och slutföra dina egna projekt.\nErfarenhet av verktygen ”Wordpress”och ”Help & Manual” är meriterande.\nOm Ides\nVi är ett modernt företag bestående av trevliga arbetskamrater i trivsamma lokaler. Vårt huvudkontor är centralt beläget i Linköping, bara ett par hundra meter från tågstationen. Vi har också kontor i Västerås, Karlstad, Göteborg och Shanghai, Kina.\nIdes Master concept är vår programvara för skapande och organisering av tekniska anläggningsdata, byggnadsteknisk information och teknisk produktdata under ett projekts alla faser: konstruktion, projektgenomförande, underhåll och framtida driftanalyser.\nIdes expanderar och har en ökad efterfrågan på våra produkter och tjänster. Vi utökar därför vår organisation med flera nya medarbetare.\nHos oss har du stora möjligheter att utvecklas och att påverka såväl dina egna arbetsuppgifter som resultat för företaget.\nVi bedriver IT-utveckling på aktuella plattformar såsom C#, .NET, AutoCAD, Oracle, SQL Server, Maui m.m.\nIntresserad?\nAll kontakt för denna tjänst sker via mejl.\nSkicka in CV och personligt brev till:\njobs@idesglobal.com\nMärk ansökan med “Dokumentation&testning”.\nAnsök snarast då intervjuer sker löpande, tjänsten kan komma att tillsättas före sista ansökningsdatum.\nI denna rekrytering kommer det utföras en bakgrundskontroll på slutkandidaten.\nFör denna tjänst, eller annan vi på Ides rekryterar till, vill vi INTE kontaktas av extern rekryteringsbolag.\nVi tackar för visad hänsyn.",
-      "text_formatted": "<p><strong>Arbetsbeskrivning </strong></p><p>Du kommer att ingå i vår produktorganisation där du deltar i att ta fram vår programvara. Du kommer jobba med publikationer kring våra produkter, allt från produktinformation på nätet, marknadskampanjer till produktmanualen. I rollen ingår även att vara en del att säkerhetsställa kvalité i leveranser. Detta innebär att du kommer testa produkten vilket leder till bättre förståelse och möjligheter att göra manualen bättre.</p><p><strong>Din profil och bakgrund</strong> </p><p>I grunden har du lämplig utbildning samt erfarenhet av teknisk dokumentation. Eftersom vi är en internationell produktleverantör är det viktigt att du talar och skriver engelska.</p><p>Som person värdesätter vi att du är noggrann, ansvarstagande, och trivs bra med att arbeta i grupp och kan göra teknisk information lättbegriplig och smakfull. Du är van att planera och slutföra dina egna projekt.</p><p>Erfarenhet av verktygen ”Wordpress”och ”Help &amp; Manual” är meriterande.</p><p><strong>Om Ides</strong></p><p>Vi är ett modernt företag bestående av trevliga arbetskamrater i trivsamma lokaler. Vårt huvudkontor är centralt beläget i Linköping, bara ett par hundra meter från tågstationen. Vi har också kontor i Västerås, Karlstad, Göteborg och Shanghai, Kina.</p><p>Ides Master concept är vår programvara för skapande och organisering av tekniska anläggningsdata, byggnadsteknisk information och teknisk produktdata under ett projekts alla faser: konstruktion, projektgenomförande, underhåll och framtida driftanalyser.</p><p>Ides expanderar och har en ökad efterfrågan på våra produkter och tjänster. Vi utökar därför vår organisation med flera nya medarbetare.</p><p>Hos oss har du stora möjligheter att utvecklas och att påverka såväl dina egna arbetsuppgifter som resultat för företaget.</p><p>Vi bedriver IT-utveckling på aktuella plattformar såsom C#, .NET, AutoCAD, Oracle, SQL Server, Maui m.m.</p><p><strong>Intresserad?</strong></p><p>All kontakt för denna tjänst sker via mejl.</p><p>Skicka in CV och personligt brev till:</p><p>jobs@idesglobal.com</p><p>Märk ansökan med “Dokumentation&amp;testning”.</p><p>Ansök snarast då intervjuer sker löpande, tjänsten kan komma att tillsättas före sista ansökningsdatum.</p><p>I denna rekrytering kommer det utföras en bakgrundskontroll på slutkandidaten.</p><p><em>För denna tjänst, eller annan vi på Ides rekryterar till, vill vi INTE kontaktas av extern rekryteringsbolag.</em></p><p><em>Vi tackar för visad hänsyn.</em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.idesglobal.com/lediga-jobb/dokumentation-och-testning/",
-      "organization_number": "5566498902",
-      "name": "Ides AB",
-      "workplace": "Ides AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "\"Dokumentation&testning\"",
-      "email": "jobs@idesglobal.com",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "KLOSTERGATAN 12",
-      "postcode": "58223",
-      "city": "LINKÖPING",
-      "coordinates": [
-        15.6213993989228,
-        58.4149338093574
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "KLOSTERGATAN 12",
-        "postcode": "58223",
-        "city": "LINKÖPING",
-        "coordinates": [
-          15.6213993989228,
-          58.4149338093574
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        },
-        {
-          "weight": 10,
-          "concept_id": "NVxJ_hLg_TYS",
-          "label": "Engelska",
-          "legacy_ams_taxonomy_id": "283"
-        }
-      ],
-      "work_experiences": [],
-      "education": [
-        {
-          "weight": 10,
-          "concept_id": "FHxz_HhN_3Mk",
-          "label": "Data",
-          "legacy_ams_taxonomy_id": "14"
-        }
-      ],
-      "education_level": [
-        {
-          "weight": 10,
-          "concept_id": "asZm_TEQ_Srk",
-          "label": "Eftergymnasial utbildning två år eller längre",
-          "legacy_ams_taxonomy_id": "6"
-        }
-      ]
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "fg7B_yov_smw",
-          "label": "Systemutvecklare/Programmerare",
-          "legacy_ams_taxonomy_id": "2419"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-22T14:02:30",
-    "last_publication_date": "2026-11-21T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1792670550676
-  },
-  {
-    "relevance": 1,
-    "id": "31632270",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31632270",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566498902/logotyper/logo.png",
-    "headline": "Systemutvecklare 3D",
-    "application_deadline": "2026-11-21T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Arbetsbeskrivning\n\n\nDu kommer att ingå i vår produktorganisation där du deltar i utveckling av vår programvara.\nDu kommer även att samarbeta med vår projekt- och leveransorganisation i olika kundprojekt.\nDin profil och bakgrund\nDu är civilingenjör, högskoleingenjör eller motsvarande och vi ser gärna att du är i början på din karriär. Du har intresse och erfarenhet inom några av dessa områden:\n• Utveckling i C#\n• Utveckling av Windowsklienter i utvecklingsplattformen .NET\n• Utveckling av 3D verktyg mot Autodesk Revit eller andra AutoDesk produkter\n• Utveckling med erfarenhet av ODA (Open Design Alliance)\n• Erfarenhet av Revit & BIM: Avancerad geometrihantering via Revit API samt integrationer med Autodesk Forma. (ACC)\n• BIM/arkitektur/konstruktion kunskap är meriterande\n• Erfarenhet av Microsoft Visual Studio och Team Foundation Server är meriterande\n• Databasdesign och -programmering mot relationsdatabaser\n\n\nHos oss får du möjligheten att utvecklas och bli en expert inom C#, .NET och Maui. Vi genomför flera interna Coding Dojos och interna utvecklingsdagar där vi tävlar i kreativitet. Allt för att skapa en miljö där vi alla fortsätter att utvecklas till experter inom våra områden.\nVi ser gärna att du är innovativ, gillar problemlösning och trivs bra med att arbeta i grupp. Stor vikt kommer att läggas vid personlig lämplighet. Eftersom vi är en global produktleverantör är det viktigt att du behärskar svenska och engelska, såväl i tal som i skrift.\nOm Ides\nVi är ett modernt företag bestående av trevliga arbetskamrater i trivsamma lokaler. Vårt huvudkontor är centralt beläget i Linköping, bara ett par hundra meter från tågstationen. Vi har också kontor i Västerås, Karlstad, Göteborg och Shanghai, Kina.\nIdes Master concept är vår programvara för skapande och organisering av tekniska anläggningsdata, byggnadsteknisk information och teknisk produktdata under ett projekts alla faser: konstruktion, projektgenomförande, underhåll och framtida driftanalyser.\nIdes expanderar och har en ökad efterfrågan på våra produkter och tjänster. Vi utökar därför vår organisation med flera nya medarbetare.\nHos oss har du stora möjligheter att utvecklas och att påverka såväl dina egna arbetsuppgifter som resultat för företaget.\nVi bedriver IT-utveckling på aktuella plattformar såsom C#, .NET, AutoCAD, Oracle, SQL Server, Maui m.m.\nIntresserad?\nAll kontakt för denna tjänst sker via mejl.\nSkicka in CV och personligt brev till:\njobs@idesglobal.com\nMärk ansökan med “Systemutvecklare3D”.\nAnsök snarast då intervjuer sker löpande, tjänsten kan komma att tillsättas före sista ansökningsdatum.\nI denna rekrytering kommer det utföras en bakgrundskontroll på slutkandidaten.\nFör denna tjänst, eller annan vi på Ides rekryterar till, vill vi INTE kontaktas av extern rekryteringsbolag.\nVi tackar för visad hänsyn.",
-      "text_formatted": "<p><strong>Arbetsbeskrivning</strong></p><p><br></p><p>Du kommer att ingå i vår produktorganisation där du deltar i utveckling av vår programvara.</p><p>Du kommer även att samarbeta med vår projekt- och leveransorganisation i olika kundprojekt.</p><p><strong>Din profil och bakgrund</strong></p><p>Du är civilingenjör, högskoleingenjör eller motsvarande och vi ser gärna att du är i början på din karriär. Du har intresse och erfarenhet inom några av dessa områden:</p><p>• Utveckling i C#</p><p>• Utveckling av Windowsklienter i utvecklingsplattformen .NET</p><p>• Utveckling av 3D verktyg mot Autodesk Revit eller andra AutoDesk produkter</p><p>• Utveckling med erfarenhet av ODA (Open Design Alliance)</p><p>• Erfarenhet av Revit &amp; BIM: Avancerad geometrihantering via Revit API samt integrationer med Autodesk Forma. (ACC)</p><p>• BIM/arkitektur/konstruktion kunskap är meriterande</p><p>• Erfarenhet av Microsoft Visual Studio och Team Foundation Server är meriterande</p><p>• Databasdesign och -programmering mot relationsdatabaser</p><p><br></p><p>Hos oss får du möjligheten att utvecklas och bli en expert inom C#, .NET och Maui. Vi genomför flera interna Coding Dojos och interna utvecklingsdagar där vi tävlar i kreativitet. Allt för att skapa en miljö där vi alla fortsätter att utvecklas till experter inom våra områden.</p><p>Vi ser gärna att du är innovativ, gillar problemlösning och trivs bra med att arbeta i grupp. Stor vikt kommer att läggas vid personlig lämplighet. Eftersom vi är en global produktleverantör är det viktigt att du behärskar svenska och engelska, såväl i tal som i skrift.</p><p><strong>Om Ides</strong></p><p>Vi är ett modernt företag bestående av trevliga arbetskamrater i trivsamma lokaler. Vårt huvudkontor är centralt beläget i Linköping, bara ett par hundra meter från tågstationen. Vi har också kontor i Västerås, Karlstad, Göteborg och Shanghai, Kina.</p><p>Ides Master concept är vår programvara för skapande och organisering av tekniska anläggningsdata, byggnadsteknisk information och teknisk produktdata under ett projekts alla faser: konstruktion, projektgenomförande, underhåll och framtida driftanalyser.</p><p>Ides expanderar och har en ökad efterfrågan på våra produkter och tjänster. Vi utökar därför vår organisation med flera nya medarbetare.</p><p>Hos oss har du stora möjligheter att utvecklas och att påverka såväl dina egna arbetsuppgifter som resultat för företaget.</p><p>Vi bedriver IT-utveckling på aktuella plattformar såsom C#, .NET, AutoCAD, Oracle, SQL Server, Maui m.m.</p><p><strong>Intresserad?</strong></p><p>All kontakt för denna tjänst sker via mejl.</p><p>Skicka in CV och personligt brev till:</p><p>jobs@idesglobal.com</p><p>Märk ansökan med “Systemutvecklare3D”.</p><p>Ansök snarast då intervjuer sker löpande, tjänsten kan komma att tillsättas före sista ansökningsdatum.</p><p>I denna rekrytering kommer det utföras en bakgrundskontroll på slutkandidaten.</p><p><em>För denna tjänst, eller annan vi på Ides rekryterar till, vill vi INTE kontaktas av extern rekryteringsbolag.</em></p><p><em>Vi tackar för visad hänsyn.</em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.idesglobal.com/lediga-jobb/systemutvecklare-3d/",
-      "organization_number": "5566498902",
-      "name": "Ides AB",
-      "workplace": "Ides AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "\"Systemutvecklare3D\"",
-      "email": "jobs@idesglobal.com",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "KLOSTERGATAN 12",
-      "postcode": "58223",
-      "city": "LINKÖPING",
-      "coordinates": [
-        15.6213993989228,
-        58.4149338093574
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "KLOSTERGATAN 12",
-        "postcode": "58223",
-        "city": "LINKÖPING",
-        "coordinates": [
-          15.6213993989228,
-          58.4149338093574
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        },
-        {
-          "weight": 10,
-          "concept_id": "NVxJ_hLg_TYS",
-          "label": "Engelska",
-          "legacy_ams_taxonomy_id": "283"
-        }
-      ],
-      "work_experiences": [],
-      "education": [
-        {
-          "weight": 10,
-          "concept_id": "FHxz_HhN_3Mk",
-          "label": "Data",
-          "legacy_ams_taxonomy_id": "14"
-        }
-      ],
-      "education_level": [
-        {
-          "weight": 10,
-          "concept_id": "asZm_TEQ_Srk",
-          "label": "Eftergymnasial utbildning två år eller längre",
-          "legacy_ams_taxonomy_id": "6"
-        }
-      ]
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "fg7B_yov_smw",
-          "label": "Systemutvecklare/Programmerare",
-          "legacy_ams_taxonomy_id": "2419"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-22T13:56:45",
-    "last_publication_date": "2026-11-21T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1792670650770
-  },
-  {
-    "relevance": 1,
-    "id": "31632219",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31632219",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566498902/logotyper/logo.png",
-    "headline": "Systemutvecklare",
-    "application_deadline": "2026-11-21T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Arbetsbeskrivning\n\n\nDu kommer att ingå i vår produktorganisation där du deltar i utveckling av vår programvara.\nDu kommer även att samarbeta med vår projekt- och leveransorganisation i olika kundprojekt.\nHos oss får du möjligheten att utvecklas och bli en expert inom C#, .NET och Maui. Vi genomför flera interna Coding Dojos och interna utvecklingsdagar där vi tävlar i kreativitet. Allt för att skapa en miljö där vi alla fortsätter att utvecklas till experter inom våra områden.\nDin profil och bakgrund\nDu är civilingenjör, högskoleingenjör eller motsvarande och vi ser gärna att du är i början på din karriär. Du har intresse och erfarenhet inom några av dessa områden:\nUtveckling i C#\nUtveckling av Windowsklienter i utvecklingsplattformen .NET\nUtveckling av appar med MAUI\nErfarenhet av Microsoft Visual Studio och Team Foundation Server är meriterande\nDatabasdesign och -programmering mot relationsdatabaser\n\n\n\nVi ser gärna att du är innovativ, gillar problemlösning och trivs bra med att arbeta i grupp. Stor vikt kommer att läggas vid personlig lämplighet. Eftersom vi är en global produktleverantör är det viktigt att du behärskar svenska och engelska, såväl i tal som i skrift.\nOm Ides\nVi är ett modernt företag bestående av trevliga arbetskamrater i trivsamma lokaler. Vårt huvudkontor är centralt beläget i Linköping, bara ett par hundra meter från tågstationen. Vi har också kontor i Västerås, Karlstad, Göteborg och Shanghai, Kina.\nIdes Master concept är vår programvara för skapande och organisering av tekniska anläggningsdata, byggnadsteknisk information och teknisk produktdata under ett projekts alla faser: konstruktion, projektgenomförande, underhåll och framtida driftanalyser.\nIdes expanderar och har en ökad efterfrågan på våra produkter och tjänster. Vi utökar därför vår organisation med flera nya medarbetare.\nHos oss har du stora möjligheter att utvecklas och att påverka såväl dina egna arbetsuppgifter som resultat för företaget.\nVi bedriver IT-utveckling på aktuella plattformar såsom C#, .NET, AutoCAD, Oracle, SQL Server, Maui m.m.\nIntresserad?\nAll kontakt för denna tjänst sker via mejl.\nSkicka in CV och personligt brev till:\njobs@idesglobal.com\nMärk ansökan med “Systemutvecklare”.\nAnsök snarast då intervjuer sker löpande, tjänsten kan komma att tillsättas före sista ansökningsdatum.\nI denna rekrytering kommer det utföras en bakgrundskontroll på slutkandidaten.\nFör denna tjänst, eller annan vi på Ides rekryterar till, vill vi INTE kontaktas av extern rekryteringsbolag.\nVi tackar för visad hänsyn.",
-      "text_formatted": "<p><strong>Arbetsbeskrivning</strong></p><p><br></p><p>Du kommer att ingå i vår produktorganisation där du deltar i utveckling av vår programvara.</p><p>Du kommer även att samarbeta med vår projekt- och leveransorganisation i olika kundprojekt.</p><p>Hos oss får du möjligheten att utvecklas och bli en expert inom C#, .NET och Maui. Vi genomför flera interna Coding Dojos och interna utvecklingsdagar där vi tävlar i kreativitet. Allt för att skapa en miljö där vi alla fortsätter att utvecklas till experter inom våra områden.</p><p><strong>Din profil och bakgrund</strong></p><p>Du är civilingenjör, högskoleingenjör eller motsvarande och vi ser gärna att du är i början på din karriär. Du har intresse och erfarenhet inom några av dessa områden:</p><ul><li>Utveckling i C#</li><li>Utveckling av Windowsklienter i utvecklingsplattformen .NET</li><li>Utveckling av appar med MAUI</li><li>Erfarenhet av Microsoft Visual Studio och Team Foundation Server är meriterande</li><li>Databasdesign och -programmering mot relationsdatabaser</li></ul><p><br></p><p>Vi ser gärna att du är innovativ, gillar problemlösning och trivs bra med att arbeta i grupp. Stor vikt kommer att läggas vid personlig lämplighet. Eftersom vi är en global produktleverantör är det viktigt att du behärskar svenska och engelska, såväl i tal som i skrift.</p><p>Om Ides</p><p>Vi är ett modernt företag bestående av trevliga arbetskamrater i trivsamma lokaler. Vårt huvudkontor är centralt beläget i Linköping, bara ett par hundra meter från tågstationen. Vi har också kontor i Västerås, Karlstad, Göteborg och Shanghai, Kina.</p><p>Ides Master concept är vår programvara för skapande och organisering av tekniska anläggningsdata, byggnadsteknisk information och teknisk produktdata under ett projekts alla faser: konstruktion, projektgenomförande, underhåll och framtida driftanalyser.</p><p>Ides expanderar och har en ökad efterfrågan på våra produkter och tjänster. Vi utökar därför vår organisation med flera nya medarbetare.</p><p>Hos oss har du stora möjligheter att utvecklas och att påverka såväl dina egna arbetsuppgifter som resultat för företaget.</p><p>Vi bedriver IT-utveckling på aktuella plattformar såsom C#, .NET, AutoCAD, Oracle, SQL Server, Maui m.m.</p><p>Intresserad?</p><p>All kontakt för denna tjänst sker via mejl.</p><p>Skicka in CV och personligt brev till:</p><p>jobs@idesglobal.com</p><p>Märk ansökan med “Systemutvecklare”.</p><p>Ansök snarast då intervjuer sker löpande, tjänsten kan komma att tillsättas före sista ansökningsdatum.</p><p>I denna rekrytering kommer det utföras en bakgrundskontroll på slutkandidaten.</p><p><em>För denna tjänst, eller annan vi på Ides rekryterar till, vill vi INTE kontaktas av extern rekryteringsbolag.</em></p><p><em>Vi tackar för visad hänsyn.</em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://www.idesglobal.com/lediga-jobb/systemutvecklare/",
-      "organization_number": "5566498902",
-      "name": "Ides AB",
-      "workplace": "Ides AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "\"Systemutvecklare\"",
-      "email": "jobs@idesglobal.com",
-      "via_af": false,
-      "url": null,
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "KLOSTERGATAN 12",
-      "postcode": "58223",
-      "city": "LINKÖPING",
-      "coordinates": [
-        15.6213993989228,
-        58.4149338093574
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "KLOSTERGATAN 12",
-        "postcode": "58223",
-        "city": "LINKÖPING",
-        "coordinates": [
-          15.6213993989228,
-          58.4149338093574
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 10,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        },
-        {
-          "weight": 10,
-          "concept_id": "NVxJ_hLg_TYS",
-          "label": "Engelska",
-          "legacy_ams_taxonomy_id": "283"
-        }
-      ],
-      "work_experiences": [],
-      "education": [
-        {
-          "weight": 10,
-          "concept_id": "FHxz_HhN_3Mk",
-          "label": "Data",
-          "legacy_ams_taxonomy_id": "14"
-        }
-      ],
-      "education_level": [
-        {
-          "weight": 10,
-          "concept_id": "asZm_TEQ_Srk",
-          "label": "Eftergymnasial utbildning två år eller längre",
-          "legacy_ams_taxonomy_id": "6"
-        }
-      ]
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "fg7B_yov_smw",
-          "label": "Systemutvecklare/Programmerare",
-          "legacy_ams_taxonomy_id": "2419"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-22T13:50:50",
-    "last_publication_date": "2026-11-21T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1792670245717
   },
   {
     "relevance": 1,
@@ -44386,162 +43852,5 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1780469561185
-  },
-  {
-    "relevance": 1,
-    "id": "31078328",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31078328",
-    "logo_url": null,
-    "headline": "Beräkningsingenjör inom flyg och UAV",
-    "application_deadline": "2026-11-21T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Bygg framtidens teknik med Professional Galaxy AB\nProfessional Galaxy AB är ett IT- och teknikkonsultbolag som tillhandahåller högspecialiserad kompetens inom IT, mjukvaruutveckling, SAP, inköp, elektronik och mekanisk konstruktion. Vi samarbetar med erfarna seniora experter och levererar strategiskt värdeskapande kompetens till komplexa och analytiskt krävande projekt. Vårt fokus ligger alltid på hög kvalitet, professionalism och tydliga, mätbara resultat.\nVi söker nu en beräkningsingenjör till ett spännande uppdrag inom avancerad teknisk produktutveckling. Du blir en del av ett högteknologiskt team som arbetar med strukturanalys och hållfasthet, där din kompetens är central för produktens prestanda och kvalitet.\nOm uppdraget\nI rollen som beräkningsingenjör ansvarar du för att säkerställa att produkter uppfyller krav inom statisk hållfasthet, utmattning och skadetålighet. Du arbetar nära konstruktörer och andra discipliner för att utveckla optimerade designlösningar med hänsyn till vikt, materialval, produktionsmetoder och kostnad.\nDina arbetsuppgifter innefattar bland annat:\n\nSäkerställa hållfasthet och strukturell integritet i produkter\n\n\nUtveckla designlösningar tillsammans med tvärfunktionella team\n\n\nSpecificera och utvärdera verifieringstester\n\n\nIdentifiera och föreslå förbättringar kopplade till funktion, tillverkningsbarhet och kundnytta\n\n\nDelta i konceptstudier och framtagning av designförslag\n\n\nBidra till analyser av underhålls- och reparationsbehov\n\n\nStötta produktion med teknisk problemlösning\n\n\nKrav\n\nMinst 5 års erfarenhet som beräkningsingenjör\n\n\nRelevant högskole- eller universitetsutbildning (t.ex. maskinteknik, teknisk fysik eller liknande)\n\n\nMycket goda kunskaper i svenska och engelska, både i tal och skrift\n\n\nSvenskt medborgarskap (säkerhetsprövning kan krävas)\n\n\nMeriterande\n\nErfarenhet från avancerad strukturanalys och produktutveckling\n\n\nErfarenhet av designoptimering\n\n\nUppdragsinformation\nStartdatum: 2026-06-01 Slutdatum: 2026-12-31 Offerera senast: 2026-05-31 Placeringsort: Linköping (arbete på plats)\nAnsökan\nÄr du rätt person för uppdraget, eller vill du rekommendera en stark kandidat? Tveka inte att ansöka redan idag – urval och intervjuer sker löpande.\nAnsök genom att bifoga ditt CV (vi vill inte ha något personligt brev) och besvara urvalsfrågorna. Frågorna utgår från kravprofilen och ligger till grund för urvalet. Att besvara frågorna är en förutsättning för att ansökan ska anses komplett.\nVänligen notera att alla krav och meriter ska vara uppfyllda vid ansökningstillfället.\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
-      "text_formatted": "<p><strong>Bygg framtidens teknik med Professional Galaxy AB</strong></p><p>Professional Galaxy AB är ett IT- och teknikkonsultbolag som tillhandahåller högspecialiserad kompetens inom IT, mjukvaruutveckling, SAP, inköp, elektronik och mekanisk konstruktion. Vi samarbetar med erfarna seniora experter och levererar strategiskt värdeskapande kompetens till komplexa och analytiskt krävande projekt. Vårt fokus ligger alltid på hög kvalitet, professionalism och tydliga, mätbara resultat.</p><p>Vi söker nu en <strong>beräkningsingenjör</strong> till ett spännande uppdrag inom avancerad teknisk produktutveckling. Du blir en del av ett högteknologiskt team som arbetar med strukturanalys och hållfasthet, där din kompetens är central för produktens prestanda och kvalitet.</p><p><strong>Om uppdraget</strong></p><p>I rollen som beräkningsingenjör ansvarar du för att säkerställa att produkter uppfyller krav inom statisk hållfasthet, utmattning och skadetålighet. Du arbetar nära konstruktörer och andra discipliner för att utveckla optimerade designlösningar med hänsyn till vikt, materialval, produktionsmetoder och kostnad.</p><p><strong>Dina arbetsuppgifter innefattar bland annat:</strong></p><ul><li><p>Säkerställa hållfasthet och strukturell integritet i produkter</p></li><li><p>Utveckla designlösningar tillsammans med tvärfunktionella team</p></li><li><p>Specificera och utvärdera verifieringstester</p></li><li><p>Identifiera och föreslå förbättringar kopplade till funktion, tillverkningsbarhet och kundnytta</p></li><li><p>Delta i konceptstudier och framtagning av designförslag</p></li><li><p>Bidra till analyser av underhålls- och reparationsbehov</p></li><li><p>Stötta produktion med teknisk problemlösning</p></li></ul><p><strong>Krav</strong></p><ul><li><p>Minst 5 års erfarenhet som beräkningsingenjör</p></li><li><p>Relevant högskole- eller universitetsutbildning (t.ex. maskinteknik, teknisk fysik eller liknande)</p></li><li><p>Mycket goda kunskaper i svenska och engelska, både i tal och skrift</p></li><li><p>Svenskt medborgarskap (säkerhetsprövning kan krävas)</p></li></ul><p><strong>Meriterande</strong></p><ul><li><p>Erfarenhet från avancerad strukturanalys och produktutveckling</p></li><li><p>Erfarenhet av designoptimering</p></li></ul><p><strong>Uppdragsinformation</strong></p><p>Startdatum: 2026-06-01 Slutdatum: 2026-12-31 Offerera senast: 2026-05-31 Placeringsort: Linköping (arbete på plats)</p><p><strong>Ansökan</strong></p><p>Är du rätt person för uppdraget, eller vill du rekommendera en stark kandidat? Tveka inte att ansöka redan idag – urval och intervjuer sker löpande.</p><p>Ansök genom att bifoga ditt CV (vi vill inte ha något personligt brev) och besvara urvalsfrågorna. Frågorna utgår från kravprofilen och ligger till grund för urvalet. Att besvara frågorna är en förutsättning för att ansökan ska anses komplett.</p><p>Vänligen notera att alla krav och meriter ska vara uppfyllda vid ansökningstillfället.</p><p></p><p id=\"oppenforalla\">Öppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "qQUd_4qe_NDT",
-      "label": "6 månader eller längre",
-      "legacy_ams_taxonomy_id": "2"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "https://careers.progalaxy.se",
-      "organization_number": "5593660524",
-      "name": "Professional Galaxy AB",
-      "workplace": "Professional Galaxy AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "teamtailor-7685350-2016290",
-      "email": null,
-      "via_af": false,
-      "url": "https://careers.progalaxy.se/jobs/7685350-berakningsingenjor-inom-flyg-och-uav/applications/new?promotion=2016290-arbetsformedlingen",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "tdCZ_6Pn_VzT",
-      "label": "IT-tekniker/Datatekniker",
-      "legacy_ams_taxonomy_id": "6625"
-    },
-    "occupation_group": {
-      "concept_id": "13md_uyV_BNG",
-      "label": "Drifttekniker, IT",
-      "legacy_ams_taxonomy_id": "3511"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Linköping Central Station",
-      "postcode": "58222",
-      "city": "Linköping",
-      "coordinates": [
-        15.623086952934903,
-        58.41293759612985
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Linköping Central Station",
-        "postcode": "58222",
-        "city": "Linköping",
-        "coordinates": [
-          15.623086952934903,
-          58.41293759612985
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [
-        {
-          "weight": 5,
-          "concept_id": "zSLA_vw2_FXN",
-          "label": "Svenska",
-          "legacy_ams_taxonomy_id": "502"
-        },
-        {
-          "weight": 5,
-          "concept_id": "NVxJ_hLg_TYS",
-          "label": "Engelska",
-          "legacy_ams_taxonomy_id": "283"
-        }
-      ],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-05-25T12:54:56",
-    "last_publication_date": "2026-11-21T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1779706496323
   }
 ]
