@@ -297,150 +297,6 @@
   },
   {
     "relevance": 1,
-    "id": "31782686",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31782686",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591302780/logotyper/logo.png",
-    "headline": "ServiceNow-utvecklare AI och App Engine  Eskilstuna",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Soros Consulting AB söker en ServiceNow-utvecklare till en global fordonskoncern i Eskilstuna.\nOm uppdraget\nDu designar och bygger egna applikationer, AI-drivna lösningar och plattformsförmågor i ServiceNow. CV ska skickas på engelska.\nObligatoriska krav\nSamtliga krav behöver kunna styrkas tydligt med beskrivningar och hänvisningar till uppdrag i CV.\nGedigen erfarenhet av ServiceNow\n App Engine Studio\n AI Agents, Now Assist/GenAI och AI Search\n Flow Designer\n REST/SOAP-integrationer\n UI Builder\n SSO och ACL:er\n\nUppdragsinformation\nRoll: ServiceNow-utvecklare\nPlacering: Eskilstuna, på plats\nOmfattning: 100%\nStart: Snarast\nPeriod: Snarast – 2028-03-31\nSista ansökningsdag: 2026-11-27\nHar du frågor om uppdraget? Kontakta oss på jobb@sorosconsulting.se\nOm Soros Consulting\nSoros Consulting arbetar med kvalificerad konsultförmedling inom IT, teknik och verksamhetsutveckling. Vi matchar erfarna specialister med uppdrag där deras kompetens skapar tydliga resultat. Vårt fokus är kvalitet, långsiktighet och att skapa goda förutsättningar både för konsulter och uppdragsgivare genom tydlighet, professionalism och hållbara relationer.\nTveka inte på att skicka in din ansökan redan idag!\nfölj oss på Linkedin för fler jobbmöjligheter:\nHemsida – https://sorosconsulting.se/",
-      "text_formatted": "<p>Soros Consulting AB söker en ServiceNow-utvecklare till en global fordonskoncern i Eskilstuna.</p><p><strong>Om uppdraget</strong></p><p>Du designar och bygger egna applikationer, AI-drivna lösningar och plattformsförmågor i ServiceNow. CV ska skickas på engelska.</p><p><strong>Obligatoriska krav</strong></p><p>Samtliga krav behöver kunna styrkas tydligt med beskrivningar och hänvisningar till uppdrag i CV.</p><ul><li>Gedigen erfarenhet av ServiceNow</li><li> App Engine Studio</li><li> AI Agents, Now Assist/GenAI och AI Search</li><li> Flow Designer</li><li> REST/SOAP-integrationer</li><li> UI Builder</li><li> SSO och ACL:er</li></ul><p><strong>Uppdragsinformation</strong></p><p>Roll: ServiceNow-utvecklare</p><p>Placering: Eskilstuna, på plats</p><p>Omfattning: 100%</p><p>Start: Snarast</p><p>Period: Snarast – 2028-03-31</p><p>Sista ansökningsdag: 2026-11-27</p><p>Har du frågor om uppdraget? Kontakta oss på jobb@sorosconsulting.se</p><p><strong>Om Soros Consulting</strong></p><p>Soros Consulting arbetar med kvalificerad konsultförmedling inom IT, teknik och verksamhetsutveckling. Vi matchar erfarna specialister med uppdrag där deras kompetens skapar tydliga resultat. Vårt fokus är kvalitet, långsiktighet och att skapa goda förutsättningar både för konsulter och uppdragsgivare genom tydlighet, professionalism och hållbara relationer.</p><p>Tveka inte på att skicka in din ansökan redan idag!</p><p><strong>följ oss på Linkedin för fler jobbmöjligheter:</strong></p><p>Hemsida – https://sorosconsulting.se/</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5591302780",
-      "name": "Soros Consulting AB",
-      "workplace": "Soros Consulting AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://sorosconsulting.se/2026/11/26/servicenow-utvecklare-ai-och-app-engine-eskilstuna/",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": null,
-      "city": null,
-      "coordinates": [
-        null,
-        null
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Eskilstuna",
-        "municipality_code": "0484",
-        "municipality_concept_id": "kMxr_NiX_YrU",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": null,
-        "city": null,
-        "coordinates": [
-          null,
-          null
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-26T14:30:35",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1795699835656
-  },
-  {
-    "relevance": 1,
     "id": "31780118",
     "external_id": null,
     "original_id": null,
@@ -1036,158 +892,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1795515224211
-  },
-  {
-    "relevance": 1,
-    "id": "31770527",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31770527",
-    "logo_url": null,
-    "headline": "Två ServiceNow-utvecklare – AI och egna applikationer",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 2,
-    "description": {
-      "text": "Vi söker en senior ServiceNow-utvecklare som vill bygga AI-drivna applikationer, integrationer och smarta arbetsflöden i en global verksamhet.\nVi söker två ServiceNow-utvecklare till likvärdiga uppdrag i Eskilstuna. Du utvecklar egna verksamhetsapplikationer, integrationer och intelligenta arbetsflöden som förbättrar användarnas arbete.\nUppdraget\nBygga och vidareutveckla applikationer i ServiceNow och App Engine Studio.\nSkapa AI-stöd med AI Agents, Now Assist/GenAI och AI Search.\nAutomatisera processer i Flow Designer och utveckla gränssnitt i UI Builder.\nBygga REST/SOAP-integrationer och säkra åtkomst med SSO och ACL.\nSamarbeta med verksamheten för att och leverera förbättringar.\n\nDin kompetens\nErfarenhet av ServiceNow-utveckling och App Engine Studio.\nPraktisk erfarenhet av AI Agents, Now Assist/GenAI och AI Search i ServiceNow.\nErfarenhet av Flow Designer, UI Builder och REST/SOAP.\nKunskap om SSO, ACL och säker åtkomst.\nSvenska och engelska i tal och skrift.\n\nUppdragets period och omfattning\n\n2026-11-30 – 2028-03-31. Två heltidsuppdrag på plats i Eskilstuna med start snarast, angiven period 30 november 2026–31 mars 2028. Svenska och engelska. CV på engelska i Word behövs vid eventuell kundpresentation..\nAnsök senast 2026-11-27.",
-      "text_formatted": "<p>Vi söker en senior ServiceNow-utvecklare som vill bygga AI-drivna applikationer, integrationer och smarta arbetsflöden i en global verksamhet.</p><p>Vi söker två ServiceNow-utvecklare till likvärdiga uppdrag i Eskilstuna. Du utvecklar egna verksamhetsapplikationer, integrationer och intelligenta arbetsflöden som förbättrar användarnas arbete.</p><p>Uppdraget<p><ul><li>Bygga och vidareutveckla applikationer i ServiceNow och App Engine Studio.</li><li>Skapa AI-stöd med AI Agents, Now Assist/GenAI och AI Search.</li><li>Automatisera processer i Flow Designer och utveckla gränssnitt i UI Builder.</li><li>Bygga REST/SOAP-integrationer och säkra åtkomst med SSO och ACL.</li><li>Samarbeta med verksamheten för att och leverera förbättringar.</li></ul><p>Din kompetens<p><ul><li>Erfarenhet av ServiceNow-utveckling och App Engine Studio.</li><li>Praktisk erfarenhet av AI Agents, Now Assist/GenAI och AI Search i ServiceNow.</li><li>Erfarenhet av Flow Designer, UI Builder och REST/SOAP.</li><li>Kunskap om SSO, ACL och säker åtkomst.</li><li>Svenska och engelska i tal och skrift.</li></ul><p>Uppdragets period och omfattning<p><p>2026-11-30 – 2028-03-31. Två heltidsuppdrag på plats i Eskilstuna med start snarast, angiven period 30 november 2026–31 mars 2028. Svenska och engelska. CV på engelska i Word behövs vid eventuell kundpresentation..</p><p>Ansök senast 2026-11-27.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "qQUd_4qe_NDT",
-      "label": "6 månader eller längre",
-      "legacy_ams_taxonomy_id": "2"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5593595258",
-      "name": "Agile Resources AB",
-      "workplace": "Agile Resources AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "REQ-SXVDFY3E",
-      "email": null,
-      "via_af": false,
-      "url": "https://recruit.agile.nu/apply/jp-09b919c5eb8a7cf9?source=platsbanken",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "fg7B_yov_smw",
-      "label": "Systemutvecklare/Programmerare",
-      "legacy_ams_taxonomy_id": "2419"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Eskilstuna",
-      "municipality_code": "0484",
-      "municipality_concept_id": "kMxr_NiX_YrU",
-      "region": "Södermanlands län",
-      "region_code": "04",
-      "region_concept_id": "s93u_BEb_sx2",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "63221",
-      "city": "Eskilstuna",
-      "coordinates": [
-        16.49030801871198,
-        59.379011571456914
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Eskilstuna",
-        "municipality_code": "0484",
-        "municipality_concept_id": "kMxr_NiX_YrU",
-        "region": "Södermanlands län",
-        "region_code": "04",
-        "region_concept_id": "s93u_BEb_sx2",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "63221",
-        "city": "Eskilstuna",
-        "coordinates": [
-          16.49030801871198,
-          59.379011571456914
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Neethi Gopinadh",
-        "description": null,
-        "email": "neethi.gopinadh@agile.nu",
-        "telephone": "0760203611",
-        "contact_type": "Rekryterare"
-      }
-    ],
-    "publication_date": "2026-11-24T10:20:46",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1795512046299
   },
   {
     "relevance": 1,
@@ -3548,6 +3252,150 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1791574125703
+  },
+  {
+    "relevance": 1,
+    "id": "31789139",
+    "external_id": null,
+    "original_id": null,
+    "label": [],
+    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31789139",
+    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5591302780/logotyper/logo.png",
+    "headline": "RPA-utvecklare UiPath  Linköping",
+    "application_deadline": "2026-12-04T23:59:59",
+    "number_of_vacancies": 1,
+    "description": {
+      "text": "Soros Consulting AB söker en erfaren RPA-utvecklare med UiPath-kompetens till ett uppdrag i Linköping.\nOm uppdraget\nDu utvecklar nya automationer, vidareutvecklar befintliga och ansvarar för att de fungerar i drift. Du driver arbetet självständigt från analys till driftsättning, sköter installation, uppgraderingar och förvaltning av UiPath-plattformen och ser till att dokumentation, spårbarhet och versionshantering håller hög nivå.\nObligatoriska krav\nSamtliga krav behöver kunna styrkas tydligt med beskrivningar och hänvisningar till uppdrag i CV.\nMinst 4 års dokumenterad erfarenhet av professionell RPA-utveckling, främst i UiPath\n Relevant och aktuell UiPath-certifiering\n Praktisk erfarenhet av REFramework, Orchestrator, Queues och Assets samt god kännedom om UiPath best practices\n Erfarenhet av installation, uppgradering och förvaltning av UiPath-plattformen, inklusive Standalone/on-premises och licenshantering\n Erfarenhet av felsökning, support och förvaltning av automationer i produktion\n Förmåga att självständigt driva utveckling från analys till driftsättning samt vana av utvecklingsteam och intressentsamverkan\n Erfarenhet av teknisk dokumentation, spårbarhet och versionshantering i Git\n\nMeriterande\nLösningsarkitektur och design av större automationslösningar\n Drift av verksamhetskritiska automationer med höga tillgänglighetskrav\n Erfarenhet från energibolag, ekonomiprocesser eller liknande\n Erfarenhet av kommunal eller annan offentlig verksamhet\n Power Automate (särskilt meriterande), Power BI samt UiPath Business Analyst-utbildning/certifiering\n Projektledning och agilt arbete, gärna i Azure DevOps\n Kodgranskning, leveranser i större team och arbete i support- och förvaltningsorganisationer\n\nUppdragsinformation\nRoll: RPA-utvecklare UiPath\nPlacering: Linköping\nOmfattning: 100%\nStart: 2027-01-01\nPeriod: 2027-01-01 – 2027-06-30 (option 3+3+3 månader)\nSista ansökningsdag: 2026-12-04\nHar du frågor om uppdraget? Kontakta oss på jobb@sorosconsulting.se\nOm Soros Consulting\nSoros Consulting arbetar med kvalificerad konsultförmedling inom IT, teknik och verksamhetsutveckling. Vi matchar erfarna specialister med uppdrag där deras kompetens skapar tydliga resultat. Vårt fokus är kvalitet, långsiktighet och att skapa goda förutsättningar både för konsulter och uppdragsgivare genom tydlighet, professionalism och hållbara relationer.\nTveka inte på att skicka in din ansökan redan idag!\nfölj oss på Linkedin för fler jobbmöjligheter:\nHemsida – https://sorosconsulting.se/\nInstagram – https://www.instagram.com/sorosconsulting",
+      "text_formatted": "<p>Soros Consulting AB söker en erfaren RPA-utvecklare med UiPath-kompetens till ett uppdrag i Linköping.</p><p><strong>Om uppdraget</strong></p><p>Du utvecklar nya automationer, vidareutvecklar befintliga och ansvarar för att de fungerar i drift. Du driver arbetet självständigt från analys till driftsättning, sköter installation, uppgraderingar och förvaltning av UiPath-plattformen och ser till att dokumentation, spårbarhet och versionshantering håller hög nivå.</p><p><strong>Obligatoriska krav</strong></p><p>Samtliga krav behöver kunna styrkas tydligt med beskrivningar och hänvisningar till uppdrag i CV.</p><ul><li>Minst 4 års dokumenterad erfarenhet av professionell RPA-utveckling, främst i UiPath</li><li> Relevant och aktuell UiPath-certifiering</li><li> Praktisk erfarenhet av REFramework, Orchestrator, Queues och Assets samt god kännedom om UiPath best practices</li><li> Erfarenhet av installation, uppgradering och förvaltning av UiPath-plattformen, inklusive Standalone/on-premises och licenshantering</li><li> Erfarenhet av felsökning, support och förvaltning av automationer i produktion</li><li> Förmåga att självständigt driva utveckling från analys till driftsättning samt vana av utvecklingsteam och intressentsamverkan</li><li> Erfarenhet av teknisk dokumentation, spårbarhet och versionshantering i Git</li></ul><p><strong>Meriterande</strong></p><ul><li>Lösningsarkitektur och design av större automationslösningar</li><li> Drift av verksamhetskritiska automationer med höga tillgänglighetskrav</li><li> Erfarenhet från energibolag, ekonomiprocesser eller liknande</li><li> Erfarenhet av kommunal eller annan offentlig verksamhet</li><li> Power Automate (särskilt meriterande), Power BI samt UiPath Business Analyst-utbildning/certifiering</li><li> Projektledning och agilt arbete, gärna i Azure DevOps</li><li> Kodgranskning, leveranser i större team och arbete i support- och förvaltningsorganisationer</li></ul><p><strong>Uppdragsinformation</strong></p><p>Roll: RPA-utvecklare UiPath</p><p>Placering: Linköping</p><p>Omfattning: 100%</p><p>Start: 2027-01-01</p><p>Period: 2027-01-01 – 2027-06-30 (option 3+3+3 månader)</p><p>Sista ansökningsdag: 2026-12-04</p><p>Har du frågor om uppdraget? Kontakta oss på jobb@sorosconsulting.se</p><p><strong>Om Soros Consulting</strong></p><p>Soros Consulting arbetar med kvalificerad konsultförmedling inom IT, teknik och verksamhetsutveckling. Vi matchar erfarna specialister med uppdrag där deras kompetens skapar tydliga resultat. Vårt fokus är kvalitet, långsiktighet och att skapa goda förutsättningar både för konsulter och uppdragsgivare genom tydlighet, professionalism och hållbara relationer.</p><p>Tveka inte på att skicka in din ansökan redan idag!</p><p><strong>följ oss på Linkedin för fler jobbmöjligheter:</strong></p><p>Hemsida – https://sorosconsulting.se/</p><p>Instagram – https://www.instagram.com/sorosconsulting</p>",
+      "company_information": null,
+      "needs": null,
+      "requirements": null,
+      "conditions": null
+    },
+    "employment_type": {
+      "concept_id": "kpPX_CNN_gDU",
+      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
+      "legacy_ams_taxonomy_id": null
+    },
+    "salary_type": {
+      "concept_id": "oG8G_9cW_nRf",
+      "label": "Fast månads- vecko- eller timlön",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "salary_description": null,
+    "duration": {
+      "concept_id": "a7uU_j21_mkL",
+      "label": "Tills vidare",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "working_hours_type": {
+      "concept_id": "6YE1_gAC_R2G",
+      "label": "Heltid",
+      "legacy_ams_taxonomy_id": "1"
+    },
+    "scope_of_work": {
+      "min": 100,
+      "max": 100
+    },
+    "access": null,
+    "employer": {
+      "phone_number": null,
+      "email": null,
+      "url": null,
+      "organization_number": "5591302780",
+      "name": "Soros Consulting AB",
+      "workplace": "Soros Consulting AB"
+    },
+    "application_details": {
+      "information": null,
+      "reference": null,
+      "email": null,
+      "via_af": false,
+      "url": "https://sorosconsulting.se/2026/11/27/rpa-utvecklare-uipath-linkoping/",
+      "other": null
+    },
+    "experience_required": true,
+    "access_to_own_car": false,
+    "driving_license_required": false,
+    "driving_license": null,
+    "occupation": {
+      "concept_id": "fg7B_yov_smw",
+      "label": "Systemutvecklare/Programmerare",
+      "legacy_ams_taxonomy_id": "2419"
+    },
+    "occupation_group": {
+      "concept_id": "DJh5_yyF_hEM",
+      "label": "Mjukvaru- och systemutvecklare m.fl.",
+      "legacy_ams_taxonomy_id": "2512"
+    },
+    "occupation_field": {
+      "concept_id": "apaJ_2ja_LuF",
+      "label": "Data/IT",
+      "legacy_ams_taxonomy_id": "3"
+    },
+    "workplace_model": {
+      "concept_id": "ZxwM_gtz_n61",
+      "label": "Arbete på plats"
+    },
+    "workplace_address": {
+      "municipality": "Linköping",
+      "municipality_code": "0580",
+      "municipality_concept_id": "bm2x_1mr_Qhx",
+      "region": "Östergötlands län",
+      "region_code": "05",
+      "region_concept_id": "oLT3_Q9p_3nn",
+      "country": "Sverige",
+      "country_code": "199",
+      "country_concept_id": "i46j_HmG_v64",
+      "street_address": null,
+      "postcode": null,
+      "city": null,
+      "coordinates": [
+        null,
+        null
+      ]
+    },
+    "workplace_addresses": [
+      {
+        "municipality": "Linköping",
+        "municipality_code": "0580",
+        "municipality_concept_id": "bm2x_1mr_Qhx",
+        "region": "Östergötlands län",
+        "region_code": "05",
+        "region_concept_id": "oLT3_Q9p_3nn",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    ],
+    "must_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "nice_to_have": {
+      "skills": [],
+      "languages": [],
+      "work_experiences": [],
+      "education": [],
+      "education_level": []
+    },
+    "application_contacts": [],
+    "publication_date": "2026-11-27T17:04:00",
+    "last_publication_date": "2026-12-04T23:59:59",
+    "removed": false,
+    "removed_date": null,
+    "source_type": "VIA_ANNONSERA",
+    "timestamp": 1795795440658
   },
   {
     "relevance": 1,
@@ -31692,164 +31540,6 @@
   },
   {
     "relevance": 1,
-    "id": "31698312",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31698312",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
-    "headline": "System Administrator Windows",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du vara en del av vårt team som utvecklar och förvaltar Saabs serverplattformar, både nya och befintliga? Är du en person med ett genuint teknikintresse inom WINDOWS området? Om ja, tveka inte att ta nästa steg i din karriär! Läs mer nedan och ansök!\n \n\n\nDin roll\n\nVi söker efter en System administrator Windows med erfarenhet av applikationspaketering, SCCM, Horizon till vårt DevOps team. Tillsammans med dina kollegor ansvarar du för utveckling och förvaltning inom vårt Windowsteam med Saabs olika applikationer.\n \nHuvudsakliga arbetsuppgifter vid drift och underhåll av IT-Infrastrukturen: \nLeverera klient- och servertjänster och vara en del i drift- och supportteamet \nPatchhantering och uppgradering av klient- och servermiljön \nUtveckla script och arbeta med automationsverktyg för effektivisering av arbetssätt \nUtveckling kopplat till infrastruktursystem \nSäkerställa att de säkerhetskrav som finns uppfylls \nAktivt delta i teknikförbättringsarbete \nDriva och dokumentera arbetet enligt rutiner och processer vi ska efterleva\n\n\nDin Profil\n\n\nSocial kompetens och en förmåga att arbeta under varierande grad av belastning är viktigt för oss. Viktigt också att kunna ta eget ansvar vad gäller att ständigt förbättra vårt arbetssätt, våra processer och rutiner. Dokumentation är en viktig del av vårt arbete varför det är ett krav på flytande svenska och engelska, både i tal och skrift för att kunna förmedla kunskaper till användare och kollegor.\nDå merparten av systemen har höga säkerhetskrav så kommer arbete med IT-säkerhet vara en naturlig del av din vardag.\n\nFör att trivas i rollen och leva upp till förväntningarna tror vi att du har:\nEtt par års erfarenhet inom teknikområdet Windows server och klient\nEtt genuint tekniskt intresse och gillar att arbeta med den senaste tekniken och hänga med i branschens utveckling\nGoda kunskaper i vanligt förekommande scriptspråk, t ex PowerShell\n\n \nDet är meriterande om du har:\nErfarenhet av Horizon \nErfarenhet kring SCCM\nErfarenhet av Microsoft standardprodukter såsom Active Directory, DNS, WDS osv\nErfarenhet av MSI, App Volume\n\n \nMycket meriterande:\nTeradici \nVMware Vsphere \nGIT\n\n \nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. Utannonserad tjänst kräver svenskt medborgarskap.\n \n\n\nVad du blir en del av\n\nDu kommer att tillhöra SAAB IT, den del av Saab-koncernen som ansvarar för utveckling, installation, underhåll och förvaltning av företagets utvecklings och produktionsmiljöer samt dess ingående komponenter som servrar, lagring, nät, databaser och klienter mm. Verksamheten präglas av systematisk drift och förvaltningsarbete samt teknikbevakning inom angränsande verksamhetsområden. \n\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan ansökningstiden har gått ut.\n\nArbetsplatsen är placerad på någon av våra verksamhetsorter: Linköping, Stockholm, Göteborg eller Lund. Hemarbete är begränsat i denna roll och arbetet sker på plats.",
-      "text_formatted": "<p>Vill du vara en del av vårt team som utvecklar och förvaltar Saabs serverplattformar, både nya och befintliga? Är du en person med ett genuint teknikintresse inom WINDOWS området? Om ja, tveka inte att ta nästa steg i din karriär! Läs mer nedan och ansök!</p><p> </p>\n\nDin roll\n\n<p>Vi söker efter en System administrator Windows med erfarenhet av applikationspaketering, SCCM, Horizon till vårt DevOps team. Tillsammans med dina kollegor ansvarar du för utveckling och förvaltning inom vårt Windowsteam med Saabs olika applikationer.</p><p> </p><p>Huvudsakliga arbetsuppgifter vid drift och underhåll av IT-Infrastrukturen: </p><ul><li>Leverera klient- och servertjänster och vara en del i drift- och supportteamet </li><li>Patchhantering och uppgradering av klient- och servermiljön </li><li>Utveckla script och arbeta med automationsverktyg för effektivisering av arbetssätt </li><li>Utveckling kopplat till infrastruktursystem </li><li>Säkerställa att de säkerhetskrav som finns uppfylls </li><li>Aktivt delta i teknikförbättringsarbete </li><li>Driva och dokumentera arbetet enligt rutiner och processer vi ska efterleva</li></ul>\n\nDin Profil\n\n<p>Social kompetens och en förmåga att arbeta under varierande grad av belastning är viktigt för oss. Viktigt också att kunna ta eget ansvar vad gäller att ständigt förbättra vårt arbetssätt, våra processer och rutiner. Dokumentation är en viktig del av vårt arbete varför det är ett krav på flytande svenska och engelska, både i tal och skrift för att kunna förmedla kunskaper till användare och kollegor.\nDå merparten av systemen har höga säkerhetskrav så kommer arbete med IT-säkerhet vara en naturlig del av din vardag.\n\nFör att trivas i rollen och leva upp till förväntningarna tror vi att du har:</p><ul><li>Ett par års erfarenhet inom teknikområdet Windows server och klient</li><li>Ett genuint tekniskt intresse och gillar att arbeta med den senaste tekniken och hänga med i branschens utveckling</li><li>Goda kunskaper i vanligt förekommande scriptspråk, t ex PowerShell</li></ul><p> </p><p>Det är meriterande om du har:</p><ul><li>Erfarenhet av Horizon </li><li>Erfarenhet kring SCCM</li><li>Erfarenhet av Microsoft standardprodukter såsom Active Directory, DNS, WDS osv</li><li>Erfarenhet av MSI, App Volume</li></ul><p> </p><p>Mycket meriterande:</p><ul><li>Teradici </li><li>VMware Vsphere </li><li>GIT</li></ul><p> </p><p>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap. Utannonserad tjänst kräver svenskt medborgarskap.</p><p> </p>\n\nVad du blir en del av\n\n<p>Du kommer att tillhöra SAAB IT, den del av Saab-koncernen som ansvarar för utveckling, installation, underhåll och förvaltning av företagets utvecklings och produktionsmiljöer samt dess ingående komponenter som servrar, lagring, nät, databaser och klienter mm. Verksamheten präglas av systematisk drift och förvaltningsarbete samt teknikbevakning inom angränsande verksamhetsområden. \n\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan ansökningstiden har gått ut.\n\nArbetsplatsen är placerad på någon av våra verksamhetsorter: Linköping, Stockholm, Göteborg eller Lund. Hemarbete är begränsat i denna roll och arbetet sker på plats.</p><p>\n\n</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560360793",
-      "name": "SAAB Aktiebolag",
-      "workplace": "Saab"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=bC5saW5kZXJzam8uOTk0ODIuMTM3NjVAc2FhYi5hcGxpdHJhay5jb20",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "Lxas_8K9_W1o",
-      "label": "Systemadministratör",
-      "legacy_ams_taxonomy_id": "2918"
-    },
-    "occupation_group": {
-      "concept_id": "MYAz_x9m_2LJ",
-      "label": "Systemadministratörer",
-      "legacy_ams_taxonomy_id": "3513"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Bröderna Ugglas gata",
-      "postcode": "58188",
-      "city": "Linköping",
-      "coordinates": [
-        15.6226866,
-        58.4200361
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Bröderna Ugglas gata",
-        "postcode": "58188",
-        "city": "Linköping",
-        "coordinates": [
-          15.6226866,
-          58.4200361
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [
-        {
-          "weight": null,
-          "concept_id": "SnKF_v7d_qUH",
-          "label": "Windows Powershell, systemutvecklingsverktyg",
-          "legacy_ams_taxonomy_id": "609417"
-        }
-      ],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "Lxas_8K9_W1o",
-          "label": "Systemadministratör",
-          "legacy_ams_taxonomy_id": "2918"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-06T15:22:01",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793974921680
-  },
-  {
-    "relevance": 1,
     "id": "31698100",
     "external_id": null,
     "original_id": null,
@@ -32182,301 +31872,6 @@
   },
   {
     "relevance": 1,
-    "id": "31697012",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31697012",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566066048/logotyper/logo.png",
-    "headline": "ShareASpace Application Expert",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "A Snapshot of Your Day\nAs a ShareASpace Application Expert, you start your day by monitoring the health and performance of the ShareASpace platform that supports collaboration across expanding PLM environments. You work closely with engineering teams, business stakeholders, IT specialists, and external vendors to resolve complex application issues, coordinate releases, and maintain reliable integrations between ShareASpace, PLM systems, and SAP ERP. Throughout the day, you contribute to cloud operations in Microsoft Azure, support automated deployment processes through Azure DevOps, and help ensure high-quality product data and BOM structures. Your work directly supports the stable, secure, and scalable roll-out of Collab Nova across multiple business areas.\nHow You’ll Make an Impact\nResponsibility for 2nd line technical support, troubleshooting, and resolution of complex incidents within the ShareASpace environment\nManagement of application lifecycles including installations, software upgrades, patch deployments, and release activities\nEnsuring security, compliance, and system reliability through certificate management, authentication protocols, and software license administration\nResponsibility for maintaining, monitoring, and optimizing Microsoft Azure services and cloud infrastructure supporting ShareASpace\nCoordination of Azure DevOps pipelines, automated deployments, requirements tracking, and validation of system changes through comprehensive testing\nEnsuring efficient integrations and data flows between ShareASpace, core PLM systems, and SAP ERP while supporting product data and BOM quality\n\nWhat You Bring\nDegree in Information Technology, Computer Science, Engineering, or an equivalent vocational pathway together with Microsoft Certified: Azure Administrator Associate and ITIL Foundation Certification\nExperience in application management, operations, and technical support for business-critical systems within complex IT environments\nProficiency in Microsoft Azure, cloud-based environments, Azure DevOps, pipeline management, and integration technologies\nKnowledge of ShareASpace or similar PLM system administration, SAP ERP integration, product data management, and Bill of Materials (BOM) structures\nStrong troubleshooting, testing, quality assurance, system documentation, and release management capabilities\nExperience in security and authentication management including certificates, SSL, OAuth, and compliance-related application operations\n\nAbout the Team\nOur Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.\nWe can offer you employment benefits such as: reduction of working hours, advance vacation, health care allowance and an eventual possibility to a flexible working place.\nWho is Siemens Energy?\nAt Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. \nOur global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. \nFind out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo\nOur Commitment to Diversity\nLucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.\nApplication\nDon’t hesitate – apply via https://jobs.siemens-energy.com/en_US/jobs , id nr 306394 not later than 2026-11-20.\nOngoing selection is applied, the role might be filled before last application date.\nLocation: Finspång\nTrade Union Representatives:\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siemens-energy.com\nLedarna, Anders Fors, ledarnaklubbenseab@siemens-energy.com\nIF Metall, Mikael Malmgren, mikael.malmgren@siemens-energy.com\n#LI-HL1",
-      "text_formatted": "<p ><strong>A Snapshot of Your Day</strong><p>As a ShareASpace Application Expert, you start your day by monitoring the health and performance of the ShareASpace platform that supports collaboration across expanding PLM environments. You work closely with engineering teams, business stakeholders, IT specialists, and external vendors to resolve complex application issues, coordinate releases, and maintain reliable integrations between ShareASpace, PLM systems, and SAP ERP. Throughout the day, you contribute to cloud operations in Microsoft Azure, support automated deployment processes through Azure DevOps, and help ensure high-quality product data and BOM structures. Your work directly supports the stable, secure, and scalable roll-out of Collab Nova across multiple business areas.</p><p ><strong>How You’ll Make an Impact</strong></p><ul><li>Responsibility for 2nd line technical support, troubleshooting, and resolution of complex incidents within the ShareASpace environment</li><li>Management of application lifecycles including installations, software upgrades, patch deployments, and release activities</li><li>Ensuring security, compliance, and system reliability through certificate management, authentication protocols, and software license administration</li><li>Responsibility for maintaining, monitoring, and optimizing Microsoft Azure services and cloud infrastructure supporting ShareASpace</li><li>Coordination of Azure DevOps pipelines, automated deployments, requirements tracking, and validation of system changes through comprehensive testing</li><li>Ensuring efficient integrations and data flows between ShareASpace, core PLM systems, and SAP ERP while supporting product data and BOM quality</li></ul><p ><strong>What You Bring</strong></p><ul><li>Degree in Information Technology, Computer Science, Engineering, or an equivalent vocational pathway together with Microsoft Certified: Azure Administrator Associate and ITIL Foundation Certification</li><li>Experience in application management, operations, and technical support for business-critical systems within complex IT environments</li><li>Proficiency in Microsoft Azure, cloud-based environments, Azure DevOps, pipeline management, and integration technologies</li><li>Knowledge of ShareASpace or similar PLM system administration, SAP ERP integration, product data management, and Bill of Materials (BOM) structures</li><li>Strong troubleshooting, testing, quality assurance, system documentation, and release management capabilities</li><li>Experience in security and authentication management including certificates, SSL, OAuth, and compliance-related application operations</li></ul><p ><strong>About the Team</strong>\nOur <strong>Gas Services division</strong> offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet.</p><p >We can offer you employment benefits such as: reduction of working hours, advance vacation, health care allowance and an eventual possibility to a flexible working place.</p><p ><strong>Who is Siemens Energy?</strong></p><p >At Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. </p><p >Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. </p><p >Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo</p><p ><strong>Our Commitment to Diversity</strong></p><p >Lucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.</p><p ><strong>Application</strong></p><p >Don’t hesitate – apply via https://jobs.siemens-energy.com/en_US/jobs , id nr 306394 not later than 2026-11-20.</p><p >Ongoing selection is applied, the role might be filled before last application date.</p><p >Location: Finspång</p><p ><strong>Trade Union Representatives:</strong>\nUnionen, unionen.finspang.se@siemens-energy.com\nSveriges Ingenjörer & SACO, asi.se@siemens-energy.com\nLedarna, Anders Fors, ledarnaklubbenseab@siemens-energy.com\nIF Metall, Mikael Malmgren, mikael.malmgren@siemens-energy.com</p><p >#LI-HL1</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5566066048",
-      "name": "Siemens Energy AB",
-      "workplace": "Finspaang"
-    },
-    "application_details": {
-      "information": null,
-      "reference": "306394",
-      "email": null,
-      "via_af": false,
-      "url": "https://ars2.equest.com/?response_id=f9afe1fb9a7bc67bb9ca09c21ec9a0ce",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "1UTZ_bS9_kUD",
-      "label": "Scrum master",
-      "legacy_ams_taxonomy_id": "7848"
-    },
-    "occupation_group": {
-      "concept_id": "UxT1_tPF_Kbg",
-      "label": "Övriga IT-specialister",
-      "legacy_ams_taxonomy_id": "2519"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Finspång",
-      "municipality_code": "0562",
-      "municipality_concept_id": "dMFe_J6W_iJv",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "61283",
-      "city": "Finspaang",
-      "coordinates": [
-        16.1971381,
-        58.5981079
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Finspång",
-        "municipality_code": "0562",
-        "municipality_concept_id": "dMFe_J6W_iJv",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "61283",
-        "city": "Finspaang",
-        "coordinates": [
-          16.1971381,
-          58.5981079
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 10,
-          "concept_id": "1UTZ_bS9_kUD",
-          "label": "Scrum master",
-          "legacy_ams_taxonomy_id": "7848"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-06T13:50:05",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793969405197
-  },
-  {
-    "relevance": 1,
-    "id": "31696452",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31696452",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
-    "headline": "SAAB Naval UWS söker Seniora Mjukvaruutvecklare",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Drivs du av att se dina idéer bli verklighet? Välkommen till vår spännande och teknikintensiva värld.\n\n\nDin roll\n\nÖstersjön är ett fantastiskt hav på många sätt men också utmanande ur ett militärt perspektiv. Medeldjupet är bara omkring 55 meter och dess geografi och hydrografi gör det svårt att upptäcka och bekämpa hot. Men det är Östersjön som är vår arena! \nÄr du en senior mjukvaruutvecklare med passion för inbyggda system och en nyfikenhet för framtidens teknologi? Vill du vara med och forma morgondagens marina förmågor?\nAffärsenheten Underwater Systems tillhandahåller både militära och civila produkter som ger förmågor såväl över och under vattenytan. Mångsidighet, flexibilitet och hög tillgänglighet är egenskaper som karakteriserar våra produkter.\nI dagsläget har vi behov av fler seniora mjukvaruutvecklare inom produktområdet Sensorsystem.\nVill du:\nHa stor påverkan på hela utvecklingscykeln, från idé till leverans? Inte bara i produkt utan även hur vi jobbar med metoder och verktyg.\nDela med dig av din kunskap och effektivisera vår mjukvaruutveckling?\nHa ett kreativt och innovativt arbetsklimat, där du har en stor möjlighet att påverka!\nJobba i ett litet team med stor frihet och ansvar, med gränssnitt mot t.ex. produktion och verifiering?\nTesta din mjukvara i våra produkter, i dess riktiga miljö och i samarbete med våra kunder?\nJobba med en stor variation av produkter, allt från mätsystem, dataanalys och operatörsstationer till planeringsverktyg.\nFå möjligheter till personlig utveckling för att du skall bli den person du vill bli, genom ett generöst utbud av kurser, teknikstudier, konferenser, mässor och utvecklande arbete.\n\n\nDin profil\n\nEn förmåga att ha ett helikopterperspektiv med intresse för allt från kodande till arkitektur, kravhantering, design och test.\nIntresse för kringliggande teknologier och metodiker (container, moln, CI/CD, Cyber Security).\nEn \"can-do\"-attityd och gillar att samarbeta eller rent av leda och coacha?\nErfarenhet av t.ex. C, C++, Python, eller Qt.\nDu är civilingenjör/högskoleingenjör eller har motsvarande kunskaper, med flera års erfarenhet av systemutveckling med fokus på programvara.\n\nDu behöver kunna läsa och skriva obehindrat på svenska och engelska då det är ett vanligt krav från våra kunder.\nPlaceringsort är Linköping.\nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n\n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\nSaab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här",
-      "text_formatted": "<p><em>Drivs du av att se dina idéer bli verklighet? Välkommen till vår spännande och teknikintensiva värld.</em></p>\n\nDin roll\n\n<p>Östersjön är ett fantastiskt hav på många sätt men också utmanande ur ett militärt perspektiv. Medeldjupet är bara omkring 55 meter och dess geografi och hydrografi gör det svårt att upptäcka och bekämpa hot. Men det är Östersjön som är vår arena! </p><p>Är du en senior mjukvaruutvecklare med passion för inbyggda system och en nyfikenhet för framtidens teknologi? Vill du vara med och forma morgondagens marina förmågor?</p><p>Affärsenheten Underwater Systems tillhandahåller både militära och civila produkter som ger förmågor såväl över och under vattenytan. Mångsidighet, flexibilitet och hög tillgänglighet är egenskaper som karakteriserar våra produkter.</p><p>I dagsläget har vi behov av fler seniora mjukvaruutvecklare inom produktområdet Sensorsystem.</p><p>Vill du:</p><ul><li>Ha stor påverkan på hela utvecklingscykeln, från idé till leverans? Inte bara i produkt utan även hur vi jobbar med metoder och verktyg.</li><li>Dela med dig av din kunskap och effektivisera vår mjukvaruutveckling?</li><li>Ha ett kreativt och innovativt arbetsklimat, där du har en stor möjlighet att påverka!</li></ul><ul><li>Jobba i ett litet team med stor frihet och ansvar, med gränssnitt mot t.ex. produktion och verifiering?</li><li>Testa din mjukvara i våra produkter, i dess riktiga miljö och i samarbete med våra kunder?</li></ul><ul><li>Jobba med en stor variation av produkter, allt från mätsystem, dataanalys och operatörsstationer till planeringsverktyg.</li><li>Få möjligheter till personlig utveckling för att du skall bli den person du vill bli, genom ett generöst utbud av kurser, teknikstudier, konferenser, mässor och utvecklande arbete.</li></ul>\n\nDin profil\n\n<ul><li>En förmåga att ha ett helikopterperspektiv med intresse för allt från kodande till arkitektur, kravhantering, design och test.</li><li>Intresse för kringliggande teknologier och metodiker (container, moln, CI/CD, Cyber Security).</li><li>En \"can-do\"-attityd och gillar att samarbeta eller rent av leda och coacha?</li><li>Erfarenhet av t.ex. C, C++, Python, eller Qt.</li></ul><ul><li>Du är civilingenjör/högskoleingenjör eller har motsvarande kunskaper, med flera års erfarenhet av systemutveckling med fokus på programvara.</li></ul><p>Du behöver kunna läsa och skriva obehindrat på svenska och engelska då det är ett vanligt krav från våra kunder.</p><p>Placeringsort är Linköping.</p><p>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.</p>\n\nVad du blir en del av\n\n<p>Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.</p><p>Saab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.</p><p>Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560360793",
-      "name": "SAAB Aktiebolag",
-      "workplace": "Saab Dynamics AB"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=bi5ub3JkLjE5MTc3LjEzNzY1QHNhYWIuYXBsaXRyYWsuY29t",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "rQds_YGd_quU",
-      "label": "Mjukvaruutvecklare",
-      "legacy_ams_taxonomy_id": "80"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Gelbgjutaregatan 2",
-      "postcode": "58188",
-      "city": "Linköping",
-      "coordinates": [
-        15.6226866,
-        58.4200361
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Gelbgjutaregatan 2",
-        "postcode": "58188",
-        "city": "Linköping",
-        "coordinates": [
-          15.6226866,
-          58.4200361
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-06T12:58:25",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793966305692
-  },
-  {
-    "relevance": 1,
     "id": "31695764",
     "external_id": null,
     "original_id": null,
@@ -32618,150 +32013,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1793960684273
-  },
-  {
-    "relevance": 1,
-    "id": "31695268",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31695268",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2021000076/logotyper/logo.png",
-    "headline": "Kravanalytiker till Brottsbekämpande verksamhetssystem",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 2,
-    "description": {
-      "text": "Inom Polismyndighetens IT-avdelning utvecklar vi system som är avgörande för Sveriges gränskontroll och ger polisen bättre förutsättningar att förebygga och förhindra brott.\nNu söker vi kravanalytiker till sektionen Brottsbekämpande verksamhetssystem Gränskontroll i Norrköping. I denna roll är du med och bygger nationella lösningar med kopplingar till EU-gemensamma system och internationella samarbeten. Du bidrar direkt till att säkra Sveriges inre och yttre gränser.\nSektionen ansvarar för tekniskt komplexa flöden och system, där säkerhet, integritet och användbarhet är i fokus för alla våra lösningar. Du kommer att arbeta i en agil miljö präglad av nyutveckling och med fokus på teknik i framkant.\nGenom ditt arbete är du med och bidrar till ett säkrare samhälle!\nLäs mer om sektionen här: https://polisen.se/jobb-och-utbildning/jobba-hos-polisen/jobb-it-avdelningen/exempel-pa-uppdrag-vi-arbetar-med/systemen-som-starker-sveriges-granser/\nIT-avdelningen består för närvarande av 1400 anställda som ansvarar för all IT som används av myndighetens med 42 000 anställda. Vårt kontor är beläget i Norrköping där vi erbjuder både flexibelt kontor och flexibla arbetstider. För närvarande finns det även möjlighet att arbeta hemifrån 2 dagar i veckan.\n \nArbetsbeskrivning:\nInom Polismyndighetens IT-avdelning utvecklar vi system som är avgörande för Sveriges gränskontroll och ger polisen bättre förutsättningar att förebygga och förhindra brott.\nNu söker vi kravanalytiker till sektionen Brottsbekämpande verksamhetssystem Gränskontroll i Norrköping. I denna roll är du med och bygger nationella lösningar med kopplingar till EU-gemensamma system och internationella samarbeten. Du bidrar direkt till att säkra Sveriges inre och yttre gränser.\nSektionen ansvarar för tekniskt komplexa flöden och system, där säkerhet, integritet och användbarhet är i fokus för alla våra lösningar. Du kommer att arbeta i en agil miljö präglad av nyutveckling och med fokus på teknik i framkant.\nGenom ditt arbete är du med och bidrar till ett säkrare samhälle!\nLäs mer om sektionen här: https://polisen.se/jobb-och-utbildning/jobba-hos-polisen/jobb-it-avdelningen/exempel-pa-uppdrag-vi-arbetar-med/systemen-som-starker-sveriges-granser/\nIT-avdelningen består för närvarande av 1400 anställda som ansvarar för all IT som används av myndighetens med 42 000 anställda. Vårt kontor är beläget i Norrköping där vi erbjuder både flexibelt kontor och flexibla arbetstider. För närvarande finns det även möjlighet att arbeta hemifrån 2 dagar i veckan.\nKvalifikationer:\n Detta är en möjlighet för dig som har:\nExamen inom IT, alternativt annan relevant utbildning eller erfarenhet som arbetsgivaren bedömer likvärdig\nFlerårig erfarenhet av att arbeta som kravanalytiker i komplexa miljöer med många olika kravställare inom IT\nLett workshops för behovsinsamling och kravarbete\nArbetslivserfarenhet av agila arbetsmetoder\nGoda kunskaper i svenska i såväl tal som skrift\n\nTjänsten kräver svenskt medborgskap\nMeriterande:\nDet är meriterande om du även har:\nErfarenhet av informationsmodellering och analys av verksamhetsprocesser\nErfarenhet som systemutvecklare, lösningsarkitekt, teknisk testare eller liknande roll\nErfarenhet av Jira/Confluence\nErfarenhet av att ha arbetat som SCRUM-master\nErfarenhet från statlig myndighet eller annan offentlig verksamhet\nErfarenhet av att skriva user-stories och acceptanskriterier\n\n \nPersonliga egenskaper:\n Vi söker dig som har en analytisk förmåga, är ansvarstagande och ha ett starkt driv tillsammans med ett kreativt tänkande. Du är en samarbetsvillig person som trivs med att hantera många olika kontaktytor. Din kommunikationsförmåga är central, och du har lätt för att lyfta blicken och se helheten i komplexa sammanhang.\nHos oss bidrar du till en kultur präglad av öppet samarbete och kunskapsdelning, där vi ständigt strävar efter att förbättra våra system och processer. Som person är du en naturlig lagspelare som samtidigt tar egna initiativ och har förmågan att arbeta självständigt när situationen kräver det.\nHär får du möjlighet att utvecklas, både i din roll som kravanalytiker och som en lagspelare. Vi tror starkt på kunskapsdelning och gemensam iteration för att ständigt ligga i teknisk framkant – samtidigt som vi har roligt tillsammans.\nVi kommer att lägga stor vikt vid personliga egenskaper.\n \nKontaktpersoner\nHar du frågor om uppdraget är du välkommen att kontakta rekryterande chef på 010- 563 56 59\nHar du frågor gällande rekryteringsprocessen kontakta ansvarig HR-konsult: Linda Hempel Gustafson, linda.hempel-gustafson@polisen.se\nFackliga företrädare\nSaco-S, saco-s.avdelningarna@polisen.se\nPolisförbundet, Sofia Ask, tfn 010-563 87 10\nST, st.inom-polisen@polisen.se\nSeko Polisen, Klarna Tillheden, tfn 073-249 04 22\nÖvrig information\n Anställningsbenämning: Handläggare\nArbetsort: Norrköping\nArbetstid: Förtroendearbetstid\nTillträde: Enligt överenskommelse\nFunktion: Kravanalytiker\n \nAnsök genom att bifoga ditt CV (vi vill inte ha något personligt brev) och besvara urvalsfrågorna i ditt ansökningsmejl. Frågorna utgår från kravprofilen för den här rekryteringen och dina svar ligger till grund för det urval som sker i processen. Det är därför viktigt att du svarar tydligt och utförligt på frågorna och inte hänvisar till andra handlingar t.ex. CV.\n \nUrvalsfrågorna hittar du på den annons som är publicera på vår hemsida. (se länk nedan)\nAtt besvara frågorna är en förutsättning för att din ansökan ska anses komplett.",
-      "text_formatted": "<p><br></p><p>Inom Polismyndighetens IT-avdelning utvecklar vi system som är avgörande för Sveriges gränskontroll och ger polisen bättre förutsättningar att förebygga och förhindra brott.</p><p>Nu söker vi kravanalytiker till sektionen Brottsbekämpande verksamhetssystem Gränskontroll i Norrköping. I denna roll är du med och bygger nationella lösningar med kopplingar till EU-gemensamma system och internationella samarbeten. Du bidrar direkt till att säkra Sveriges inre och yttre gränser.</p><p>Sektionen ansvarar för tekniskt komplexa flöden och system, där säkerhet, integritet och användbarhet är i fokus för alla våra lösningar. Du kommer att arbeta i en agil miljö präglad av nyutveckling och med fokus på teknik i framkant.</p><p>Genom ditt arbete är du med och bidrar till ett säkrare samhälle!</p><p>Läs mer om sektionen här: https://polisen.se/jobb-och-utbildning/jobba-hos-polisen/jobb-it-avdelningen/exempel-pa-uppdrag-vi-arbetar-med/systemen-som-starker-sveriges-granser/</p><p>IT-avdelningen består för närvarande av 1400 anställda som ansvarar för all IT som används av myndighetens med 42 000 anställda. Vårt kontor är beläget i Norrköping där vi erbjuder både flexibelt kontor och flexibla arbetstider. För närvarande finns det även möjlighet att arbeta hemifrån 2 dagar i veckan.</p><p> </p><p><strong>Arbetsbeskrivning:</strong></p><p>Inom Polismyndighetens IT-avdelning utvecklar vi system som är avgörande för Sveriges gränskontroll och ger polisen bättre förutsättningar att förebygga och förhindra brott.</p><p>Nu söker vi kravanalytiker till sektionen Brottsbekämpande verksamhetssystem Gränskontroll i Norrköping. I denna roll är du med och bygger nationella lösningar med kopplingar till EU-gemensamma system och internationella samarbeten. Du bidrar direkt till att säkra Sveriges inre och yttre gränser.</p><p>Sektionen ansvarar för tekniskt komplexa flöden och system, där säkerhet, integritet och användbarhet är i fokus för alla våra lösningar. Du kommer att arbeta i en agil miljö präglad av nyutveckling och med fokus på teknik i framkant.</p><p>Genom ditt arbete är du med och bidrar till ett säkrare samhälle!</p><p>Läs mer om sektionen här: https://polisen.se/jobb-och-utbildning/jobba-hos-polisen/jobb-it-avdelningen/exempel-pa-uppdrag-vi-arbetar-med/systemen-som-starker-sveriges-granser/</p><p>IT-avdelningen består för närvarande av 1400 anställda som ansvarar för all IT som används av myndighetens med 42 000 anställda. Vårt kontor är beläget i Norrköping där vi erbjuder både flexibelt kontor och flexibla arbetstider. För närvarande finns det även möjlighet att arbeta hemifrån 2 dagar i veckan.</p><p><strong>Kvalifikationer:</strong></p><p><strong> </strong>Detta är en möjlighet för dig som har:</p><ul><li>Examen inom IT, alternativt annan relevant utbildning eller erfarenhet som arbetsgivaren bedömer likvärdig</li><li>Flerårig erfarenhet av att arbeta som kravanalytiker i komplexa miljöer med många olika kravställare inom IT</li><li>Lett workshops för behovsinsamling och kravarbete</li><li>Arbetslivserfarenhet av agila arbetsmetoder</li><li>Goda kunskaper i svenska i såväl tal som skrift</li></ul><p>Tjänsten kräver svenskt medborgskap</p><p><strong>Meriterande:</strong></p><p>Det är meriterande om du även har:</p><ul><li>Erfarenhet av informationsmodellering och analys av verksamhetsprocesser</li><li>Erfarenhet som systemutvecklare, lösningsarkitekt, teknisk testare eller liknande roll</li><li>Erfarenhet av Jira/Confluence</li><li>Erfarenhet av att ha arbetat som SCRUM-master</li><li>Erfarenhet från statlig myndighet eller annan offentlig verksamhet</li><li>Erfarenhet av att skriva user-stories och acceptanskriterier</li></ul><p><strong> </strong></p><p><strong>Personliga egenskaper:</strong></p><p><strong> </strong>Vi söker dig som har en analytisk förmåga, är ansvarstagande och ha ett starkt driv tillsammans med ett kreativt tänkande. Du är en samarbetsvillig person som trivs med att hantera många olika kontaktytor. Din kommunikationsförmåga är central, och du har lätt för att lyfta blicken och se helheten i komplexa sammanhang.</p><p>Hos oss bidrar du till en kultur präglad av öppet samarbete och kunskapsdelning, där vi ständigt strävar efter att förbättra våra system och processer. Som person är du en naturlig lagspelare som samtidigt tar egna initiativ och har förmågan att arbeta självständigt när situationen kräver det.</p><p>Här får du möjlighet att utvecklas, både i din roll som kravanalytiker och som en lagspelare. Vi tror starkt på kunskapsdelning och gemensam iteration för att ständigt ligga i teknisk framkant – samtidigt som vi har roligt tillsammans.</p><p>Vi kommer att lägga stor vikt vid personliga egenskaper.</p><p> </p><p><strong>Kontaktpersoner</strong></p><p>Har du frågor om uppdraget är du välkommen att kontakta rekryterande chef på 010- 563 56 59</p><p>Har du frågor gällande rekryteringsprocessen kontakta ansvarig HR-konsult: Linda Hempel Gustafson, linda.hempel-gustafson@polisen.se</p><p><strong>Fackliga företrädare</strong></p><p>Saco-S, saco-s.avdelningarna@polisen.se</p><p>Polisförbundet, Sofia Ask, tfn 010-563 87 10</p><p>ST, st.inom-polisen@polisen.se</p><p>Seko Polisen, Klarna Tillheden, tfn 073-249 04 22</p><p><strong>Övrig information</strong></p><p><strong> </strong>Anställningsbenämning: Handläggare</p><p>Arbetsort: Norrköping</p><p>Arbetstid: Förtroendearbetstid</p><p>Tillträde: Enligt överenskommelse</p><p>Funktion: Kravanalytiker</p><p> </p><p>Ansök genom att bifoga ditt CV (vi vill inte ha något personligt brev) och besvara urvalsfrågorna i ditt ansökningsmejl. Frågorna utgår från kravprofilen för den här rekryteringen och dina svar ligger till grund för det urval som sker i processen. Det är därför viktigt att du svarar tydligt och utförligt på frågorna och inte hänvisar till andra handlingar t.ex. CV.</p><p><strong> </strong></p><p><strong>Urvalsfrågorna hittar du på den annons som är publicera på vår hemsida. (se länk nedan)</strong></p><p>Att besvara frågorna är en förutsättning för att din ansökan ska anses komplett.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "kpPX_CNN_gDU",
-      "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
-      "legacy_ams_taxonomy_id": null
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "2021000076",
-      "name": "Polismyndigheten",
-      "workplace": "POLISMYNDIGHETEN"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://polisen.se/jobb-och-utbildning/lediga-jobb/2026/november/kravanalytiker-till-brottsbekampande-verksamhetssystem-i-norrkoping/",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "mBMU_HvW_LMY",
-      "label": "IT-strateg",
-      "legacy_ams_taxonomy_id": "5432"
-    },
-    "occupation_group": {
-      "concept_id": "UxT1_tPF_Kbg",
-      "label": "Övriga IT-specialister",
-      "legacy_ams_taxonomy_id": "2519"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": "ZxwM_gtz_n61",
-      "label": "Arbete på plats"
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": null,
-      "city": null,
-      "coordinates": [
-        null,
-        null
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": null,
-        "city": null,
-        "coordinates": [
-          null,
-          null
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-11-06T10:45:35",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_ANNONSERA",
-    "timestamp": 1795001660694
   },
   {
     "relevance": 1,
@@ -33216,179 +32467,6 @@
     "removed_date": null,
     "source_type": "VIA_JOBPOSTING",
     "timestamp": 1794469274303
-  },
-  {
-    "relevance": 1,
-    "id": "31693539",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31693539",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/2021000225/logotyper/logo.png",
-    "headline": "Digitaliseringsstrateg (BRM)",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Om Kriminalvården\nKriminalvården växer – vi bygger nytt, bygger om och bygger till och söker nu fler medarbetare. Vårt viktigaste mål är att minska återfall i brott – att bryta den onda cirkeln. Lyckas vi med det blir samhället tryggare och säkrare för alla. Vi är den myndighet som ansvarar för anstalter, frivård, häkten och klienttransporter.\nVill du vara med och bidra till ett tryggare samhälle? Vår IT-avdelning genomför en stor satsning med fokus på en digital Kriminalvård. Tillsammans jobbar vi för att skapa förutsättningar och lösningar som gör skillnad i vår verksamhet. IT-avdelningen är under stark tillväxt. Vi söker dig som har ett stort IT-intresse, kunskaper och erfarenheter som kan berika vår digitaliseringsresa och som vill vara med och göra skillnad i samhället inom just din profession.\nVi etablerar nu en ny sektion för Digitaliseringsstöd med uppdrag att stärka styrningen och skapa bättre förutsättningar för myndighetens fortsatta digitalisering. Sektionen har en central roll i att skapa gemensam riktning, tydlig verksamhetsnytta och god genomförbarhet i digitaliseringsarbetet. Här samordnas myndighetens digitaliseringsportfölj, enterprisearkitektur och det tvärfunktionella arbetet med att omsätta digitaliseringsmålen i praktiken.\nVi söker nu nya verksamhetsnära digitaliseringsstrateger som vill bli en del av vårt team med kollegor placerade på olika orter.\nArbetsbeskrivning\nSom digitaliseringsstrateg arbetar du nära vår kärnverksamhet och verkar för att stärka kopplingen mellan verksamhetens mål och digitala lösningar. Tillsammans med kollegor i liknande roller understödjer du IT-direktören och IT-avdelningens ledning i arbetet med myndighetens digitalisering. I rollen fungerar du som strategisk länk mellan verksamhet och IT. Du bygger starka relationer, vägleder verksamheten och säkerställa att våra digitaliseringsinsatser skapar verksamhetsnytta och bidrar till ökad effektivitet.\nDu agerar som rådgivare och samarbetspartner till ledningsgrupper för att stärka deras strategiska förmåga att använda digitalisering och IT-stöd som en integrerad del i verksamhetsutvecklingen. Du driver innovation genom att proaktivt fånga upp möjligheter där teknik kan förbättra eller transformera verksamheten och omsätter riktning för digitalisering i signifikanta och strategiska utvecklingsinitiativ.\nResor förekommer i tjänsten.\nKvalifikationer\nVi söker dig som är relationsskapande och trivs med många kontaktytor där du snabbt vinner förtroende hos andra. Med en strategisk helhetssyn, pedagogisk förmåga och lyhördhet gör du det komplexa begripligt. Du är en trygg och inspirerande person som skapar engagemang och delaktighet, driver utveckling framåt och får andra med dig. Du skapar möjligheter och tar ansvar för att omsätta idéer till resultat som skapar verklig nytta för verksamheten på lång sikt.\nFör att trivas och lyckas i ditt uppdrag är det viktigt att du delar Kriminalvårdens grundläggande värderingar om en human människosyn, respekt för individen och tron på att människan är utvecklingsbar. Du är även medveten om och har förståelse för hur bakgrund, kultur och grupptillhörighet påverkar dig själv och andra. Vidare förväntas du med ditt förhållningssätt bidra till att alla blir likvärdigt bemötta. Vi lägger stor vikt vid personlig lämplighet.\nVi söker dig som har:\nFlerårig akademisk utbildning /högskoleexamen, gärna inom IT, teknik eller digitalisering (IT/datavetenskapsområdet), eller annan eftergymnasial utbildning tillsammans med arbetslivserfarenhet som Kriminalvården bedömer som relevan\nFlerårig erfarenhet av digital verksamhetsutveckling\nFlerårig erfarenhet av gränssnitt mellan IT och verksamhet\nErfarenhet av ledningsnära arbete och samverkan med lednings- och styrgrupper på olika nivåer\nErfarenhet av att utveckla och vårda långsiktiga kund- och partnerrelationer, eller motsvarande som Kriminalvården bedömer relevant\nGod förmåga att uttrycka dig i tal och skrift på svenska och engelska\nGod kunskap om IT-styrning med modeller så som tex. ITIL, SAFe, PPS och PM3\nGrundläggande teknisk förståelse\n\nDet är även meriterande med:\nDokumenterad chef-/ledarskapsutbildning\nErfarenhet av att leda och driva utvecklings-/förändringsarbeten\nErfarenhet av att identifiera och utveckla kostnadsmedvetna strategier\nErfarenhet av innovationsarbete\nErfarenhet av arbete inom myndighet eller offentlig verksamhet som Kriminalvården bedömer relevant\n\nÖvrigt\nKriminalvården har valt att ta bort det personliga brevet och ersatt det med urvalsfrågor som är relevanta för tjänsten. Svaren i urvalsfrågorna och CV ligger till grund för om du är kvalificerad att gå vidare i processen.\nFör att bli aktuell för anställning inom Kriminalvården krävs att du motsvarar högt ställda krav gällande lämplighet, omdöme, säkerhets- och sekretessmedvetande och att du följer gällande lagar. Det innebär att du står upp för demokratiska värderingar och den statliga värdegrund som gäller för Kriminalvårdens verksamhet.\nVissa befattningar är placerade i säkerhetsklass och då kommer en säkerhetsprövning med registerkontroll att genomföras innan beslut om anställning fattas. För vissa säkerhetsklassade tjänster krävs svenskt medborgarskap. Kriminalvården välkomnar sökande med olika bakgrund och erfarenheter. Läs mer om säkerhetsprövning här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/sakerhetsprovning-vid-rekrytering/\nBefattningen kan innebära krigsplacering vid Kriminalvården. Läs mer om krigsplacering här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/krigsplacering/\nIndividuell lönesättning tillämpas.\nProvanställning kan komma att tillämpas.\nKriminalvården strävar efter en jämn könsfördelning och ökad mångfald. \nFör att skicka in din ansökan, klicka på ansökningslänken i annonsen. Frågor om hur du ansöker och lägger in ditt CV ställer du direkt till Varbi. Frågor om specifika jobb besvaras av den kontaktperson som anges i annonsen. \nVi undanber oss vänligen men bestämt direktkontakt med bemannings- och rekryteringsföretag samt försäljare av rekryteringsannonser. Kriminalvården har upphandlade avtal.",
-      "text_formatted": "<p><p><strong>Om Kriminalvården</strong></p><p>Kriminalvården växer – vi bygger nytt, bygger om och bygger till och söker nu fler medarbetare. Vårt viktigaste mål är att minska återfall i brott – att bryta den onda cirkeln. Lyckas vi med det blir samhället tryggare och säkrare för alla. Vi är den myndighet som ansvarar för anstalter, frivård, häkten och klienttransporter.</p><p>Vill du vara med och bidra till ett tryggare samhälle? Vår IT-avdelning genomför en stor satsning med fokus på en digital Kriminalvård. Tillsammans jobbar vi för att skapa förutsättningar och lösningar som gör skillnad i vår verksamhet. IT-avdelningen är under stark tillväxt. Vi söker dig som har ett stort IT-intresse, kunskaper och erfarenheter som kan berika vår digitaliseringsresa och som vill vara med och göra skillnad i samhället inom just din profession.</p><p>Vi etablerar nu en ny sektion för Digitaliseringsstöd med uppdrag att stärka styrningen och skapa bättre förutsättningar för myndighetens fortsatta digitalisering. Sektionen har en central roll i att skapa gemensam riktning, tydlig verksamhetsnytta och god genomförbarhet i digitaliseringsarbetet. Här samordnas myndighetens digitaliseringsportfölj, enterprisearkitektur och det tvärfunktionella arbetet med att omsätta digitaliseringsmålen i praktiken.</p><p>Vi söker nu nya verksamhetsnära digitaliseringsstrateger som vill bli en del av vårt team med kollegor placerade på olika orter.</p><p><strong>Arbetsbeskrivning</strong></p><p>Som digitaliseringsstrateg arbetar du nära vår kärnverksamhet och verkar för att stärka kopplingen mellan verksamhetens mål och digitala lösningar. Tillsammans med kollegor i liknande roller understödjer du IT-direktören och IT-avdelningens ledning i arbetet med myndighetens digitalisering. I rollen fungerar du som strategisk länk mellan verksamhet och IT. Du bygger starka relationer, vägleder verksamheten och säkerställa att våra digitaliseringsinsatser skapar verksamhetsnytta och bidrar till ökad effektivitet.</p><p>Du agerar som rådgivare och samarbetspartner till ledningsgrupper för att stärka deras strategiska förmåga att använda digitalisering och IT-stöd som en integrerad del i verksamhetsutvecklingen. Du driver innovation genom att proaktivt fånga upp möjligheter där teknik kan förbättra eller transformera verksamheten och omsätter riktning för digitalisering i signifikanta och strategiska utvecklingsinitiativ.</p><p>Resor förekommer i tjänsten.</p><p><strong>Kvalifikationer</strong></p><p>Vi söker dig som är relationsskapande och trivs med många kontaktytor där du snabbt vinner förtroende hos andra. Med en strategisk helhetssyn, pedagogisk förmåga och lyhördhet gör du det komplexa begripligt. Du är en trygg och inspirerande person som skapar engagemang och delaktighet, driver utveckling framåt och får andra med dig. Du skapar möjligheter och tar ansvar för att omsätta idéer till resultat som skapar verklig nytta för verksamheten på lång sikt.</p><p>För att trivas och lyckas i ditt uppdrag är det viktigt att du delar Kriminalvårdens grundläggande värderingar om en human människosyn, respekt för individen och tron på att människan är utvecklingsbar. Du är även medveten om och har förståelse för hur bakgrund, kultur och grupptillhörighet påverkar dig själv och andra. Vidare förväntas du med ditt förhållningssätt bidra till att alla blir likvärdigt bemötta. Vi lägger stor vikt vid personlig lämplighet.</p><p><strong>Vi söker dig som har:</strong></p><ul><li>Flerårig akademisk utbildning /högskoleexamen, gärna inom IT, teknik eller digitalisering (IT/datavetenskapsområdet), eller annan eftergymnasial utbildning tillsammans med arbetslivserfarenhet som Kriminalvården bedömer som relevan</li><li>Flerårig erfarenhet av digital verksamhetsutveckling</li><li>Flerårig erfarenhet av gränssnitt mellan IT och verksamhet</li><li>Erfarenhet av ledningsnära arbete och samverkan med lednings- och styrgrupper på olika nivåer</li><li>Erfarenhet av att utveckla och vårda långsiktiga kund- och partnerrelationer, eller motsvarande som Kriminalvården bedömer relevant</li><li>God förmåga att uttrycka dig i tal och skrift på svenska och engelska</li><li>God kunskap om IT-styrning med modeller så som tex. ITIL, SAFe, PPS och PM3</li><li>Grundläggande teknisk förståelse</li></ul><p><strong>Det är även meriterande med:</strong></p><ul><li>Dokumenterad chef-/ledarskapsutbildning</li><li>Erfarenhet av att leda och driva utvecklings-/förändringsarbeten</li><li>Erfarenhet av att identifiera och utveckla kostnadsmedvetna strategier</li><li>Erfarenhet av innovationsarbete</li><li>Erfarenhet av arbete inom myndighet eller offentlig verksamhet som Kriminalvården bedömer relevant</li></ul><p><strong>Övrigt</strong></p><p>Kriminalvården har valt att ta bort det personliga brevet och ersatt det med urvalsfrågor som är relevanta för tjänsten. Svaren i urvalsfrågorna och CV ligger till grund för om du är kvalificerad att gå vidare i processen.</p><p>För att bli aktuell för anställning inom Kriminalvården krävs att du motsvarar högt ställda krav gällande lämplighet, omdöme, säkerhets- och sekretessmedvetande och att du följer gällande lagar. Det innebär att du står upp för demokratiska värderingar och den statliga värdegrund som gäller för Kriminalvårdens verksamhet.</p><p>Vissa befattningar är placerade i säkerhetsklass och då kommer en säkerhetsprövning med registerkontroll att genomföras innan beslut om anställning fattas. För vissa säkerhetsklassade tjänster krävs svenskt medborgarskap. Kriminalvården välkomnar sökande med olika bakgrund och erfarenheter. Läs mer om säkerhetsprövning här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/sakerhetsprovning-vid-rekrytering/</p><p>Befattningen kan innebära krigsplacering vid Kriminalvården. Läs mer om krigsplacering här: https://www.kriminalvarden.se/jobba-hos-oss/rekryteringsprocessen/krigsplacering/</p><p>Individuell lönesättning tillämpas.</p><p>Provanställning kan komma att tillämpas.</p><p>Kriminalvården strävar efter en jämn könsfördelning och ökad mångfald. </p><p>För att skicka in din ansökan, klicka på ansökningslänken i annonsen. Frågor om hur du ansöker och lägger in ditt CV ställer du direkt till Varbi. Frågor om specifika jobb besvaras av den kontaktperson som anges i annonsen. </p><p>Vi undanber oss vänligen men bestämt direktkontakt med bemannings- och rekryteringsföretag samt försäljare av rekryteringsannonser. Kriminalvården har upphandlade avtal. </p></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": "http://kriminalvarden.varbi.com",
-      "organization_number": "2021000225",
-      "name": "Kriminalvården",
-      "workplace": "IT-avdelningen, Enheten för IT-planering, Sektionen för digitaliseringsstöd"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://kriminalvarden.varbi.com/se/what:job/jobID:987385/type:job/where:125/apply:1",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "mBMU_HvW_LMY",
-      "label": "IT-strateg",
-      "legacy_ams_taxonomy_id": "5432"
-    },
-    "occupation_group": {
-      "concept_id": "UxT1_tPF_Kbg",
-      "label": "Övriga IT-specialister",
-      "legacy_ams_taxonomy_id": "2519"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Norrköping",
-      "municipality_code": "0581",
-      "municipality_concept_id": "SYty_Yho_JAF",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Slottsgatan 78",
-      "postcode": "60180",
-      "city": "Norrköping",
-      "coordinates": [
-        16.1971381,
-        58.5981079
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Norrköping",
-        "municipality_code": "0581",
-        "municipality_concept_id": "SYty_Yho_JAF",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Slottsgatan 78",
-        "postcode": "60180",
-        "city": "Norrköping",
-        "coordinates": [
-          16.1971381,
-          58.5981079
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Angelica Oxenby (SACO-S)",
-        "description": null,
-        "email": "angelica.oxenby@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Olof Carlstein (SEKO)",
-        "description": null,
-        "email": "Olof.Carlstein@Kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      },
-      {
-        "name": "Anna Therese Ehnsiö",
-        "description": null,
-        "email": "AnnaTherese.Ehnsio@kriminalvarden.se",
-        "telephone": "073-2216685",
-        "contact_type": "Tf sektionschef"
-      },
-      {
-        "name": "Nilla Mölk (OFR/ST)",
-        "description": null,
-        "email": "Nilla.Molk@kriminalvarden.se",
-        "telephone": "077-2280800",
-        "contact_type": null
-      }
-    ],
-    "publication_date": "2026-11-06T00:00:26",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793919626929
   },
   {
     "relevance": 1,
@@ -36325,309 +35403,6 @@
     "removed_date": null,
     "source_type": "VIA_ANNONSERA",
     "timestamp": 1793355890656
-  },
-  {
-    "relevance": 1,
-    "id": "31664880",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31664880",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5568551104/logotyper/logo.png",
-    "headline": " Nätverkstekniker | Itsam | Linköping",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du arbeta med samhällskritisk IT-infrastruktur i en miljö där du får kombinera teknik, utveckling och samhällsnytta? Itsam söker nu en Nätverkstekniker som vill vara med och bygga robusta, effektiva och framtidssäkra nätverkslösningar för fem medlemskommuner. Du blir den viktiga länken mellan verksamhet, IT och leverantörer!\n<img src=\"https://sae3ndp007.blob.core.windows.net/swe/98a5c59e-f2e0-4e32-894c-b449f6f0cd94.png\">\nVi behöver nu förstärka vårt Nätverksteam på Itsam med en Nätverkstekniker som vill bidra till att utveckla och förvalta en modern och verksamhetskritisk nätverksmiljö. Hos oss blir du en del av ett sammansvetsat team där öppenhet, samarbete och en god portion humor präglar vardagen. Vi har en hög teknisk kompetens, delar gärna med oss av vår kunskap och stöttar varandra för att tillsammans skapa de bästa lösningarna. På Itsam tror vi att framgång byggs genom lagarbete och att vi alltid blir starkare tillsammans. \nOM ROLLEN\nSom Nätverkstekniker hos oss blir du en viktig del av driftavdelningen och nätverksteamet. Du arbetar med att säkerställa stabila, säkra och högpresterande nätverksmiljöer som utgör grunden för kommunernas digitala verksamhet. I rollen kombinerar du operativ drift med utvecklings- och förbättringsarbete. Rollen erbjuder en stor variation i vardagen där du växlar mellan praktiskt arbete ute i verksamheten, som att installera och konfigurera switchar, och mer strategiska uppgifter inom nätverksdesign, säkerhet och utveckling av infrastrukturen. Här får du möjlighet att påverka, utvecklas och arbeta tillsammans med engagerade kollegor i en organisation där tekniken gör verklig skillnad varje dag.\nDina huvudsakliga arbetsuppgifter omfattar:\nDrift, underhåll och vidareutveckling av nätverksinfrastruktur\nAdministration av brandväggar, switchar och närliggande servermiljöer\nÖvervakning, felsökning och incidenthantering i nätverksmiljöer\nImplementering av förändringar och förbättringar i infrastrukturen\nArbete med tillgänglighet, redundans och nätverkssäkerhet\nDokumentation av nätverkslösningar och tekniska konfigurationer\nSamarbete med interna tekniska team, användare och externa leverantörer\nMedverka i projekt som omfattar modernisering, utbyggnad och förbättring av vår nätverksinfrastruktur \n\nDu kommer att arbeta i en modern miljö med bland annat Fortinet, Aruba och ClearPass samtidigt som vi satsar på ökad automatisering, förbättrad redundans och stärkt IT-säkerhet. \nOM DIG\nVi söker nu en Nätverkstekniker som vill vara med och utveckla, drifta och säkra vår nätverksinfrastruktur. Rollen passar dig som har ett starkt intresse för nätverksteknik och erfarenhet av att arbeta i tekniskt komplexa miljöer där hög tillgänglighet, stabilitet och säkerhet är avgörande. Du drivs av att lösa komplexa tekniska utmaningar och trivs i en vardag där både drift, utveckling och förbättringsarbete är en naturlig del av arbetet. \nFör att lyckas i rollen ser vi att du har:\nMycket goda kunskaper i nätverksteknik\nErfarenhet av att konfigurera och felsöka switchar, routrar och brandväggar\nGoda kunskaper inom nätverksinfrastruktur och nätverkssäkerhet\nGod kommunikativ förmåga på svenska både i tal och skrift\nB-körkort\n\nDet är extra meriterande om du även har:\nCertifieringar inom nätverk eller IT-säkerhet\nErfarenhet från större driftorganisationer eller komplexa IT-miljöer\nErfarenhet från offentlig verksamhet eller förståelse för kommunal verksamhet \n\nSom person är du nyfiken, initiativtagande och lösningsorienterad, med en stark vilja att ständigt utvecklas och hitta förbättringsmöjligheter. Samarbete, kunskapsutbyte och ett proaktivt arbetssätt ser du som självklara framgångsfaktorer. Med en prestigelös och lyhörd inställning bygger du goda relationer och har en naturlig vilja att stötta både användare och kollegor i deras vardag. \nOM ITSAM\nItsam är ett kommunalförbund som ansvarar för IT-verksamheten åt medlemskommunerna Boxholm, Vimmerby, Ydre, Åtvidaberg och Ödeshög. Med omkring 40 engagerade medarbetare driver och utvecklar ITSAM IT-tjänster som stödjer kommunernas verksamheter och invånare varje dag. \nItsam erbjuder\nDu erbjuds en flexibel arbetsvardag med möjlighet till hybridarbete upp till 50 procent enligt gällande policy. En arbetsplats där du får möjlighet att utvecklas tillsammans med erfarna kollegor och bidra till samhällsviktig verksamhet. Vårt uppdrag är att leverera effektiva IT-tjänster som möter kommunernas behov och stärker deras digitala utveckling. Genom samverkan och ett gemensamt nyttjande av medlemskommunernas resurser och möjligheter skapar vi förutsättningar för innovation, digitalisering och hållbar tillväxt. Hos oss blir du en del av en organisation som präglas av samarbete, öppenhet och en stark kultur av kunskapsdelning. Läs gärna mer: HÄR! \nKONTAKT & ANSÖKAN\nI denna rekrytering samarbetar vi med Experis. Du ansöker till tjänsten på www.experis.se och sista ansökningsdag är den 27 november. På grund av GDPR tar vi inte emot ansökningar via e-post. Urval och intervjuer sker löpande, så skicka gärna in din ansökan så snart som möjligt. För ytterligare information om tjänsten eller rekryteringsprocessen är du välkommen att kontakta ansvarig rekryteringskonsult Jenny Flygare. \nVarmt välkommen med din ansökan! \nPå Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.",
-      "text_formatted": "<p><em>Vill du arbeta med samhällskritisk IT-infrastruktur i en miljö där du får kombinera teknik, utveckling och samhällsnytta? Itsam söker nu en Nätverkstekniker som vill vara med och bygga robusta, effektiva och framtidssäkra nätverkslösningar för fem medlemskommuner. Du blir den viktiga länken mellan verksamhet, IT och leverantörer!</em></p><p>&lt;img src=\"https://sae3ndp007.blob.core.windows.net/swe/98a5c59e-f2e0-4e32-894c-b449f6f0cd94.png\"&gt;</p><p>Vi behöver nu förstärka vårt Nätverksteam på Itsam med en Nätverkstekniker som vill bidra till att utveckla och förvalta en modern och verksamhetskritisk nätverksmiljö. Hos oss blir du en del av ett sammansvetsat team där öppenhet, samarbete och en god portion humor präglar vardagen. Vi har en hög teknisk kompetens, delar gärna med oss av vår kunskap och stöttar varandra för att tillsammans skapa de bästa lösningarna. På Itsam tror vi att framgång byggs genom lagarbete och att vi alltid blir starkare tillsammans.<strong> </strong></p><p><strong>OM ROLLEN</strong></p><p>Som Nätverkstekniker hos oss blir du en viktig del av driftavdelningen och nätverksteamet. Du arbetar med att säkerställa stabila, säkra och högpresterande nätverksmiljöer som utgör grunden för kommunernas digitala verksamhet. I rollen kombinerar du operativ drift med utvecklings- och förbättringsarbete. Rollen erbjuder en stor variation i vardagen där du växlar mellan praktiskt arbete ute i verksamheten, som att installera och konfigurera switchar, och mer strategiska uppgifter inom nätverksdesign, säkerhet och utveckling av infrastrukturen. Här får du möjlighet att påverka, utvecklas och arbeta tillsammans med engagerade kollegor i en organisation där tekniken gör verklig skillnad varje dag.</p><p><strong>Dina huvudsakliga arbetsuppgifter omfattar:</strong></p><ul><li>Drift, underhåll och vidareutveckling av nätverksinfrastruktur</li><li>Administration av brandväggar, switchar och närliggande servermiljöer</li><li>Övervakning, felsökning och incidenthantering i nätverksmiljöer</li><li>Implementering av förändringar och förbättringar i infrastrukturen</li><li>Arbete med tillgänglighet, redundans och nätverkssäkerhet</li><li>Dokumentation av nätverkslösningar och tekniska konfigurationer</li><li>Samarbete med interna tekniska team, användare och externa leverantörer</li><li>Medverka i projekt som omfattar modernisering, utbyggnad och förbättring av vår nätverksinfrastruktur </li></ul><p>Du kommer att arbeta i en modern miljö med bland annat Fortinet, Aruba och ClearPass samtidigt som vi satsar på ökad automatisering, förbättrad redundans och stärkt IT-säkerhet. </p><p><strong>OM DIG</strong></p><p>Vi söker nu en Nätverkstekniker som vill vara med och utveckla, drifta och säkra vår nätverksinfrastruktur. Rollen passar dig som har ett starkt intresse för nätverksteknik och erfarenhet av att arbeta i tekniskt komplexa miljöer där hög tillgänglighet, stabilitet och säkerhet är avgörande. Du drivs av att lösa komplexa tekniska utmaningar och trivs i en vardag där både drift, utveckling och förbättringsarbete är en naturlig del av arbetet.<strong> </strong></p><p><strong>För att lyckas i rollen ser vi att du har:</strong></p><ul><li>Mycket goda kunskaper i nätverksteknik</li><li>Erfarenhet av att konfigurera och felsöka switchar, routrar och brandväggar</li><li>Goda kunskaper inom nätverksinfrastruktur och nätverkssäkerhet</li><li>God kommunikativ förmåga på svenska både i tal och skrift</li><li>B-körkort</li></ul><p><strong>Det är extra meriterande om du även har:</strong></p><ul><li>Certifieringar inom nätverk eller IT-säkerhet</li><li>Erfarenhet från större driftorganisationer eller komplexa IT-miljöer</li><li>Erfarenhet från offentlig verksamhet eller förståelse för kommunal verksamhet </li></ul><p>Som person är du nyfiken, initiativtagande och lösningsorienterad, med en stark vilja att ständigt utvecklas och hitta förbättringsmöjligheter. Samarbete, kunskapsutbyte och ett proaktivt arbetssätt ser du som självklara framgångsfaktorer. Med en prestigelös och lyhörd inställning bygger du goda relationer och har en naturlig vilja att stötta både användare och kollegor i deras vardag.<strong> </strong></p><p><strong>OM ITSAM</strong></p><p>Itsam är ett kommunalförbund som ansvarar för IT-verksamheten åt medlemskommunerna Boxholm, Vimmerby, Ydre, Åtvidaberg och Ödeshög. Med omkring 40 engagerade medarbetare driver och utvecklar ITSAM IT-tjänster som stödjer kommunernas verksamheter och invånare varje dag.<strong> </strong></p><p><strong>Itsam erbjuder</strong></p><p>Du erbjuds en flexibel arbetsvardag med möjlighet till hybridarbete upp till 50 procent enligt gällande policy. En arbetsplats där du får möjlighet att utvecklas tillsammans med erfarna kollegor och bidra till samhällsviktig verksamhet. Vårt uppdrag är att leverera effektiva IT-tjänster som möter kommunernas behov och stärker deras digitala utveckling. Genom samverkan och ett gemensamt nyttjande av medlemskommunernas resurser och möjligheter skapar vi förutsättningar för innovation, digitalisering och hållbar tillväxt. Hos oss blir du en del av en organisation som präglas av samarbete, öppenhet och en stark kultur av kunskapsdelning. Läs gärna mer: HÄR! </p><p><strong>KONTAKT &amp; ANSÖKAN</strong></p><p>I denna rekrytering samarbetar vi med Experis. Du ansöker till tjänsten på www.experis.se och sista ansökningsdag är den 27 november. På grund av GDPR tar vi inte emot ansökningar via e-post. Urval och intervjuer sker löpande, så skicka gärna in din ansökan så snart som möjligt. För ytterligare information om tjänsten eller rekryteringsprocessen är du välkommen att kontakta ansvarig rekryteringskonsult <strong>Jenny Flygare</strong>. </p><p>Varmt välkommen med din ansökan! </p><p>På Manpower, Experis och Jefferson Wells värnar vi om en trygg och transparent rekryteringsprocess. Vi kommer aldrig att be dig om betalning, bankuppgifter eller annan känslig personlig information i samband med en jobbansökan eller rekrytering. Om du får misstänkta meddelanden som sägs komma från oss ber vi dig att kontakta oss på contactcenter@manpower.se.</p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5568551104",
-      "name": "Experis AB",
-      "workplace": "Kommunalförbundet Itsam"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=amphcmdyLjgzMjUyLjEzNzY1QG1hbnBvd2VyZ3JvdXBub3JkaWNzLmFwbGl0cmFrLmNvbQ",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": true,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "Nkbd_wa9_TZF",
-      "label": "Nätverkstekniker",
-      "legacy_ams_taxonomy_id": "5912"
-    },
-    "occupation_group": {
-      "concept_id": "VCpu_5EN_bBt",
-      "label": "Nätverks- och systemtekniker m.fl.",
-      "legacy_ams_taxonomy_id": "3514"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": "Teknikringen 9",
-      "postcode": "58330",
-      "city": "Linköping",
-      "coordinates": [
-        15.5603999811247,
-        58.3930103636729
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": "Teknikringen 9",
-        "postcode": "58330",
-        "city": "Linköping",
-        "coordinates": [
-          15.5603999811247,
-          58.3930103636729
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [
-        {
-          "weight": 5,
-          "concept_id": "Nkbd_wa9_TZF",
-          "label": "Nätverkstekniker",
-          "legacy_ams_taxonomy_id": "5912"
-        }
-      ],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [
-      {
-        "name": "Jenny Flygare",
-        "description": null,
-        "email": "Jenny.Flygare@se.experis.com",
-        "telephone": null,
-        "contact_type": "Contact"
-      }
-    ],
-    "publication_date": "2026-10-30T09:33:29",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793352197022
-  },
-  {
-    "relevance": 1,
-    "id": "31664587",
-    "external_id": null,
-    "original_id": null,
-    "label": [],
-    "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31664587",
-    "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5560360793/logotyper/logo.png",
-    "headline": "Flygprovingenjör Mekanisk & termisk Miljö",
-    "application_deadline": "2026-11-27T23:59:59",
-    "number_of_vacancies": 1,
-    "description": {
-      "text": "Vill du påverka och göra skillnad på riktigt? Här bidrar du till att skapa trygghet för människor och samhällen. Det du gör spelar roll. \n\n\nDin roll\n\nInom sektionen Miljötålighet & Strukturdynamik på Flygprov bedrivs utprovning och verifiering av termisk & mekanisk miljö samt strukturdynamik för Gripen och i en framtid kommande flygande plattformar. Vill du vara med och forma framtidens flygteknologi? Ansök nu och bli en del av vårt innovativa team!\nAtt jobba på Flygprov som provingenjör är både utmanande och spännande, och vi behöver bli fler ingenjörer för att leda och genomföra tester för våra befintliga produkter samt kommande nya produkter. Arbetsområdet innebär bland annat att studera vibrationer, stötar och den värme eller kyla samt ljud som provobjektet utsätts för, för att i förlängningen kunna säkerställa produktens överlevnad. Det avser att mäta upp en faktiskt inducerad miljö genom markprov/ flygprov men även få insikt kring produktens strukturdynamiska egenskaper genom prov på skakbord eller genom modalprov med modalhammare och/eller vibratorer.\nDu kommer att arbeta nära Saabs flygande produkter och delta i hela testkedjan - från planering till analys av resultat. Dina huvudsakliga arbetsuppgifter inkluderar:\nFramtagning av provmetodik och provprogram\nFörberedelse och genomförande av prov i flygplan, simulatorer och riggar\nRealtidsövervakning av flygprov\nAnalys och utvärdering av provresultat\nFelsökning och problemlösning av komplexa system\n\nVill du se ett reportage från en av våra WWC (World Wide Climat) kampanjer i Brasilien, klicka på länken nedan: https://www.youtube.com/watch?v=i_gpejFIeD8\nVi har ett utbildningsprogram som genomförs i flera steg för att bli auktoriserad provingenjör, som utöver en personlig utveckling och kunskapsbyggande, ger dig möjligheten att leda mera avancerade och riskfyllda prov. Det kan även finnas möjlighet att arbeta kortare eller längre tid utomlands, då en del verksamheten sker i internationell miljö.\nÄr du mer intresserad av att se vad rollen som provingenjör kan innebära, kika in videon nedan; Häng med en av våra provingenjörer en dag på jobbet via denna länk!\n\n\n Din profil\n\nVi söker dig som är en nyfiken, positiv och initiativrik person som trivs lika bra i ett team som när du arbetar självständigt. Du har ett brinnande intresse för teknik, både i teori och praktik, och kombinerar detta med en analytisk, flexibel och strukturerad arbetssätt. Dessutom har du en god samarbets- och kommunikationsförmåga, vilket gör att du enkelt skapar bra relationer och bidrar till ett effektivt och trivsamt arbetsklimat.\nKrav:\nBakgrund som civilingenjör, högskoleingenjör eller motsvarande inom områden som teknisk fysik, elektronik, maskin etc.\nGoda språkkunskaper i tal och skrift på svenska och engelska.\n\nMeriterande erfarenhet/kunskap:\nErfarenhet av provning eller systemutveckling\nErfarenhet av arbete med mekanisk, akustisk och termisk miljötålighet\nKunskap inom strukturdynamik / mätteknik / signalbehandling\nKunskap i Matlab/Python\nErfarenhet av Simcenter Testlab eller liknande system för strukturdynamisk provning\nOch du gillar flygplan\n\nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n\n\nVad du blir en del av\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\nSaab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med 30 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här.\nVänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut.",
-      "text_formatted": "<p><em>Vill du påverka och göra skillnad på riktigt? Här bidrar du till att skapa trygghet för människor och samhällen. Det du gör spelar roll. </em></p>\n\nDin roll\n\n<p>Inom sektionen Miljötålighet &amp; Strukturdynamik på Flygprov bedrivs utprovning och verifiering av termisk &amp; mekanisk miljö samt strukturdynamik för Gripen och i en framtid kommande flygande plattformar. Vill du vara med och forma framtidens flygteknologi? Ansök nu och bli en del av vårt innovativa team!</p><p>Att jobba på Flygprov som provingenjör är både utmanande och spännande, och vi behöver bli fler ingenjörer för att leda och genomföra tester för våra befintliga produkter samt kommande nya produkter. Arbetsområdet innebär bland annat att studera vibrationer, stötar och den värme eller kyla samt ljud som provobjektet utsätts för, för att i förlängningen kunna säkerställa produktens överlevnad. Det avser att mäta upp en faktiskt inducerad miljö genom markprov/ flygprov men även få insikt kring produktens strukturdynamiska egenskaper genom prov på skakbord eller genom modalprov med modalhammare och/eller vibratorer.</p><p>Du kommer att arbeta nära Saabs flygande produkter och delta i hela testkedjan - från planering till analys av resultat. Dina huvudsakliga arbetsuppgifter inkluderar:</p><ul><li>Framtagning av provmetodik och provprogram</li><li>Förberedelse och genomförande av prov i flygplan, simulatorer och riggar</li><li>Realtidsövervakning av flygprov</li><li>Analys och utvärdering av provresultat</li><li>Felsökning och problemlösning av komplexa system</li></ul><p>Vill du se ett reportage från en av våra WWC (World Wide Climat) kampanjer i Brasilien, klicka på länken nedan: https://www.youtube.com/watch?v=i_gpejFIeD8</p><p>Vi har ett utbildningsprogram som genomförs i flera steg för att bli auktoriserad provingenjör, som utöver en personlig utveckling och kunskapsbyggande, ger dig möjligheten att leda mera avancerade och riskfyllda prov. Det kan även finnas möjlighet att arbeta kortare eller längre tid utomlands, då en del verksamheten sker i internationell miljö.</p><p>Är du mer intresserad av att se vad rollen som provingenjör kan innebära, kika in videon nedan; Häng med en av våra provingenjörer en dag på jobbet via denna länk!</p>\n\n Din profil\n\n<p>Vi söker dig som är en nyfiken, positiv och initiativrik person som trivs lika bra i ett team som när du arbetar självständigt. Du har ett brinnande intresse för teknik, både i teori och praktik, och kombinerar detta med en analytisk, flexibel och strukturerad arbetssätt. Dessutom har du en god samarbets- och kommunikationsförmåga, vilket gör att du enkelt skapar bra relationer och bidrar till ett effektivt och trivsamt arbetsklimat.</p><p>Krav:</p><ul><li>Bakgrund som civilingenjör, högskoleingenjör eller motsvarande inom områden som teknisk fysik, elektronik, maskin etc.</li><li>Goda språkkunskaper i tal och skrift på svenska och engelska.</li></ul><p>Meriterande erfarenhet/kunskap:</p><ul><li>Erfarenhet av provning eller systemutveckling</li><li>Erfarenhet av arbete med mekanisk, akustisk och termisk miljötålighet</li><li>Kunskap inom strukturdynamik / mätteknik / signalbehandling</li><li>Kunskap i Matlab/Python</li><li>Erfarenhet av Simcenter Testlab eller liknande system för strukturdynamisk provning</li><li>Och du gillar flygplan</li></ul><p>Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.</p>\n\nVad du blir en del av\n\n<p>Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.</p><p>Saab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med 30 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.</p><p>Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här.</p><p><em>Vänligen observera att vi arbetar med löpande urval och tjänsten kan komma att tillsättas innan sista ansökningsdatum har gått ut.</em></p>",
-      "company_information": null,
-      "needs": null,
-      "requirements": null,
-      "conditions": null
-    },
-    "employment_type": {
-      "concept_id": "PFZr_Syz_cUq",
-      "label": "Vanlig anställning",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_type": {
-      "concept_id": "oG8G_9cW_nRf",
-      "label": "Fast månads- vecko- eller timlön",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "salary_description": null,
-    "duration": {
-      "concept_id": "a7uU_j21_mkL",
-      "label": "Tills vidare",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "working_hours_type": {
-      "concept_id": "6YE1_gAC_R2G",
-      "label": "Heltid",
-      "legacy_ams_taxonomy_id": "1"
-    },
-    "scope_of_work": {
-      "min": 100,
-      "max": 100
-    },
-    "access": null,
-    "employer": {
-      "phone_number": null,
-      "email": null,
-      "url": null,
-      "organization_number": "5560360793",
-      "name": "SAAB Aktiebolag",
-      "workplace": "Saab"
-    },
-    "application_details": {
-      "information": null,
-      "reference": null,
-      "email": null,
-      "via_af": false,
-      "url": "https://www.aplitrak.com/?adid=cy5odWxsZm9ycy44OTQxOS4xMzc2NUBzYWFiLmFwbGl0cmFrLmNvbQ",
-      "other": null
-    },
-    "experience_required": true,
-    "access_to_own_car": false,
-    "driving_license_required": false,
-    "driving_license": null,
-    "occupation": {
-      "concept_id": "CQse_CRd_snw",
-      "label": "Civilingenjör, systemutveckling",
-      "legacy_ams_taxonomy_id": "6509"
-    },
-    "occupation_group": {
-      "concept_id": "DJh5_yyF_hEM",
-      "label": "Mjukvaru- och systemutvecklare m.fl.",
-      "legacy_ams_taxonomy_id": "2512"
-    },
-    "occupation_field": {
-      "concept_id": "apaJ_2ja_LuF",
-      "label": "Data/IT",
-      "legacy_ams_taxonomy_id": "3"
-    },
-    "workplace_model": {
-      "concept_id": null,
-      "label": null
-    },
-    "workplace_address": {
-      "municipality": "Linköping",
-      "municipality_code": "0580",
-      "municipality_concept_id": "bm2x_1mr_Qhx",
-      "region": "Östergötlands län",
-      "region_code": "05",
-      "region_concept_id": "oLT3_Q9p_3nn",
-      "country": "Sverige",
-      "country_code": "199",
-      "country_concept_id": "i46j_HmG_v64",
-      "street_address": null,
-      "postcode": "58188",
-      "city": "Linköping",
-      "coordinates": [
-        15.6226866,
-        58.4200361
-      ]
-    },
-    "workplace_addresses": [
-      {
-        "municipality": "Linköping",
-        "municipality_code": "0580",
-        "municipality_concept_id": "bm2x_1mr_Qhx",
-        "region": "Östergötlands län",
-        "region_code": "05",
-        "region_concept_id": "oLT3_Q9p_3nn",
-        "country": "Sverige",
-        "country_code": "199",
-        "country_concept_id": "i46j_HmG_v64",
-        "street_address": null,
-        "postcode": "58188",
-        "city": "Linköping",
-        "coordinates": [
-          15.6226866,
-          58.4200361
-        ]
-      }
-    ],
-    "must_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "nice_to_have": {
-      "skills": [],
-      "languages": [],
-      "work_experiences": [],
-      "education": [],
-      "education_level": []
-    },
-    "application_contacts": [],
-    "publication_date": "2026-10-30T08:58:16",
-    "last_publication_date": "2026-11-27T23:59:59",
-    "removed": false,
-    "removed_date": null,
-    "source_type": "VIA_JOBPOSTING",
-    "timestamp": 1793347096263
   },
   {
     "relevance": 1,
